@@ -1,0 +1,982 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "In vitro binding evaluation of 177Lu-AMBA, a novel 177Lu-labeled GRP-R agonist for systemic radiotherapy in human tissues. Members of the gastrin-releasing peptide (GRP) family and its analogs bombesin (BBN) have been implicated in the biology of several human cancers including prostate, breast, colon and lung. To date, three mammalian GRP/BBN receptor subtypes have been cloned and characterized: the neuromedin B receptor (NMBR), the GRP receptor (GRPR) and the BBN-receptor subtype 3 (BB(3)). The fourth BBN receptor subtype, BB(4), has only been identified in amphibian and at present no mammalian equivalent of this receptor has been described. GRPR analogs have been used as carriers to deliver drugs, radionuclides and cytotoxins to target various cancer types that are GRPR positive. We investigated the in vitro binding properties of (177)Lu-AMBA, a novel radiolabelled BBN analog currently undergoing clinical trial as systemic radiotherapy for hormone refractory prostate cancer (HRPC) patients. Pharmacological analyses of the (177)Lu-AMBA was determined using in vitro binding studies using membrane target system containing specific receptor subtypes. We investigated the distribution of binding sites for (177)Lu-AMBA by receptor autoradiography on human neoplastic and non-neoplastic tissues. Pharmacological characterizations of (177)Lu-AMBA shows, high affinity towards NMB and GRP receptors, while little or no affinity towards BB(3) receptor. Among the 40 different types of non-neoplastic tissues tested seven of them showed limited but specific binding of (177)Lu-AMBA. Fourteen of 17 primary prostate cancers, six of 13 primary breast cancers expressed binding sites for (177)Lu-AMBA. Furthermore, no apparent differences in (177)Lu-AMBA-binding sites expression were observed between matched pairs (primary vs. secondary) of prostate and breast cancer tissues. These data represent the molecular basis for clinical applications of (177)Lu-AMBA for diagnosis and treatment of GRP-R and NMB-R positive tumors.", 
+          "qas": [
+            {
+              "question": "Are the human bombesin receptors, GRPR and NMBR, frequently overexpressed G-protein-coupled-receptors by lung-cancers?", 
+              "id": "5a8dc57ffcd1d6a10c000025_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression and ligand binding of bombesin receptors in pulmonary and intestinal carcinoids. INTRODUCTION: Carcinoids are mainly found in the gastrointestinal (65%) and bronchopulmonary tract (25%). These neuroendocrine tumors secrete a wide range of bioactive peptides, including gastrin releasing peptide and neuromedin B, the mammalian analogs of bombesin. The purpose of this study was to investigate the quantity and localization of bombesin receptors in gastrointestinal and pulmonary carcinoids, and to reveal whether bombesin-like peptides (BLP) and their receptors are of any value in distinguishing pulmonary carcinoids from carcinoids of intestinal origin. METHODS: Carcinoid tumors with pulmonary (no.=9) or intestinal (no.=15) localizations were analyzed by immunohistochemistry, autoradiography, and radioimmunoassay, to examine the presence of bombesin receptor subtypes and determine BLP levels in these tumors. RESULTS: All 3 bombesin receptor subtypes (GRPR, NMBR, and BRS-3) were present on pulmonary and intestinal carcinoids by immunohistochemistry. In pulmonary carcinoids, low receptor ligand binding densities together with high and low BLP levels were found. Intestinal carcinoids showed predominantly high receptor ligand binding densities in combination with low BLP levels. CONCLUSIONS: The expression of bombesin receptor subtypes is independent from the carcinoid tumor origin, and is therefore not recommended as a distinction marker, although carcinoids of pulmonary and intestinal origin possess different receptor binding affinities for bombesin and dissimilar BLP levels. The combined presence of bombesin and its receptors might suggest the presence of a paracrine or autocrine growth loop in carcinoids.", 
+          "qas": [
+            {
+              "question": "Are the human bombesin receptors, GRPR and NMBR, frequently overexpressed G-protein-coupled-receptors by lung-cancers?", 
+              "id": "5a8dc57ffcd1d6a10c000025_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The molecular basis for high affinity of a universal ligand for human bombesin receptor (BnR) family members. There is increased interest in the Bn-receptor family because they are frequently over/ectopically expressed by tumors and thus useful as targets for imaging or receptor-targeted-cytotoxicity. The synthetic Bn-analog, [D-Tyr(6), \u03b2-Ala(11), Phe(13), Nle(14)]Bn(6-14) [Univ.Lig] has the unique property of having high affinity for all three human BNRs (GRPR, NMBR, BRS-3), and thus could be especially useful for this approach. However, the molecular basis of this property is unclear and is the subject of this study. To accomplish this, site-directed mutagenesis was used after identifying potentially important amino acids using sequence homology analysis of all BnRs with high affinity for Univ.Lig compared to the Cholecystokinin-receptor (CCK(A)R), which has low affinity. Using various criteria 74 amino acids were identified and 101 mutations made in GRPR by changing each to those of CCK(A)R or to alanine. 22 GRPR mutations showed a significant decrease in affinity for Univ.Lig (>2-fold) with 2 in EC2[D97N, G112V], 1 in UTM6[Y284A], 2 in EC4[R287N, H300S] showing >10-fold decrease in Univ.Lig affinity. Additional mutations were made to explore the molecular basis for these changes. Our results show that high affinity for Univ.Lig by human Bn-receptors requires positively charged amino acids in extracellular (EC)-domain 4 and to a lesser extent EC2 and EC3 suggesting charge-charge interactions may be particularly important for determining the general high affinity of this ligand. Furthermore, transmembrane amino acids particularly in UTM6 are important contributing both charge-charge interactions as well as interaction with a tyrosine residue in close proximity suggesting possible receptor-peptide cation-\u03c0 or H-bonding interactions are also important for determining its high affinity.", 
+          "qas": [
+            {
+              "question": "Are the human bombesin receptors, GRPR and NMBR, frequently overexpressed G-protein-coupled-receptors by lung-cancers?", 
+              "id": "5a8dc57ffcd1d6a10c000025_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Cilengitide with metronomic temozolomide, procarbazine, and standard radiotherapy in patients with glioblastoma and unmethylated MGMT gene promoter in ExCentric, an open-label phase II trial. Newly diagnosed glioblastoma multiforme with unmethylated MGMT promoter has a poor prognosis, with a median survival of 12\u00a0months. This phase II study investigated the efficacy and safety of combining the selective integrin inhibitor cilengitide with a combination of metronomic temozolomide and procarbazine for these patients. Eligible patients (newly diagnosed, histologically confirmed supratentorial glioblastoma with unmethylated MGMT promoter) were entered into this multicentre study. Cilengitide (2000\u00a0mg IV twice weekly) was commenced 1\u00a0week prior to radiotherapy combined with daily temozolomide (60\u00a0mg/m(2)) and procarbazine (50 or 100\u00a0mg) and, after 4\u00a0weeks' break, followed by six adjuvant cycles of temozolomide (50-60\u00a0mg/m(2)) and procarbazine (50 or 100\u00a0mg) on days 1-20, every 28\u00a0days. Cilengitide was continued for up to 12\u00a0months or until disease progression or unacceptable toxicity. The primary endpoint for efficacy was a 12-month overall survival rate of 65\u00a0%. Twenty-nine patients completed study treatment. Sixteen patients survived for 12\u00a0months or more, an overall survival rate of 55\u00a0%.\u00a0The median overall survival was 14.5\u00a0months (95\u00a0% CI 11.1-19.6) and the median progression-free survival was 7.4\u00a0months (95\u00a0% CI 6.1-8). Cilengitide combined with metronomic temozolomide and procarbazine in MGMT-promoter unmethylated glioblastoma did not improve survival compared with historical data and does not warrant further investigation.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Effectiveness of antiangiogenic drugs in glioblastoma patients: A systematic review and meta-analysis of randomized clinical trials. BACKGROUND: glioblastomas are highly vascularized tumors and various antiangiogenic drugs have been investigated in clinical trials showing unclear results. We performed a systematic review and a meta-analysis to clarify and evaluate their effectiveness in glioblastoma patients. PATIENTS AND METHODS: we searched relevant published and unpublished randomized clinical trials analyzing antiangiogenic drugs versus chemotherapy in glioblastoma patients from January 2006 to January 2016 in MEDLINE, WEB of SCIENCE, ASCO, ESMO and SNO databases. RESULTS: fourteen randomized clinical trials were identified (7 with bevacizumab, 2 cilengitide, 1 enzastaurin, 1 dasatinib, 1 vandetanib, 1 temsirolimus, 1 cediranib) including 4330 patients. Antiangiogenic drugs showed no improvement in overall survival with a pooled HR of 1.00, a trend for an inferior outcome, in terms of overall survival, was observed in the group of patients receiving antiangiogenic drug alone compared to cytotoxic drug alone (HR=1.24, p=0.056). Bevacizumab did not improve overall survival. Twelve trials (4113 patients) were analyzed for progression-free survival. Among antiangiogenic drugs, only bevacizumab demonstrated an improvement of progression-free survival (HR=0.63, p<0.001), both alone (HR=0.60, p=0.003) or in combination to chemotherapy (HR=0.63; p<0.001), both as first-line treatment (HR=0.70, p<0.001) or in recurrent disease (HR=0.52, p<0.001). CONCLUSIONS: antiangiogenic drugs did not improve overall survival in glioblastoma patients, either as first or second-line treatment, and either as single agent or in combination with chemotherapy. Among antiangiogenic drugs, only bevacizumab improved progression-free survival regardless of treatment line, both as single agent or in combination with chemotherapy.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The interventional effect of new drugs combined with the Stupp protocol on glioblastoma: A network meta-analysis. OBJECTIVE: New therapeutic agents in combination with the standard Stupp protocol (a protocol about the temozolomide combined with radiotherapy treatment with glioblastoma was research by Stupp R in 2005) were assessed to evaluate whether they were superior to the Stupp protocol alone, to determine the optimum treatment regimen for patients with newly diagnosed glioblastoma. PATIENTS AND METHODS: We implemented a search strategy to identify studies in the following databases: PubMed, Cochrane Library, EMBASE, CNKI, CBM, Wanfang, and VIP, and assessed the quality of extracted data from the trials included. Statistical software was used to perform network meta-analysis. RESULTS: The use of novel therapeutic agents in combination with the Stupp protocol were all shown to be superior than the Stupp protocol alone for the treatment of newly diagnosed glioblastoma, ranked as follows: cilengitide 2000mg/5/week, bevacizumab in combination with irinotecan, nimotuzumab, bevacizumab, cilengitide 2000mg/2/week, cytokine-induced killer cell immunotherapy, and the Stupp protocol. In terms of serious adverse effects, the intervention group showed a 29% increase in the incidence of adverse events compared with the control group (patients treated only with Stupp protocol) with a statistically significant difference (RR=1.29; 95%CI 1.17-1.43; P<0.001). The most common adverse events were thrombocytopenia, lymphopenia, neutropenia, pneumonia, nausea, and vomiting, none of which were significantly different between the groups except for neutropenia, pneumonia, and embolism. CONCLUSIONS: All intervention drugs evaluated in our study were superior to the Stupp protocol alone when used in combination with it. However, we could not conclusively confirm whether cilengitide 2000mg/5/week was the optimum regime, as only one trial using this protocol was included in our study.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_002"
+            }
+          ]
+        }, 
+        {
+          "context": "EGFRvIII/integrin \u03b23 interaction in hypoxic and vitronectinenriching microenvironment promote GBM progression and metastasis. Glioblastoma (GBM) is one of the most lethal brain tumors with a short survival time. EGFR amplification and mutation is the most significant genetic signature in GBM. About half of the GBMs with EGFR amplification express a constitutively autophosphorylated variant of EGFR, known as EGFRvIII. Our in vitro data demonstrated further enhanced EGFRvIII activity and tumor cell invasion in the tumor microenvironment of hypoxia plus extracellular matrix (ECM) vitronectin, in which EGFRvIII and integrin \u03b23 tended to form complexes. The treatment with ITGB3 siRNA or the integrin antagonist cilengetide preferentially interrupted the EGFRvIII/integrin \u03b23 complex, effectively reduced tumor cell invasion and activation of downstream signaling effectors. Cilengitide is recently failed in Phase III CENTRIC trial in unselected patients with GBM. However, we found that cilengitide demonstrated efficacious tumor regression via inhibition of tumor growth and angiogenesis in EGFRvIII orthotopic xenografts. Bioinformatics analysis emphasized key roles of integrin \u03b23, hypoxia and vitronectin and their strong correlations with EGFRvIII expression in malignant glioma patient samples in vivo. In conclusion, we demonstrate that EGFRvIII/integrin \u03b23 complexes promote GBM progression and metastasis in the environment of hypoxia and vitronectin-enrichment, and cilengitide may serve as a promising therapeutics for EGFRvIII-positive GBMs.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecularly Targeted Drugs Plus Radiotherapy and Temozolomide Treatment for Newly Diagnosed Glioblastoma: A Meta-Analysis and Systematic Review. Glioblastoma (GBM) is the most common primary malignant brain tumor that nearly always results in a bad prognosis. Temozolomide plus radiotherapy (TEM+RAD) is the most common treatment for newly diagnosed GBM. With the development of molecularly targeted drugs, several clinical trials were reported; however, the efficacy of the treatment remains controversial. So we attempted to measure the dose of the molecularly targeted drug that could improve the prognosis of those patients. The appropriate electronic databases (PubMed, MEDLINE, EMBASE, and the Cochrane Library) were searched for relevant studies. A meta-analysis was performed after determining which studies met the inclusion criteria. Six randomized, controlled trials (RCTs) were identified for this meta-analysis, comprising 2,637 GBM patients. The benefit of overall survival (OS) was hazard ratio (HZ), 0.936 [95% confidence interval (CI), 0.852-1.028]. The benefit with respect to progression-free survival (PFS) rate was HZ of 0.796 (95% CI, 0.701-0.903). OS benefit of cilengitide was HZ of 0.792 (95% CI, 0.642-0.977). The adverse effects higher than grade 3 were 57.7% in the experimental group and 44.1% in the placebo group (odds ratio, 1.679; 95% CI, 1.434-1.967). The addition of molecularly targeted drugs to TEM + RAD did not improve the OS of patients with GBM; however, it did improve PFS in patients treated by cilengitide who could not get improvement in OS. The rate of adverse effects was higher in the experimental group than in the placebo group.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Cilengitide in newly diagnosed glioblastoma: biomarker expression and outcome. Integrins \u03b1v\u03b23 and \u03b1v\u03b25 regulate angiogenesis and invasiveness in cancer, potentially by modulating activation of the transforming growth factor (TGF)-\u03b2 pathway. The randomized phase III CENTRIC and phase II CORE trials explored the integrin inhibitor cilengitide in patients with newly diagnosed glioblastoma with versus without O6-methylguanine DNA methyltransferase (MGMT) promoter methylation. These trials failed to meet their primary endpoints.Immunohistochemistry was used to assess the levels of the target integrins of cilengitide, \u03b1v\u03b23 and \u03b1v\u03b25 integrins, of \u03b1v\u03b28 and of their putative target, phosphorylation of SMAD2, in tumor tissues from CENTRIC (n=274) and CORE (n=224).\u03b1v\u03b23 and \u03b1v\u03b25 expression correlated well in tumor and endothelial cells, but showed little association with \u03b1v\u03b28 or pSMAD2 levels. In CENTRIC, there was no interaction between the biomarkers and treatment for prediction of outcome. In CORE, higher \u03b1v\u03b23 levels in tumor cells were associated with improved progression-free survival by central review and with improved overall survival in patients treated with cilengitide.Integrins \u03b1v\u03b23, \u03b1v\u03b25 and \u03b1v\u03b28 are differentially expressed in glioblastoma. Integrin levels do not correlate with the activation level of the canonical TGF-\u03b2 pathway. \u03b1v\u03b23 integrin expression may predict benefit from integrin inhibition in patients with glioblastoma lacking MGMT promoter methylation.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Glioma-targeted therapy using Cilengitide nanoparticles combined with UTMD enhanced delivery. Malignant gliomas especially glioblastoma (GBM) are poorly responsive to the current treatments. Cilengitide (CGT) is a cyclic pentapeptide that demonstrated efficacy for GBM treatment by targeting the integrins av\u03b23 and av\u03b25 over-expressed on GBM cells. However, clinical translation of this therapy has been limited by issues including fast blood clearance, high kidney and liver uptake, poor blood-brain barrier (BBB) penetration, low tumor specificity and rapid washout from tumors. In this study, these issues were tackled in an integrated manner using a multi-stage strategy combining ultrasound-targeted microbubble destruction (UTMD) with CGT nanotherapy. CGT nanoparticles (CGT-NP) prepared using gelatin and Poloxamer 188-grafted heparin copolymer demonstrated significant apoptotic and cytotoxic effects in C6 GBM cells. Biodistribution study in a rat GBM model demonstrated buildup of high CGT level in tumors subjected to CGT-NP+UTMD combined therapy. The tumor CGT level in these animals was increased over 3-fold, tumor retention of CGT prolonged and renal clearance significantly reduced when compared with free CGT with or without UTMD. CGT-NP+UTMD treatment was further shown to extend the median survival period from less than 20days in the control and about 30days in free CGT group to about 80days. This was achieved with low CGT dosing level (2mg/kg twice weekly). In situ monitoring of GFAP, Ki67, caspase-3, Beclin-1, and LC-3 in the tumor samples together with TUNEL assay, transmission electron microscope imaging and Western blot assay all demonstrated high apoptotic and autophagy activities induced by the combined therapy. In conclusion, this study has provided extensive preclinical data supporting the use of this combined therapy to overcome the limitations of standard CGT treatment of gliomas.", 
+          "qas": [
+            {
+              "question": "Is cilengitide effective for treatment of glioblastoma?", 
+              "id": "5a76080683b0d9ea66000015_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Pharmacotherapeutic Considerations for Individuals with Down Syndrome. Down syndrome (DS; trisomy 21) is the most common survivable disorder due to aneuploidy. Individuals with DS may experience multiple comorbid health problems including congenital heart defects, endocrine abnormalities, skin and dental problems, seizure disorders, leukemia, dementia, and obesity. These associated conditions may necessitate pharmacotherapeutic management with various drugs. The complex pathobiology of DS may alter drug disposition and drug response in some individuals. For example, reports have documented increased rates of adverse drug reactions in patients with DS treated for leukemia and dementia. Intellectual disability resulting from DS may impact adherence to medication regimens. In this review, we highlight literature focused on pharmacotherapy for individuals with DS. We discuss reports of altered drug disposition or response in patients with DS and explore social factors that may impact medication adherence in the DS setting. Enhanced monitoring during drug therapy in individuals with DS is justified based on reports of altered drug disposition, drug response, and other characteristics present in this population.", 
+          "qas": [
+            {
+              "question": "Down's syndrome occurs when an individual has an extra copy or part of a copy of chromosome 21, yes or no?", 
+              "id": "5a76016683b0d9ea6600000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Synthetic combinations of missense polymorphic genetic changes underlying Down syndrome susceptibility. Single nucleotide polymorphisms (SNPs) are important biomolecular markers in health and disease. Down syndrome, or Trisomy 21, is the most frequently occurring chromosomal abnormality in live-born children. Here, we highlight associations between SNPs in several important enzymes involved in the one-carbon folate metabolic pathway and the elevated maternal risk of having a child with Down syndrome. Our survey highlights that the combination of SNPs may be a more reliable predictor of the Down syndrome phenotype than single SNPs alone. We also describe recent links between SNPs in p53 and its related pathway proteins and Down syndrome, as well as highlight several proteins that help to associate apoptosis and p53 signaling with the Down syndrome phenotype. In addition to a comprehensive review of the literature, we also demonstrate that several SNPs reside within the same regions as these Down syndrome-linked SNPs, and propose that these closely located nucleotide changes may provide new candidates for future exploration.", 
+          "qas": [
+            {
+              "question": "Down's syndrome occurs when an individual has an extra copy or part of a copy of chromosome 21, yes or no?", 
+              "id": "5a76016683b0d9ea6600000d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Effects of Maternal Choline Supplementation on the Septohippocampal Cholinergic System in the Ts65Dn Mouse Model of Down Syndrome. Down syndrome (DS), caused by trisomy of chromosome 21, is marked by intellectual disability (ID) and early onset of Alzheimer's disease (AD) neuropathology including hippocampal cholinergic projection system degeneration. Here we determined the effects of age and maternal choline supplementation (MCS) on hippocampal cholinergic deficits in Ts65Dn mice compared to 2N mice sacrificed at 6-8 and 14-18 months of age. Ts65Dn mice and disomic (2N) littermates sacrificed at ages 6-8 and 14-18 mos were used for an aging study and Ts65Dn and 2N mice derived from Ts65Dn dams were maintained on either a choline-supplemented or a choline-controlled diet (conception to weaning) and examined at 14-18 mos for MCS studies. In the latter, mice were behaviorally tested on the radial arm Morris water maze (RAWM) and hippocampal tissue was examined for intensity of choline acetyltransferase (ChAT) immunoreactivity. Hippocampal ChAT activity was evaluated in a separate cohort. ChAT-positive fiber innervation was significantly higher in the hippocampus and dentate gyrus in Ts65Dn mice compared with 2N mice, independent of age or maternal diet. Similarly, hippocampal ChAT activity was significantly elevated in Ts65Dn mice compared to 2N mice, independent of maternal diet. A significant increase with age was seen in hippocampal cholinergic innervation of 2N mice, but not Ts65Dn mice. Degree of ChAT intensity correlated negatively with spatial memory ability in unsupplemented 2N and Ts65Dn mice, but positively in MCS 2N mice. The increased innervation produced by MCS appears to improve hippocampal function, making this a therapy that may be exploited for future translational approaches in human DS.", 
+          "qas": [
+            {
+              "question": "Down's syndrome occurs when an individual has an extra copy or part of a copy of chromosome 21, yes or no?", 
+              "id": "5a76016683b0d9ea6600000d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Evidence that increased Kcnj6 gene dose is necessary for deficits in behavior and dentate gyrus synaptic plasticity in the Ts65Dn mouse model of Down syndrome. Down syndrome (DS), trisomy 21, is caused by increased dose of genes present on human chromosome 21 (HSA21). The gene-dose hypothesis argues that a change in the dose of individual genes or regulatory sequences on HSA21 is necessary for creating DS-related phenotypes, including cognitive impairment. We focused on a possible role for Kcnj6, the gene encoding Kir3.2 (Girk2) subunits of a G-protein-coupled inwardly-rectifying potassium channel. This gene resides on a segment of mouse Chromosome 16 that is present in one extra copy in the genome of the Ts65Dn mouse, a well-studied genetic model of DS. Kir3.2 subunit-containing potassium channels serve as effectors for a number of postsynaptic metabotropic receptors including GABAB receptors. Several studies raise the possibility that increased Kcnj6 dose contributes to synaptic and cognitive abnormalities in DS. To assess directly a role for Kcnj6 gene dose in cognitive deficits in DS, we produced Ts65Dn mice that harbor only 2 copies of Kcnj6 (Ts65Dn:Kcnj6++- mice). The reduction in Kcnj6 gene dose restored to normal the hippocampal level of Kir3.2. Long-term memory, examined in the novel object recognition test with the retention period of 24h, was improved to the level observed in the normosomic littermate control mice (2N:Kcnj6++). Significantly, both short-term and long-term potentiation (STP and LTP) was improved to control levels in the dentate gyrus (DG) of the Ts65Dn:Kcnj6++- mouse. In view of the ability of fluoxetine to suppress Kir3.2 channels, we asked if fluoxetine-treated DG slices of Ts65Dn:Kcnj6+++ mice would rescue synaptic plasticity. Fluoxetine increased STP and LTP to control levels. These results are evidence that increased Kcnj6 gene dose is necessary for synaptic and cognitive dysfunction in the Ts65Dn mouse model of DS. Strategies aimed at pharmacologically reducing channel function should be explored for enhancing cognition in DS.", 
+          "qas": [
+            {
+              "question": "Down's syndrome occurs when an individual has an extra copy or part of a copy of chromosome 21, yes or no?", 
+              "id": "5a76016683b0d9ea6600000d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Hemolytic anemia in two patients with glioblastoma multiforme: A possible interaction between vorinostat and dapsone. Patients undergoing treatment for glioblastoma multiforme are routinely placed on prophylactic treatment for Pneumocystis jirovecii pneumonia because of significant therapy-induced lymphopenia. In patients with sulfa allergies, dapsone prophylaxis is often used due to its efficacy, long half-life, cost effectiveness, and general safety at low doses. However, dapsone may uncommonly induce a hemolytic anemia, particularly in patients deficient of glucose-6-phosphate dehydrogenase. This hemolysis is thought to be a result of oxidative stress on red blood cells induced by dapsone metabolites which produce reactive oxygen species that disrupt the red blood cell membrane and promote splenic sequestration. A single case report of dapsone-induced hemolytic anemia in a patient with glioblastoma multiforme has been reported. We present two patients with glioblastoma multiforme who developed severe hemolytic anemia shortly after initiating therapy with vorinostat, a pan-active histone deacetylase inhibitor, while on prophylactic dapsone. There are several potential mechanisms by which histone deacetylase inhibition may alter dapsone metabolism including changes in hepatic acetylation or N-glucuronidation leading to an increase in the bioavailability of dapsone's hematotoxic metabolites. In addition, vorinostat may lead to increased hemolysis through inhibition of heat shock protein-90, a chaperone protein that maintains the integrity of the red blood cell membrane cytoskeleton. The potential interaction between dapsone and vorinostat may have important clinical implications as more than 10 clinical trials evaluating drug combinations with vorinostat in patients with malignant glioma are either ongoing or planned in North America.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase I/II trial of vorinostat combined with temozolomide and radiation therapy for newly diagnosed glioblastoma: results of Alliance N0874/ABTC 02. Background: Vorinostat, a histone deacetylase (HDAC) inhibitor, has shown radiosensitizing properties in preclinical studies. This open-label, single-arm trial evaluated the maximum tolerated dose (MTD; phase I) and efficacy (phase II) of vorinostat combined with standard chemoradiation in newly diagnosed glioblastoma. Methods: Patients received oral vorinostat (300 or 400 mg/day) on days 1-5 weekly during temozolomide chemoradiation. Following a 4- to 6-week rest, patients received up to 12 cycles of standard adjuvant temozolomide and vorinostat (400 mg/day) on days 1-7 and 15-21 of each 28-day cycle. Association between vorinostat response signatures and progression-free survival (PFS) and overall survival (OS) was assessed based on RNA sequencing of baseline tumor tissue. Results: Phase I and phase II enrolled 15 and 107 patients, respectively. The combination therapy MTD was vorinostat 300 mg/day and temozolomide 75 mg/m2/day. Dose-limiting toxicities were grade 4 neutropenia and thrombocytopenia and grade 3 aspartate aminotransferase elevation, hyperglycemia, fatigue, and wound dehiscence. The primary efficacy endpoint in the phase II cohort, OS rate at 15 months, was 55.1% (median OS 16.1 mo), and consequently, the study did not meet its efficacy objective. Most common treatment-related grade 3/4 toxicities in the phase II component were lymphopenia (32.7%), thrombocytopenia (28.0%), and neutropenia (21.5%). RNA expression profiling of baseline tumors (N = 76) demonstrated that vorinostat resistance (sig-79) and sensitivity (sig-139) signatures had a reverse and positive association with OS/PFS, respectively. Conclusions: Vorinostat combined with standard chemoradiation had acceptable tolerability in newly diagnosed glioblastoma. Although the primary efficacy endpoint was not met, vorinostat sensitivity and resistance signatures could facilitate patient selection in future trials.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase II trial of vorinostat in combination with bortezomib in recurrent glioblastoma: a north central cancer treatment group study. Vorinostat, a histone deacetylase (HDAC) inhibitor, has shown evidence of single-agent activity in glioblastoma (GBM), and in preclinical studies, we have demonstrated significant synergistic cytotoxicity between HDAC inhibitors and proteasome inhibitors in GBM cell lines. We therefore conducted a phase II trial to evaluate the efficacy of vorinostat in combination with the proteasome inhibitor bortezomib in patients with recurrent GBM. Vorinostat was administered at a dose of 400 mg daily for 14 days of a 21-day cycle, and bortezomib was administered at a dose of 1.3 mg/m(2) intravenously on days 1, 4, 8, and 11 of the cycle. A total of 37 patients were treated, and treatment was well tolerated: grade 3, 4 nonhematologic toxicity occurred in 30% of patients and consisted mainly of fatigue (14%) and neuropathy (5%); grade 3, 4 hematologic toxicity occurred in 37% of patients and consisted of thrombocytopenia (30%), lymphopenia (4%), and neutropenia (4%). The trial was closed at the predetermined interim analysis, with 0 of 34 patients being progression-free at 6 months. One patient achieved a partial response according to the Macdonald criteria. The median time to progression for all patients was 1.5 months (range, 0.5-5.6 months), and median overall survival (OS) was 3.2 months. Patients who had received prior bevacizumab therapy had a shorter time to progression and OS, compared with those who had not. On the basis of the results of this phase II study, further evaluation of the vorinostat-bortezomib combination in GBM patients in this dose and schedule is not recommended.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase I trial of vorinostat combined with bevacizumab and CPT-11 in recurrent glioblastoma. A phase I study was conducted to determine the dose-limiting toxicities (DLT) and maximum tolerated dose (MTD) for the combination of vorinostat with bevacizumab and CPT-11 in recurrent glioblastoma. Vorinostat was combined with bevacizumab and CPT-11 and was escalated using a standard 3 + 3 design. Vorinostat was escalated up to 2 actively investigated doses of this compound or until the MTD was identified on the basis of DLTs. Correlative science involving proteomic profiling of serial patient plasma samples was performed. Nineteen patients were treated. The MTD of vorinostat was established at 400 mg on days 1-7 and 15-21 every 28 days when combined with bevacizumab and CPT-11. Common toxicities were fatigue and diarrhea. DLTs included fatigue, hypertension/hypotension, and central nervous system ischemia. Although the MTD was established, CPT-11 dose reductions were common early in therapy. High-dose vorinostat had an improved progression-free survival and overall survival when compared with low-dose vorinostat. Serum proteomic profiling identified IGFBP-5 and PDGF-AA as markers for improved PFS and recurrence, respectively. A MTD for the combination of vorinostat with bevacizumab and CPT-11 has been established, although it has poor long-term tolerability. With the increased toxicities associated with CPT-11 coupled with its unclear clinical significance, investigating the efficacy of vorinostat combined with bevacizumab alone may represent a more promising strategy to evaluate in the context of a phase II clinical trial.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Histone deacetylase inhibitors in glioblastoma: pre-clinical and clinical experience. Epigenetic mechanisms are increasingly recognized as a major factor contributing to pathogenesis of cancer including glioblastoma, the most common and most malignant primary brain tumour in adults. Enzymatic modifications of histone proteins regulating gene expression are being exploited for therapeutic drug targeting. Over the last decade, numerous studies have shown promising results with histone deacetylase (HDAC) inhibitors in various malignancies. This article provides a brief overview of mechanism of anti-cancer effect and pharmacology of HDAC inhibitors and summarizes results from pre-clinical and clinical studies in glioblastoma. It analyses experience with HDAC inhibitors as single agents as well as in combination with targeted agents, cytotoxic chemotherapy and radiotherapy. Hallmark features of glioblastoma, such as uncontrolled cellular proliferation, invasion, angiogenesis and resistance to apoptosis, have been shown to be targeted by HDAC inhibitors in experiments with glioblastoma cell lines. Vorinostat is the most advanced HDAC inhibitor that entered clinical trials in glioblastoma, showing activity in recurrent disease. Multiple phase II trials with vorinostat in combination with targeted agents, temozolomide and radiotherapy are currently recruiting. While the results from pre-clinical studies are encouraging, early clinical trials showed only modest benefit and the value of HDAC inhibitors for clinical practice will need to be confirmed in larger prospective trials. Further research in epigenetic mechanisms driving glioblastoma pathogenesis and identification of molecular subtypes of glioblastoma is needed. This will hopefully lead to better selection of patients who will benefit from treatment with HDAC inhibitors.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase I study of vorinostat in combination with temozolomide in patients with high-grade gliomas: North American Brain Tumor Consortium Study 04-03. PURPOSE: A phase I, dose-finding study of vorinostat in combination with temozolomide (TMZ) was conducted to determine the maximum tolerated dose (MTD), safety, and pharmacokinetics in patients with high-grade glioma (HGG). EXPERIMENTAL DESIGN: This phase I, dose-finding, investigational study was conducted in two parts. Part 1 was a dose-escalation study of vorinostat in combination with TMZ 150 mg/m(2)/day for 5 days every 28 days. Part 2 was a dose-escalation study of vorinostat in combination with TMZ 150 mg/m(2)/day for 5 days of the first cycle and 200 mg/m(2)/day for 5 days of the subsequent 28-day cycles. RESULTS: In part 1, the MTD of vorinostat administered on days 1 to 7 and 15 to 21 of every 28-day cycle, in combination with TMZ, was 500 mg daily. Dose-limiting toxicities (DLT) included grade 3 anorexia, grade 3 ALT, and grade 5 hemorrhage in the setting of grade 4 thrombocytopenia. In part 2, the MTD of vorinostat on days 1 to 7 and 15 to 21 of every 28-day cycle, combined with TMZ, was 400 mg daily. No DLTs were encountered, but vorinostat dosing could not be escalated further due to thrombocytopenia. The most common serious adverse events were fatigue, lymphopenia, thrombocytopenia, and thromboembolic events. There were no apparent pharmacokinetic interactions between vorinostat and TMZ. Vorinostat treatment resulted in hyperacetylation of histones H3 and H4 in peripheral mononuclear cells. CONCLUSION: Vorinostat in combination with temozolomide is well tolerated in patients with HGG. A phase I/II trial of vorinostat with radiotherapy and concomitant TMZ in newly diagnosed glioblastoma is underway.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase II Study of Bevacizumab and Vorinostat for Patients with Recurrent World Health Organization Grade 4 Malignant Glioma. LESSONS LEARNED: Combination regimen with bevacizumab (BEV) and vorinostat is well tolerated in patients with recurrent glioblastoma.Treatment of recurrent glioblastoma remains challenging as this study and others attempt to improve progression-free survival and overall survival with BEV-containing regimens. BACKGROUND: Recurrent glioblastoma (GBM; World Health Organization grade 4) continues to have a very poor prognosis. Bevacizumab (BEV) has been shown to improve progression-free survival (PFS) in recurrent GBM and is approved by the U.S. Food and Drug Administration for the treatment of recurrent GBM. Combination regimens have been explored, and in this phase II nonrandomized trial, we evaluated the efficacy of BEV combined with histone deacetylase inhibitor vorinostat (VOR) in recurrent GBM. MATERIALS AND METHODS: In this phase II, single-center, nonrandomized study, subjects with recurrent GBM received BEV 10 mg/kg intravenously (IV) every 2 weeks combined with VOR 400 mg p.o. daily for 7 days on, 7 days off, in a 28-day cycle. The primary endpoint was 6-month PFS (PFS6). RESULTS: Forty patients with recurrent GBM were enrolled and evaluated. PFS6 was 30.0% (95% confidence interval [CI] 16.8%-44.4%). Median overall survival (OS) was 10.4 months (95% CI 7.6-12.8 months). Overall radiographic response rate was 22.5% based on 9 partial responses. The most common grade 2 and above treatment-related adverse events were lymphopenia (55%), leukopenia (45%), neutropenia (35%), and hypertension (33%). Grade 4 adverse events were leukopenia (3%), neutropenia (3%), sinus bradycardia (3%), and venous thromboembolism (3%). Two deaths occurred in this study, with one due to tumor progression and another possibly related as death not otherwise specified. CONCLUSION: Combination treatment of BEV and VOR was well tolerated. This combination therapy for this study population did not improve PFS6 or median OS when compared with BEV monotherapy.", 
+          "qas": [
+            {
+              "question": "Is vorinostat effective for glioblastoma?", 
+              "id": "5a7615af83b0d9ea6600001f_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Stress-regulated transcription factor ATF4 promotes neoplastic transformation by suppressing expression of the INK4a/ARF cell senescence factors. Many cancers overexpress ATF4, a stress-induced transcription factor that promotes cell survival under hypoxic conditions and other stresses of the tumor microenvironment, but the potential contributions of ATF4 to oncogenesis itself have been little explored. Here, we report that ATF4 promotes oncogene-induced neoplastic transformation by suppressing the expression of cellular senescence-associated genes. Strikingly, primary embryo fibroblasts from ATF4-deficient mice were resistant to transformation by coexpression of H-ras(V12) and SV40 large T antigen. In wild-type cells these oncogenes induced expression of the murine Atf4 gene along with the cyclin-dependent kinase inhibitor Cdkn2a, which encodes the cell senescence-associated proteins p16INK4 and p19ARF. Elevated levels of ATF4 were sufficient to suppress expression of these proteins and drive oncogenic transformation. Conversely, genetic ablation of ATF4 led to constitutive expression of p16INK4a and p19ARF, triggering cellular senescence. Our findings define a central function for ATF4 in promoting oncogenic transformation by suppressing a central pathway of cellular senescence.", 
+          "qas": [
+            {
+              "question": "Has ATF4 transcription factor been linked to cancer and neoplastic transformation?", 
+              "id": "5a773c50faa1ab7d2e000002_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The Role of the PERK/eIF2\u03b1/ATF4/CHOP Signaling Pathway in Tumor Progression During Endoplasmic Reticulum Stress. Hypoxia is a major hallmark of the tumor microenvironment that is strictly associated with rapid cancer progression and induction of metastasis. Hypoxia inhibits disulfide bond formation and impairs protein folding in the Endoplasmic Reticulum (ER). The stress in the ER induces the activation of Unfolded Protein Response (UPR) pathways via the induction of protein kinase RNA-like endoplasmic reticulum kinase (PERK). As a result, the level of phosphorylated Eukaryotic Initiation Factor 2 alpha (eIF2\u03b1) is markedly elevated, resulting in the promotion of a pro-adaptive signaling pathway by the inhibition of global protein synthesis and selective translation of Activating Transcription Factor 4 (ATF4). On the contrary, during conditions of prolonged ER stress, pro-adaptive responses fail and apoptotic cell death ensues. Interestingly, similar to the activity of the mitochondria, the ER may also directly activate the apoptotic pathway through ER stress-mediated leakage of calcium into the cytoplasm that leads to the activation of death effectors. Apoptotic cell death also ensues by ATF4-CHOP- mediated induction of several pro-apoptotic genes and suppression of the synthesis of anti-apoptotic Bcl-2 proteins. Advancing molecular insight into the transition of tumor cells from adaptation to apoptosis under hypoxia-induced ER stress may provide answers on how to overcome the limitations of current anti-tumor therapies. Targeting components of the UPR pathways may provide more effective elimination of tumor cells and as a result, contribute to the development of more promising anti-tumor therapeutic agents.", 
+          "qas": [
+            {
+              "question": "Has ATF4 transcription factor been linked to cancer and neoplastic transformation?", 
+              "id": "5a773c50faa1ab7d2e000002_001"
+            }
+          ]
+        }, 
+        {
+          "context": "B-cell lymphoma/leukemia 10 promotes oral cancer progression through STAT1/ATF4/S100P signaling pathway. B-cell lymphoma/leukemia 10 (BCL10) is an apoptotic regulatory protein related to advanced TNM stage and disease recurrence in oral squamous cell carcinoma (OSCC). However, the regulatory mechanism of BCL10 in OSCC progression is still unknown. Here, we showed that knockdown of endogenous BCL10 could significantly reduce cell migration and invasion abilities, retard cell proliferation by G0/G1 phase accumulation and inhibit tumorigenicity in vivo. In molecular level, we identified S100P as a crucial downstream effector of BCL10-inhibited OSCC progression by high-throughput microarray analysis. S100P messenger RNA and protein expression levels were significantly diminished in silenced-BCL10 clones, and transfected S100P expression plasmids restored migration, invasion, proliferation abilities and tumorigenicity in shBCL10 transfectants. Furthermore, we provided evidence that BCL10 regulated S100P expression through signal transducers and activators of transcription 1 (STAT1) and activating transcription factor 4 (ATF4). Knockdown of BCL10 decreased S100P promoter activity, but showed no effect in truncated STAT1/ATF4 S100P promoter.\u00a0 In addition, we also found that the P50/P65 signaling pathway was involved in BCL10-enhanced OSCC progression. Restored S100P in silenced-BCL10 clones could markedly reverse P65 activation via outside-in signaling. Taken together, we discovered a novel axis of BCL10-regulated OSCC progression via STAT1/ATF4/S100P/P65 signaling, which could predict the prognosis of OSCC and will be beneficial for developing therapeutic strategy against advanced OSCC.", 
+          "qas": [
+            {
+              "question": "Has ATF4 transcription factor been linked to cancer and neoplastic transformation?", 
+              "id": "5a773c50faa1ab7d2e000002_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Miscellaneous syndromes and their management: occult breast cancer, breast cancer in pregnancy, male breast cancer, surgery in stage IV disease. Surgical therapy for occult breast cancer has traditionally centered on mastectomy; however, breast conservation with whole breast radiotherapy followed by axillary lymph node dissection has shown equivalent results. Patients with breast cancer in pregnancy can be safely and effectively treated; given a patient's pregnancy trimester and stage of breast cancer, a clinician must be able to guide therapy accordingly. Male breast cancer risk factors show strong association with BRCA2 mutations, as well as Klinefelter syndrome. Several retrospective trials of surgical therapy in stage IV breast cancer have associated a survival advantage with primary site tumor extirpation.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Male breast cancer: a challenge for urologists]. Male breast cancer (male BC) accounts for <1% of all cancers in men, showing an increasing incidence with a peak in the sixth decade. Overall, men experience a worse prognosis than women, probably due to an advanced stage together with the higher age at diagnosis of male patients. Major risk factors for developing male BC include clinical disorders involving hormonal imbalances (excess of estrogen or a deficiency of testosterone as seen in patients with Klinefelter syndrome) and a positive family history for breast cancer. About 90% of male BC are invasive ductal carcinomas. Standard treatment for localized cancer is surgical removal. Adjuvant radiation and systemic therapy are the same as in women with breast cancer. Male BC expresses hormone receptors in about 90% of cases; therefore, tamoxifen is a therapeutic option. A future challenge for the urologist or andrologist is to diagnose the disease at an early stage to improve prognosis.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Breast cancer in male-to-female transsexuals: use of breast imaging for detection. OBJECTIVE: The purposes of this article are to describe two cases of breast cancer in male-to-female transsexuals and to review eight cases previously reported in the literature. CONCLUSION: Breast cancer occurs in male-to-female transsexuals who receive high doses of exogenous estrogen and develop breast tissue histologically identical to that of a biologically female breast. This exposure to estrogen results in increased risk of breast cancer. The first patient described is a male-to-female transsexual with screening-detected ductal carcinoma in situ and a family history of breast cancer. The other patient is a male-to-female transsexual with invasive ductal carcinoma that was occult on diagnostic digital mammographic and ultrasound findings but visualized on digital breast tomosynthesis and breast MR images. The analysis of the eight previously reported cases showed that breast cancer in male-to-female transsexuals occurs at a younger age and is more frequently estrogen receptor negative than breast cancer in others born biologically male. Screening for breast cancer in male-to-female transsexuals should be undertaken for those with additional risk factors (e.g., family history, BRCA2 mutation, Klinefelter syndrome) and should be available to those who desire screening, preferably in a clinical trial.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Breast cancer risk among patients with Klinefelter syndrome. AIM: To evaluate male breast cancer (MBC) risk among patients with Klinefelter syndrome (KS) and relate this to possible biological explanations. METHODS: A literature review was conducted to identify case series and epidemiologic studies that have evaluated MBC risk among patients with KS. RESULTS: Case reports without expected values have often led to false impressions of risk. Problems include that a diagnosis of cancer can prompt a karyotypic evaluation and that many cases of KS are unrecognized, resulting in incomplete denominators. Few carefully conducted epidemiologic studies have been undertaken given that both KS and MBC are rare events. The largest study found 19.2- and 57.8-fold increases in incidence and mortality, respectively, with particularly high risks among 47,XXY mosaics. These risks were still approximately 70% lower than among females, contradicting case reports that patients with KS have breast cancer rates similar to females. Altered hormone levels (especially the ratio of oestrogens to androgens), administration of exogenous androgens, gynaecomastia and genetic factors have been offered as possible explanations for the high risks. CONCLUSIONS: Additional well-designed epidemiologic studies are needed to clarify which patients with KS are at a high risk of developing MBC and to distinguish between possible predisposing factors, including altered endogenous hormones.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Male breast cancer. Male breast cancer (MBC) is a rare disease. However, as global populace ages, there is a trend to MBC increasing. Although aetiology is still unclear, constitutional, environmental, hormonal (abnormalities in estrogen/androgen balance) and genetic (positive family history, Klinefelter syndrome, mutations in BRCA1 and specially BRCA2) risk factors are already known. Clinic manifestation is painless hard and fixed nodule in the subareolar region in 75% of cases, with nipple commitment earlier than in women. Breast cancer has similar prognostic factors in males and females, among which axillary adenopathy (present in 40-55% cases) is the most important one. Although mammography, ultrasonography and scintigraphy can be useful tools in diagnosis; clinical assessment, along with a confirmatory biopsy, remains the main step in the evaluation of men with breast lesions. Infiltrating ductal carcinoma is the most frequent histological type. The established standard of care is modified radical mastectomy followed by tamoxifen for endocrine-responsive positive disease, although other options are being explored. While similarities between breast cancer in males and females exist, it is not appropriate to extrapolate data from female disease to the treatment of male. There is a need for specific multi-institutional trials to better understanding of clinicopathologic features and establishment of optimal therapy for this disease.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Klinefelter syndrome and acute basophilic leukaemia--case report. Patients with 47, XXY karyotype (Klinefelter syndrome) appear to have increased risk of developing cancer, especially male breast cancer, germ cell tumours and non Hodgkin lymphomas, but rarely acute myeloid leukaemia. We report a patient with acute basophilic leukaemia with 47, XXY karyotype in both the tumour and constitutional cells. Acute basophilic leukaemia is very rare disease comprising less than 1% of all acute myeloid leukaemias. Morphological characteristic of leukaemic blast cells is moderately basophilic cytoplasm containing a variable number of coarse basophilic granules. The most characteristic cytochemical reaction is metachromatic positivity with toluidine blue. Blast are myeloperoxidase negative. Also leukemic blasts express myeloid and monocyte markers. There is no consistent chromosomal abnormality identified in this leukaemia. This is the first reported case of acute basophilic leukaemia in patient with Klinefelter syndrome. In this article the medical history of the patient is given and the possible connection between Klinefelter syndrome and acute myeloid leukaemia is discussed.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_005"
+            }
+          ]
+        }, 
+        {
+          "context": "[Clinical and morphological features of breast cancer in men]. Breast cancer in men is 100 times less common than in women. The main risk factors include: the mutation of genes BRCA 1 and 2, Klinefelter's syndrome, alcohol, liver disease, obesity. Clinical examinations, mammography and ultrasound are informative and highly sensitive for early detection of these tumors, but are rarely implemented due to lack of awareness of general practitioners. Local treatment includes the Patey-Dyson mastectomy and radiation therapy. Adjuvant systemic therapy is determined by pTNM and typically involves tamoxifen.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Anthropometric and hormonal risk factors for male breast cancer: male breast cancer pooling project results. BACKGROUND: The etiology of male breast cancer is poorly understood, partly because of its relative rarity. Although genetic factors are involved, less is known regarding the role of anthropometric and hormonally related risk factors. METHODS: In the Male Breast Cancer Pooling Project, a consortium of 11 case-control and 10 cohort investigations involving 2405 case patients (n = 1190 from case-control and n = 1215 from cohort studies) and 52013 control subjects, individual participant data were harmonized and pooled. Unconditional logistic regression generated study design-specific (case-control/cohort) odds ratios (ORs) and 95% confidence intervals (CIs), with exposure estimates combined using fixed effects meta-analysis. All statistical tests were two-sided. RESULTS: Risk was statistically significantly associated with weight (highest/lowest tertile: OR = 1.36; 95% CI = 1.18 to 1.57), height (OR = 1.18; 95% CI = 1.01 to 1.38), and body mass index (BMI; OR = 1.30; 95% CI = 1.12 to 1.51), with evidence that recent rather than distant BMI was the strongest predictor. Klinefelter syndrome (OR = 24.7; 95% CI = 8.94 to 68.4) and gynecomastia (OR = 9.78; 95% CI = 7.52 to 12.7) were also statistically significantly associated with risk, relations that were independent of BMI. Diabetes also emerged as an independent risk factor (OR = 1.19; 95% CI = 1.04 to 1.37). There were also suggestive relations with cryptorchidism (OR = 2.18; 95% CI = 0.96 to 4.94) and orchitis (OR = 1.43; 95% CI = 1.02 to 1.99). Although age at onset of puberty and histories of infertility were unrelated to risk, never having had children was statistically significantly related (OR = 1.29; 95% CI = 1.01 to 1.66). Among individuals diagnosed at older ages, a history of fractures was statistically significantly related (OR = 1.41; 95% CI = 1.07 to 1.86). CONCLUSIONS: Consistent findings across case-control and cohort investigations, complemented by pooled analyses, indicated important roles for anthropometric and hormonal risk factors in the etiology of male breast cancer. Further investigation should focus on potential roles of endogenous hormones.", 
+          "qas": [
+            {
+              "question": "Is there an association between Klinefelter syndrome and breast cancer?", 
+              "id": "5a68eabab750ff4455000015_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Dlx1 and Dlx2 Promote Interneuron GABA Synthesis, Synaptogenesis, and Dendritogenesis. The postnatal functions of the Dlx1&2 transcription factors in cortical interneurons (CINs) are unknown. Here, using conditional Dlx1, Dlx2, and Dlx1&2 knockouts (CKOs), we defined their roles in specific CINs. The CKOs had dendritic, synaptic, and survival defects, affecting even PV+ CINs. We provide evidence that DLX2 directly drives Gad1, Gad2, and Vgat expression, and show that mutants had reduced mIPSC amplitude. In addition, the mutants formed fewer GABAergic synapses on excitatory neurons and had reduced mIPSC frequency. Furthermore, Dlx1/2 CKO had hypoplastic dendrites, fewer excitatory synapses, and reduced excitatory input. We provide evidence that some of these phenotypes were due to reduced expression of GRIN2B (a subunit of the NMDA receptor), a high confidence Autism gene. Thus, Dlx1&2 coordinate key components of CIN postnatal development by promoting their excitability, inhibitory output, and survival.", 
+          "qas": [
+            {
+              "question": "Is there any role of Dlx1 and Dlx2 transcription factors in cortical interneurons?", 
+              "id": "5a6d186db750ff4455000031_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Analysis of the MELD Score Impact in the Outcome of Endovascular Portal Vein Reconstruction. INTRODUCTION: Endovascular therapy represents a less invasive alternative to open surgery for reconstruction of the portal vein (PV) and the spleno-mesenteric venous confluence to treat Portal hypertension. The objective of this study is to determine if the Model for End-Stage Liver Disease (MELD) score is a useful method to evaluate the risk of morbidity and mortality during endovascular approaches. MATERIAL AND METHODS: Patients that underwent endovascular reconstruction of the PV or spleno-mesenteric confluence were identified retrospectively. Data were collected from November 2011 to August 2016. The MELD score was calculated using international normalized ratio, serum billirubin and creatinine. Patients were grouped into moderate ( < 15) and high (> 15) MELD. Associations of the MELD score on the postprocedural morbidity, mortality and vessels patency were assessed by two-sided Fisher's exact test. RESULTS: Seventeen patients were identified; MELD score distribution was: < 15 in 10 patients (59%) and > 15 in 7 (41%). Even distribution of severe PV thrombosis was treated in both groups, performing predominately jugular access in the high MELD score group (OR 0.10; 95%; CI 0.014-0.89; p = 0.052) in contrast to a percutaneous transhepatic access in the moderate MELD score group. Analysis comparing moderate and high MELD scores was not able to demonstrate differences in mortality, morbidity or patency rates. CONCLUSION: MELD score did not prove to be a useful method to evaluate risk of morbidity and mortality; however a high score should not contraindicate endovascular approaches. In our experience a high technical success, good patency rates and low complication rates were observed.", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Limited comparability of creatinine assays in patients with liver cirrhosis and their impact on the MELD score. BACKGROUND & AIM: Patients with end-stage liver disease require valid estimations of mortality for organ allocation and risk stratification. The model of end-stage liver disease (MELD) score is used for this purpose in most countries and incorporates bilirubin, International Normalized ratio, and creatinine. The aim of this study was to evaluate the comparability of creatinine results from different routine assays in the serum samples of patients with liver cirrhosis. METHODS: Residual material from 60 serum samples was available from patients in different stages of liver cirrhosis. Four centers participated; each center analyzed the samples with Jaff\u00e9-based and enzymatic routine assays in parallel. In addition, an accredited calibration laboratory certified the panel of samples by an internationally accepted reference measurement procedure (RMP) based on isotope dilution mass spectrometry (ID-MS). This method served as the independent reference. RESULTS: All routine methods displayed a high correlation to the RMP (r > 0.937, p<0.001). Two enzymatic and two Jaff\u00e9-based methods provided results that were all within a \u00b120% range of the RMP. The other methods showed deviations >20% in up to 27% of the samples. The enzymatic methods were systematically lower, whereas the Jaff\u00e9-based methods were systematically higher (p<0.001). The resulting MELD scores differed from 0 to 4 points. CONCLUSIONS: There are systematic deviations from the RMP. Jaff\u00e9-based assays gave higher results, whereas the enzymatic-based assays gave lower results compared to the results of the RMP. The comparability of results is limited and could be disadvantageous to patients listed for liver transplantation.", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Incidence of hepatic encephalopathy after transjugular intrahepatic portosystemic shunt (TIPS) according to its severity and temporal grading classification. OBJECTIVES: To evaluate hepatic encephalopathy (HE) incidence after transjugular intrahepatic portosystemic shunt (TIPS) and classify by gravity and frequency. METHODS: This is a retrospective study of 75 patients with no previous episodes of HE who underwent TIPS between 2008 and 2014 with clinical follow-up after 6 and 12\u00a0months. Patient risk factors evaluated include age, INR (international normalized ratio), creatinine, bilirubin, and MELD score (Model for End-of-stage Liver Disease). HE was reported using two classifications: (1) gravity divided in moderate (West-Haven grades I-II) and severe (III-IV); (2) frequency divided in episodic and recurrent/persistent. RESULTS: Overall HE incidence was 36% at 6\u00a0months, with 12\u00a0month incidence significantly decreased to 27% (p\u00a0=\u00a00.02). 13/75 (17%) patients had one episode of moderate HE, while 3/75 (4%) patients had severe recurrent/persistent HE. Age was the only pre-TIPS risk predictor. Post-TIPS bilirubin and INR showed variations from basal values only in the presence of diagnosed HE. Bilirubin significantly increased (p\u00a0=\u00a00.03) in correlation to HE severity, whereas INR changes correlated with temporal frequency (p\u00a0=\u00a00.04). HE distribution classified for severity is similar at 6 and 12\u00a0months, whereas when classified for frequency shows significant differences (p\u00a0=\u00a00.04). CONCLUSIONS: A classification by gravity and frequency attests post-TIPS HE as a manageable risk. Monitoring of bilirubin and INR may help on clinical management risk stratification.", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Extracorporeal cellular therapy (ELAD) in severe alcoholic hepatitis: A multinational, prospective, controlled, randomized trial. Severe alcoholic hepatitis (sAH) is associated with a poor prognosis. There is no proven effective treatment for sAH, which is why early transplantation has been increasingly discussed. Hepatoblastoma-derived C3A cells express anti-inflammatory proteins and growth factors and were tested in an extracorporeal cellular therapy (ELAD) study to establish their effect on survival for subjects with sAH. Adults with sAH, bilirubin > 8 mg/dL, Maddrey's discriminant function > 32, and Model for End-Stage Liver Disease (MELD) score < 35 were randomized to receive standard of care (SOC) only or 3-5 days of continuous ELAD treatment plus SOC. After a minimum follow-up of 91 days, overall survival (OS) was assessed by using a Kaplan-Meier survival analysis. A total of 203 subjects were enrolled (96 ELAD and 107 SOC) at 40 sites worldwide. Comparison of baseline characteristics showed no significant differences between groups and within subgroups. There was no significant difference in serious adverse events between the 2 groups. In an analysis of the intent-to-treat population, there was no difference in OS (51.0% versus 49.5%). The study failed its primary and secondary end point in a population with sAH and with a MELD ranging from 18 to 35 and no upper age limit. In the prespecified analysis of subjects with MELD < 28 (n = 120), ELAD was associated with a trend toward higher OS at 91 days (68.6% versus 53.6%; P = .08). Regression analysis identified high creatinine and international normalized ratio, but not bilirubin, as the MELD components predicting negative outcomes with ELAD. A new trial investigating a potential benefit of ELAD in younger subjects with sufficient renal function and less severe coagulopathy has been initiated. Liver Transplantation 24 380-393 2018 AASLD.", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Limitations of GD-EOB-DTPA-enhanced MRI: can clinical parameters predict suboptimal hepatobiliary phase? AIM: To establish cut-off levels of the clinical parameters, which would predict suboptimal 30 minutes delayed hepatobiliary phase (HBP) with high specificity. MATERIALS AND METHODS: This retrospective study included patients with chronic liver disease who underwent hepatocellular carcinoma screening with Gd-EOB-DTPA-enhanced magnetic resonance imaging (MRI) between 1 January 2011 and 30 November 2014. For each case, HBP was graded as adequate or suboptimal, based on Liver Image Reporting and Data System (LI-RADS) criteria. The following laboratory data obtained within 3 months of the MRI date was extracted: total bilirubin (TB), direct bilirubin (DB), serum glutamic oxaloacetic transaminase (SGOT), serum glutamic-pyruvic transaminase (SGPT), alkaline phosphatase (ALP), albumin, activated partial thromboplastin time (aPTT), and International normalised ratio (INR). Model For End-Stage Liver Disease (MELD) scores were calculated as 3.78\u00d7ln[TB]\u00a0+\u00a011.2\u00d7ln[INR]\u00a0+\u00a09.57\u00d7ln[creatinine]\u00a0+\u00a06.43. Receiver operating characteristic (ROC) curve analysis was used to establish cut-off values for predicting suboptimal HBP. RESULTS: Of 284 patients, 242 (85.2%) patients (91; 57.6% male) had an adequate HBP and 42 (14.8%) patients (13; 61.9% male) had suboptimal HBP, with mean ages of 58.5\u00b19.7 years and 55\u00b112.7 years, respectively (p=0.096). Areas under the ROC curve for predicting suboptimal HBP were 0.85 (95%CI 0.79-0.91) for the MELD score, 0.88 (95%CI 0.82-0.93) for TB, and 0.91 (95%CI 0.86-0.95) for DB. Accuracy, positive likelihood ratios and cut-off values for predicting suboptimal HBP were, respectively: 86.7% and 11.2 for the MELD score > 16.7, 88.2% and 28.7 for TB > 4.3\u00a0mg/dl, and 91.1% and 36.4 for DB > 1.3\u00a0mg/dl. SGOT, SGPT, and ALP were not statistically significantly different between the groups. CONCLUSION: Cut-off levels of MELD score, DB, and TB can predict an suboptimal HBP with high accuracy. Prospective identification of patients with a high likelihood of an suboptimal HBP can help to avoid administering a more costly agent to patients who would not benefit from its unique properties.", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Development and validation of a mathematical equation to estimate glomerular filtration rate in cirrhosis: The royal free hospital cirrhosis glomerular filtration rate. Current expressions based on serum creatinine concentration overestimate kidney function in cirrhosis, leading to significant differences between \"true\" and calculated glomerular filtration rate (GFR). We compared the performance of the four-variable and six-variable Modification of Diet in Renal Disease and chronic kidney disease epidemiology with \"true,\" or measured, GFR (mGFR) and the impact of this difference on Model for End-Stage Liver Disease (MELD) calculation. We subsequently developed and validated a GFR equation specifically for cirrhosis and compared the performance of the new derived formula with existing GFR formulae. We included 469 consecutive patients who had a transplant assessment between 2011 and 2014. mGFR was measured using plasma isotope clearance according to a technique validated in patients with ascites. A corrected creatinine was derived from the mGFR after application of the Modification of Diet in Renal Disease formula. Subsequently, a corrected MELD was calculated and compared with the conventionally calculated MELD. Stepwise multiple linear regression was used to derive a GFR equation. This was compared with the mGFR in independent external and internal validation sets of 82 and 174 patients with cirrhosis, respectively. A difference >20 mL/minute/1.73 m between existing formulae and mGFR was observed in 226 (48.2%) patients. The corrected MELD score was > 3 points higher in 177 (37.7%) patients. The predicted equation (r = 74.6%) was GFR = 45.9 \u00d7 (creatinine ) \u00d7 (urea ) \u00d7 (international normalized ratio ) \u00d7 (age [Corrected November 29, 2016: originally written as \"age-129.\"]) \u00d7 (sodium ) \u00d7 0.809 (if female) \u00d7 0.92 (if moderate/severe ascites). An online calculator is available at http://rfh-cirrhosis-gfr.ucl.ac.uk. The model was a good fit and showed the greatest accuracy compared to that of existing formulae. CONCLUSION: We developed and validated a new accurate model for GFR assessment in cirrhosis, the Royal Free Hospital cirrhosis GFR, using readily available variables; this remains to be tested and incorporated in prognostic scores in patients with cirrhosis. (Hepatology 2017;65:582-591).", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Predicting short-term survival after liver transplantation on eight score systems: a national report from China Liver Transplant Registry. To compare the performance of eight score systems (MELD, uMELD, MELD-Na. iMELD, UKELD, MELD-AS, CTP, and mCTP) in predicting the post-transplant mortality, we analyzed the data of 6,014 adult cirrhotic patients who underwent liver transplantation between January 2003 and December 2010 from the China Liver Transplant Registry database. In hepatitis B virus (HBV) group, MELD, uMELD and MELD-AS showed good predictive accuracies at 3-month mortality after liver transplantation; by comparison with other five models, MELD presented the best ability in predicting 3-month, 6-month and 1-year mortality, showing a significantly better predictive ability than UKELD and iMELD. In hepatitis C virus and Alcohol groups, the predictive ability did not differ significantly between MELD and other models. Patient survivals in different MELD categories were of statistically significant difference. Among patients with MELD score >35, a new prognostic model based on serum creatinine, need for hemodialysis and moderate ascites could identify the sickest one. In conclusion, MELD is superior to other score systems in predicting short-term post-transplant survival in patients with HBV-related liver disease. Among patients with MELD score >35, a new prognostic model can identify the sickest patients who should be excluded from waiting list to prevent wasteful transplantation.", 
+          "qas": [
+            {
+              "question": "Is creatinine assessment included in the MELD score?", 
+              "id": "5a68f633b750ff4455000019_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Endocytosis and transcytosis of gliadin peptides. BACKGROUND: Celiac disease (CD) is a frequent inflammatory intestinal disease, with a genetic background, caused by gliadin-containing food. Some gliadin peptides are not digested by intestinal proteases and can have different biological effects. Gliadin peptides can induce innate and adaptive T cell-mediated immune responses. The major mediator of the stress and innate immune response to gliadin peptides (i.e., peptides 31-43 and 31-55) is the cytokine interleukin-15 (IL-15). Other peptides such as the 33 mer containing the P57-68 sequence, after tissue transglutaminase deamidation, are well presented to T cell in the intestine and can induce an adaptive immune response. FINDINGS: In this paper, we review the recent studies on the digestion of gliadin and the peptides released by the digestion process. We will also discuss the mechanisms responsible for the internalization and transcytosis of indigested gliadin peptides in the intestinal epithelium. CONCLUSIONS: Gliadin is not completely digested by the intestinal proteases producing bioactive peptides that have different biological effects. These peptides are internalized in the cells by an active process of endocytosis and can traverse the intestinal mucosa with different kinetics and immunological effects. In vivo findings will also be discussed.", 
+          "qas": [
+            {
+              "question": "Is celiac disease caused by gliadin-induced transglutaminase-2 (TG2)-dependent events ?", 
+              "id": "5a79d195faa1ab7d2e00000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Biosensors for the Diagnosis of Celiac Disease: Current Status and Future Perspectives. Celiac disease (CD) is an autoimmune enteropathy initiated and sustained by the ingestion of gluten in genetically susceptible individuals. It is caused by a dysregulated immune response toward both dietary antigens, the gluten proteins of wheat, rye, and barley, and autoantigens, the enzyme tissue transglutaminase (TG2). The small intestine is the target organ. Although routine immunochemical protocols for a laboratory diagnosis of CD are available, faster, easier-to-use, and cheaper analytical devices for CD diagnosis are currently unavailable. This review focuses on biosensors, consisting of a physicochemical transducer and a bioreceptor, as promising analytical tools for diagnosis of CD and other diseases. Examples of recently developed biosensors as well as expectations for future lines of research and development in this field are presented.", 
+          "qas": [
+            {
+              "question": "Is celiac disease caused by gliadin-induced transglutaminase-2 (TG2)-dependent events ?", 
+              "id": "5a79d195faa1ab7d2e00000e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Celiac anti-type 2 transglutaminase antibodies induce differential effects in fibroblasts from celiac disease patients and from healthy subjects. Type 2 transglutaminase (TG2) has an important pathogenic role in celiac disease (CD), an inflammatory intestinal disease that is caused by the ingestion of gluten-containing cereals. Indeed, TG2 deamidates specific gliadin peptides, thus enhancing their immunogenicity. Moreover, the transamidating activity seems to provoke an autoimmune response, where TG2 is the main autoantigen. Many studies have highlighted a possible pathogenetic role of anti-TG2 antibodies, because they modulate TG2 enzymatic activity and they can interact with cell-surface TG2, triggering a wide range of intracellular responses. Autoantibodies also alter the uptake of the alpha-gliadin peptide 31-43 (p31-43), responsible of the innate immune response in CD, thus partially protecting cells from p31-43 damaging effects in an intestinal cell line. Here, we investigated whether anti-TG2 antibodies protect cells from p31-43-induced damage in a CD model consisting of primary dermal fibroblasts. We found that the antibodies specifically reduced the uptake of p31-43 by fibroblasts derived from healthy subjects but not in those derived from CD patients. Analyses of TG2 expression and enzymatic activity did not reveal any significant difference between fibroblasts from healthy and celiac subjects, suggesting that other features related to TG2 may be responsible of such different behaviors, e.g., trafficking or subcellular distribution. Our findings are in line with the concept that a \"celiac cellular phenotype\" exists and that TG2 may contribute to this phenotype. Moreover, they suggest that the autoimmune response to TG2, which alone may damage the celiac mucosa, also fails in its protective role in celiac cells.", 
+          "qas": [
+            {
+              "question": "Is celiac disease caused by gliadin-induced transglutaminase-2 (TG2)-dependent events ?", 
+              "id": "5a79d195faa1ab7d2e00000e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Klebsiella sp. confers enhanced tolerance to salinity and plant growth promotion in oat seedlings (Avena sativa). Plant growth and yield is adversely affected by soil salinity. Salt tolerant plant growth-promoting rhizobacteria (PGPR) strain IG 3 was isolated from rhizosphere of wheat plants. The isolate IG 3 was able to grow in presence of NaCl ranging from 0 to 20% in Luria Bertani medium. The present study was planned to evaluate the role of inoculation of PGPR strain IG 3 and its efficacy in augmenting salt tolerance in oat (Avena sativa) under NaCl stress (100mM). The physiological parameter such as shoot length, root length, shoot dry weight, root dry weight and relative water content (RWC) were remarkably higher in IG 3 inoculated plants in comparison to un-inoculated plants under NaCl stress. Similarly, the biochemical parameters such as proline content, electrolyte leakage and malondialdehyde (MDA) content and activities of antioxidant enzymes were analyzed and found to be notably lesser in IG 3 inoculated oat plants in contrast to un-inoculated plants under salt stress. Inoculation of IG 3 strain to oat seedlings under salt stress positively modulated the expression profile of rbcL and WRKY1 genes. Root colonization of root surface and interior was demonstrated using scanning electron microscopy and tetrazolium staining, respectively. Due these outcomes, it could be implicated that inoculation of PGPR strain IG 3 enhanced plant growth under salt stress condition. This study demonstrates that PGPR play an imperative function in stimulating salt tolerance in plants and can be used as biofertilizer to enhance growth of crops in saline areas.", 
+          "qas": [
+            {
+              "question": "Does wheat belongs to the genus Avena, yes or no?", 
+              "id": "5a79d25dfaa1ab7d2e00000f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Wide Hybridization Between Oat and Pearl Millet. Wide hybridization is a one of the important techniques in plant breeding. Oat (Avena sativa L.) and pearl millet (Pennisetum glaucum L.) belong to different subfamilies of Poaceae. In generally, such distant relative species show uniparental chromosome elimination after successful fertilization. However, all seven pearl millet chromosomes are retained beside the genome of oat during embryogenesis. Hybrid seedlings develop, but show necrosis after light irradiation. Here, a detailed protocol for wide hybridization between oat and pearl millet is described.", 
+          "qas": [
+            {
+              "question": "Does wheat belongs to the genus Avena, yes or no?", 
+              "id": "5a79d25dfaa1ab7d2e00000f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Acute effects of a wild green-oat (Avena sativa) extract on cognitive function in middle-aged adults: A double-blind, placebo-controlled, within-subjects trial. A wild green-oats extract (Neuravena) containing a range of potentially bioactive components, including flavonoids and triterpene saponins, has previously been shown to enhance animal stress responses and memory, and improve cognitive performance in humans at a dose of 1600 mg. Methods This double-blind, placebo-controlled, counterbalanced cross-over study assessed the effects of single doses of the green-oat extract (GOE) across a broad range of cognitive domains in healthy adults aged 40-65 years who self-reported that they felt that their memory had declined with age. Participants attended on six occasions, receiving a single dose of either placebo, 800, or 1600 mg GOE on each occasion, with the counterbalanced order of treatments repeated twice for each participant. Cognitive function was assessed with a range of computerized tasks measuring attention, spatial/working/episodic memory, and executive function pre-dose and at 1, 2.5, 4, and 6 hours post-dose. Results The results showed that 800mg GOE increased the speed of performance across post-dose assessments on a global measure including data from all of the timed tasks. It also improved performance of a delayed word recall task in terms of errors and an executive function task (Peg and Ball) in terms of decreased thinking time and overall completion time. Working memory span (Corsi blocks) was also increased, but only on the second occasion that this dose was taken. Discussion These results confirm the acute cognitive effects of GOE seen in previous research, and suggest that the optimal dose lies at or below 800 mg.", 
+          "qas": [
+            {
+              "question": "Does wheat belongs to the genus Avena, yes or no?", 
+              "id": "5a79d25dfaa1ab7d2e00000f_002"
+            }
+          ]
+        }, 
+        {
+          "context": "2-DE Separation and Identification of Oat (Avena sativa L.) Proteins and Their Prolamin Fractions. At present two-dimensional polyacrylamide gel electrophoresis (2-DE) is the most widely used proteomic tool, which enables simultaneous separation of even thousands of proteins with a high degree of resolution. The quality of 2-DE separation depends on the type of biological material used as a protein source. The presence of interfering compounds (e.g., phenols, as it is the fact in plant material including oat seeds) impedes 2-DE run. With the use of this technique it is possible to analyze the complex protein mixtures, characteristic protein fractions, as well as individual proteins.The purpose of this chapter is to describe the 2-DE technique (the separate stages of the first and the second dimension) for determining the oat protein composition (oat seed proteome), separation and preliminary identification of oat prolamin fractions. Electrophoretically separated proteins are identified on the basis of pI markers (identifying the location of both ends of an IPG strip) and on 2D SDS-PAGE standards. The gel images of oat proteins are analyzed with the help of ImageMaster 2D Platinum 6.0 program (Amersham Bioscience, part of GE Healthcare, Uppsala, Sweden). It allows finding unique spot identifiers for the occurrence of oat prolamin fractions in oat total proteins. The characteristic spots of similar shape and intensity (anchoring spots) and characteristic groups of spots can be searched for the purpose of identification.", 
+          "qas": [
+            {
+              "question": "Does wheat belongs to the genus Avena, yes or no?", 
+              "id": "5a79d25dfaa1ab7d2e00000f_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression and function of Uc.160+, a transcribed ultraconserved region, in gastric cancer. BACKGROUND: Transcribed ultraconserved regions (T-UCRs) are a novel class of noncoding RNAs that are highly conserved among the orthologous regions in most vertebrates. It has been reported that T-UCRs have distinct signatures in human cancers. We previously discovered the downregulation of T-UCR expression in gastric cancer (GC), indicating that T-UCRs could play an important role in GC biology. Uc.160+, a T-UCR reported to be downregulated in human cancer, has not been examined in GC. METHODS: We analyzed the expression pattern of Uc.160+ in nonneoplastic and tumor tissues of the stomach by using uantitative reverse transcription polymerase chain reaction (qRT-PCR) and in situ hybridization (ISH), specifically focusing on the mechanism of transcriptional regulation and target genes that are regulated by T-UCRs. We also attempted to determine the effect of Uc.160+ expression on biological features of GC cell lines by Western blotting. RESULTS: On the basis of the qRT-PCR and ISH results, Uc.160+ expression in adenoma and GC tissues was clearly downregulated compared with that in nonneoplastic mucosa tissues of the stomach. Cancer-specific DNA methylation in the promoter region of Uc.160 was observed by bisulfite genomic DNA sequencing analysis. The effect of DNA methylation on Uc.160+ expression was further confirmed by reporter gene assay. We also revealed that Uc.160+ inhibited the phosphorylation of Akt by regulating phosphatase and tensin homolog (PTEN) expression. CONCLUSIONS: These results indicate that Uc.160+ could possibly have a tumor suppressive role in GC.", 
+          "qas": [
+            {
+              "question": "Does Uc.160 promote cancer?", 
+              "id": "5a6d2558b750ff4455000036_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Diclofenac-Induced Photo-Onycholysis. Onycholysis is the detachment of the nail plate from the nail bed. If drug-induced, it can be an isolated phenomenon, but it may also accompany or follow a cutaneous phototoxicity reaction due to drug intake and exposure to ultraviolet irradiation. Photo-onycholysis is a rare photosensitivity reaction due to exposure to either a natural or artificial source of light. Many drugs are responsible for this phototoxic reaction, especially tetracyclines, psoralens, chloramphenicol, non-steroidal anti-inflammatory drugs, fluoroquinolones, and, rarely, doxycycline. Any patient given enough of a therapeutic dose of an inducing drug and sufficient light irradiation can develop phototoxic reactions. While there is no need to avoid these drugs completely, precautions should be taken. Here we have reported the case of a patient who developed onycholysis of his fingernails with sparing of the toenails following administration of diclofenac therapy for lower back pain. The onycholysis was associated with a phototoxic reaction. The swellings resolved totally within two days, and the patient started to notice the separation of all fingernail plates from their nail beds. The patient was treated symptomatically. On follow-up, onycholysis had regressed slowly, and the condition recovered totally within three months without any sequelae.", 
+          "qas": [
+            {
+              "question": "Can doxycycline cause photosensitivity?", 
+              "id": "5a69031bb750ff445500001e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Modulation of Melanogenesis and Antioxidant Status of Melanocytes in Response to Phototoxic Action of Doxycycline. Doxycycline is a commonly used tetracycline antibiotic showing the broad spectrum of antibacterial action. However, the use of this antibiotic is often connected with the risk of phototoxic reactions that lead to various skin disorders. One of the factors influencing the photosensitivity reactions is the melanin content in melanocytes. In this study, the impact of doxycycline and UVA irradiation on cell viability, melanogenesis and antioxidant defense system in cultured normal human epidermal melanocytes (HEMn-DP) was examined. The exposure of cells to doxycycline and UVA radiation resulted in concentration-dependent loss in melanocytes viability and induced melanin biosynthesis. Significant changes were stated in cellular antioxidant enzymes activity: SOD, CAT and GPx, which indicates alterations of antioxidant defense system. The results obtained in vitro may explain the mechanisms of phototoxic reactions that occur in normal human epidermal melanocytes in vivo after exposure of skin to doxycycline and UVA radiation.", 
+          "qas": [
+            {
+              "question": "Can doxycycline cause photosensitivity?", 
+              "id": "5a69031bb750ff445500001e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Mefloquine for preventing malaria during travel to endemic areas. BACKGROUND: Mefloquine is one of four antimalarial agents commonly recommended for preventing malaria in travellers to malaria-endemic areas. Despite its high efficacy, there is controversy about its psychological side effects. OBJECTIVES: To summarize the efficacy and safety of mefloquine used as prophylaxis for malaria in travellers. SEARCH METHODS: We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published on the Cochrane Library; MEDLINE; Embase (OVID); TOXLINE (https://toxnet.nlm.nih.gov/newtoxnet/toxline.htm); and LILACS. We also searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP; http://www.who.int/ictrp/en/) and ClinicalTrials.gov (https://clinicaltrials.gov/ct2/home) for trials in progress, using 'mefloquine', 'Lariam', and 'malaria' as search terms. The search date was 22 June 2017. SELECTION CRITERIA: We included randomized controlled trials (for efficacy and safety) and non-randomized cohort studies (for safety). We compared prophylactic mefloquine with placebo, no treatment, or an alternative recommended antimalarial agent. Our study populations included all adults and children, including pregnant women. DATA COLLECTION AND ANALYSIS: Two review authors independently assessed the eligibility and risk of bias of trials, extracted and analysed data. We compared dichotomous outcomes using risk ratios (RR) with 95% confidence intervals (CI). Prespecified adverse outcomes are included in 'Summary of findings' tables, with the best available estimate of the absolute frequency of each outcome in short-term international travellers. We assessed the certainty of the evidence using the GRADE approach. MAIN RESULTS: We included 20 RCTs (11,470 participants); 35 cohort studies (198,493 participants); and four large retrospective analyses of health records (800,652 participants). Nine RCTs explicitly excluded participants with a psychiatric history, and 25 cohort studies stated that the choice of antimalarial agent was based on medical history and personal preference. Most RCTs and cohort studies collected data on self-reported or clinician-assessed symptoms, rather than formal medical diagnoses. Mefloquine efficacyOf 12 trials comparing mefloquine and placebo, none were performed in short-term international travellers, and most populations had a degree of immunity to malaria. The percentage of people developing a malaria episode in the control arm varied from 1% to 82% (median 22%) and 0% to 13% in the mefloquine group (median 1%).In four RCTs that directly compared mefloquine, atovaquone-proguanil and doxycycline in non-immune, short-term international travellers, only one clinical case of malaria occurred (4 trials, 1822 participants). Mefloquine safety versus atovaquone-proguanil Participants receiving mefloquine were more likely to discontinue their medication due to adverse effects than atovaquone-proguanil users (RR 2.86, 95% CI 1.53 to 5.31; 3 RCTs, 1438 participants; high-certainty evidence). There were few serious adverse effects reported with mefloquine (15/2651 travellers) and none with atovaquone-proguanil (940 travellers).One RCT and six cohort studies reported on our prespecified adverse effects. In the RCT with short-term travellers, mefloquine users were more likely to report abnormal dreams (RR 2.04, 95% CI 1.37 to 3.04, moderate-certainty evidence), insomnia (RR 4.42, 95% CI 2.56 to 7.64, moderate-certainty evidence), anxiety (RR 6.12, 95% CI 1.82 to 20.66, moderate-certainty evidence), and depressed mood during travel (RR 5.78, 95% CI 1.71 to 19.61, moderate-certainty evidence). The cohort studies in longer-term travellers were consistent with this finding but most had larger effect sizes. Mefloquine users were also more likely to report nausea (high-certainty evidence) and dizziness (high-certainty evidence).Based on the available evidence, our best estimates of absolute effect sizes for mefloquine versus atovaquone-proguanil are 6% versus 2% for discontinuation of the drug, 13% versus 3% for insomnia, 14% versus 7% for abnormal dreams, 6% versus 1% for anxiety, and 6% versus 1% for depressed mood. Mefloquine safety versus doxycyclineNo difference was found in numbers of serious adverse effects with mefloquine and doxycycline (low-certainty evidence) or numbers of discontinuations due to adverse effects (RR 1.08, 95% CI 0.41 to 2.87; 4 RCTs, 763 participants; low-certainty evidence).Six cohort studies in longer-term occupational travellers reported our prespecified adverse effects; one RCT in military personnel and one cohort study in short-term travellers reported adverse events. Mefloquine users were more likely to report abnormal dreams (RR 10.49, 95% CI 3.79 to 29.10; 4 cohort studies, 2588 participants, very low-certainty evidence), insomnia (RR 4.14, 95% CI 1.19 to 14.44; 4 cohort studies, 3212 participants, very low-certainty evidence), anxiety (RR 18.04, 95% CI 9.32 to 34.93; 3 cohort studies, 2559 participants, very low-certainty evidence), and depressed mood (RR 11.43, 95% CI 5.21 to 25.07; 2 cohort studies, 2445 participants, very low-certainty evidence). The findings of the single cohort study reporting adverse events in short-term international travellers were consistent with this finding but the single RCT in military personnel did not demonstrate a difference between groups in frequencies of abnormal dreams or insomnia.Mefloquine users were less likely to report dyspepsia (RR 0.26, 95% CI 0.09 to 0.74; 5 cohort studies, 5104 participants, low certainty-evidence), photosensitivity (RR 0.08, 95% CI 0.05 to 0.11; 2 cohort studies, 1875 participants, very low-certainty evidence), vomiting (RR 0.18, 95% CI 0.12 to 0.27; 4 cohort studies, 5071 participants, very low-certainty evidence), and vaginal thrush (RR 0.10, 95% CI 0.06 to 0.16; 1 cohort study, 1761 participants, very low-certainty evidence).Based on the available evidence, our best estimates of absolute effect for mefloquine versus doxycyline were: 2% versus 2% for discontinuation, 12% versus 3% for insomnia, 31% versus 3% for abnormal dreams, 18% versus 1% for anxiety, 11% versus 1% for depressed mood, 4% versus 14% for dyspepsia, 2% versus 19% for photosensitivity, 1% versus 5% for vomiting, and 2% versus 16% for vaginal thrush.Additional analyses, including comparisons of mefloquine with chloroquine, added no new information. Subgroup analysis by study design, duration of travel, and military versus non-military participants, provided no conclusive findings. AUTHORS' CONCLUSIONS: The absolute risk of malaria during short-term travel appears low with all three established antimalarial agents (mefloquine, doxycycline, and atovaquone-proguanil).The choice of antimalarial agent depends on how individual travellers assess the importance of specific adverse effects, pill burden, and cost. Some travellers will prefer mefloquine for its once-weekly regimen, but this should be balanced against the increased frequency of abnormal dreams, anxiety, insomnia, and depressed mood.", 
+          "qas": [
+            {
+              "question": "Can doxycycline cause photosensitivity?", 
+              "id": "5a69031bb750ff445500001e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Phototoxicity of Doxycycline: A Systematic Review on Clinical Manifestations, Frequency, Cofactors, and Prevention. BACKGROUND: One of the most important dermatologic side effects of doxycycline is photosensitivity. As doxycycline is important for malaria prophylaxis and malaria is mainly spread in countries with high sun radiation, special attention should be paid to this adverse effect. While there are many publications on the phototoxicity of tetracyclines in general, only a few exist focusing on doxycycline. The objective of this systematic review was to summarize all available reports on clinical manifestations, influencing factors like UV dose or dose of medication, and the possibilities of prevention by sun protection. METHODS: This review is based on a systematic search in PubMed for articles in English and German and a manual search between 1990 and 2015. RESULTS: The number of publications is low. Clinical symptoms vary from light sunburn-like sensation (burning, erythema) to large-area photodermatitis. Also, onycholysis is possible. The triggering UV spectrum seems to consist mainly of UVA1 (340-400 nm), so UV-protective products should be used that cover this range. Travelers to tropical countries taking doxycycline for malaria prophylaxis need thorough medical counseling to avoid possibly severe phototoxic reactions. CONCLUSION: Evidence base must be improved for giving advice on appropriate prevention measures to travelers taking doxycycline and having a risk of significant sun exposure.", 
+          "qas": [
+            {
+              "question": "Can doxycycline cause photosensitivity?", 
+              "id": "5a69031bb750ff445500001e_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Doxycycline assay hair samples for testing long-term compliance treatment. OBJECTIVES: Many patients undergoing long-term doxycycline treatment do not regularly take their treatment because of photosensitivity. Our objective was to create an assay for determining doxycycline levels and to use hair samples for monitoring the compliance over a longer period of time. METHODS: We tested sera and hair samples from patients treated with doxycycline by a suitable ultra-high performance liquid chromatography (UHPLC) based assay. RESULTS: We estimated that the speed of hair growth is roughly 1.25 cm per month and we were able to determine doxycycline levels over a 6-month period. We tested 14 patients treated with doxycycline and we found similar levels of doxycycline in the serum and the hair samples representing the last 4 months. Linear regression analysis revealed that the level of doxycycline in the serum remained stable over time (p = 0.7) but the level of doxycycline in the hair decreased significantly over time (p = 0.03) indicating a degradation of this molecule in the hair. We detected two patients who did not have antibiotic in the hair, indicating a lack of compliance that was also confirmed by interview. CONCLUSION: Hair samples can be used to test long-term compliance in patients to explain failures or relapses.", 
+          "qas": [
+            {
+              "question": "Can doxycycline cause photosensitivity?", 
+              "id": "5a69031bb750ff445500001e_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Co-regulation of paralog genes in the three-dimensional chromatin architecture. Paralog genes arise from gene duplication events during evolution, which often lead to similar proteins that cooperate in common pathways and in protein complexes. Consequently, paralogs show correlation in gene expression whereby the mechanisms of co-regulation remain unclear. In eukaryotes, genes are regulated in part by distal enhancer elements through looping interactions with gene promoters. These looping interactions can be measured by genome-wide chromatin conformation capture (Hi-C) experiments, which revealed self-interacting regions called topologically associating domains (TADs). We hypothesize that paralogs share common regulatory mechanisms to enable coordinated expression according to TADs. To test this hypothesis, we integrated paralogy annotations with human gene expression data in diverse tissues, genome-wide enhancer-promoter associations and Hi-C experiments in human, mouse and dog genomes. We show that paralog gene pairs are enriched for co-localization in the same TAD, share more often common enhancer elements than expected and have increased contact frequencies over large genomic distances. Combined, our results indicate that paralogs share common regulatory mechanisms and cluster not only in the linear genome but also in the three-dimensional chromatin architecture. This enables concerted expression of paralogs over diverse cell-types and indicate evolutionary constraints in functional genome organization.", 
+          "qas": [
+            {
+              "question": "Are paralog genes co-regulated?", 
+              "id": "5a6e21b4b750ff445500003a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Cytoplasmic RNA: a case of the tail wagging the dog. The addition of poly(A) tails to eukaryotic nuclear mRNAs promotes their stability, export to the cytoplasm and translation. Subsequently, the balance between exonucleolytic deadenylation and selective re-establishment of translation-competent poly(A) tails by cytoplasmic poly(A) polymerases is essential for the appropriate regulation of gene expression from oocytes to neurons. In recent years, surprising roles for cytoplasmic poly(A) polymerase-related enzymes that add uridylyl, rather than adenylyl, residues to RNA 3' ends have also emerged. These terminal uridylyl transferases promote the turnover of certain mRNAs but also modify microRNAs, their precursors and other small RNAs to modulate their stability or biological functions.", 
+          "qas": [
+            {
+              "question": "Is polyadenylation a process that stabilizes a protein by adding a string of Adenosine residues to the end of the molecule?", 
+              "id": "5a8714e261bb38fb24000005_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Species-specific factors mediate extensive heterogeneity of mRNA 3' ends in yeasts. Most eukaryotic genes express mRNAs with alternative polyadenylation sites at their 3' ends. Here we show that polyadenylated 3' termini in three yeast species (Saccharomyces cerevisiae, Kluyveromyces lactis, and Debaryomyces hansenii) are remarkably heterogeneous. Instead of a few discrete 3' ends, the average yeast gene has an \"end zone,\" a >200 bp window with >60 distinct poly(A) sites, the most used of which represents only 20% of the mRNA molecules. The pattern of polyadenylation within this zone varies across species, with D. hansenii possessing a higher focus on a single dominant point closer to the ORF terminus. Some polyadenylation occurs within mRNA coding regions with a strong bias toward the promoter. The polyadenylation pattern is determined by a highly degenerate sequence over a broad region and by a local sequence that relies on A residues after the cleavage point. Many dominant poly(A) sites are predicted to adopt a common secondary structure that may be recognized by the cleavage/polyadenylation machinery. We suggest that the end zone reflects a region permissive for polyadenylation, within which cleavage occurs preferentially at the A-rich sequence. In S. cerevisiae strains, D. hansenii genes adopt the S. cerevisiae polyadenylation profile, indicating that the polyadenylation pattern is mediated primarily by species-specific factors.", 
+          "qas": [
+            {
+              "question": "Is polyadenylation a process that stabilizes a protein by adding a string of Adenosine residues to the end of the molecule?", 
+              "id": "5a8714e261bb38fb24000005_001"
+            }
+          ]
+        }, 
+        {
+          "context": "[Expert consensus for the diagnosis and treatment of patients with renal impairment of multiple myeloma]. Renal impairment (RI) is a common complication of multiple myeloma (MM), which is presented as chronic kidney disease (CKD) or acute kidney injury (AKI). The typical pathological feature is cast nephropathy. Presently international system staging (ISS) is used in evaluating MM. Although the classic Durie-Salmon staging system could be still used in clinical practice, it may miss out some patients with renal impairment. For evaluations of RI in MM patients with CKD, it's recommended to assess the estimated glomerular filtration rate (eGFR) by creatinine based formula CKD-epidemiology collaboration (EPI) or modification of diet in renal disease(MDRD) and to stage the renal injuries according to 2013 Kidney Disease Improving Global Outcomes (KDIGO) CKD guidelines. For MM patients with AKI, KDIGO AKI guidelines is recommended for evaluation. Renal biopsy is not a routine procedure in all MM patients. It's necessary for patients presenting with glomerular injuries such as albuminuria > 1 g/24 h to eliminate immunoglobulin associated amyloidosis (AL) and monoclonal immunoglobulin deposition disease (MIDD). The effective treatment of MM can reduce serum light chain concentration and improve renal function. The basis of the RI treatment in MM is bortizomib-based regimen, which does not require dosage adjustment in patients with dialysis or renal insufficiency. Thalidomide and lenalidomide are two major immunomodulators in MM treatment. Thalidomide can be used effectively in RI patients without dosage adjustment while lenalidomide should be used cautiously in patients with mild or moderate RI with dosage adjustment and serum toxicity surveillance. High-dose therapy (HDT) and autologous peripheral blood stem cell transplantation (APBSCT) can be therapeutical options for RI patients younger than 65 y, and they should be considered more prudently in patients with severe renal insufficiency (GFR<30 ml/min). For patients who are not suitable for the treatment mentioned above, they can be treated with conventional chemotherapy, including VAD (vincristine, adriamycin and dexamethasone), MP (mephalan and prednisolone) and high-dose dexamethasone regimen. Adequate hydration (at least 3 litres of fluid intake a day or 2 L\u00b7m(-2)\u00b7d(-1)) and correcting reversible causes of RI are key points for the supportive care. Renal replacement therapy (more often hemodialysis) should be started in patients with severe AKI and end stage renal disease (ESRD). High flux or high cut-off membrane are recommended because routine hemodialysis could not remove the serum free light chain (sFLC) effectively. Plasmapheresis (PE) is recommended for patients with hyperviscosity syndrome or cast nephropathy presented with AKI, which may help to increase the dialysis-independency.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Double filtration plasmapheresis in a dog with multiple myeloma and hyperviscosity syndrome. A 12 year old, 38 kg, mix-breed, intact male dog presented with a 20 day history of clinical signs consistent with hyperviscosity syndrome secondary to multiple myeloma. The dog received three double filtration plasmapheresis treatments on day 0, 7 and 22 after presentation. A significant (p<0.05) reduction in serum total protein, alpha-2 and gamma globulins was found following each treatment. These reductions were accompanied by a complete resolution, although temporary, of the clinical signs of hyperviscosity syndrome. The present study reported for the first time the use of double filtration plasmapheresis to reduce clinical signs of hyperviscosity syndrome in a dog with multiple myeloma.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Capillary electrophoresis analysis of N-glycosylation changes of serum paraproteins in multiple myeloma. Multiple myeloma (MM) is an immedicable malignancy of the human plasma cells producing abnormal antibodies (also referred to as paraproteins) leading to kidney problems and hyperviscosity syndrome. In this paper, we report on the N-glycosylation analysis of paraproteins from total human serum as well as the fragment crystallizable region (F ) and fragment antigen binding (F ) \u03ba/\u03bb light chain fractions of papain digested immunoglobulins from multiple myeloma patients. CE-LIF detection was used for the analysis of the N-glycans after endoglycosidase (PNGase F) mediated sugar release and fluorophore labeling (APTS). While characteristic N-glycosylation pattern differences were found between normal control and untreated, treated and remission stage multiple myeloma patient samples at the global serum level, less distinctive changes were observed at the immunoglobulin level. Principal component analysis adequately differentiated the four groups (control and three patient groups) on the basis of total serum N-glycosylation analysis. 12 N-glycan features showed statistically significant differences (p <0.05) among various stages of the disease in comparison to the control at the serum level, while only six features were identified with similar significance at the immunoglobulin level, including the analysis of the partitioned F fragment as well as the F \u03ba and F \u03bb chains.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Hypoglossal Nerve Mononeuropathy as the First Presenting Symptom of Progressing Multiple Myeloma. Multiple myeloma (MM) rarely presents with a primary neurological dysfunction, and if it does it is usually due to a plasmacytoma. This is the first case to discuss hypoglossal nerve dysfunction as the first sign of MM progression secondary to severe pathophysiologic bone lysis. A PubMed-based literature search was completed on April 17, 2016 for the terms \"multiple myeloma\" and \"hypoglossal nerve neuropathy\". A 73-year-old woman with known MM who received little treatment for several years, presented secondary to dysarthria and at first was thought to have hyperviscosity syndrome. On further examination, it was found she had light chain disease and her symptoms were secondary to severe disease progression. Imaging revealed multiple lytic lesions in the skull on skeletal survey and brain MRI revealed boney lysis near the occipital condyle and clivus likely interfering with the coursing of the hypoglossal nerve. Advanced progressing MM can cause severe boney destruction which can interfere with cranial nerve canals and cause neuropathy as a presenting symptom.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Concomitant multiple myeloma spectrum diagnosis in a central retinal vein occlusion: a case report and review. Multiple myeloma is a neoplastic plasma-cell disorder resulting from malignant plasma cells in the bone marrow. It can cause a hyperviscosity syndrome secondary to the paraproteinaemia associated with the disease. The increased hyperviscosity can lead to retinal vein occlusions and other ocular problems that may challenge clinicians. In patients with multiple myeloma and hypertension and/or diabetes mellitus, retinal changes appear similar and changes due to one disease or the other may be difficult to determine. A 48-year-old white female presented to the clinic with a complaint of blurry vision in her left eye. A full comprehensive ocular examination revealed a central retinal vein occlusion presumably from the patient's history of hypertension, diabetes mellitus and hypercholesterolaemia. Further bloodwork revealed monoclonal protein in the patient's serum and an increased percentage of plasma cells in the bone marrow. She was diagnosed with monoclonal gammopathy of undetermined significance, part of the multiple myeloma disease spectrum. She was referred to a retinal specialist for initiation of intravitreal injections of anti-vascular endothelial growth factor. Multiple myeloma has been implicated in younger patients as an underlying cause of retinal vein occlusions. Multiple myeloma should be considered as a differential diagnosis in young patients with retinal vein occlusions, even if other risk factors for venous occlusion like hypertension, diabetes mellitus and hypercholesterolaemia are present. Timely referral to the patient's primary care physician and haematologist is important for appropriate treatment and control of underlying systemic conditions.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_004"
+            }
+          ]
+        }, 
+        {
+          "context": "[Hyperviscosity syndrome]. Hyperviscosity syndrome is a life-threatening complication. Clinical manifestations include neurological impairment, visual disturbance and bleeding. Measurement of plasma or serum viscosity by a viscometer assesses the diagnosis. Funduscopic examination is a key exam because abnormalities are well-correlated with abnormal plasma viscosity. Etiologies are various but symptomatic hyperviscosity is more common in Waldenstr\u00f6m's macroglobulinemia and multiple myeloma. Prompt treatment is needed: treatment of the underlying disease should be considered, but generally not sufficient. Symptomatic measures aim to not exacerbate blood viscosity while urgent plasmapheresis effectively reduces the paraprotein concentration and relieves symptoms.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Clinical conditions responsible for hyperviscosity and skin ulcers complications. In this brief review, we have examined some clinical conditions that result to be associated to an altered hemorheological profile and at times accompanied by skin ulcers. This skin condition may be observed in patients with the following condtions, such as primary polycythemic hyperviscosity (polycythemia, thrombocytemia) treated with hydroxyurea, primary plasma hyperviscosity (multiple myeloma, cryoglobulinemia, cryofibrinogenemia, dysfibrinogenemia, and connective tissue diseases), primary sclerocythemic hyperviscosity (hereditary spherocytosis, thalassemia, and sickle cell disease). In addition, it may be present in patients with secondary hyperviscosity conditions such as diabetes mellitus, arterial hypertension, critical limb ischemia and chronic venous insufficiency.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_006"
+            }
+          ]
+        }, 
+        {
+          "context": "[Plasmapheresis in haematology]. Plasmapheresis also known as a therapeutic plasma exchange (TPE) is a procedure of plasma removal with it's ineligible plasma's component. Usually it is a supportive measure used simultaneously with the treatment, but in a few diseases, e.g. in trombotictrombocytopenic purpura (TTP), it is a first-choice treatment. During the plasmapheresis plasma is mostly replaced by 20% solution of albumin or combination of 20% solution of albumin and 0.9% solution of NaCl, however in some diseases fresh frozen plasma (FFP) is used. Plasmaphereses have found a wide application in different branches of medicine: hematology, neurology, nephrology, reumatology. Plasmapheresis is an invasive procedure, but when performed by qualified staff it is rather safe and serious complications are very rare.The most common complications of plasmapheresis are mild, usually caused by electrolyte disturbances (hypokalemia, hypokalcemia) or anticoagulation. More serious complication can be associated with FFP transfusion, extracorporeal circulation or presence of intravenous catheter. The latter one is usually necessary to perform the plasmapheresis. In haematology the most common indication for plasmapheresis is the supportive treatment of multiple myeloma. The procedure is performed in patients with high protein levels endangered with hyperviscosity syndrome. Less frequent indications to plasmapheresis in haematology are: Waldenstr\u00f6m's macroblobulynaemia, idiopathic thrombocytopenic purpura (ITP), pure red cell aplasia (PRCA), polyneuropaties connected with haematological disorders. Supportive treatment of haemofagocytic syndrome (HLH--hemophagocytic lymphohistiocytosis) is one of the new indications. Plasmaphereses are used in treatment of about 150 different diseases and more and more new needs for this method are identified.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Multiple Myeloma Presenting as Acute Renal Failure in the Absence of Other Characteristic Features. This case report describes a 54-year-old, asymptomatic man who presented with hyperkalemia on routine lab testing who was later found to have acute renal failure, unresponsive to fluid resuscitation, with minimal improvement after hemodialysis. After a comprehensive evaluation ruled out common causes of acute renal failure, the patient underwent testing with a bone survey, urine protein electrophoresis (UPEP), serum protein electrophoresis (SPEP), and immunoelectrophoresis for suspected plasma cell dyscrasia and received plasmapheresis for hyperviscosity syndrome and nephrotoxicity, which resulted in improved renal function. Lab results showed monoclonal gammopathy, elevated serum free light chains, and Bence Jones protein in the urine with a follow-up bone marrow biopsy indicating plasma cell dyscrasia. The patient received a diagnosis of multiple myeloma (MM) and was started on chemotherapy and immunosuppression. In patients presenting with acute renal failure with an evaluation ruling out prerenal and postrenal causes, multiple myeloma should be considered.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_008"
+            }
+          ]
+        }, 
+        {
+          "context": "An otherwise healthy young man presents with bilateral CRVO as the first sign of hyperviscosity syndrome in the setting of new multiple myeloma. PURPOSE: To report a case of bilateral central retinal vein occlusion as the presenting feature of new onset multiple myeloma in an otherwise healthy man. METHODS: A 44-year-old man presented with painless visual changes in his left eye. Ophthalmic examination revealed what appeared to be bilateral central retinal vein occlusion and hematologic assessment resulted in the diagnosis of immunoglobulin G multiple myeloma. RESULTS: Initial management was plasma exchange followed by a chemotherapy regimen of cyclophosphamide, bortezomib, and dexamethasone, and subsequent plans for bone marrow transplant. CONCLUSION: Hyperviscosity syndrome seems similar to central retinal vein occlusion and may be associated with systemic conditions such as diabetes and atherosclerosis; however, alternative etiologies should be considered in young otherwise healthy individuals. This case underscores the need for diligent and thorough investigations for less common systemic conditions associated with retinal vein occlusions by primary care ophthalmologists.", 
+          "qas": [
+            {
+              "question": "Can multiple myeloma patients develop hyperviscosity syndrome?", 
+              "id": "5a6f829eb750ff4455000054_009"
+            }
+          ]
+        }, 
+        {
+          "context": "Sj\u00f6gren syndrome and systemic lupus erythematosus are distinct conditions. Sjogren syndrome (SS) and systemic lupus erythematosus (SLE) are both collagen vascular diseases that can be accompanied by Ro antibodies. Clinical evidence suggests that they are wholly distinct diseases. SS is strongly linked to lymphoma while lupus is not. SS patients do not commonly exhibit photosensitivity even though anti-Ro antibodies circulate in their blood; SLE patients generally exhibit photosensitivity. SS does not respond to hydroxychloroquine in a reproducible fashion whereas SLE does. SS has not been linked to parvovirus B19, but SLE has. However, SS and SLE do have similarities. Their autoantibody profiles are similar. They effect women more than men and have similar HLA haplotypes and autoantibodies; this is not likely coincidence but it may not clinically relevant.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Rituximab treatment for Sjogren syndrome-associated non-Hodgkin's lymphoma: case series. Five per cent of patients with primary Sjogren's syndrome (pSS) develop malignant non-Hodgkin's lymphoma (NHL), usually of the mucosa-associated lymphoid tissue (MALT) and most frequently located in the major salivary glands. Rituximab (RTX), a chimeric monoclonal antibody against the CD20 molecule expressed on the surface of mature B cells that has been approved for the treatment of NHL, has been used to treat pSS-associated lymphoma. We have described two cases: one with MALT lymphoma in the parotid glands and the other with a rare thymus lymphoma accompanied by the rare complication of a bullous pneumopathy. Both were treated with RTX at haematological doses, which was unsuccessful in the patient with a salivary lymphoma; in the case of the patient with a thymus lymphoma, the mediastinum mass disappeared and did not relapse. Both patients experienced an improvement in the subjective symptoms of dryness, and their Schirmer's test and scialoscintigraphy results stabilised. The pulmonary bullae remained unchanged.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Biologics in oral medicine: Sjogren syndrome. Oral Diseases (2012) doi:10.1111/j.1601-0825.2012.01932.x Biologic therapy has a potential to benefit patients with orofacial manifestations of Sjogren syndrome (SS). The most appropriate use of biologics would appear to be in patients with severe or multisystem features of SS, but their use early in the pathogenesis has the potential to prevent disease progression. Tumour necrosis factor-alpha blockade has not proven effective in SS. B-cell depletion using rituximab has been of benefit, mainly in relation to extraglandular features, and to some extent in relation to hyposalivation where there is still residual salivary function. Rituximab is also effective in the treatment of SS-associated (extrasalivary) lymphomas, although the therapeutic response in salivary lymphoma is poorer. Rituximab is given as a single or periodic intravenous infusion. Potential adverse effects exist, notably infusion reactions and infection, and so a full risk/benefit analysis is indicated for prospective patients. This and clinical use is best performed and monitored in conjunction with rheumatologists with appropriate training and experience in biologic therapies. Further studies of rituximab in SS are ongoing, and newer agents under trial include belimumab.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[A case of Sjogren syndrome coexistent with MALT lymphoma occurring along the parotid gland and trachea]. A 62-year-old woman with Sjogren syndrome was admitted for computed tomographic (CT) evaluation of a thickened trachea and parotid tumor. She had been given a diagnosis of mucosa-associated lymphoid tissue (MALT) lymphoma 6 years previously, and had undergone surgical resection of the parotid tumor. Endoscopic examination revealed an annular tumor that had formed a stricture in the mid-trachea. Pathologic specimens were obtained by surgical resection of the parotid tumor and bronchoscopic biopsy of the tracheal tumor. Both histological examinations revealed MALT-type marginal zone B-cell lymphoma. Because CD20 immunostaining was positive, the patient received 6 cycles of rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisolone (CHOP) without any signs of major toxicity. All lesions disappeared after treatment, and this patient remained disease-free for 40 months.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Primary Diffuse Large B-Cell Lymphoma of the Liver in a Patient with Sjogren Syndrome. Sj\u00f6gren's syndrome (SS) has the highest incidence of malignant lymphoproliferative disorders transformation among autoimmune diseases. We present a case of extranodal high grade lymphoma of the liver in a 52-year-old patient with long history of SS. Lymphoma manifested with sharp significant pain in the right hypochondrium, weakness, and profuse night sweats. Contrast-enhanced computed tomography scan (CT-scan) of the abdomen revealed multiple low density foci with homogeneous structure and clear contours in both lobes of the liver. Histologically, proliferation of medium sized lymphoma cells with round-oval and slightly irregular nuclei with fine chromatin was shown. Immunohistochemical and molecular features of the tumors allowed diagnosis of diffuse large B-cell lymphoma (DLBCL). To exclude secondary liver lesion by non-Hodgkin lymphoma, chest and small pelvis CT-scan, endoscopy of upper and lower gastrointestinal tract and study of bone marrow were performed. After 8 cycles of R-CHOP chemotherapy (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone), the complete remission was achieved, which persists after 45 months of follow-up. Primary hepatic lymphomas are extremely rare, and previously only low-grade hepatic lymphomas have been described in SS. To our knowledge, the patient described here represents the first reported case of DLBCL with primary liver involvement in SS.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_004"
+            }
+          ]
+        }, 
+        {
+          "context": "[Sjogren syndrome: a review of the literature and a case report]. Sj\u00f6gren syndrome is one of the most prevalent autoimmune diseases in which the body's immune system mistakenly attacks its own moisture producing glands. Although Sj\u00f6gren syndrome occurs in all age groups in both women and men, women in their fourties are the most affected. Sj\u00f6gren's syndrome can occur alone or in the presence of another connective tissue disease, respectively called primary and secundary Sj\u00f6gren syndrome. When two of the three clinical hallmarks: keratoconjunctivitis sicca, xerostomia or connective tissue disease are present, Sj\u00f6gren 's syndrome should be considered. To confirm the diagnosis of Sj\u00f6gren's syndrome several tests are required. e.g. blood tests, ophthalmologic tests and oral tests. Rheumatologists have the primary responsibility for managing Sj\u00f6gren's syndrome. Other specialists can treat the related symptoms. The incidence of lymphoma is higher in patients with Sj\u00f6gren's syndrome than in the general population. Therefore patients must be monitored carefully for the development of related autoimmune diseases, lymphoma and other complications. Sj\u00f6gren's syndrome is serious but generally not fatal if complications are diagnosed and treated early.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Predicting the risk for lymphoma development in Sjogren syndrome: An easy tool for clinical use. The heightened risk of non-Hodgkin lymphoma (NHL) development in primary Sjogren syndrome (SS) is well established. Several adverse clinical and laboratory predictors have been described. In the current work, we aimed to formulate a predictive score for NHL development, based on clinical, serological, and histopathological findings at the time of SS diagnosis. In the present case-control study of 381 primary SS patients and 92 primary SS patients with concomitant NHL, clinical, serological, and histopathological variables at the time of SS diagnosis were retrospectively recorded. For the identification of predictors for NHL development univariate and multivariate models were constructed. Salivary gland enlargement (SGE), lymphadenopathy, Raynaud phenomenon, anti-Ro/SSA or/and anti-La/SSB autoantibodies, rheumatoid factor (RF) positivity, monoclonal gammopathy, and C4 hypocomplementemia were shown to be independent predictors for NHL development. On the basis of the number of independent risk factors identified, a predictive risk score for NHL development was formulated. Thus, patients presenting with < 2 risk factors had a 3.8% probability of NHL development, those with 3 to 6 risk factors 39.9% (OR (95%CI): 16.6 [6.5-42.5], P < 0.05), while in the presence of all 7 risk factors the corresponding probability reached 100% (OR [95%CI]: 210.0 [10.0-4412.9], P < 0.0001). In conclusion, an easy to use diagnostic scoring tool for NHL development in the context of SS is presented. This model is highly significant for the design of early therapeutic interventions in high risk SS patients for NHL development.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Peripheral neuropathies in Sjogren syndrome: a new reappraisal. BACKGROUND: The prevalence of peripheral neuropathy in patients with Sj\u00f6gren syndrome remains unclear owing to conflicting results in the published series, with numbers ranging from 2% to over 60% of Sj\u00f6gren syndrome patients. Whether peripheral neuropathy is a feature of the systemic or glandular disease or whether it is related to a circulating antineuronal antibody remains also uncertain. METHODS: The authors reviewed the records of patients with primary Sj\u00f6gren syndrome (pSS), fulfilling the Revised European-American Classification Criteria, seen in their department from 1992 to 2009. The patients with previously recorded neuropathic features were re-examined clinically and electrophysiologically. Other causes of polyneuropathy were excluded. The authors also searched for circulating antineural antibodies using immunofluorescence and western blot and for antibodies against muscarinic and nicotinic acetylcholine receptors as potential biomarkers. RESULTS: 509 cases met the diagnostic criteria for pSS. Among these, 44 patients were recorded as having neuropathic symptoms. After completing the evaluation, however, only nine (1.8%) had polyneuropathy with objective clinical signs and abnormal electrophysiological findings. The neuropathy was axonal in all, in five pure sensory and in four sensorimotor. The patients with peripheral neuropathy had extraglandular manifestations such as palpable purpura and vasculitis. No evidence of antineural autoimmunity was found, and no candidate biomarkers were identified. CONCLUSION: Polyneuropathy is a rare manifestation of pSS occurring in 1.8% of patients. In the majority of patients, it is a late event and frequently associated with systemic disease or risk factors for lymphoma development.", 
+          "qas": [
+            {
+              "question": "Are patients with Sjogren syndrome at increased risk for lymphoma?", 
+              "id": "5a6f87c5b750ff4455000056_007"
+            }
+          ]
+        }, 
+        {
+          "context": "The human lncRNA LINC-PINT inhibits tumor cell invasion through a highly conserved sequence element. BACKGROUND: It is now obvious that the majority of cellular transcripts do not code for proteins, and a significant subset of them are long non-coding RNAs (lncRNAs). Many lncRNAs show aberrant expression in cancer, and some of them have been linked to cell transformation. However, the underlying mechanisms remain poorly understood and it is unknown how the sequences of lncRNA dictate their function. RESULTS: Here we characterize the function of the p53-regulated human lncRNA LINC-PINT in cancer. We find that LINC-PINT is downregulated in multiple types of cancer and acts as a tumor suppressor lncRNA by reducing the invasive phenotype of cancer cells. A cross-species analysis identifies a highly conserved sequence element in LINC-PINT that is essential for its function. This sequence mediates a specific interaction with PRC2, necessary for the LINC-PINT-dependent repression of a pro-invasion signature of genes regulated by the transcription factor EGR1. CONCLUSIONS: Our findings support a conserved functional co-dependence between LINC-PINT and PRC2 and lead us to propose a new mechanism where the lncRNA regulates the availability of free PRC2 at the proximity of co-regulated genomic loci.", 
+          "qas": [
+            {
+              "question": "Does the human lncRNA LINC-PINT promote tumorigenesis?", 
+              "id": "5a6e3fe3b750ff4455000044_000"
+            }
+          ]
+        }, 
+        {
+          "context": "SGLT2 inhibitors: are they safe? Sodium-glucose linked transporter type 2 (SGLT2) inhibitors are a relatively new class of antidiabetic drugs with positive cardiovascular and kidney effects. The aim of this review is to present the safety issues associated with SGLT2 inhibitors. Urogenital infections are the most frequently encountered adverse events, although tend to be mild to moderate and are easily manageable with standard treatment. Although no increased acute kidney injury risk was evident in the major trials, the mechanism of action of these drugs requires caution when they are administered in patients with extracellular volume depletion or with drugs affecting renal hemodynamics. Canagliflozin raised the risk of amputations and the rate of fractures in the CANVAS trial, although more data are necessary before drawing definite conclusions. The risk of euglycemic diabetic ketoacidosis seems to be minimal when the drugs are prescribed properly. Regarding other adverse events, SGLT2 inhibitors do not increase the risk of hypoglycemia even when co-administered with insulin, but a decrease in the dose of sulphonylureas may be needed. The available data do not point to a causative role of SGLT2 inhibitors on malignancy risk, however, these drugs should be used with caution in patients with known hematuria or history of bladder cancer. SGLT2 inhibitors seem to be safe and effective in the treatment of diabetes but more studies are required to assess their long-term safety.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Severe Ketoacidosis Associated with Canagliflozin (Invokana): A Safety Concern. Canagliflozin (Invokana) is a selective sodium glucose cotransporter-2 (SGLT-2) inhibitor that was first introduced in 2013 for the treatment of type 2 diabetes mellitus (DM). Though not FDA approved yet, its use in type 1 DM has been justified by the fact that its mechanism of action is independent of insulin secretion or action. However, some serious side effects, including severe anion gap metabolic acidosis and euglycemic diabetic ketoacidosis (DKA), have been reported. Prompt identification of the causal association and initiation of appropriate therapy should be instituted for this life threatening condition.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Euglycemic Diabetic Ketoacidosis With Prolonged Glucosuria Associated With the Sodium-Glucose Cotransporter-2 Canagliflozin. Sodium-glucose cotransporter-2 (SGLT2) inhibitors improve glycemic control by a reversible inhibition of the sodium-glucose cotransporters in the renal proximal tubules resulting in increased urinary glucose. This unique mechanism, independent of insulin secretion and beta cell function, has made this class of medication desirable in patients with type 2 diabetes. However in May 2015, the US Food and Drug Administration issued a safety warning pertaining to the development of diabetic ketoacidosis (DKA) with the use of SGLT2 inhibitors. DKA associated with SGLT2 inhibitors frequently develops in the absence of hyperglycemia, which makes the diagnosis more challenging. Due to the reversible inhibition of SGLT2 by this class of medication, a quick recovery of glucosuria after cessation of medication is expected. In this article, we present a case of a 50-year-old woman with type 2 diabetes who developed euglycemic DKA after initiating therapy with canagliflozin. This case of DKA associated with SGLT2 inhibitor use was unique due to her hypoglycemic presentation and persistent glucosuria. SGLT2 inhibitors such as canagliflozin may predispose patients not only to diabetic ketoacidosis but also to prolonged glucosuria.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Euglycemic Diabetic Ketoacidosis with Persistent Diuresis Treated with Canagliflozin. Diabetic ketoacidosis is characterized by hyperglycemia, anion-gap acidosis, and increased plasma ketones. After the resolution of hyperglycemia, persistent diuresis is rare. We herein report the case of a 27-year-old Asian woman with type 2 diabetes who was treated with a sodium-glucose cotransporter 2 (SGLT2) inhibitor (canagliflozin) who developed euglycemic diabetic ketoacidosis and persistent diuresis in the absence of hyperglycemia. Physicians should consider euglycemic diabetic ketoacidosis in the differential diagnosis of patients treated with SGLT2 inhibitors.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Metabolic ketoacidosis with normal blood glucose: A rare complication of sodium-glucose cotransporter 2 inhibitors. Ketoacidosis is a significant and often a life-threatening complication of diabetes mellitus seen mostly in type 1 diabetes mellitus as well as occasionally in type 2 diabetes mellitus. Diabetic ketoacidosis usually manifests with high blood glucose more than 250 mg/dL, but euglycemic diabetic ketoacidosis is defined as ketoacidosis associated with blood glucose level less than 250 mg/dL. Normal blood glucose in such patients results in significant delay in diagnosis and management of diabetic ketoacidosis, thus increasing mortality and morbidity. We present a case of euglycemic diabetic ketoacidosis secondary to canagliflozin in a type 2 diabetic patient.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_004"
+            }
+          ]
+        }, 
+        {
+          "context": "The DKA that wasn't: a case of euglycemic diabetic ketoacidosis due to empagliflozin. Sodium glucose co-transporter (SGLT-2) inhibitor is a relatively new medication used to treat diabetes. At present, the Food and Drug Administration (FDA) has only approved three medications (canagliflozin, dapagliflozin and empagliflozin) in this drug class for the management of Type 2 diabetes. In May 2015, the FDA issued a warning of ketoacidosis with use of this drug class. Risk factors for the development of ketoacidosis among patients who take SGLT-2 inhibitors include decrease carbohydrate intake/starvation, acute illness and decrease in insulin dose. When identified, immediate cessation of the medication and administration of glucose must be done, and in some instances, starting an insulin drip might be necessary. We present a case of a patient with diabetes mellitus being on empagliflozin (SGLT-2 antagonist) who was admitted for acute cholecystitis. The hospital course was complicated by euglycemic diabetic ketoacidosis after being kept nothing per orem before a contemplated cholecystectomy.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Euglycemic Diabetic Ketoacidosis in a 27 year-old female patient with type-1-Diabetes treated with sodium-glucose cotransporter-2 (SGLT2) inhibitor Canagliflozin. We are reporting a timely case of atypical euglycemic diabetic ketoacidosis in a type 1 diabetic patient treated with sodium-glucose cotransporter-2 (SGLT-2) inhibitor canagliflozin. The clinical history, physical examination findings and laboratory values are described. Other causes of acidosis such as salicylate toxicity or alcohol intoxication were excluded. Ketoacidosis resolved after increasing dextrose and insulin doses supporting the hypothesis that SGLT-2 inhibitors may lead to hypoinsulinemia. Euglycemic ketoacidosis did not recur in our patient after discontinuing canagliflozin. We recommend reserving SGLT2 inhibitor therapy to type 2 diabetics, discontinuing medication and treating patients presenting with ketoacidosis due to SGLT-2 inhibitors with higher concentrations of dextrose with appropriate doses of insulin to help resolve acidosis.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Euglycemic Diabetic Ketoacidosis with Elevated Acetone in a Patient Taking a Sodium-Glucose Cotransporter-2 (SGLT2) Inhibitor. BACKGROUND: Sodium-glucose cotransporter-2 (SGLT2) inhibitor medications are a class of antihyperglycemic agents that increase urinary glucose excretion by interfering with the reabsorption of glucose in the proximal renal tubules. In May of 2015, the U.S. Food and Drug Administration released a warning concerning a potential increased risk of ketoacidosis and ketosis in patients taking these medications. CASE REPORT: We present a case of a 57-year-old woman with type 2 diabetes mellitus taking a combination of canagliflozin and metformin who presented with progressive altered mental status over the previous 2\u00a0days. Her work-up demonstrated a metabolic acidosis with an anion gap of 38 and a venous serum pH of 7.08. The serum glucose was 168\u00a0mg/dL. The urinalysis showed glucose > 500\u00a0mg/dL and ketones of 80\u00a0mg/dL. Further evaluation demonstrated an elevated serum osmolality of 319 mOsm/kg and an acetone concentration of 93\u00a0mg/dL. She was treated with intravenous insulin and fluids, and the metabolic abnormalities and her altered mental status resolved within 36\u00a0h. This was the first episode of diabetic ketoacidosis (DKA) for this patient. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: Diabetic patients on SGLT2 inhibitor medications are at risk for ketoacidosis. Due to the renal glucose-wasting properties of these drugs, they may present with ketoacidosis with only mild elevations in serum glucose, potentially complicating the diagnosis. Acetone is one of the three main ketone bodies formed during DKA and it may be present at considerable concentrations, contributing to the serum osmolality.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Nonconvulsive Status Epilepticus in Elderly Patients Receiving SSRIs; Euglycemic Diabetic Ketoacidosis Associated with Canagliflozin Use in a Type 1 Diabetic Patient; Duloxetine-Induced Galactorrhea; Canagliflozin-Associated Severe Hypercalcemia and Hypernatremia; Vemurafenib-Induced Fanconi Syndrome. The purpose of this feature is to heighten awareness of specific adverse drug reactions (ADRs), discuss methods of prevention, and promote reporting of ADRs to the US Food and Drug Administration's (FDA's) MedWatch program (800-FDA-1088). If you have reported an interesting, preventable ADR to MedWatch, please consider sharing the account with our readers. Write to Dr. Mancano at ISMP, 200 Lakeside Drive, Suite 200, Horsham, PA 19044 (phone: 215-707-4936; e-mail: mmancano@temple.edu). Your report will be published anonymously unless otherwise requested. This feature is provided by the Institute for Safe Medication Practices (ISMP) in cooperation with the FDA's MedWatch program and Temple University School of Pharmacy. ISMP is an FDA MedWatch partner.", 
+          "qas": [
+            {
+              "question": "Can canagliflozin cause euglycemic diabetic ketoacidosis?", 
+              "id": "5a6f922fb750ff4455000059_008"
+            }
+          ]
+        }, 
+        {
+          "context": "LDB1-mediated enhancer looping can be established independent of mediator and cohesin. Mechanistic studies in erythroid cells indicate that LDB1, as part of a GATA1/TAL1/LMO2 complex, brings erythroid-expressed genes into proximity with enhancers for transcription activation. The role of co-activators in establishing this long-range interaction is poorly understood. Here we tested the contributions of the RNA Pol II pre-initiation complex (PIC), mediator and cohesin to establishment of locus control region (LCR)/\u03b2-globin proximity. CRISPR/Cas9 editing of the \u03b2-globin promoter to eliminate the RNA Pol II PIC by deleting the TATA-box resulted in loss of transcription, but enhancer-promoter interaction was unaffected. Additional deletion of the promoter GATA1 site eliminated LDB1 complex and mediator occupancy and resulted in loss of LCR/\u03b2-globin proximity. To separate the roles of LDB1 and mediator in LCR looping, we expressed a looping-competent but transcription-activation deficient form of LDB1 in LDB1 knock down cells: LCR/\u03b2-globin proximity was restored without mediator core occupancy. Further, Cas9-directed tethering of mutant LDB1 to the \u03b2-globin promoter forced LCR loop formation in the absence of mediator or cohesin occupancy. Moreover, ENCODE data and our chromatin immunoprecipitation results indicate that cohesin is almost completely absent from validated and predicted LDB1-regulated erythroid enhancer-gene pairs. Thus, lineage specific factors largely mediate enhancer-promoter looping in erythroid cells independent of mediator and cohesin.", 
+          "qas": [
+            {
+              "question": "Is LDB1-mediated enhancer looping dependent on cohesin?", 
+              "id": "5a6e49a4b750ff445500004b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "ERCC1-XPF cooperates with CTCF and cohesin to\u00a0facilitate the developmental silencing of imprinted\u00a0genes. Inborn defects in DNA repair are associated with complex developmental disorders whose causal mechanisms are poorly understood. Using an in vivo biotinylation tagging approach in mice, we show that the nucleotide excision repair (NER) structure-specific endonuclease ERCC1-XPF complex interacts with the insulator binding protein CTCF, the cohesin subunits SMC1A and SMC3 and with MBD2; the factors co-localize with ATRX at the promoters and control regions (ICRs) of imprinted genes during postnatal hepatic development. Loss of Ercc1 or exposure to MMC triggers the localization of CTCF to heterochromatin, the dissociation of the CTCF-cohesin complex and ATRX from promoters and ICRs, altered histone marks and\u00a0the aberrant developmental expression of imprinted genes without altering DNA methylation. We propose that ERCC1-XPF cooperates with CTCF and cohesin to facilitate the developmental silencing of imprinted genes and that persistent DNA damage triggers chromatin changes that affect gene expression programs associated with NER disorders.", 
+          "qas": [
+            {
+              "question": "Is there any link between ERCC1-XPF and cohesin?", 
+              "id": "5a6e4b72b750ff445500004c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Update on prolactinomas. Part 2: Treatment and management strategies. The authors present an update on the various treatment modalities and discuss management strategies for prolactinomas. Prolactinomas are the most common type of functional pituitary tumor. Effective hyperprolactinemia treatment is of great importance, due to its potential deleterious effects including infertility, gonadal dysfunction and osteoporosis. Dopamine agonist therapy is the first line of treatment for prolactinomas because of its effectiveness in normalizing serum prolactin levels and shrinking tumor size. Though withdrawal of dopamine agonist treatment is safe and may be implemented following certain recommendations, recurrence of disease after cessation of the drug occurs in a substantial proportion of patients. Concerns regarding the safety of dopamine agonists have been raised, but its safety profile remains high, allowing its use during pregnancy. Surgery is typically indicated for patients who are resistant to medical therapy or intolerant of its adverse side effects, or are experiencing progressive tumor growth. Surgical resection can also be considered as a primary treatment for those with smaller focal tumors where a biochemical cure can be expected as an alternative to lifelong dopamine agonist treatment. Stereotactic radiosurgery also serves as an option for those refractory to medical and surgical therapy.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Hyperprolactinaemia and bone mineral density]. Hyperprolactinaemia is one of the most common endocrinological disorder at women at the reproductive age. Prolactin is produced by the anterior lobe of the pituitary.The main role of prolactin is associated with mamotrophic action and lactogenesis. Hyperprolactinaemia causes several symptoms such as menstrual disorders, infertility, decrease of sexual function, galactorrhea in women and gynecomasty, impotence and decrease of semen quality in men. Recent studies have presented prolactin as a homone involved in many metabolic processes. Long-term consequences of high prolactin serum concentration are related to higher risk of cardiovascular system disease, disturbances in lipid profile and immunological system. Hyperprolactiaemia causes decrease of bone mass density (BMD). High serum prolactin levels lead to increase of the risk of osteopenia or/and osteoporosis. Decrease of BMD results from hypoestrogenism induced by hyperprolactinaemia and also by the direct negative influence of prolactin on bone. Hyperprolactinaemia related to prolactinoma significantly (more than functional hyperprolactiaemia) increases the risk of osteopenia, osteoporosis and bone fractures. Important group of patients threatened by osteoporosis and bone fracture is constituted by women which use antipsychotic drugs (which induce hyperprolactinaemia). Hyperprolactinaemia diagnosed in patients should be treated as soon as possible. Hyperprolactinaemic patients should be diagnosed in the direction of osteopenia and osteoporosis. When diagnosis is confirmed proper treatment is indicated.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Prolactinoma presenting as chronic anaemia with osteoporosis: a case report. INTRODUCTION: Unexplained anaemia is a rare mode of presentation for prolactinoma. We describe a case of a man, with chronic anaemia ascribed to old age. Six years later, he was evaluated and diagnosed with a prolactinoma and resultant osteoporosis. Prolactinoma in old people may present insidiously with chronic anaemia and osteoporosis with or without sexual dysfunction. CASE PRESENTATION: We describe the case of a 70-year-old Caucasian man who presented with mild anaemia and tiredness. His anaemia was investigated and ascribed to senescence. Endocrine causes were not considered or tested for. Six years later, he was again referred. Reassessment and direct questioning revealed long-standing sexual dysfunction. It was also discovered that our patient had fractured his radius twice, with minor trauma, during the preceding year. His serum prolactin was massively increased and a magnetic resonance imaging (MRI) scan of the head demonstrated a pituitary mass consistent with a prolactinoma. Dual X-ray absorptiometry revealed osteoporosis. Treatment of the prolactinoma led to a reduction in his serum prolactin with a rise in his haemoglobin to normal levels. This suggested that the prolactinoma was present during the initial presentation and was the cause of his anaemia. CONCLUSION: This case highlights the importance of fully evaluating and investigating unexplained anaemia in older people and that endocrine causes should be considered. Osteoporosis also requires evaluation with secondary causes considered.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "A 22-year-old man with severe osteoporosis due to prolactinoma. Prolactin-secreting adenomas represent nearly 40% to 60% of all pituitary adenomas. Prolactin inhibits the secretion of gonadotropin-releasing hormone that is responsible for the synthesis and secretion of gonadotropins. Sex steroids have an important effect on the regulation of bone metabolism in men. Decreased libido and impotence are the most common presenting symptoms of hyperprolactinemia in males. These symptoms are easily neglected by both patients and some physicians. We present a 22-year-old man with multiple osteoporotic fractures associated with prolactinoma despite the use of teriparatide for 18 months. We emphasize and highlight the importance of hyperprolactinemia and fractures caused by high prolactin levels.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "The risk of osteopenia in premenopausal women with various sellar tumors. OBJECTIVE: Patients with prolactinoma seem to be at high risk for osteopenia. However, whether patients with various pathological sellar tumors have risk for osteopenia remains unclear. The aim of the present study is to assess the bone mass alteration in patients with various sellar tumors and further to investigate the risk factors of bone mass alteration. MATERIALS AND METHODS: 65 premenopausal female patients with diverse sellar tumors and 325 normal controls were enrolled in this study. Bone mineral density (BMD) of lumbar spine and comprehensive endocrinological evaluations were undergone. RESULTS: Compared to the matched controls, BMD of patients with prolactinoma or craniopharyngioma significantly decreased. Patients with sellar meningioma and nonfunctioning adenoma are with a decreasing tendency and patients with growth hormone-secreting adenoma are with an increasing tendency compared to controls. Univariate and multivariate regression analysis indicated that the bone loss in prolactinomas was significantly correlated to disease duration and hypogonadism. CONCLUSION: In the premenopausal women, patients with prolactinoma or craniopharyngioma are often accompanied with osteopenia or osteoporosis, and disease duration and hypogonadism are the risk factors of bone loss in prolactinoma. Continuous surveillance of BMD is recommended in patients with meningioma or nonfunctioning adenoma.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Vertebral fractures in males with prolactinoma. Data on osteoporotic fractures in hyperprolactinemia are limited. An increased prevalence of radiological vertebral fractures was recently observed in women with prolactin (PRL)-secreting adenoma, whereas it is unknown whether this observation may reflect a more general increased risk of fractures in this disease and whether the prevalence of fractures in males is affected by gonadal status. Thirty-two males (median age 47 years, range: 22-79) with PRL-secreting pituitary adenoma (10 with microadenoma and 22 with macroadenoma) and 64 control males, with normal PRL values and with comparable age to patients with hyperprolactinemia, were evaluated for vertebral fractures by a morphometric approach and for bone mineral density (BMD) by a dual-energy X-ray absorptiometry at lumbar spine. Vertebral fractures were shown in 12 patients with PRL-secreting adenoma (37.5%) and in 5 controls (7.8%, P < 0.001). Fractured patients had lower BMD T-score (P = 0.007) and longer duration of disease (P < 0.001) as compared to patients who did not fracture. Fractures occurred more frequently (P = 0.03) in patients with untreated hyperprolactinemia versus patients treated with cabergoline whose frequency of vertebral fractures was still higher than control subjects. The prevalence of vertebral fractures was not significantly different between eugonadal and hypogonadal patients (33.3% vs. 38.5%; P = 0.8). Moreover, no significant (P = 0.4) difference in serum testosterone values was found between fractured and not fractured males. Hyperprolactinemia is associated with high prevalence of radiological vertebral fractures in men with PRL-secreting adenoma. These findings would also suggest that PRL excess may produce negative skeletal effects independently of hypogonadism.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Prolactinoma: A Massive Effect on Bone Mineral Density in a Young Patient. This case highlights a prolactinoma in a young male, and its impact on bone health. Osteoporosis has been noted to be an issue in postmenopausal women with prolactinomas. This case shows a similar impact on bone health in a young male resulting in low bone mineral density for age based on Z-score. This case report highlights the possible mechanisms for the bone loss in the setting of prolactinoma and the need for assessing bone health in such patients. Furthermore it highlights the need for a thorough evaluation in such patients.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Signaling pathways regulating pituitary lactotrope homeostasis and tumorigenesis. Dysregulation of the signaling pathways that govern lactotrope biology contributes to tumorigenesis of prolactin (PRL)-secreting adenomas, or prolactinomas, leading to a state of pathological hyperprolactinemia. Prolactinomas cause hypogonadism, infertility, osteoporosis, and tumor mass effects, and are the most common type of neuroendocrine tumor. In this review, we highlight signaling pathways involved in lactotrope development, homeostasis, and physiology of pregnancy, as well as implications for signaling pathways in pathophysiology of prolactinoma. We also review mutations found in human prolactinoma and briefly discuss animal models that are useful in studying pituitary adenoma, many of which emphasize the fact that alterations in signaling pathways are common in prolactinomas. Although individual mutations have been proposed as possible driving forces for prolactinoma tumorigenesis in humans, no single mutation has been clinically identified as a causative factor for the majority of prolactinomas. A better understanding of lactotrope-specific responses to intracellular signaling pathways is needed to explain the mechanism of tumorigenesis in prolactinoma.", 
+          "qas": [
+            {
+              "question": "Does prolactinoma increase osteoporosis risk?", 
+              "id": "5a70d43b99e2c3af26000003_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Cognitive Function in a Randomized Trial of Evolocumab. Background Findings from clinical trials of proprotein convertase subtilisin-kexin type 9 (PCSK9) inhibitors have led to concern that these drugs or the low levels of low-density lipoprotein (LDL) cholesterol that result from their use are associated with cognitive deficits. Methods In a subgroup of patients from a randomized, placebo-controlled trial of evolocumab added to statin therapy, we prospectively assessed cognitive function using the Cambridge Neuropsychological Test Automated Battery. The primary end point was the score on the spatial working memory strategy index of executive function (scores range from 4 to 28, with lower scores indicating a more efficient use of strategy and planning). Secondary end points were the scores for working memory (scores range from 0 to 279, with lower scores indicating fewer errors), episodic memory (scores range from 0 to 70, with lower scores indicating fewer errors), and psychomotor speed (scores range from 100 to 5100 msec, with faster times representing better performance). Assessments of cognitive function were performed at baseline, week 24, yearly, and at the end of the trial. The primary analysis was a noninferiority comparison of the mean change from baseline in the score on the spatial working memory strategy index of executive function between the patients who received evolocumab and those who received placebo; the noninferiority margin was set at 20% of the standard deviation of the score in the placebo group. Results A total of 1204 patients were followed for a median of 19 months; the mean (\u00b1SD) change from baseline over time in the raw score for the spatial working memory strategy index of executive function (primary end point) was -0.21\u00b12.62 in the evolocumab group and -0.29\u00b12.81 in the placebo group (P<0.001 for noninferiority; P=0.85 for superiority). There were no significant between-group differences in the secondary end points of scores for working memory (change in raw score, -0.52 in the evolocumab group and -0.93 in the placebo group), episodic memory (change in raw score, -1.53 and -1.53, respectively), or psychomotor speed (change in raw score, 5.2 msec and 0.9 msec, respectively). In an exploratory analysis, there were no associations between LDL cholesterol levels and cognitive changes. Conclusions In a randomized trial involving patients who received either evolocumab or placebo in addition to statin therapy, no significant between-group difference in cognitive function was observed over a median of 19 months. (Funded by Amgen; EBBINGHAUS ClinicalTrials.gov number, NCT02207634 .).", 
+          "qas": [
+            {
+              "question": "Does Evolocumab improve cognitive function?", 
+              "id": "5a70ea8299e2c3af2600000b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Carpal Tunnel Syndrome Following Corrective Osteotomy for Distal Radius Malunion: A Rare Case Report and Review of the Literature. BACKGROUND: Although median nerve neuropathy and carpal tunnel syndrome (CTS) are known complications of both untreated and acutely treated distal radius fracture, median neuropathy after correction of distal radius malunion is not commonly reported in hand surgery literature. We describe a patient with severe CTS after corrective osteotomy, open reduction internal fixation (ORIF) with a volar locking plate (VLP), and bone grafting for distal radius malunion. METHODS: We report a case of severe acute CTS as a complication of corrective osteotomy with bone grafting for distal radius malunion. RESULTS: The patient was treated with surgical exploration of the median nerve and carpal tunnel release. CONCLUSION: The authors report a case of acute CTS after ORIF with VLP for a distal radius malunion warranting surgical exploration and carpal tunnel release. Treatment teams must be aware of this potential complication so that the threshold for reoperation is low and irreversible damage to the median nerve is prevented.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Complications of volar locking plating of distal radius fractures in 576 patients with 3.2 years follow-up. BACKGROUND: Volar plating of unstable distal radius fractures (DRF) has become the favoured treatment. The complication rates vary from 3 to 36%. The purpose of the study was to estimate the complication rate of volar plating of DRF and its association with AO/OTA fracture type, surgeon experience and type of volar plate. METHODS: Retrospectively, all patients treated with volar plating of a DRF between February 2009 and June 2013 at Aarhus University Hospital, Denmark were included. AO/OTA fracture type, surgeon experience (1st year, 2nd-5th year resident or consultant), type of plate (VariAx, Acu-Loc) and complications were extracted from the electronic medical records. Complications were categorized as carpal tunnel syndrome, other sensibility issues, tendon complications including irritation and rupture, deep infections, complex regional pain syndrome and unidentified DRUJ or scapholunar problems. Reoperations including hardware removal were also charted. RESULTS: 576 patients with a median age of 63 years (min: 15; max: 87) were included. 78% were female and the mean observation time was 3.2 years (min: 2.0; max: 5.4). 78% (n=451) of the patients were treated with VariAx and 22% (n=125) with Acu-Loc. The overall complication rate was 14.6% (95% CI 11.8-17.7) including carpal tunnel syndrome or change in sensibility in 5.2% and tendon complications in 4.7%. Five flexor tendon ruptures and 12 extensor tendon ruptures were observed. The reoperation rate was 10.4% including 41 cases of hardware removal. A statistically significant association between AO/OTA fracture type C and complications was found. No statistically significant association between complication rate and surgeon experience and type of plate was observed. CONCLUSION: The majority of DRF patients treated with a volar plate suffer no complications. However, the overall complication rate of 14.6% is substantial. Intra-articular fractures, e.g. AO/OTA-type 23C1-3, had significantly higher complication rates. Neither surgeon experience, nor type of volar plate was able to predict complications.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Concurrent Minimally Invasive Carpal Tunnel Release Techniques in Distal Radius Open Reduction Internal Fixation. Carpal tunnel syndrome is a common complication associated with distal radius fractures. Open carpal tunnel release in the same setting as open reduction and internal fixation of distal radius fractures is widely accepted. In this paper, we describe the technical details of a minimally invasive carpal tunnel release in the same setting as the fixation of a distal radius fracture via the same incision. Two options of minimally invasive techniques are described: The Knifelight\u00ae (Stryker, Kalamazoo, Michigan, USA) instrument and the single portal carpal tunnel release system (Agee, 3M Healthcare, St Paul, Minnesota, USA). Being well known and accepted techniques of carpal tunnel release, we believe that the techniques described in this paper provide a viable alternative for carpal tunnel release in the setting of distal radius fracture fixation; with the added advantages of the original minimally invasive techniques.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Combined volar and dorsal plating for complex comminuted distal radial fractures. PURPOSE: To review outcomes of combined volar and dorsal locked plating for AO type-C3 complex comminuted distal radial fractures. METHODS: Records of 24 patients aged 17 to 77 (mean, 53.3) years who underwent combined volar and dorsal locked plating for AO type-C3 distal radial fractures with volar and dorsal metaphyseal and intra-articular comminution were reviewed. 21 were closed fractures, and 3 were Gustilo-Anderson type-1 open fractures. Bone union, volar tilt, radial inclination, radial height, range of motion, grip strength, and any complications were assessed by a single hand surgeon. RESULTS: After a mean follow-up of 17 (range, 14-25) months, the mean palmar flexion was 49\u00ba (range, 30\u00ba-80\u00ba), dorsiflexion was 52\u00ba (range, 30\u00ba-80\u00ba), supination was 86\u00ba (range, 60\u00ba-90\u00ba), pronation was 77\u00ba (range, 30\u00ba-90\u00ba), radial deviation was 16\u00ba (range, 5\u00ba-30\u00ba), and ulnar deviation was 27\u00ba (range, 10\u00ba-50\u00ba). The mean grip strength of the injured hand was 69.2% of the uninjured side. The mean time to radiological union was 3.9 (range, 2.5-6.0) months; no patient had non-union. At the time of union, the mean volar tilt was 5\u00ba (-22\u00ba-14\u00ba), radial inclination was 18.6\u00ba (8\u00ba-28\u00ba), and radial height was 8.5 mm (5.0 mm-13.6 mm). One patient had collapse of the dorsal fragment resulting in a dorsal tilt of 22\u00ba and limited (30\u00ba) forearm pronation. The severity of dorsal metaphyseal comminution had not been recognised and bone grafting was not performed. The patient also had minor complications of little finger flexor tendon irritation and carpal tunnel syndrome. She underwent implant removal and carpal tunnel release at 8 months. One patient had implant-related extensor digitorum communis irritation. Another patient had non-specific chronic wrist pain, which was resolved at one year. No patient had infection, tendon rupture, or complex regional pain syndrome. Four patients underwent implant removal, including 2 who had no implant-related problems. CONCLUSION: Combined volar and dorsal plating enables early mobilisation and good outcome for certain complex comminuted distal radial fractures.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Does socioeconomic status influence the epidemiology and outcome of distal radial fractures in adults? PURPOSE: The aim of this study in adult patients with a distal radial fracture was to determine whether socioeconomic status influenced the epidemiology, mechanism of injury, fracture severity, or the outcome according to function, radiographic assessment, and rate of associated complications. METHODS: We identified 3983 distal radial fractures over a 7-year period. Socioeconomic status was assigned using the Carstairs score, and the population was divided into quintiles depending on deprivation. Patient demographics, mechanism of injury, fracture severity, and radiographic assessment at time of injury were assessed for epidemiological differences according to social quintile. Functional outcome was assessed using grip strength, Moberg pickup test, return to normal use of the hand, and range of movement. Radiographs were assessed at 1\u00a0week, 6\u00a0weeks, and 1\u00a0year. Complications were defined as malunion, carpal tunnel syndrome, complex regional pain syndrome (CRPS), persistent pain, and subjective cosmetic deformity of the wrist. RESULTS: Socioeconomically deprived patients were significantly younger (p\u00a0<\u00a00.001) and more likely to be male (p\u00a0=\u00a00.017); after adjusting for confounding factors, deprived patients were 3.1 (95% CI 1.4-4.7)\u00a0years younger than the most affluent patients (p\u00a0<\u00a00.001). Deprived patients were more likely to sustain their fracture by a high-energy mechanism (p\u00a0=\u00a00.004). There were no significant differences between quintiles in outcome. There was a significantly greater prevalence of CRPS in more affluent patients (p\u00a0=\u00a00.004). CONCLUSIONS: Socioeconomically deprived patients sustaining a distal radial fracture are more likely to be younger and male. Outcome is not influenced by socioeconomic status, but the prevalence of CRPS is greater in more affluent patients.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Acute multiple flexor tendon injury and carpal tunnel syndrome after open distal radius fracture. Although the rupture of extensor tendons after distal radius fractures is well described, acute flexor tendon ruptures are much less common. We report a case of acute rupture of the flexor pollicis longus and flexor carpi radialis tendons with acute carpal tunnel syndrome after a Gustilo-Anderson type II open distal radius fracture. We reviewed the literature to identify risk factors for tendon rupture and the development of carpal tunnel syndrome.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Carpal Tunnel Syndrome and Distal Radius Fractures. Carpal tunnel syndrome (CTS) after distal radius fractures can present in 3 forms: acute, transient, and delayed. Acute CTS requires an emergent carpal tunnel release. Many patients with transient CTS after distal radius fracture do not require surgical release of the carpal tunnel once the fracture is repaired. Prophylactic carpal tunnel release in the absence of signs and symptoms of CTS after a distal radius fracture is not indicated. For patients with delayed CTS after a distal radius fracture, all possible causes of nerve compression should be considered and addressed in standard fashion.", 
+          "qas": [
+            {
+              "question": "Can radius fracture cause carpal tunnel syndrome?", 
+              "id": "5a72284b2dc08e987e000001_006"
+            }
+          ]
+        }, 
+        {
+          "context": "LAF: Logic Alignment Free and its application to bacterial genomes classification. Alignment-free algorithms can be used to estimate the similarity of biological sequences and hence are often applied to the phylogenetic reconstruction of genomes. Most of these algorithms rely on comparing the frequency of all the distinct substrings of fixed length (k-mers) that occur in the analyzed sequences. In this paper, we present Logic Alignment Free (LAF), a method that combines alignment-free techniques and rule-based classification algorithms in order to assign biological samples to their taxa. This method searches for a minimal subset of k-mers whose relative frequencies are used to build classification models as disjunctive-normal-form logic formulas (if-then rules). We apply LAF successfully to the classification of bacterial genomes to their corresponding taxonomy. In particular, we succeed in obtaining reliable classification at different taxonomic levels by extracting a handful of rules, each one based on the frequency of just few k-mers. State of the art methods to adjust the frequency of k-mers to the character distribution of the underlying genomes have negligible impact on classification performance, suggesting that the signal of each class is strong and that LAF is effective in identifying it.", 
+          "qas": [
+            {
+              "question": "Can Logic Alignment Free (LAF) be used for bacterial genomes classification?", 
+              "id": "5a75f1f383b0d9ea66000006_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Mitral valve prolapse. For half a century the systolic click and late systolic murmur lay dormant as innocent auscultatory curiosities. The thirteen years since Barlow related these phenomena to mitral leaflet prolapse have witnessed an astonishing information explosion. We have sought to bring together the accumulated data in this review. An Historical Perspective traces the evolution from the now abandoned \"pericardial\" or \"extracardiac\" phases, through the leafletchordal phase (redundancy), the myocardial phase (segmental left ventricular contraction abnormalities), to the anular phase (dilatation and faulty systolic contraction). Functional Anatomy is dealt with in terms of pathology, pathophysiology, hemodynamics, angiocardiography, echocardiography, and physical and pharmacological interventions. Clinical Manifestations are concerned with prevalence, natural history, symptoms, physical signs, electrocardiographic abnormalities and roentgen fingings. The four Major Complications- sudden death, infective endocarditis, spontaneous rupture of chordae tendineae, and progressive mitral regurgitation- are examined. Associated Cardiac Diseases, i.e., Marfan's syndrome, ostium secundum atrial septal defect and atherosclerotic coronary artery disease, are discussed, and a section on Treatment deals chiefly with prophylaxis for infective endocarditis and the management of arrhythmias and chest pain. A final section on Evolving Information considers etiologic concepts, the nature of left ventricular contration abnormalities, the cause of chest pain, the relationship to Marfan's syndrome and ostium secundum atrial septal defect, and the effect of aging and sex differences on leaflet chordal redundancy.", 
+          "qas": [
+            {
+              "question": "Is Marfan syndrome associated with chordal rupture?", 
+              "id": "5a722a052dc08e987e000002_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Total chordal augmentation in a child with Marfan syndrome and severe mitral insufficiency. Mitral valve repair has become an established treatment in adults, but there is limited experience with the procedure in children, in whom the avoidance of a valve prosthesis is particularly advantageous. Repair of the mitral valve in children who have Marfan syndrome is especially difficult due to the presence of generalized connective tissue disorder, which may lead to future elongation and rupture of chordae tendineae that were unaffected at the time of mitral valve repair. We performed a total augmentation of all segments of the mitral valve, using artificial chordae tendineae. Herein, we describe the procedure and the positive outcome in a 10-year-old girl.", 
+          "qas": [
+            {
+              "question": "Is Marfan syndrome associated with chordal rupture?", 
+              "id": "5a722a052dc08e987e000002_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Surgical management of mitral regurgitation in patients with Marfan syndrome. BACKGROUND AND AIM OF THE STUDY: Although, in patients with Marfan syndrome, the most common cardiovascular abnormalities are aortic root dilatation and aortic valve regurgitation, mitral valve dysfunction is the most frequently accompanying cardiac lesion. METHODS: The clinical course and management is reported of nine patients (seven men, two women; mean age 29.2 +/- 2.3 years) with Marfan syndrome who required different mitral valve procedures and aortic valve replacement. Mitral regurgitation was caused by annulus dilatation in all patients, by leaflet prolapse in five patients, and by chordal rupture due to endocarditis in two. Six patients underwent mitral valve replacement; three of these were operated on using preservation of the mitral valve apparatus. Three patients underwent mitral annuloplasty and chordal shortening. RESULTS: There was no hospital mortality, nor any valve-related complications in the series. The postoperative course was uneventful after each operation. At a mean follow up of 4.5 years, all patients were in NYHA class I or II, with improved functional capacity. CONCLUSION: This experience in mitral valve procedures indicated that the connective tissue defect might compromise the results of such surgery, but that mitral valve operations could be performed satisfactorily in young Marfan syndrome patients, despite complications of left ventricular dilatation.", 
+          "qas": [
+            {
+              "question": "Is Marfan syndrome associated with chordal rupture?", 
+              "id": "5a722a052dc08e987e000002_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Perioperative coronary artery spasm in modified Bentall's operation for annulo-aortic ectasia in Marfan's syndrome. A case report of perioperative chordal rupture of the mitral valve. We experienced a rare case of Marfan's syndrome with annulo-aortic ectasia, aortic regurgitation and Prinzmetal's variant angina. In a modified Bentall's operation (button technique), perioperative severe coronary artery spasm occurred in spite of the preventive use of nitroglycerin infusion, which resulted in profound ventricular fibrillation and subsequent chordal rupture of the mitral valve with Sellers IV regurgitation. Use of nicardipine contained in cardioplegia, continuous infusion of nicardipine and nitroglycerin after aortic declamping completely prevented coronary spasm throughout the course of a second surgery for mitral valve replacement. It is worthy to report this case because of rarities such as Marfan's syndrome accompanied by Prinzmetal's variant angina, perioperative coronary artery spasm in modified Bentall's operation, and perioperative chordal rupture of the mitral valve and progression of mitral valve regurgitation. We also stress the efficacy of a new calcium antagonist, nicardipine, to prevent coronary artery spasm during open heart surgery.", 
+          "qas": [
+            {
+              "question": "Is Marfan syndrome associated with chordal rupture?", 
+              "id": "5a722a052dc08e987e000002_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Acute mitral regurgitation due to chordal rupture in a patient with neonatal Marfan syndrome caused by a deletion in exon 29 of the FBN1 gene. The neonatal Marfan syndrome is an autosomal dominantly inherited disease with an extremely poor prognosis. This report gives a clinical and echocardiographic description of an infant with a mutation in exon 29 of the fibrillin-1 gene (FBN1), a region in which this severe form of Marfan syndrome seems to cluster. The infant died at the age of 3 months due to severe acute mitral regurgitation leading to intractable heart failure.", 
+          "qas": [
+            {
+              "question": "Is Marfan syndrome associated with chordal rupture?", 
+              "id": "5a722a052dc08e987e000002_004"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

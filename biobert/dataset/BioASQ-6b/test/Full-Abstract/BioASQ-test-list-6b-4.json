@@ -1,0 +1,703 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Detection of bacterial agents in Amblyomma americanum (Acari: Ixodidae) from Georgia, USA, and the use of a multiplex assay to differentiate Ehrlichia chaffeensis and Ehrlichia ewingii. Amblyomma americanum, the lone star tick, is the most common and most aggressive human biting tick in the Southeastern United States. It is known to transmit the agents of human ehrlichioses, Ehrlichia chaffeensis and Ehrlichia ewingii. In addition, it carries agents of unspecified pathogenicity to humans, including Rickettsia amblyommii, Borrelia lonestari, and the newly emerging Panola Mountain Ehrlichia (PME). Surveillance of these ticks for recognized or emerging pathogens is necessary for assessing the risk of human infection. From 2005 to 2009, we surveyed A. americanum ticks from four locations in the state of Georgia. Ticks (1,183 adults, 2,954 nymphs, and 99 larval batches) were tested using a multiplex real-time polymerase chain reaction (PCR) assay designed to detect and discriminate DNA from Rickettsia spp., E. chaffeensis, and E. ewingii. This assay was capable of detecting as few as 10 gene copies of the aforementioned agents. Ticks were also tested for PME and B. lonestari by nested PCR. The prevalence of infection ranged from 0 to 2.5% for E. chaffeensis, 0 to 3.9% for E. ewingii, 0 to 2.2% for PME, 17 to 83.1% for R. amblyommii, and 0 to 3.1% for B. lonestari. There were 46 (4.1%) individual adults positive for two agents, and two females that were each positive for three agents. Two larval batches were positive for both B. lonestari and R. amblyommii, indicating the potential for transovarial transmission of both agents from a single female. Although infrequent in occurrence, the dynamics of coinfections in individual ticks should be explored further, given the potential implications for differential diagnosis and severity of human illness.", 
+          "qas": [
+            {
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?", 
+              "id": "5a96c74cfcd1d6a10c000029_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A Coxiella-like endosymbiont is a potential vitamin source for the Lone Star tick. Amblyomma americanum (Lone star tick) is an important disease vector in the United States. It transmits several human pathogens, including the agents of human monocytic ehrlichiosis, tularemia, and southern tick-associated rash illness. Blood-feeding insects (Class Insecta) depend on bacterial endosymbionts to provide vitamins and cofactors that are scarce in blood. It is unclear how this deficiency is compensated in ticks (Class Arachnida) that feed exclusively on mammalian blood. A bacterium related to Coxiella burnetii, the agent of human Q fever, has been observed previously within cells of A. americanum. Eliminating this bacterium (CLEAA, Coxiella-like endosymbiont of A. americanum) with antibiotics reduced tick fecundity, indicating that it is an essential endosymbiont. In an effort to determine its role within this symbiosis, we sequenced the CLEAA genome. While highly reduced (656,901 bp) compared with C. burnetii (1,995,281 bp), the CLEAA genome encodes most major vitamin and cofactor biosynthesis pathways, implicating CLEAA as a vitamin provisioning endosymbiont. In contrast, CLEAA lacks any recognizable virulence genes, indicating that it is not a pathogen despite its presence in tick salivary glands. As both C. burnetii and numerous \"Coxiella-like bacteria\" have been reported from several species of ticks, we determined the evolutionary relationship between the two bacteria. Phylogeny estimation revealed that CLEAA is a close relative of C. burnetii, but was not derived from it. Our results are important for strategies geared toward controlling A. americanum and the pathogens it vectors, and also contribute novel information regarding the metabolic interdependencies of ticks and their nutrient-provisioning endosymbionts.", 
+          "qas": [
+            {
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?", 
+              "id": "5a96c74cfcd1d6a10c000029_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Southern Tick-Associated Rash Illness (STARI) in the North: STARI following a tick bite in Long Island, New York. The most common clinical manifestation of Lyme disease is the characteristic rash, erythema migrans (EM). In the 1980s EM-like eruptions were reported in Missouri and other southeastern states. The EM-like eruptions, which were of unknown etiology, often followed the bite of the Lone Star tick (Amblyomma americanum) and the rash is called STARI (southern tick-associated rash illness). Although the Lone Star tick is found in the Lyme disease-endemic areas of New England and Mid-Atlantic regions of the United States, STARI has been reported only once from the Northeast and Mid-Atlantic regions. We report a child from Connecticut who visited Long Island, New York, and developed a rash that was thought to be EM. Because the patient failed to respond to antibiotics used to treat Lyme disease, an investigation ensued, and the diagnosis of STARI was established.", 
+          "qas": [
+            {
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?", 
+              "id": "5a96c74cfcd1d6a10c000029_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Natural history of Ehrlichia chaffeensis: vertebrate hosts and tick vectors from the United States and evidence for endemic transmission in other countries. Ehrlichia chaffeensis, an intracellular gram-negative zoonotic bacterium, is the causative agent of human monocytotropic ehrlichiosis (HME). In humans, the disease can range from a mild, non-specific illness with few to no clinical signs to a moderately severe to fatal disease, especially those with compromised immune systems. E. chaffeensis is maintained in a complex cycle involving white-tailed deer (WTD; Odocoileus virginianus) as a primary reservoir and the lone star tick (LST; Amblyomma americanum) as a primary vector. Numerous other species are naturally exposed to E. chaffeensis and disease has been documented in some domestic animals and wildlife including domestic dogs and ring-tailed lemurs. The organism has been found throughout the natural range of the LST and as the tick continues to expand its range, the geographic range of risk for E. chaffeensis infections will likely continue to expand. Recent data have indicated that E. chaffeensis, or a closely related organism, has been found in many species of ticks and vertebrate hosts in numerous countries.", 
+          "qas": [
+            {
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?", 
+              "id": "5a96c74cfcd1d6a10c000029_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Rickettsia parkeri Transmission to Amblyomma americanum by Cofeeding with Amblyomma maculatum (Acari: Ixodidae) and Potential for Spillover. Amblyomma americanum (L.) is a human-biting ixodid tick distributed throughout much of the southeastern United States. Rickettsia parkeri is a member of the spotted fever group rickettsiae and causes a febrile illness in humans commonly referred to as \"Tidewater spotted fever\" or \"R. parkeri rickettsiosis.\" Although the Gulf Coast tick, Amblyomma maculatum Koch, is the primary vector of R. parkeri, a small proportion of A. americanum have also been shown to harbor R. parkeri. The purpose of this investigation was to determine whether R. parkeri is spilling over into A. americanum in eastern Virginia and also to determine through laboratory experiments, whether A. americanum can acquire R. parkeri by cofeeding alongside infected ticks. Of 317 wild-caught, flat adult A. americanum tested from 29 counties and independent cities in coastal Virginia, a single female A. americanum was positive for R. parkeri, suggesting that R. parkeri is spilling over into this species, but at very low rates (<1.0%). Laboratory studies using guinea pigs indicated that nymphal A. americanum were able to acquire R. parkeri while feeding alongside infected A. maculatum and then transstadially maintain the infection. Nymphal A. americanum infected with Rickettsia amblyommii, however, were less likely to acquire R. parkeri, suggesting that infection with R. amblyommii may prevent R. parkeri from establishing infection in A. americanum.", 
+          "qas": [
+            {
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?", 
+              "id": "5a96c74cfcd1d6a10c000029_004"
+            }
+          ]
+        }, 
+        {
+          "context": "What's eating you? lone star tick (Amblyomma americanum). Amblyomma americanum, also known as the lone star tick, is found in much of the eastern United States. Since the mid-20th century, the lone star tick has been implicated in human disease. Today, A americanum remains an important vector for tick-borne illness. In addition to others, species of Rickettsia, Ehrlichia, and Borrelia are all transmitted by the lone star tick. Recently described conditions such as Southern tick-associated rash illness and anaphylaxis to red meat following tick bites have been attributed to the lone star tick. Impressive local reactions also can result after bites from A americanum. Early treatment of tick-borne illness is crucial to ensure good patient outcomes. Tick-control measures also are an important part of disease management in endemic areas. We discuss the tick's biology, human illnesses associated with A americanum, and methods to control tick numbers and eliminate disease in local reservoirs.", 
+          "qas": [
+            {
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?", 
+              "id": "5a96c74cfcd1d6a10c000029_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Emerging monoclonal antibodies against Clostridium difficile infection. Clostridium difficile infections are characterized by a high recurrence rate despite antibiotic treatments and there is an urgent need to develop new treatments such as fecal transplantation and immonotherapy. Besides active immunotherapy with vaccines, passive immunotherapy has shown promise, especially with monoclonal antibodies. Areas covered: Herein, the authors review the different assays performed with monoclonal antibodies against C. difficile toxins and surface proteins to treat or prevent primary or recurrent episodes of C. difficile infection in animal models and in clinical trials as well. Notably, the authors lay emphasis on the phase III clinical trial (MODIFY II), which allowed bezlotoxumab to be approved by the Food and Drug Administration and the European Medicines Agency. They also review new strategies for producing single domain antibodies and nanobodies against C. difficile and new approaches to deliver them in the digestive tract. Expert opinion: Only two human Mabs against TcdA and TcdB have been tested alone or in combination in clinical trials. However, many animal model studies have provided rationale for the use of Mabs and nanobodies in C. difficile infection and pave the way for further clinical investigation.", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Broad coverage of genetically diverse strains of Clostridium difficile by actoxumab and bezlotoxumab predicted by in vitro neutralization and epitope modeling. Clostridium difficile infections (CDIs) are the leading cause of hospital-acquired infectious diarrhea and primarily involve two exotoxins, TcdA and TcdB. Actoxumab and bezlotoxumab are human monoclonal antibodies that neutralize the cytotoxic/cytopathic effects of TcdA and TcdB, respectively. In a phase II clinical study, the actoxumab-bezlotoxumab combination reduced the rate of CDI recurrence in patients who were also treated with standard-of-care antibiotics. However, it is not known whether the antibody combination will be effective against a broad range of C. difficile strains. As a first step toward addressing this, we tested the ability of actoxumab and bezlotoxumab to neutralize the activities of toxins from a number of clinically relevant and geographically diverse strains of C. difficile. Neutralization potencies, as measured in a cell growth/survival assay with purified toxins from various C. difficile strains, correlated well with antibody/toxin binding affinities. Actoxumab and bezlotoxumab neutralized toxins from culture supernatants of all clinical isolates tested, including multiple isolates of the BI/NAP1/027 and BK/NAP7/078 strains, at antibody concentrations well below plasma levels observed in humans. We compared the bezlotoxumab epitopes in the TcdB receptor binding domain across known TcdB sequences and found that key substitutions within the bezlotoxumab epitopes correlated with the relative differences in potencies of bezlotoxumab against TcdB of some strains, including ribotypes 027 and 078. Combined with in vitro neutralization data, epitope modeling will enhance our ability to predict the coverage of new and emerging strains by actoxumab-bezlotoxumab in the clinic.", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The Monoclonal Antitoxin Antibodies (Actoxumab-Bezlotoxumab) Treatment Facilitates Normalization of the Gut Microbiota of Mice with Clostridium difficile Infection. Antibiotics have significant and long-lasting impacts on the intestinal microbiota and consequently reduce colonization resistance against Clostridium difficile infection (CDI). Standard therapy using antibiotics is associated with a high rate of disease recurrence, highlighting the need for novel treatment strategies that target toxins, the major virulence factors, rather than the organism itself. Human monoclonal antibodies MK-3415A (actoxumab-bezlotoxumab) to C. difficile toxin A and toxin B, as an emerging non-antibiotic approach, significantly reduced the recurrence of CDI in animal models and human clinical trials. Although the main mechanism of protection is through direct neutralization of the toxins, the impact of MK-3415A on gut microbiota and its restoration has not been examined. Using a CDI murine model, we compared the bacterial diversity of the gut microbiome of mice under different treatments including MK-3415A, vancomycin, or vancomycin combined with MK-3415A, sampled longitudinally. Here, we showed that C. difficile infection resulted in the prevalence of Enterobacter species. Sixty percent of mice in the vehicle group died after 2 days and their microbiome was almost exclusively formed by Enterobacter. MK-3415A treatment resulted in lower Enterobacter levels and restoration of Blautia, Akkermansia, and Lactobacillus which were the core components of the original microbiota. Vancomycin treatment led to significantly lower survival rate than the combo treatment of MK-3415A and vancomycin. Vancomycin treatment decreased bacterial diversity with predominant Enterobacter and Akkermansia, while Staphylococcus expanded after vancomycin treatment was terminated. In contrast, mice treated by vancomycin combined with MK-3415A also experienced decreased bacterial diversity during vancomycin treatment. However, these animals were able to recover their initial Blautia and Lactobacillus proportions, even though episodes of Staphylococcus overgrowth were detected by the end of the experiments. In conclusion, MK-3415A (actoxumab-bezlotoxumab) treatment facilitates normalization of the gut microbiota in CDI mice. It remains to be examined whether or not the prevention of recurrent CDI by the antitoxin antibodies observed in clinical trials occurs through modulation of microbiota.", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Bezlotoxumab: A Novel Agent for the Prevention of Recurrent Clostridium difficile Infection. During the past decade, the incidence and severity of Clostridium difficile infection (CDI) have significantly increased, leading to a rise in CDI-associated hospitalizations, health care costs, and mortality. Although treatment options exist for CDI, recurrence is frequent following treatment. Furthermore, patients with at least one CDI recurrence are at an increased risk of developing additional recurrences. A novel approach to the prevention of recurrent CDI is the use of monoclonal antibodies directed against the toxins responsible for CDI as an adjunct to antibiotic treatment. Bezlotoxumab, a human monoclonal antibody that binds and neutralizes C. difficile toxin B, is the first therapeutic agent to receive United States Food and Drug Administration approval for the prevention of CDI recurrence. Clinical studies have demonstrated superior efficacy of bezlotoxumab in adults receiving antibiotic therapy for CDI compared with antibiotic therapy alone for the prevention of CDI recurrence. Bezlotoxumab was well tolerated in clinical trials, with the most common adverse effects being nausea, vomiting, fatigue, pyrexia, headache, and diarrhea. The demonstrated efficacy, safety, and characteristics of bezlotoxumab present an advance in prevention of CDI recurrence.", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Bezlotoxumab: First Global Approval. Bezlotoxumab (Zinplava\u2122) is a human monoclonal antibody against Clostridium difficile toxin B developed by Merck & Co. In October 2016 it was approved in the USA for reducing the recurrence of C. difficile infection. This article summarizes the milestones in the development of bezlotoxumab leading to this first approval for use in patients receiving antibacterial drug treatment for C. difficile infection who are at high risk for recurrence of C. difficile infection.", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Bezlotoxumab for Prevention of Recurrent Clostridium difficile Infection. BACKGROUND: Clostridium difficile is the most common cause of infectious diarrhea in hospitalized patients. Recurrences are common after antibiotic therapy. Actoxumab and bezlotoxumab are human monoclonal antibodies against C. difficile toxins A and B, respectively. METHODS: We conducted two double-blind, randomized, placebo-controlled, phase 3 trials, MODIFY I and MODIFY II, involving 2655 adults receiving oral standard-of-care antibiotics for primary or recurrent C. difficile infection. Participants received an infusion of bezlotoxumab (10 mg per kilogram of body weight), actoxumab plus bezlotoxumab (10 mg per kilogram each), or placebo; actoxumab alone (10 mg per kilogram) was given in MODIFY I but discontinued after a planned interim analysis. The primary end point was recurrent infection (new episode after initial clinical cure) within 12 weeks after infusion in the modified intention-to-treat population. RESULTS: In both trials, the rate of recurrent C. difficile infection was significantly lower with bezlotoxumab alone than with placebo (MODIFY I: 17% [67 of 386] vs. 28% [109 of 395]; adjusted difference, -10.1 percentage points; 95% confidence interval [CI], -15.9 to -4.3; P<0.001; MODIFY II: 16% [62 of 395] vs. 26% [97 of 378]; adjusted difference, -9.9 percentage points; 95% CI, -15.5 to -4.3; P<0.001) and was significantly lower with actoxumab plus bezlotoxumab than with placebo (MODIFY I: 16% [61 of 383] vs. 28% [109 of 395]; adjusted difference, -11.6 percentage points; 95% CI, -17.4 to -5.9; P<0.001; MODIFY II: 15% [58 of 390] vs. 26% [97 of 378]; adjusted difference, -10.7 percentage points; 95% CI, -16.4 to -5.1; P<0.001). In prespecified subgroup analyses (combined data set), rates of recurrent infection were lower in both groups that received bezlotoxumab than in the placebo group in subpopulations at high risk for recurrent infection or for an adverse outcome. The rates of initial clinical cure were 80% with bezlotoxumab alone, 73% with actoxumab plus bezlotoxumab, and 80% with placebo; the rates of sustained cure (initial clinical cure without recurrent infection in 12 weeks) were 64%, 58%, and 54%, respectively. The rates of adverse events were similar among these groups; the most common events were diarrhea and nausea. CONCLUSIONS: Among participants receiving antibiotic treatment for primary or recurrent C. difficile infection, bezlotoxumab was associated with a substantially lower rate of recurrent infection than placebo and had a safety profile similar to that of placebo. The addition of actoxumab did not improve efficacy. (Funded by Merck; MODIFY I and MODIFY II ClinicalTrials.gov numbers, NCT01241552 and NCT01513239 .).", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Mechanisms of protection against Clostridium difficile infection by the monoclonal antitoxin antibodies actoxumab and bezlotoxumab. Clostridium difficile infection (CDI) represents the most prevalent cause of antibiotic-associated gastrointestinal infections in health care facilities in the developed world. Disease symptoms are caused by the two homologous exotoxins, TcdA and TcdB. Standard therapy for CDI involves administration of antibiotics that are associated with a high rate of disease recurrence, highlighting the need for novel treatment paradigms that target the toxins rather than the organism itself. A combination of human monoclonal antibodies, actoxumab and bezlotoxumab, directed against TcdA and TcdB, respectively, has been shown to decrease the rate of recurrence in patients treated with standard-of-care antibiotics. However, the exact mechanism of antibody-mediated protection is poorly understood. In this study, we show that the antitoxin antibodies are protective in multiple murine models of CDI, including systemic and local (gut) toxin challenge models, as well as primary and recurrent models of infection in mice. Systemically administered actoxumab-bezlotoxumab prevents both the damage to the gut wall and the inflammatory response, which are associated with C. difficile in these models, including in mice challenged with a strain of the hypervirulent ribotype 027. Furthermore, mutant antibodies (N297Q) that do not bind to Fc\u03b3 receptors provide a level of protection similar to that of wild-type antibodies, demonstrating that the mechanism of protection is through direct neutralization of the toxins and does not involve host effector functions. These data provide a mechanistic basis for the prevention of recurrent disease observed in CDI patients in clinical trials.", 
+          "qas": [
+            {
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins.", 
+              "id": "5a7240aa2dc08e987e00000d_006"
+            }
+          ]
+        }, 
+        {
+          "context": "QVZ: lossy compression of quality values. MOTIVATION: Recent advancements in sequencing technology have led to a drastic reduction in the cost of sequencing a genome. This has generated an unprecedented amount of genomic data that must be stored, processed and transmitted. To facilitate this effort, we propose a new lossy compressor for the quality values presented in genomic data files (e.g. FASTQ and SAM files), which comprise roughly half of the storage space (in the uncompressed domain). Lossy compression allows for compression of data beyond its lossless limit. RESULTS: The proposed algorithm QVZ exhibits better rate-distortion performance than the previously proposed algorithms, for several distortion metrics and for the lossless case. Moreover, it allows the user to define any quasi-convex distortion function to be minimized, a feature not supported by the previous algorithms. Finally, we show that QVZ-compressed data exhibit better performance in the genotyping than data compressed with previously proposed algorithms, in the sense that for a similar rate, a genotyping closer to that achieved with the original quality values is obtained. AVAILABILITY AND IMPLEMENTATION: QVZ is written in C and can be downloaded from https://github.com/mikelhernaez/qvz. CONTACT: mhernaez@stanford.edu or gmalysa@stanford.edu or iochoa@stanford.edu SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which algorithms are used for compression of SAM files?", 
+              "id": "5a76344e9e632bc066000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Improving transmission efficiency of large sequence alignment/map (SAM) files. Research in bioinformatics primarily involves collection and analysis of a large volume of genomic data. Naturally, it demands efficient storage and transfer of this huge amount of data. In recent years, some research has been done to find efficient compression algorithms to reduce the size of various sequencing data. One way to improve the transmission time of large files is to apply a maximum lossless compression on them. In this paper, we present SAMZIP, a specialized encoding scheme, for sequence alignment data in SAM (Sequence Alignment/Map) format, which improves the compression ratio of existing compression tools available. In order to achieve this, we exploit the prior knowledge of the file format and specifications. Our experimental results show that our encoding scheme improves compression ratio, thereby reducing overall transmission time significantly.", 
+          "qas": [
+            {
+              "question": "Which algorithms are used for compression of SAM files?", 
+              "id": "5a76344e9e632bc066000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "GeneComp, a new reference-based compressor for SAM files. The affordability of DNA sequencing has led to unprecedented volumes of genomic data. These data must be stored, processed, and analyzed. The most popular format for genomic data is the SAM format, which contains information such as alignment, quality values, etc. These files are large (on the order of terabytes), which necessitates compression. In this work we propose a new reference-based compressor for SAM files, which can accommodate different levels of compression, based on the specific needs of the user. In particular, the proposed compressor GeneComp allows the user to perform lossy compression of the quality scores, which have been proven to occupy more than half of the compressed file (when losslessly compressed). We show that the proposed compressor GeneComp overall achieves better compression ratios than previously proposed algorithms when working on lossless mode.", 
+          "qas": [
+            {
+              "question": "Which algorithms are used for compression of SAM files?", 
+              "id": "5a76344e9e632bc066000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "NGC: lossless and lossy compression of aligned high-throughput sequencing data. A major challenge of current high-throughput sequencing experiments is not only the generation of the sequencing data itself but also their processing, storage and transmission. The enormous size of these data motivates the development of data compression algorithms usable for the implementation of the various storage policies that are applied to the produced intermediate and final result files. In this article, we present NGC, a tool for the compression of mapped short read data stored in the wide-spread SAM format. NGC enables lossless and lossy compression and introduces the following two novel ideas: first, we present a way to reduce the number of required code words by exploiting common features of reads mapped to the same genomic positions; second, we present a highly configurable way for the quantization of per-base quality values, which takes their influence on downstream analyses into account. NGC, evaluated with several real-world data sets, saves 33-66% of disc space using lossless and up to 98% disc space using lossy compression. By applying two popular variant and genotype prediction tools to the decompressed data, we could show that the lossy compression modes preserve >99% of all called variants while outperforming comparable methods in some configurations.", 
+          "qas": [
+            {
+              "question": "Which algorithms are used for compression of SAM files?", 
+              "id": "5a76344e9e632bc066000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Nucleostemin dysregulation contributes to ischemic vulnerability of diabetic hearts: Role of ribosomal biogenesis. Diabetes is a major health problem worldwide. As well-known, diabetes greatly increases cardiac vulnerability to ischemia/reperfusion (I/R) injury, but the underlying mechanisms remain elusive. Nucleostemin (NS) is a nucleolar protein that controls ribosomal biogenesis and exerts cardioprotective effects against I/R injury. However, whether NS-mediated ribosomal biogenesis regulates ischemic vulnerability of diabetic hearts remains unanswered. Utilizing myocardial I/R mouse models, we found that cardiac NS expression significantly increased in response to I/R in normal diet (ND)-fed mice. Surprisingly, cardiac NS failed to be upregulated in high fat diet (HFD)-induced diabetic mice, accompanied by obvious ribosomal dysfunction. Compared with ND group, cardiac specific overexpression of NS by adenovirus (AV) injection significantly restored I/R-induced ribosomal function enhancement, reduced cardiomyocyte apoptosis, improved cardiac function, and decreased infarct sizes in diabetic mice. Notably, co-treatment of homoharringtonine (HHT), a selective inhibitor of ribosomal function, totally blocked NS-mediated cardioprotective effects against I/R injury. Furthermore, in cultured cardiomyocytes, saturated fatty acids treatment, but not high glucose exposure, significantly inhibited simulated I/R-induced NS upregulation and ribosomal function improvement. In conclusion, these data for the first time demonstrate that NS dysregulation induced by saturated fatty acids exposure might be an important cause of increased ischemic vulnerability to I/R injury in diabetic hearts. Targeting NS dysregulation and subsequent ribosomal dysfunction could be a promising therapeutic strategy for diabetic I/R injury management.", 
+          "qas": [
+            {
+              "question": "List ribosomal biogenesis proteins.", 
+              "id": "5aa80873d6d6b54f79000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "PTEN\u03b2 is an alternatively translated isoform of PTEN that regulates rDNA transcription. PTEN is a critical tumour suppressor that is frequently mutated in human cancer. We have previously identified a CUG initiated PTEN isoform designated PTEN\u03b1, which functions in mitochondrial bioenergetics. Here we report the identification of another N-terminal extended PTEN isoform, designated PTEN\u03b2. PTEN\u03b2 translation is initiated from an AUU codon upstream of and in-frame with the AUG initiation sequence for canonical PTEN. We show that the Kozak context and a downstream hairpin structure are critical for this alternative initiation. PTEN\u03b2 localizes predominantly in the nucleolus, and physically associates with and dephosphorylates nucleolin, which is a multifunctional nucleolar phosphoprotein. Disruption of PTEN\u03b2 alters rDNA transcription and promotes ribosomal biogenesis, and this effect can be reversed by re-introduction of PTEN\u03b2. Our data show that PTEN\u03b2 regulates pre-rRNA synthesis and cellular proliferation. These results demonstrate the complexity of the PTEN protein family and the diversity of its functions.", 
+          "qas": [
+            {
+              "question": "List ribosomal biogenesis proteins.", 
+              "id": "5aa80873d6d6b54f79000013_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Perturbation of RNA Polymerase I transcription machinery by ablation of HEATR1 triggers the RPL5/RPL11-MDM2-p53 ribosome biogenesis stress checkpoint pathway in human cells. Ribosome biogenesis is an energy consuming process which takes place mainly in the nucleolus. By producing ribosomes to fuel protein synthesis, it is tightly connected with cell growth and cell cycle control. Perturbation of ribosome biogenesis leads to the activation of p53 tumor suppressor protein promoting processes like cell cycle arrest, apoptosis or senescence. This ribosome biogenesis stress pathway activates p53 through sequestration of MDM2 by a subset of ribosomal proteins (RPs), thereby stabilizing p53. Here, we identify human HEATR1, as a nucleolar protein which positively regulates ribosomal RNA (rRNA) synthesis. Downregulation of HEATR1 resulted in cell cycle arrest in a manner dependent on p53. Moreover, depletion of HEATR1 also caused disruption of nucleolar structure and activated the ribosomal biogenesis stress pathway - RPL5 / RPL11 dependent stabilization and activation of p53. These findings reveal an important role for HEATR1 in ribosome biogenesis and further support the concept that perturbation of ribosome biosynthesis results in p53-dependent cell cycle checkpoint activation, with implications for human pathologies including cancer.", 
+          "qas": [
+            {
+              "question": "List ribosomal biogenesis proteins.", 
+              "id": "5aa80873d6d6b54f79000013_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Regulatory module involving FGF13, miR-504, and p53 regulates ribosomal biogenesis and supports cancer cell survival. The microRNA miR-504 targets TP53 mRNA encoding the p53 tumor suppressor. miR-504 resides within the fibroblast growth factor 13 (FGF13) gene, which is overexpressed in various cancers. We report that the FGF13 locus, comprising FGF13 and miR-504, is transcriptionally repressed by p53, defining an additional negative feedback loop in the p53 network. Furthermore, we show that FGF13 1A is a nucleolar protein that represses ribosomal RNA transcription and attenuates protein synthesis. Importantly, in cancer cells expressing high levels of FGF13, the depletion of FGF13 elicits increased proteostasis stress, associated with the accumulation of reactive oxygen species and apoptosis. Notably, stepwise neoplastic transformation is accompanied by a gradual increase in FGF13 expression and increased dependence on FGF13 for survival (\"nononcogene addiction\"). Moreover, FGF13 overexpression enables cells to cope more effectively with the stress elicited by oncogenic Ras protein. We propose that, in cells in which activated oncogenes drive excessive protein synthesis, FGF13 may favor survival by maintaining translation rates at a level compatible with the protein quality-control capacity of the cell. Thus, FGF13 may serve as an enabler, allowing cancer cells to evade proteostasis stress triggered by oncogene activation.", 
+          "qas": [
+            {
+              "question": "List ribosomal biogenesis proteins.", 
+              "id": "5aa80873d6d6b54f79000013_003"
+            }
+          ]
+        }, 
+        {
+          "context": "TGF\u03b2/Activin signalling is required for ribosome biogenesis and cell growth in Drosophila salivary glands. Signalling by TGF\u03b2 superfamily factors plays an important role in tissue growth and cell proliferation. In Drosophila, the activity of the TGF\u03b2/Activin signalling branch has been linked to the regulation of cell growth and proliferation, but the cellular and molecular basis for these functions are not fully understood. In this study, we show that both the RII receptor Punt (Put) and the R-Smad Smad2 are strongly required for cell and tissue growth. Knocking down the expression of Put or Smad2 in salivary glands causes alterations in nucleolar structure and functions. Cells with decreased TGF\u03b2/Activin signalling accumulate intermediate pre-rRNA transcripts containing internal transcribed spacer 1 regions accompanied by the nucleolar retention of ribosomal proteins. Thus, our results show that TGF\u03b2/Activin signalling is required for ribosomal biogenesis, a key aspect of cellular growth control. Importantly, overexpression of Put enhanced cell growth induced by Drosophila Myc, a well-characterized inducer of nucleolar hypertrophy and ribosome biogenesis.", 
+          "qas": [
+            {
+              "question": "List ribosomal biogenesis proteins.", 
+              "id": "5aa80873d6d6b54f79000013_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Benefit-risk assessment for sofosbuvir/velpatasvir/voxilaprevir based on patient population and hepatitis C virus genotype: U. S. Food and Drug Administration's evaluation. On July 18, 2017, the U.S. Food and Drug Administration (FDA) approved sofosbuvir/velpatasvir/voxilaprevir (SOF/VEL/VOX) (Vosevi) fixed-dose combination (FDC), an interferon-free, complete regimen for adult patients with chronic hepatitis C virus (HCV) infection without cirrhosis or with compensated cirrhosis (Child-Pugh A) who have: \u2022 genotype 1, 2, 3, 4, 5, or 6 infection and have previously been treated with an HCV regimen containing a nonstructural protein 5A (NS5A) inhibitor; and \u2022 genotype 1a or 3 infection and have previously been treated with an HCV regimen containing sofosbuvir without an NS5A inhibitor. Approval was based on an acceptable safety profile and high sustained virological response rates 12 weeks after the end of treatment (SVR12) in two phase 3 clinical trials in subjects previously treated with a direct-acting antiviral (DAA) regimen. In POLARIS-1, 96% of SOF/VEL/VOX-treated subjects achieved SVR12. In POLARIS-4, 98% of SOF/VEL/VOX-treated subjects achieved SVR12. A key and challenging question in evaluating the data was determining the contribution of VOX to SOF/VEL and how this differed depending on the genotype and patient population. In this article, we provide our perspective on the issues considered in making these determinations, especially regarding the POLARIS-4 data in subjects who have previously been treated with a chronic HCV regimen containing sofosbuvir without an NS5A inhibitor. CONCLUSION: We seek to provide context as to why a broad indication was given for NS5A inhibitor-experienced patients (HCV genotypes 1-6) while the indication for NS5A inhibitor- na\u00efve patients was limited to HCV genotypes 1a and 3 only. (Hepatology 2017).", 
+          "qas": [
+            {
+              "question": "List drugs that are included in the Vosevi polypill.", 
+              "id": "5a7339372dc08e987e000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Primary care management of opioid use disorders: Abstinence, methadone, or buprenorphine-naloxone? OBJECTIVE: To advise physicians on which treatment options to recommend for specific patient populations: abstinence-based treatment, buprenorphine-naloxone maintenance, or methadone maintenance. SOURCES OF INFORMATION: PubMed was searched and literature was reviewed on the effectiveness, safety, and side effect profiles of abstinence-based treatment, buprenorphine-naloxone treatment, and methadone treatment. Both observational and interventional studies were included. MAIN MESSAGE: Both methadone and buprenorphine-naloxone are substantially more effective than abstinence-based treatment. Methadone has higher treatment retention rates than buprenorphine-naloxone does, while buprenorphine-naloxone has a lower risk of overdose. For all patient groups, physicians should recommend methadone or buprenorphine-naloxone treatment over abstinence-based treatment (level I evidence). Methadone is preferred over buprenorphine-naloxone for patients at higher risk of treatment dropout, such as injection opioid users (level I evidence). Youth and pregnant women who inject opioids should also receive methadone first (level III evidence). If buprenorphine-naloxone is prescribed first, the patient should be promptly switched to methadone if withdrawal symptoms, cravings, or opioid use persist despite an optimal buprenorphine-naloxone dose (level II evidence). Buprenorphine-naloxone is recommended for socially stable prescription oral opioid users, particularly if their work or family commitments make it difficult for them to attend the pharmacy daily, if they have a medical or psychiatric condition requiring regular primary care (level IV evidence), or if their jobs require higher levels of cognitive functioning or psychomotor performance (level III evidence). Buprenorphine-naloxone is also recommended for patients at high risk of methadone toxicity, such as the elderly, those taking high doses of benzodiazepines or other sedating drugs, heavy drinkers, those with a lower level of opioid tolerance, and those at high risk of prolonged QT interval (level III evidence). CONCLUSION: Individual patient characteristics and preferences should be taken into consideration when choosing a first-line opioid agonist treatment. For patients at high risk of dropout (such as adolescents and socially unstable patients), treatment retention should take precedence over other clinical considerations. For patients with high risk of toxicity (such as patients with heavy alcohol or benzodiazepine use), safety would likely be the first consideration. However, the most important factor to consider is that opioid agonist treatment is far more effective than abstinence-based treatment.", 
+          "qas": [
+            {
+              "question": "List 4 drugs used to treat opioid addiction or overdose", 
+              "id": "5aa13fd3d6d6b54f79000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "An overview of available drugs for management of opioid abuse during pregnancy. The prevalence of opioid abuse in the United States has been steadily increasing over the last several years among many major demographics, including pregnant women. Rise in prenatal opioid abuse has resulted in subsequent escalation of neonatal abstinence syndrome incidence, prompting the US Congress to pass the Protecting Our Infants Act of 2015. This act specifically calls for a critical review of current treatment options for prenatal opioid abuse which may ultimately lead to the development of better therapies and a decreased incidence of neonatal abstinence syndrome. Currently, the American College of Obstetricians and Gynecologists recommends methadone, buprenorphine, or buprenorphine/naloxone in the treatment of prenatal opioid abuse. In this review, each maintenance therapy treatment option is discussed and compared revealing inconsistencies in postpartum retention rates, effects on fetal development, and availability to patients due to restrictions in health care coverage. Although each of these treatment options reduces opioid abuse and potential negative outcomes for the fetus, the shortcomings of these drugs highlight the overarching need for an improved standard of care. Drug developers and lawmakers should consider that affordability, coverage by health insurance, and success in retention rates substantially impacts the decision of the patient and healthcare provider regarding utilization of a particular opioid maintenance therapy.", 
+          "qas": [
+            {
+              "question": "List 4 drugs used to treat opioid addiction or overdose", 
+              "id": "5aa13fd3d6d6b54f79000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Common Skin Rashes in Children. Because childhood rashes may be difficult to differentiate by appearance alone, it is important to consider the entire clinical presentation to help make the appropriate diagnosis. Considerations include the appearance and location of the rash; the clinical course; and associated symptoms, such as pruritus or fever. A fever is likely to occur with roseola, erythema infectiosum (fifth disease), and scarlet fever. Pruritus sometimes occurs with atopic dermatitis, pityriasis rosea, erythema infectiosum, molluscum contagiosum, and tinea infection. The key feature of roseola is a rash presenting after resolution of a high fever, whereas the distinguishing features in pityriasis rosea are a herald patch and a bilateral and symmetric rash in a Christmas tree pattern. The rash associated with scarlet fever usually develops on the upper trunk, then spreads throughout the body, sparing the palms and soles. Impetigo is a superficial bacterial infection that most commonly affects the face and extremities of children. Erythema infectiosum is characterized by a viral prodrome followed by the \"slapped cheek\" facial rash. Flesh-colored or pearly white papules with central umbilication occur with molluscum contagiosum, a highly contagious viral infection that usually resolves without intervention. Tinea is a common fungal skin infection in children that affects the scalp, body, groin, feet, hands, or nails. Atopic dermatitis is a chronic, relapsing inflammatory skin condition that may present with a variety of skin changes.", 
+          "qas": [
+            {
+              "question": "Please list 6 symptoms of Scarlet fever.", 
+              "id": "5aa55b65d6d6b54f7900000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Scarlet fever and types of erythrogenic toxins produced by the infecting streptococcal strains. Group A streptococcal strains were isolated from the throats of 46 children suffering from scarlet fever. For detection of erythrogenic toxins (ETs), the culture supernatants were concentrated 100 times by ethanol precipitation and solubilisation in acetate buffer. ELISA was used to identify ETA and double immunodiffusion to identify ETB and ETC. The presence of the ETA gene was detected by a specific DNA probe. ETA (alone or in combination with ETB and/or ETC) was found in 51.9% of the strains, ETB (alone or in combination with ETA and/or ETC) in 76.9% and ETC (in combination with ETA and ETB) in 28.9%. Only 5.8% of strains did not produce any detectable ET. In SDS-PAGE, supernatants of ETB-producing strains showed a pronounced band in either the region of the proteinase zymogen or the active proteinase. There was no correlation between the type of erythrogenic toxin and the serological M or T type of the producing strain. The mitogenic potency of culture supernatants did not differ significantly irrespective of the toxin type(s) present. Culture supernatants of strains without a detectable amount of the known ETs were highly mitogenic, indicating the production of other streptococcal mitogens. A correlation with clinical symptoms was determined with regard to exanthema and fever. Strains producing two or three toxins caused a more intense exanthema. Patient temperature was higher (greater than or equal to 38 degrees C) when the infecting strain produced ETB. The toxin-producing patterns of the strains of this study were compared with those isolated during the last epidemic outbreak of scarlet fever in East Germany.", 
+          "qas": [
+            {
+              "question": "Please list 6 symptoms of Scarlet fever.", 
+              "id": "5aa55b65d6d6b54f7900000e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "[Cutaneous eruptions of streptococcal and staphylococcal origin]. Scarlet fever consists in a diffuse exanthem associated with mucous changes. Classical scarlet fever is rare now, but other severe streptococcal infections have become more frequent, such as streptococcal toxic shock syndrome. The scarlatiniform exanthem and the shock observed in this disease are due to a streptococcal pyrogenic exotoxin. Exfoliative toxins secreted by Staphylococcus aureus are responsible for the tender erythema and cutaneous scaling characteristic of staphylococcal scalded skin syndrome of infancy. The so-called staphylococcal scarlet fever is probably an attenuated variant of this disease. Toxic shock syndrome toxin 1 (TSST1) is another staphylococcal toxin implied in the staphylococcal toxic shock syndrome. This disease is characterized by general symptoms and a scarlatiniform exanthem which are due to the effects of TSST1, acting as a superantigen.", 
+          "qas": [
+            {
+              "question": "Please list 6 symptoms of Scarlet fever.", 
+              "id": "5aa55b65d6d6b54f7900000e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[A dying clinical diagnosis of scarlet fever--the last sixteen years survey]. 11,119 patients with scarlet fever admitted in the last sixteen years, from 1973 to 1988, to Sapporo City General Hospital, were studied statistically on symptoms and laboratory findings. The results were summarized as follows: 1. Annual number of patients have reduced suddenly since 1981, and become zero in 1989. The patients increased in number during the winter season. Eighty two percent of the cases were between 3 and 8 years of age, and the average age was 5.8 year-old. 2. Cases of above-38 degrees C temperature were seen in about 81.4%, and from 2 to 5 days-duration of temperature were seen in 86.6% of the patients in the year 1976. Cases of above-moderate rash were observed in 68.2%, sever redness of throat in 29.9%, strawberry tongue in 86.3% and angular stomatitis in 37.7% of the patients. In recent statistical analysis (1982-1988), we found, however, a tendency that patients having stronger symptoms were being introduced to our hospital. 3. The higher rates of cases showing elevated ASD titer were seen in the elder patients and in the winter. C-reactive protein (CRP) titers were mostly in the range of (-) to (greater than or equal to 6+), having 2.4 + on an average. 4. Patients who developed into overt nephritis were not seen. Cases of microscopic hematuria (greater than or equal to 3 red cells/f in urine sediments), however, were observed in 1.1% (125/11,119). Sever complications were hardly seen. 5. Reappearance of beta-hemolytic streptococci (on a week after discharge) were found in 3.1% (241/7,877). 6. Reinfection or relapse cases of scarlet fever were found in 6.7% (642/9,585).(ABSTRACT TRUNCATED AT 250 WORDS)", 
+          "qas": [
+            {
+              "question": "Please list 6 symptoms of Scarlet fever.", 
+              "id": "5aa55b65d6d6b54f7900000e_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Scarlet fever: A not so typical exanthematous pharyngotonsillitis (based on 171 cases). AIM: To describe the age, signs and clinical symptoms of children with scarlet fever at the present time, and to check whether they are equivalent to those with traditional streptococcal pharyngotonsillitis. STUDY DESIGN: An observational, retrospective study was conducted on the clinical records of 5500 children aged from 0 to 15 years attending a primary health care center. A record was made of the percentage of the cases in which signs and symptoms appear and the Centor score was calculated. Microbiological diagnosis of the disease was made using the rapid antigen-detection test or traditional culture. RESULTS: A total of 171 out of 252 scarlet fever diagnoses were microbiologically verified in 158 patients. The median age was 3.8 years (interquartile range: 2.91-4.78), with the majority (57%) under the age of 4 years. There was fever in 89% of the processes (95% CI: 84-94%), with a temperature of >38\u00b0C in 73% (95% CI: 65-80%), enlarged lymph nodes in 70% (95% CI: 58-82%), absence of cough in 73% (95% CI: 65-80%), and tonsillar exudate in only 24% (95% CI: 17-31%). The Centor score (n=105) was < 2 points in 86% (95% CI: 79-92%). The only difference regarding age is that episodes in patients under the age of 4 years old have significantly higher fever (>38\u00b0C) than the older ones (80% versus 63%. OR 3.13; 95% CI: 1.46-6.71). CONCLUSION: Scarlet fever pharyngotonsillitis differs from the traditional streptococcal pharyngotonsillitis, and its evaluation using clinical prediction rules such as Centor or McIsaac is questionable. The main diagnostic key must certainly be rash, regardless of patient age.", 
+          "qas": [
+            {
+              "question": "Please list 6 symptoms of Scarlet fever.", 
+              "id": "5aa55b65d6d6b54f7900000e_004"
+            }
+          ]
+        }, 
+        {
+          "context": "[Streptococcal infection: variants and morphological manifestations]. 82 cases of streptococcal infection (SI) in children who died in 1977-1985 are studied. Higher incidence of SI in children particularly in those who died at home is emphasized. As a rule, the proper diagnosis was not established clinically. By manifestations the observations were divided into two groups: 1) SI with a pronounced generalization including a pharyngeal one (31 cases), 4 of them with a rash (scarlet fever); extrapharyngeal (7 cases), 6 of them with a rash (scarlet fever); 2) SI without pronounced generalization (localized) including 33 cases with the involvement of the lungs and tonsilla and having an ordinary course and 11 cases of a sudden death. SI structural manifestations involved development of necrotic or purulent-necrotic inflammation of a various degree in the area of the primary focus, regional lymph nodes as well as in the foci resulting from lymphohaematogenic and intracanalicular dissemination. The first symptoms of the septic process could be found even in case of death during the first day of the disease. The role of viral respiratory infection being the background for the SI development, especially for its pharyngeal variant and lung affection, is shown. The significance of thymomegaly and adrenal hypoplasia in the development of a sudden death is revealed.", 
+          "qas": [
+            {
+              "question": "Please list 6 symptoms of Scarlet fever.", 
+              "id": "5aa55b65d6d6b54f7900000e_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Evaluation of the diagnostic reliability of different RBC indices and formulas in the differentiation of the beta-thalassaemia minor from iron deficiency in Palestinian population. Beta-thalassaemia minor and iron deficiency are the most common causes of microcytosis and/or hypochromasia. The present study evaluates the diagnostic reliability of different RBC indices and formulas, as well as our proposed formula, in the differentiation of the beta-thalassaemia minor from iron deficiency in Palestinian population. Complete blood count (CBC) parameters of 2196 certainly diagnosed (1272 beta-thalassaemia minor and 924 iron deficiency) samples were used to evaluate the following indices and formulas: Bessman index (RDW), Mentzer formula (MCV/RBC), England and Fraser formula (MCV - RBC - 5 x Hb- 3.4), Shine and Lal formula (MCV2 x MCH/100), Ehsani formula (MCV-10 x RBC), Srivastava formula (MCH/RBC), Green and King formula (MCV2 x RDW/Hb x 100), red distribution width index RDWI (RDW x MCV/RBC), RDW/RBC, as well as our formula (MCV-RBC -3 x Hb). For each index and formula, the receiver operative characteristic (ROC) curve was constructed to calculate the area under the curve (AUC), in addition, sensitivity, specificity, and likelihood ratios were calculated. No significant differences were reported between our formula, Green-King formula and the RDWI (P > 0.05) in discriminating beta-thalassaemia minor from iron deficiency (AUC = 0.914, 0.909 and 0.907 respectively). However, the three indices and formula showed the highest efficiencies and they were significantly (P < 0.05) better than the others in the discrimination efficiency . It was concluded that our formula, Green-King formula and the RDWI provided the highest reliabilities in differentiating beta-thalassaemia minor from iron deficiency in Palestinian population while Bessman index was poor and ineffective for that purpose.", 
+          "qas": [
+            {
+              "question": "What is included in the Mentzer index?", 
+              "id": "5a736f0c3b9d13c708000007_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Hematinic deficiencies and anemia statuses in oral mucosal disease patients with folic acid deficiency. BACKGROUND/PURPOSE: Folic acid deficiency (FAD) may result in macrocytic anemia. This study assessed the hematinic deficiencies and anemia statuses in oral mucosal disease patients with FAD (defined as folic acid < 6 ng/mL). METHODS: The blood hemoglobin (Hb), iron, vitamin B12, and folic acid concentrations, serum gastric parietal cell antibody level, and mean corpuscular volume (MCV) in 198 oral mucosal disease patients with FAD were measured. Based on World Health Organization (WHO) criteria, anemia or Hb deficiency was defined as having an Hb concentration of <13 g/dL for men and <12 g/dL for women. In this study, macrocytic anemia due to FAD was defined as having an MCV > 100 fL and folic acid < 6 ng/mL; pernicious anemia as having MCV > 100 fL, vitamin B12 < 200 pg/mL, and serum gastric parietal cell antibody positivity; iron deficiency anemia as having MCV <80 fL and iron <60 \u03bcg/dL; and thalassemia trait as having MCV <74 fL, red blood cell (RBC) count > 5.0 \u00d7 10(12)/L, and Mentzer index (MCV/RBC) < 13. RESULTS: We found that by WHO definitions, 73 (36.9%), 41 (20.7%), and 10 (5.1%) of our 198 FAD patients had concomitant Hb, iron, and vitamin B12 deficiencies, respectively. Of 73 anemic FAD patients, three had macrocytic anemia due to FAD, one had pernicious anemia, 14 had iron deficiency anemia, eight had thalassemia trait, and the resting 47 had normocytic anemia. CONCLUSION: In addition to macrocytic anemia (2.0%), FAD patients may have concomitant normocytic (23.7%) or microcytic (11.1%) anemia.", 
+          "qas": [
+            {
+              "question": "What is included in the Mentzer index?", 
+              "id": "5a736f0c3b9d13c708000007_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A model for automated screening of thalassemia in hematology (math study). BACKGROUND: beta-thalassemia screening is primarily limited to pregnant women. The ratio of the mean corpuscular volume (MCV) and red blood cell count (RBC) can be automatically calculated with any of the newer hematology analyzers. METHODS: The results of 398 patient screens were collected. Data from the set were divided into training and validation subsets. The Mentzer ratio was determined through a receiver operating characteristic (ROC) curve on the first subset, and screened for thalassemia using the second subset. HgbA2 levels were used to confirm beta-thalassemia. RESULTS: We determined the correct decision point of the Mentzer index to be a ratio of 20. Physicians can screen patients using this index before further evaluation for beta-thalassemia (P < .05). CONCLUSION: The proposed method can be implemented by hospitals and laboratories to flag positive matches for further definitive evaluation, and will enable beta-thalassemia screening of a much larger population at little to no additional cost.", 
+          "qas": [
+            {
+              "question": "What is included in the Mentzer index?", 
+              "id": "5a736f0c3b9d13c708000007_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[Differentiation between heterozygotic beta-thalassemia and iron deficiency anemia]. Several laboratory tests have been proposed for the differentiation of beta thalassemia from iron deficiency, including decision functions based on red blood cells indices generated by electronic cell counters. The accuracy of these screening methods was assessed in 192 patients with microcytosis known to be secondary to beta thalassemia minor and 72 patients with iron deficiency. The functions evaluated were: 1) discriminant function of England an Fraser: MCV--(5xHb)--RBC--8.4; 2) ratio of MCH/RBC; 3) ratio of MCV/RBC; 4) ratio of (MCV)2 x MCH and 5) the erythrocyte count. The discriminant function of England and Fraser showed the highs, percentage of correct distinction between iron deficiency and beta thalassemia minor, although diagnosis errors occurred in 10%. Mentzer ratio MCV/RBC detected all cases of beta thalassemia but was a poor index for iron deficiency detection. The tested discriminant function, with exception of the Mentzer ratio, although not sufficiently accurate for definitive diagnosis, appears to be a useful technique in the initial screening of patients with microcytosis.", 
+          "qas": [
+            {
+              "question": "What is included in the Mentzer index?", 
+              "id": "5a736f0c3b9d13c708000007_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Wernicke-Korsakoff syndrome in patients with cancer: a systematic review. Wernicke-Korsakoff syndrome in patients with cancer is understudied. Much of what is known-that significant under-recognition and delays in treatment exist-comes from studies of alcohol misuse disorders or non-alcohol-related Wernicke-Korsakoff syndrome in patients. We investigated the frequency and associated features of cancer-related Wernicke-Korsakoff syndrome in the published literature. We included 90 articles reporting on 129 patients. Only 38 (30%) of 128 patients with data available exhibited the entire triad of classic features of Wernicke-Korsakoff syndrome: confusion, ataxia, and ophthalmoplegia or nystagmus. Diagnosis during life was missed altogether in 22 (17%) of 128 patients. The operational diagnostic criteria (at least two of the following: nutritional deficiency, ocular signs, cerebellar signs, and either altered mental status or mild memory impairment), which are considered more reliable than the classical triad, were used in only nine (7%) cases, yet 120 (94%) met the operational criteria for diagnosis at the time of presentation when applied retroactively. Complete recovery was reported in only 47 (36%) cases. Given that oncologists or haematologists accounted for only 17 (19%) first authors among the articles included, it is important that oncologists are aware of the risk factors for cancer-related Wernicke-Korsakoff syndrome, and that they are vigilant about diagnosing and treating the disease especially in the absence of alcohol misuse disorders.", 
+          "qas": [
+            {
+              "question": "List 3 symptoms of Wernicke encephalopathy.", 
+              "id": "5a981bcffcd1d6a10c00002d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Delayed diagnosis of Wernicke encephalopathy with irreversible neural damage after subtotal gastrectomy for gastric cancer: A case of medical liability? INTRODUCTION: Wernicke's encephalopathy (WE) is a neurological syndrome caused by thiamine deficiency, and clinically characterized by ophthalmoplegia, ataxia and acute confusion. In developed countries, most cases of WE have been seen in alcohol misusers. Other reported causes are gastrointestinal tract surgery, hyperemesis gravidarum, chronic malnutrition, prolonged total parenteral nutrition without thiamine supplementation, and increased nutrient requirements as in trauma or septic shock. WE is a well-known postoperative complication of gastric restrictive surgery for morbid obesity, after which patients often experience protracted nausea and vomiting, leading to malnutrition and massive weight loss. PRESENTATION OF CASE: This case report concerns WE occurring in a patient who underwent Roux-en-Y subtotal gastrectomy for gastric cancer, and subsequently experienced neurological symptoms that proved irreversible probably due to the lengthy time elapsing between their clinical presentation and the diagnosis of WE. DISCUSSION: There have been some reports of WE occurring after total or subtotal gastrectomy for gastric cancer in non-obese patients with no history of alcoholism, but monitoring for WE has yet to be recommended in the clinical guidelines in this setting (as it has for bariatric surgery). Because of its rarity and variable clinical presentation, WE is often under-diagnosed and under-treated, and confused with other neurological problems. CONCLUSION: There is an urgent need for the specific guidelines to take into account not only the neoplastic follow-up of such patients, but also the possible side effects of necessary surgery, since this could help to ensure the timely diagnosis and management of WE in this setting, and to avoid, when possible, claims for medical malpractice that may cause enormous costs both in economical and professional terms.", 
+          "qas": [
+            {
+              "question": "List 3 symptoms of Wernicke encephalopathy.", 
+              "id": "5a981bcffcd1d6a10c00002d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Challenges in Diagnosis and Treatment of Wernicke Encephalopathy: Report of 2 Cases. BACKGROUND: Wernicke encephalopathy (WE) is a medical emergency caused by thiamine deficiency, characterized by cerebellar ataxia, ophthalmoplegia, and cognitive disturbances that may progress to Korsakoff amnesia. We describe 2 patients with WE who needed high-dose and long-term treatment with thiamine to obtain neurological improvement and recovery. CASE DESCRIPTION: The first patient was a woman diagnosed with non-Hodgkin lymphoma. After a gastrointestinal infection, she developed depression, memory loss, disorientation, behavioral changes, and ataxic paraplegia. Brain magnetic resonance imaging (MRI) showed bilateral alterations in thalamic, frontal, and periaqueductal regions, suggestive of WE. The second patient was a man who lost 10 kg after surgical gastrectomy; he developed diplopia, ophthalmoplegia, cerebellar ataxia, lower limb paresthesias, and amnesia. A brain MRI demonstrated contrast enhancement of mammillary bodies, compatible with WE. OUTCOME: The patients were treated with intramuscular (IM) thiamine (1200 mg/d for 2 months and 900 mg/d for a month, respectively) with gradual cognitive and behavioral improvement and brain MRI normalization, while ataxia and oculomotion improved in following months. In both patients, thiamine was gradually reduced to IM 200 mg/d and continued for a year, without clinical relapses. CONCLUSIONS: There is no consensus about dosage, frequency, route, and duration of thiamine administration in WE treatment. Based on our cases, we recommend treating patients with WE with higher doses of IM thiamine for a longer time than suggested (900-1200 mg/d for 1-2 months, in our cases) and to gradually reduce dosage after clinical and radiological improvement, maintaining IM 200 mg/d dosage for at least 1 year.", 
+          "qas": [
+            {
+              "question": "List 3 symptoms of Wernicke encephalopathy.", 
+              "id": "5a981bcffcd1d6a10c00002d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Amyloid \u03b2 peptide promotes lysosomal degradation of clusterin via sortilin in hippocampal primary neurons. Progressive accumulation of amyloid-\u03b2 peptide (A\u03b2) in the brain is implicated as the central event in the development of Alzheimer's disease (AD). It is thought that extracellular A\u03b2 triggers toxic signals leading to neurodegeneration. The events downstream of A\u03b2 however are not entirely clear. Clusterin (Apo J) is one of the major risk factors for sporadic form of AD. Clusterin binds to A\u03b2 and prevents A\u03b2 aggregation. In addition, clusterin promotes A\u03b2 degradation and accelerates A\u03b2 clearance from the brain. Clusterin thus protects neurons from A\u03b2 and loss of clusterin level in the brain is implicated as promoting AD pathology. In this study, we found that the level of clusterin protein but not mRNA is reduced in the brains of 3xTg-AD mice. When rat hippocampal primary neurons were treated with A\u03b21-42, level of clusterin protein but not mRNA was downregulated. A\u03b21-42-induced downregulation of clusterin was blocked by lysosome inhibitors bafilomycin A1 and ammonium chloride. In neurons, A\u03b21-42 induced expression of sortilin, a lysosomal sorting protein that targets proteins to lysosome for degradation. In BE(2) M17 human neuroblastoma cells, clusterin bound to sortilin and when sortilin expression was silenced, A\u03b21-42-induced clusterin downregulation was almost completely blocked. Our data demonstrate that in neurons, A\u03b21-42 promotes lysosomal degradation of clusterin by inducing expression of sortilin and provide a novel mechanism by which A\u03b2 promotes AD pathogenesis.", 
+          "qas": [
+            {
+              "question": "List major risk factors for Alzheimer's disease. ", 
+              "id": "5a9d96564e03427e73000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Hypertension, cerebrovascular impairment, and cognitive decline in aged A\u03b2PP/PS1 mice. Cardiovascular risk factors, especially hypertension, are also major risk factors for Alzheimer's disease (AD). To elucidate the underlying vascular origin of neurodegenerative processes in AD, we investigated the relation between systolic blood pressure (SBP) cerebral blood flow (CBF) and vasoreactivity with brain structure and function in a 16-18 months old double transgenic A\u03b2PP/PS1 (A\u03b2PP/PS1) mouse model for AD. These aging A\u03b2PP/PS1 mice showed an increased SBP linked to a declined regional CBF. Furthermore, using advanced MRI techniques, decline of functional and structural connectivity was revealed in the AD-like mice coupled to impaired cognition, increased locomotor activity, and anxiety-related behavior. Post mortem analyses demonstrated also increased neuroinflammation, and both decreased synaptogenesis and neurogenesis in the A\u03b2PP/PS1 mice. Additionally, deviant levels of fatty acids and sterols were present in the brain tissue of the A\u03b2PP/PS1 mice indicating maladapted brain fatty acid metabolism. Our findings suggest a link between increased SBP, decreased cerebral hemodynamics and connectivity in an AD mouse model during aging, leading to behavioral and cognitive impairments. As these results mirror the complex clinical symptomatology in the prodromal phase of AD, we suggest that this AD-like murine model could be used to investigate prevention and treatment strategies for early AD patients. Moreover, this study helps to develop more efficient therapies and diagnostics for this very early stage of AD.", 
+          "qas": [
+            {
+              "question": "List major risk factors for Alzheimer's disease. ", 
+              "id": "5a9d96564e03427e73000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Apolipoprotein E4 and Insulin Resistance Interact to Impair Cognition and Alter the Epigenome and Metabolome. Apolipoprotein E4 (E4) and type 2 diabetes are major risk factors for cognitive decline and late onset Alzheimer's disease (AD). E4-associated phenotypes and insulin resistance (IR) share several features and appear to interact in driving cognitive dysfunction. However, shared mechanisms that could explain their overlapping pathophysiology have yet to be found. We hypothesized that, compared to E3 mice, E4 mice would be more susceptible to the harmful cognitive effects of high fat diet (HFD)-induced IR due to apoE isoform-specific differences in brain metabolism. While both E3 and E4 mice fed HFD displayed impairments in peripheral metabolism and cognition, deficits in hippocampal-dependent spatial learning and memory were exaggerated in E4 mice. Combining genome-wide measures of DNA hydroxymethylation with comprehensive untargeted metabolomics, we identified novel alterations in purine metabolism, glutamate metabolism, and the pentose phosphate pathway. Finally, in E4 mice, the metabolic and cognitive deficiencies caused by HFD were rescued by switching to a low fat diet for one month, suggesting a functional role was associated with reversal of the same metabolic pathways described above. These results suggest a susceptibility of E4 carriers to metabolic impairments brought on by IR, and may guide development of novel therapies for cognitive decline and dementia.", 
+          "qas": [
+            {
+              "question": "List major risk factors for Alzheimer's disease. ", 
+              "id": "5a9d96564e03427e73000001_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Obesity and age-related alterations in the gene expression of zinc-transporter proteins in the human brain. The incidence of Alzheimer's disease (AD) is increasing. Major risk factors for AD are advancing age and diabetes. Lately, obesity has been associated with an increased risk of dementia. Obese and diabetic individuals are prone to decreased circulating levels of zinc, reducing the amount of zinc available for crucial intracellular processes. In the brain, zinc co-localizes with glutamate in synaptic vesicles, and modulates NMDA receptor activity. Intracellular zinc is involved in apoptosis and fluctuations in cytoplasmic Zn(2+) affect modulation of intracellular signaling. The ZNT and ZIP proteins participate in intracellular zinc homeostasis. Altered expression of zinc-regulatory proteins has been described in AD patients. Using microarray data from human frontal cortex (BrainCloud), this study investigates expression of the SCLA30A (ZNT) and SCLA39A (ZIP) families of genes in a Caucasian and African-American sample of 145 neurologically and psychiatrically normal individuals. Expression of ZNT3 and ZNT4 were significantly reduced with increasing age, whereas expression of ZIP1, ZIP9 and ZIP13 were significantly increased. Increasing body mass index (BMI) correlated with a significant reduction in ZNT1 expression similar to what is seen in the early stages of AD. Increasing BMI also correlated with reduced expression of ZNT6. In conclusion, we found that the expression of genes that regulate intracellular zinc homeostasis in the human frontal cortex is altered with increasing age and affected by increasing BMI. With the increasing rates of obesity throughout the world, these findings warrant continuous scrutiny of the long-term consequences of obesity on brain function and the development of neurodegenerative diseases.", 
+          "qas": [
+            {
+              "question": "List major risk factors for Alzheimer's disease. ", 
+              "id": "5a9d96564e03427e73000001_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Angiotensin Receptor Blockade by Inhibiting Glial Activation Promotes Hippocampal Neurogenesis Via Activation of Wnt/\u03b2-Catenin Signaling in Hypertension. Hypertension is one of the major risk factors for central nervous system (CNS) disorders like stroke and Alzheimer's disease (AD). On the other hand, CNS diseases like AD have been associated with gliosis and impaired neurogenesis. Further, renin angiotensin system (RAS) is intricately associated with hypertension; however, the accumulating evidences suggest that over-activity of RAS may perpetuate the brain inflammation related with AD. Therefore, in the present study, we examined the effect of hypertension and RAS on glial (astrocytes and microglia) activation and hippocampal neurogenesis in a rat model of chronic hypertension. We used Candesartan [angiotensin type 1 receptor (AT1R) blocker (ARB)] both at a low dose (0.1\u00a0mg/kg) and anti-hypertensive dose (2\u00a0mg/kg) to explore whether their effect on astrocyte and microglial activation, neuroinflammation, and neurogenesis is blood pressure (BP) dependent or independent. Our data revealed that hypertension induces robust microglial and astrocyte activation, neuroinflammation, and\u00a0cripples hippocampal neurogenesis. Importantly, AT1R blockade by Candesartan, even at low dose (0.1\u00a0mg/kg), prevented astrocyte and microglial activation and neuroinflammation in the brain of hypertensive rats. Mechanistically, AT1R blockade prevented the activation of NADPH oxidase, reactive oxygen species (ROS) generation, suppression of MAP kinase and NF\u043aB signaling. Importantly, we, for the first time to our knowledge, provided the evidence that AT1R blockade by activating Wnt/\u03b2-catenin signaling, promotes neurogenesis during hypertensive state. We conclude that AT1R blockade prevents astrocyte and microglial activation and improves hippocampal neurogenesis in hypertensive state, independent of BP lowering action.", 
+          "qas": [
+            {
+              "question": "List major risk factors for Alzheimer's disease. ", 
+              "id": "5a9d96564e03427e73000001_004"
+            }
+          ]
+        }, 
+        {
+          "context": "A Receptor Tyrosine Kinase Inhibitor, Dovitinib (TKI-258), Enhances BMP-2-Induced Osteoblast Differentiation In Vitro. Dovitinib (TKI258) is a small molecule multi-kinase inhibitor currently in clinical phase I/II/III development for the treatment of various types of cancers. This drug has a safe and effective pharmacokinetic/pharmacodynamic profile. Although dovitinib can bind several kinases at nanomolar concentrations, there are no reports relating to osteoporosis or osteoblast differentiation. Herein, we investigated the effect of dovitinib on human recombinant bone morphogenetic protein (BMP)-2-induced osteoblast differentiation in a cell culture model. Dovitinib enhanced the BMP-2-induced alkaline phosphatase (ALP) induction, which is a representative marker of osteoblast differentiation. Dovitinib also stimulated the translocation of phosphorylated Smad1/5/8 into the nucleus and phosphorylation of mitogen-activated protein kinases, including ERK1/2 and p38. In addition, the mRNA expression of BMP-4, BMP-7, ALP, and OCN increased with dovitinib treatment. Our results suggest that dovitinib has a potent stimulating effect on BMP-2-induced osteoblast differentiation and this existing drug has potential for repositioning in the treatment of bone-related disorders.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase I trial of dovitinib (TKI258) in recurrent glioblastoma. PURPOSE: Dovitinib (TKI258) is an oral multi-tyrosine kinase inhibitor of FGFR, VEGFR, PDGFR \u03b2, and c-Kit. Since dovitinib is able to cross the blood-brain barrier and targets brain tumor-relevant pathways, we conducted a phase I trial to demonstrate its safety in recurrent glioblastoma (GBM). PATIENTS AND METHODS: Patients with first or second GBM recurrence started treatment with the maximal tolerated dose (MTD) previously established in systemic cancer patients (500\u00a0mg/d, 5\u00a0days on/2\u00a0days off). A modified 3\u00a0+\u00a03 design in three cohorts (500, 400, 300\u00a0mg) was used. RESULTS: Twelve patients were enrolled. Seventy-two adverse events (AEs) occurred and 16.7\u00a0% of AEs were classified as > CTC grade 3 toxicity, mainly including hepatotoxicity and hematotoxicity. Only one out of six patients of the 300-mg cohort showed grade 3 toxicity. The PFS-6 rate was 16.7\u00a0%, and it was not associated with detection of the FGFR-TACC gene fusion in the tumor. CONCLUSION: Dovitinib is safe in patients with recurrent GBM and showed efficacy in only some patients unselected for target expression. The recommended phase II dose of 300\u00a0mg would be substantially lower than the recently established MTD in systemic cancer patients. Further personalized trials are recommended.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficacy and Safety of Selective Vascular Endothelial Growth Factor Receptor Inhibitors Compared with Sorafenib for Metastatic Renal Cell Carcinoma: a Meta-analysis of Randomised Controlled Trials. AIMS: Selective vascular endothelial growth factor receptor (VEGFR) inhibitors have the potential for greater potency and less off-target toxicity compared with multikinase tyrosine kinase inhibitors in the treatment of metastatic renal cell carcinoma. We carried out a meta-analysis to determine quantitatively the differences in comparative efficacy and tolerability between these newer, selective agents and the multikinase inhibitors. MATERIALS AND METHODS: We searched four electronic databases for published randomised controlled trials comparing selective VEGFR inhibitors with multikinase tyrosine kinase inhibitors for metastatic renal cell carcinoma and carried out a meta-analysis. Outcomes of interest were progression-free survival, objective response rate (ORR), overall survival, discontinuation of treatment due to adverse events (DAE) and occurrence of specific toxicities. RESULTS: Four trials involving the selective VEGFR inhibitors axitinib, tivozanib and dovitinib were analysed, all using sorafenib as the comparator. There was a 22% reduction in risk of disease progression with selective VEGFR inhibitors (relative risk 0.78; 95% confidence interval 0.69-0.87) compared with sorafenib, the tyrosine kinase inhibitor in all trials, and similar whether the agents were first-line or subsequent therapy. ORR was improved with selective VEGFR inhibitors, with 91% increased odds over sorafenib (odds ratio 1.91; 95% confidence interval 1.35-2.69). Overall survival was similar between groups (relative risk 1.03; 95% confidence interval 0.88-1.21) and DAE differed only in sensitivity analysis with exclusion of dovitinib (odds ratio 0.62; 95% confidence interval 0.41-0.94). Frequencies of the most common toxicities were overall similar, but differences included more frequent grade 3 or 4 fatigue and less frequent palmar-plantar erythrodysesthesia with selective VEGFR therapy. CONCLUSION: Although selective VEGFR inhibitors are associated with similar overall survival as multikinase inhibitor sorafenib, they show significant improvement in progression-free survival, regardless of first-line or later use, and ORR compared with sorafenib. Tolerability due to toxicities is similar.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Combined targeting of SET and tyrosine kinases provides an effective therapeutic approach in human T-cell acute lymphoblastic leukemia. Recent evidence suggests that inhibition of protein phosphatase 2A (PP2A) tumor suppressor activity via the SET oncoprotein contributes to the pathogenesis of various cancers. Here we demonstrate that both SET and c-MYC expression are frequently elevated in T-ALL cell lines and primary samples compared to healthy T cells. Treatment of T-ALL cells with the SET antagonist OP449 restored the activity of PP2A and reduced SET interaction with the PP2A catalytic subunit, resulting in a decrease in cell viability and c-MYC expression in a dose-dependent manner. Since a tight balance between phosphatases and kinases is required for the growth of both normal and malignant cells, we sought to identify a kinase inhibitor that would synergize with SET antagonism. We tested various T-ALL cell lines against a small-molecule inhibitor screen of 66 compounds targeting two-thirds of the tyrosine kinome and found that combined treatment of T-ALL cells with dovitinib, an orally active multi-targeted small-molecule receptor tyrosine kinase inhibitor, and OP449 synergistically reduced the viability of all tested T-ALL cell lines. Mechanistically, combined treatment with OP449 and dovitinib decreased total and phospho c-MYC levels and reduced ERK1/2, AKT, and p70S6 kinase activity in both NOTCH-dependent and independent T-ALL cell lines. Overall, these results suggest that combined targeting of tyrosine kinases and activation of serine/threonine phosphatases may offer novel therapeutic strategies for the treatment of T-ALL.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "A drug-drug interaction study to assess the effect of the CYP1A2 inhibitor fluvoxamine on the pharmacokinetics of dovitinib (TKI258) in patients with advanced solid tumors. PURPOSE: Dovitinib is an orally available multi tyrosine kinase inhibitor which inhibits VEGFR 1-3, FGFR 1-3, and PDGFR. This study was performed to investigate the potential drug-drug interaction of dovitinib with the CYP1A2 inhibitor fluvoxamine in patients with advanced solid tumors. METHODS: Non-smoking patients of > 18\u00a0years with advanced solid tumors, excluding breast cancer, were included. Patients were treated with a dose of 300\u00a0mg in 5\u00a0days on/2\u00a0days off schedule. Steady-state pharmacokinetic assessments of dovitinib were performed with or without fluvoxamine. RESULTS: Forty-five patients were enrolled; 24 were evaluable for drug-drug interaction assessment. Median age was 60\u00a0years (range 30-85). At steady state the geometric mean for dovitinib (coefficient of variation%) of the area under the plasma concentration-time curve (AUC) and maximum concentration (C ) were 2880\u00a0ng/mL\u00a0h (47%) and 144\u00a0ng/mL (41%), respectively. Following administration of dovitinib in combination with fluvoxamine the geometric mean of dovitinib AUC and C  were 8290\u00a0ng/mL\u00a0h (60%) and 259\u00a0ng/mL (45%), respectively. The estimated geometric mean ratios for dovitinib AUC and C  (dovitinib + fluvoxamine vs. dovitinib alone) were 2.88 [90% confidence interval (CI) 2.58, 3.20] and 1.80 (90% CI 1.66, 1.95). This effect is considered a moderate drug-drug interaction. CONCLUSIONS: Fluvoxamine co-administration resulted in a 80% increase in C  and a 188% increase in AUC of dovitinib. Given the increase in exposure to dovitinib observed, patients are at risk of dovitinib related toxicity. Dovitinib should, therefore, not be co-administered with moderate and strong CYP1A2 inhibitors, without dose reduction.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Randomized, open-label phase 2 study comparing frontline dovitinib versus sorafenib in patients with advanced hepatocellular carcinoma. UNLABELLED: Angiogenesis inhibition by the vascular endothelial growth factor receptor (VEGFR) and platelet-derived growth factor receptor (PDGFR) inhibitor sorafenib provides survival benefit in hepatocellular carcinoma (HCC); however, angiogenic escape from sorafenib may occur due to angiogenesis-associated fibroblast growth factor receptor (FGFR) pathway activation. In addition to VEGFR and PDGFR, dovitinib inhibits FGFR. Frontline oral dovitinib (500 mg/day, 5 days on, 2 days off; n = 82) versus sorafenib (400 mg twice daily; n = 83) was evaluated in an open-label, randomized phase 2 study of Asian-Pacific patients with advanced HCC. The primary and key secondary endpoints were overall survival (OS) and time to tumor progression (TTP) as determined by a local investigator, respectively. Patients included in the study were ineligible for surgical and/or locoregional therapies or had disease progression after receiving these therapies. The median OS (95% confidence interval [CI]) was 8.0 (6.6-9.1) months for dovitinib and 8.4 (5.4-11.3) months for sorafenib. The median TTP (95% CI) per investigator assessment was 4.1 (2.8-4.2) months and 4.1 (2.8-4.3) months for dovitinib and sorafenib, respectively. Common any-cause adverse events included diarrhea (62%), decreased appetite (43%), nausea (41%), vomiting (41%), fatigue (35%), rash (34%), and pyrexia (30%) for dovitinib and palmar-plantar erythrodysesthesia syndrome (66%) and decreased appetite (31%) for sorafenib. Subgroup analysis revealed a significantly higher median OS for patients in the dovitinib arm who had baseline plasma soluble VEGFR1 (sVEGFR1) and hepatocyte growth factor (HGF) below median levels versus at or above the median levels (median OS [95% CI]: sVEGFR1, 11.2 [9.0-13.8] and 5.7 [4.3-7.0] months, respectively [P = .0002]; HGF, 11.2 [8.9-13.8] and 5.9 [5.0-7.6] months, respectively [P = 0.0002]). CONCLUSION: Dovitinib was well tolerated, but activity was not greater than sorafenib as a frontline systemic therapy for HCC. Based on these data, no subsequent phase 3 study has been planned. (Hepatology 2016;64:774-784).", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_005"
+            }
+          ]
+        }, 
+        {
+          "context": "FGFR inhibitors: Effects on cancer cells, tumor microenvironment and whole-body homeostasis (Review). Fibroblast growth factor\u00a0(FGF)2, FGF4, FGF7 and FGF20 are representative paracrine FGFs binding to heparan-sulfate proteoglycan and fibroblast growth factor receptors\u00a0(FGFRs), whereas FGF19, FGF21 and FGF23 are endocrine FGFs binding to Klotho and FGFRs. FGFR1 is relatively frequently amplified and overexpressed in breast and lung cancer, and FGFR2 in gastric cancer. BCR-FGFR1, CNTRL-FGFR1, CUX1-FGFR1, FGFR1OP-FGFR1, MYO18A-FGFR1 and ZMYM2-FGFR1 fusions in myeloproliferative neoplasms are non-receptor-type FGFR kinases, whereas FGFR1-TACC1, FGFR2-AFF3, FGFR2-BICC1, FGFR2-PPHLN1, FGFR3-BAIAP2L1 and FGFR3-TACC3 fusions in solid tumors are transmembrane-type FGFRs with C-terminal alterations. AZD4547, BGJ398 (infigratinib), Debio-1347 and dovitinib are FGFR1/2/3 inhibitors; BLU9931 is a selective FGFR4 inhibitor; FIIN-2, JNJ-42756493, LY2874455 and ponatinib are pan-FGFR inhibitors. AZD4547, dovitinib and ponatinib are multi-kinase inhibitors targeting FGFRs, colony stimulating factor\u00a01 receptor\u00a0(CSF1R), vascular endothelial growth factor\u00a0(VEGF)R2, and others. The tumor microenvironment consists of cancer cells and stromal/immune cells, such as cancer-associated fibroblasts\u00a0(CAFs), endothelial cells, M2-type tumor-associating macrophages (M2-TAMs), myeloid-derived suppressor cells\u00a0(MDSCs) and regulatory T\u00a0cells. FGFR inhibitors elicit antitumor effects directly on cancer cells, as well as indirectly through the blockade of paracrine signaling. The dual inhibition of FGF and CSF1 or VEGF signaling is expected to enhance the antitumor effects through the targeting of immune evasion and angiogenesis in the tumor microenvironment. Combination therapy using tyrosine kinase inhibitors (FGFR or CSF1R inhibitors) and immune checkpoint blockers (anti-PD-1 or anti-CTLA-4 monoclonal antibodies) may be a promising choice for cancer patients. The inhibition of FGF19-FGFR4 signaling is associated with a risk of liver toxicity, whereas the activation of FGF23-FGFR4 signaling is associated with a risk of heart toxicity. Endocrine FGF signaling affects the pathophysiology of cancer patients who are prescribed FGFR inhibitors. Whole-genome sequencing is necessary for the detection of promoter/enhancer alterations of FGFR genes and rare alterations of other genes causing FGFR overexpression. To sustain the health care system in an aging society, a benefit-cost analysis should be performed with a focus on disease-free survival and the total medical cost before implementing genome-based precision medicine for cancer patients.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_006"
+            }
+          ]
+        }, 
+        {
+          "context": "An FGFR3 Autocrine Loop Sustains Acquired Resistance to Trastuzumab in Gastric Cancer Patients. PURPOSE: The majority of gastric cancer patients who achieve an initial response to trastuzumab-based regimens develop resistance within 1 year of treatment. This study was aimed at identifying the molecular mechanisms responsible for resistance. EXPERIMENTAL DESIGN: A HER2-trastuzumab sensitive NCI-N87 gastric cancer orthotopic nude mouse model was treated with trastuzumab until resistance emerged. Differentially expressed transcripts between trastuzumab-resistant and sensitive gastric cancer cell lines were annotated for functional interrelatedness by Ingenuity Pathway Analysis software. Immunohistochemical analyses were performed in pretreatment versus posttreatment biopsies from gastric cancer patients receiving trastuzumab-based treatments. All statistical tests were two-sided. RESULTS: Four NCI-N87 trastuzumab-resistant (N87-TR) cell lines were established. Microarray analysis showed HER2 downregulation, induction of epithelial-to-mesenchymal transition, and indicated fibroblast growth factor receptor 3 (FGFR3) as one of the top upregulated genes in N87-TR cell lines. In vitro, N87-TR cell lines demonstrated a higher sensitivity than did trastuzumab-sensitive parental cells to the FGFR3 inhibitor dovitinib, which reduced expression of pAKT, ZEB1, and cell migration. Oral dovitinib significantly (P = 0.0006) reduced tumor burden and prolonged mice survival duration in N87-TR mouse models. A higher expression of FGFR3, phosphorylated AKT, and ZEB1 were observed in biopsies from patients progressing under trastuzumab-based therapies if compared with matched pretreatment biopsies. CONCLUSIONS: This study identified the FGFR3/AKT axis as an escape pathway responsible for trastuzumab resistance in gastric cancer, thus indicating the inhibition of FGFR3 as a potential strategy to modulate this resistance. Clin Cancer Res; 22(24); 6164-75. \u00a92016 AACR.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficacy and safety of dovitinib in pretreated patients with advanced squamous non-small cell lung cancer with FGFR1 amplification: A single-arm, phase 2 study. BACKGROUND: Fibroblast growth factor receptor 1 (FGFR1) amplification is a potential driving oncogene in squamous cell cancer (SCC) of the lung. The current phase 2 study evaluated the efficacy and tolerability of dovitinib, an FGFR inhibitor, in patients with advanced SCC of the lung. METHODS: Patients with pretreated advanced SCC of the lung whose tumors demonstrated FGFR1 amplification of > 5 copies by fluorescence in situ hybridization were enrolled. Dovitinib at a dose of 500 mg was administered orally, once daily, on days 1 to 5 of every week, followed by 2 days off. The primary endpoint was overall response. Secondary endpoints were progression-free survival, overall survival, and toxicity. RESULTS: All 26 patients were men with a median age of 68 years (range, 52-80 years). The majority of patients were ever-smokers. The median duration of dovitinib administration (28 days per cycle) was 2.5 months (range, 0.7-8.6 months). The overall response rate was 11.5% (95% confidence interval [95% CI], 0.8%-23.8%) and the disease control rate was 50% (95% CI, 30.8%-69.2%), with 3 patients achieving partial responses. Response durations for the patients with partial responses were > 4.5 months, > 5.1 months, and 6.1 months, respectively. After a median follow-up of 15.7 months (range, 1.2-25.6 months), the median overall survival was 5.0 months (95% CI, 3.6-6.4 months) and the median progression-free survival was 2.9 months (95% CI, 1.5-4.3 months). The most common grade 3 or higher adverse events were fatigue (19.2%), anorexia (11.5%), and hyponatremia (11.5%) (event severity was graded based on National Cancer Institute Common Terminology Criteria for Adverse Events [version 4.0]). CONCLUSIONS: Treatment with dovitinib demonstrated modest efficacy in patients with advanced SCC with FGFR1 amplification. Further studies to evaluate other biomarkers correlated with the efficacy of dovitinib in patients with SCC are warranted. Cancer 2016;122:3024-3031. \u00a9 2016 American Cancer Society.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase II Study of Dovitinib in Patients Progressing on Anti-Vascular Endothelial Growth Factor Therapy. BACKGROUND: Prior work identified the fibroblast growth factor (FGF) pathway as a mediator of resistance to anti-vascular endothelial growth factor (VEGF) therapy. We tested dovitinib, an inhibitor of both FGF and VEGF receptors, in patients progressing on anti-VEGF treatment. METHODS: Patients with measurable advanced colorectal or non-small cell lung cancer with progression despite anti-VEGF treatment within 56 days, good performance status and adequate organ function were eligible. A research tumor biopsy was followed by treatment with dovitinib 500 mg on a 5-day on/2-day off schedule for 28-day cycles. The primary endpoint of tumor response was evaluated every 2 cycles. Secondary endpoints included toxicity and 8-week disease control rate. Intratumor mRNA expression of angiogenic mediators was analyzed using a next generation sequencing based expression array. RESULTS: Ten patients treated previously with bevacizumab or ziv-aflibercept enrolled. The study closed with termination of dovitinib development. No responses were observed in 7 evaluable patients. The best response was stable disease in 1 patient. Common toxicities included gastrointestinal, metabolic, and biochemical derangements. All patients experienced at least one grade > 3 treatment-related adverse event, most commonly fatigue, elevated GGT, and lymphopenia. Expression of multiple angiogenic mediators was common in tumors progressing on anti-VEGF therapy including high levels of FGFR1 and VEGFA. CONCLUSIONS: We found no evidence for the activity of dovitinib in patients who had recently progressed on anti-VEGF therapy and toxicities were significant. In tumors progressing despite anti-VEGF therapy, a multitude of pro-angiogenic mediators are expressed, including members of the FGF pathway.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_009"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase II, randomized, placebo-controlled study of dovitinib in combination with fulvestrant in postmenopausal patients with HR, HER2 breast cancer that had progressed during or after prior endocrine therapy. BACKGROUND: Overexpression of fibroblast growth factor receptor 1 (FGFR1), found in < 8% of hormone receptor-positive (HR), human epidermal growth factor receptor 2-negative (HER2) breast cancer cases, is correlated with decreased overall survival and resistance to endocrine therapy (ET). Dovitinib, a potent FGFR inhibitor, has demonstrated antitumor activity in heavily pretreated patients with FGFR pathway-amplified breast cancer. METHODS: In this randomized, placebo-controlled phase II trial, we evaluated whether the addition of dovitinib to fulvestrant would improve outcomes in postmenopausal patients with HR, HER2 advanced breast cancer that had progressed during or after prior ET. Patients were stratified by FGF pathway amplification and presence of visceral disease, and they were randomized 1:1 to receive fulvestrant plus dovitinib or placebo. The primary endpoint was progression-free survival (PFS). RESULTS: From 15 May 2012 to 26 November 2014, 97 patients from 36 centers were enrolled. The frequency of FGF pathway amplification was lower than anticipated, and the study was terminated early owing to slow accrual of patients with FGF pathway amplification. The median PFS (95% CI) was 5.5 (3.8-14.0) months vs 5.5 (3.5-10.7) months in the dovitinib vs placebo arms, respectively (HR, 0.68; did not meet predefined efficacy criteria). For the FGF pathway-amplified subgroup (n = 31), the median PFS (95% CI) was 10.9 (3.5-16.5) months vs 5.5 (3.5-16.4) months in the dovitinib vs placebo arms, respectively (HR, 0.64; met the predefined superiority criteria). Frequently reported adverse events in the dovitinib (diarrhea, nausea, vomiting, asthenia, and headache) and placebo (diarrhea, fatigue, nausea, and asthenia) arms were mostly low\u00a0grade. CONCLUSIONS: The safety profile of dovitinib plus fulvestrant was consistent with the known safety profile of single-agent dovitinib. Dovitinib in combination with fulvestrant showed promising clinical activity in the FGF pathway-amplified subgroup. However, the data reported herein should be interpreted with caution, given that fewer PFS events occurred in the FGF pathway-amplified patients than was expected and that an effect of dovitinib regardless of FGR pathway amplification status cannot be excluded, because the population was smaller than expected. TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT01528345 . Registered 31 January 2012.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_010"
+            }
+          ]
+        }, 
+        {
+          "context": "Induction of Neuroendocrine Differentiation in Prostate Cancer Cells by Dovitinib (TKI-258) and its Therapeutic Implications. Prostate cancer (PCa) remains the second-leading cause of cancer-related deaths in American men with an estimated mortality of more than 26,000 in 2016 alone. Aggressive and metastatic tumors are treated with androgen deprivation therapies (ADT); however, the tumors acquire resistance and develop into lethal castration resistant prostate cancer (CRPC). With the advent of better therapeutics, the incidences of a more aggressive neuroendocrine prostate cancer (NEPC) variant continue to emerge. Although de novo occurrences of NEPC are rare, more than 25% of the therapy-resistant patients on highly potent new-generation anti-androgen therapies end up with NEPC. This, along with previous observations of an increase in the number of such NE cells in aggressive tumors, has been suggested as a mechanism of resistance development during prostate cancer progression. Dovitinib (TKI-258/CHIR-258) is a pan receptor tyrosine kinase (RTK) inhibitor that targets VEGFR, FGFR, PDGFR, and KIT. It has shown efficacy in mouse-model of PCa bone metastasis, and is presently in clinical trials for several cancers. We observed that both androgen receptor (AR) positive and AR-negative PCa cells differentiate into a NE phenotype upon treatment with Dovitinib. The NE differentiation was also observed when mice harboring PC3-xenografted tumors were systemically treated with Dovitinib. The mechanistic underpinnings of this differentiation are unclear, but seem to be supported through MAPK-, PI3K-, and Wnt-signaling pathways. Further elucidation of the differentiation process will enable the identification of alternative salvage or combination therapies to overcome the potential resistance development.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_011"
+            }
+          ]
+        }, 
+        {
+          "context": "A phase II trial of dovitinib in previously-treated advanced pleural mesothelioma: The Ontario Clinical Oncology Group. OBJECTIVES: Following failure of a platinum-antifolate combination regimen, there is no standard therapy for advanced malignant pleural mesothelioma (MPM). The fibroblast growth factor receptor (FGFR) signaling pathways may be a relevant target in MPM. Dovitinib inhibits multiple tyrosine receptor kinases, predominantly the vascular endothelial growth factor receptors (VEGFR), but also FGFRs, and could be active in MPM. METHODS: This open-label multicentre phase II trial [NCT01769547] enrolled fit, consenting adult patients with advanced MPM who had previously received platinum-antifolate combination chemotherapy and up to one additional line of systemic therapy. Dovitinib was administered orally at 500mg/day for 5days on, 2days off, in 28-day cycles. Response was assessed every 2 cycles using RECIST 1.1 criteria modified for MPM. Correlative studies included FGFR-1 amplification on archival tumour and serum samples for circulating angiogenesis factors. The primary end-point was the proportion of patients progression-free at 3 months (PF3) using a two-stage design. RESULTS: 12 patients (10 males, median age 67) were enrolled. The median number of cycles administered was 2.5 (range 1-8). One unconfirmed partial response was observed. PF3 was 50% (95% confidence interval 28.4% to 88.0%); although the criterion for proceeding to stage II accrual was met, the trial was halted due to a combination of minimal activity with several early progression events and poor tolerability in this patient population. One of 12 tumour specimens had low amplification of FGFR-1. CONCLUSIONS: Dovitinib has minimal activity in previously-treated MPM. The role of the FGFR pathway in MPM remains unclear.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_012"
+            }
+          ]
+        }, 
+        {
+          "context": "A Phase II Study of Dovitinib in Patients with Recurrent or Metastatic Adenoid Cystic Carcinoma. Purpose: Genetic and preclinical studies have implicated FGFR signaling in the pathogenesis of adenoid cystic carcinoma (ACC). Dovitinib, a suppressor of FGFR activity, may be active in ACC.Experimental Design: In a two-stage phase II study, 35 patients with progressive ACC were treated with dovitinib 500 mg orally for 5 of 7 days continuously. The primary endpoints were objective response rate and change in tumor growth rate. Progression-free survival, overall survival, metabolic response, biomarker, and quality of life were secondary endpoints.Results: Of 34 evaluable patients, 2 (6%) had a partial response and 22 (65%) had stable disease >4 months. Median PFS was 8.2 months and OS was 20.6 months. The slope of the overall TGR fell from 1.95 to 0.63 on treatment (P < 0.001). Toxicity was moderate; 63% of patients developed grade 3-4 toxicity, 94% required dose modifications, and 21% stopped treatment early. An early metabolic response based on FDG-PET scans was seen in 3 of 15 patients but did not correlate with RECIST response. MYB gene translocation was observed and significantly correlated with overexpression of MYB but did not correlate with FGFR1 phosphorylation or clinical response to dovitinib.Conclusions: Dovitinib produced few objective responses in patients with ACC but did suppress the TGR with a PFS that compares favorably with those reported with other targeted agents. Future studies of more potent and selective FGFR inhibitors in biomarker-selected patients will be required to determine whether FGFR signaling is a valid therapeutic target in ACC. Clin Cancer Res; 23(15); 4138-45. \u00a92017 AACR.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_013"
+            }
+          ]
+        }, 
+        {
+          "context": "Targeting VEGFR and FGFR in head and neck squamous cell carcinoma in vitro. Head and neck squamous cell carcinoma (HNSCC) is a heterogeneous disease characterized by a tumor microenvironment (TME) that overexpresses vascular endothelial growth factor receptor (VEGFR) and fibroblast growth factor receptor (FGFR), which can lead to neovascularization, tumor growth and metastasis. Therapeutic strategies inhibiting these signaling pathways might lead to innovative HNSCC treatments. Five HNSCC cell lines were characterized based on VEGFR1-3 and FGFR1-4 expression by sqRT-PCR and treated with three different tyrosine kinase inhibitors (TKIs) (nintedanib, dovitinib and pazopanib), all of which are effective against VEGFR and FGFR family members. Crystal violet assays were performed to analyze the effect of the treatments on cell growth (viability). Additionally, VEGFR1-3 and FGFR1-4 expression data were retrieved from The Cancer Genome Atlas (TCGA), and statistical analyses were performed to investigate the receptor expression level in the different cell lines and the efficacy of the single-agent treatments. A correlation analysis was performed to quantify the degree of relationship between receptor expression and drug efficacy. With the exception of VEGFR2, the targeted receptors were expressed at different levels in all of the cell lines. The cell lines exhibited concentration-dependent responses with cell line-specific differences toward two of the three TKIs (nintedanib and dovitinib). Notably, all of the cell lines were resistant to pazopanib. TKIs have potential as therapeutic agents for HNSCC. Cell line-specific differences were observed in our in\u00a0vitro experiments. The observed pazopanib resistance could be explained by receptor expression. Further investigation is required to determine TKI efficacy in HNSCC.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_014"
+            }
+          ]
+        }, 
+        {
+          "context": "Antitumor effect of FGFR inhibitors on a novel cholangiocarcinoma patient derived xenograft mouse model endogenously expressing an FGFR2-CCDC6 fusion protein. Cholangiocarcinoma is a highly lethal cancer with limited therapeutic options. Recent genomic analysis of cholangiocarcinoma has revealed the presence of fibroblast growth factor receptor 2 (FGFR2) fusion proteins in up to 13% of intrahepatic cholangiocarcinoma (iCCA). FGFR fusions have been identified as a novel oncogenic and druggable target in a number of cancers. In this study, we established a novel cholangiocarcinoma patient derived xenograft (PDX) mouse model bearing an FGFR2-CCDC6 fusion protein from a metastatic lung nodule of an iCCA patient. Using this PDX model, we confirmed the ability of the FGFR inhibitors, ponatinib, dovitinib and BGJ398, to modulate FGFR signaling, inhibit cell proliferation and induce cell apoptosis in cholangiocarcinoma tumors harboring FGFR2 fusions. In addition, BGJ398 appeared to be superior in potency to ponatinib and dovitinib in this model. Our findings provide a strong rationale for the investigation of FGFR inhibitors, particularly BGJ398, as a therapeutic option for cholangiocarcinoma patients harboring FGFR2 fusions.", 
+          "qas": [
+            {
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?", 
+              "id": "5a7486a90384be9551000003_015"
+            }
+          ]
+        }, 
+        {
+          "context": "Sporadic Cajal cell hyperplasia is common in resection specimens for distal oesophageal carcinoma. A retrospective review of 77 consecutive surgical resection specimens. Interstitial cell of Cajal (ICC) hyperplasia has been documented in conditions associated with multiple gastrointestinal stromal tumours (GISTs) (familial GIST syndromes, Carney's triad and von Recklinghausen's disease) and rarely in the vicinity of sporadic GISTs. The incidence of sporadic ICC hyperplasia and the so-called seedling leiomyoma (SLM) of the lower oesophagus has not been studied in the KIT era. In a retrospective review of 77 consecutive, routinely processed oesophagogastric resection specimens for distal oesophageal carcinoma, we found foci of ICC hyperplasia in 7 of 77 (9.1%) cases and foci of SLM in 17 of 77 (22%) cases. Two types of ICC hyperplasia were recognized: a non-circumscribed type and a nodular expansile type with peripherally compressed myenteric neural tissues. All cases of ICC hyperplasia were vimentin+/CD34+/CD117+. SLMs were desmin+/vimentin(-)/CD34(-)/CD117(-), similar to smooth muscles of the gut wall. In a prospective study of 32 non-carcinomatous specimens from age-matched patients (mostly autopsy cases), we found SLMs in only one case, but we were unable to detect ICC hyperplasia in any of the cases. We concluded that sporadic KIT-positive spindle-cell hyperplasia and SLMs were unexpectedly common in distal oesophageal specimens harbouring carcinomas. The possible mechanisms leading to the development of these putative precursor lesions will be discussed.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Carney's triad: case report and review. INTRODUCTION: Carney's triad is a rare pathogenic entity which consists of the association in young women of multiple condromatosis in the lung, gastric leiomyosarcoma, and extradrenal paraganglioma; although the presence of three at the same time is not required for its diagnosis. CASE REPORT: We present the case of a 27-year-old woman who was diagnosed of pulmonary multiple hamartomatosis and gastric stromal tumor. DISCUSSION: A review of the literature shows the most important prognosis factors and therapeutic options. Surgery for gastrointestinal stromal tumors and extradrenal paraganglioma seems to be the best treatment up to date.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_001"
+            }
+          ]
+        }, 
+        {
+          "context": "[Translational research and diagnosis in GIST]. Gastrointestinal stromal tumors (GIST) are the most common mesenchymal tumors in the digestive tract. In up to 90% of cases, they are characterized by activating mutations in the KIT or the PDGFRA gene. GIST represent a paradigm for successful targeted treatment with tyrosine kinase inhibitors (TKI). Since the approval of the TKI imatinib in 2002 the survival of patients with metastatic GIST has tripled. The next logical step was the concept of using imatinib in an adjuvant approach, which was recently shown to increase overall survival significantly. In both settings, the mutational status has high predictive implications. In detail, GIST with KIT exon 11 mutations show the best response rates with partial remission rates of up to 80%. In KIT exon 9 mutations, a doubled daily dose of 800 mg imatinib is now standard. The PDGFRA exon 18 mutation D842V has been shown to lead to primary resistance. The treatment strategy in GIST is driven by their molecular characterisation. Further research has increased our knowledge on resistance mechanisms in solid tumors against TKI. The number of patients with secondary resistance due to acquired KIT mutations is increasing with treatment duration. Strategies to address this situation are the introduction of novel pathway inhibitors targeting different levels of signal transduction pathways, such as the mTOR/Akt pathway, the RAS/RAF pathway, histone deacetylation, among others. Among the GIST without mutations in the common hot spot regions of KIT and PDGFRA, the so-called wildtype GIST, further genomic subgroups have been identified. One such subgroup carries inactivating germline mutations in the genes encoding succinate dehydrogenase B, C, or D. They are associated with the occurrence of paragangliomas, so-called Carney-Stratakis syndrome. Most frequently, these GIST are located in the stomach, showing an epithelioid phenotype and a multinodular growth pattern. They preferentially occur in young females and often show lymph node metastases, the latter being very unusual in sporadic GIST. In sporadic Carney's triad additional pulmonary chondromas are observed and there are no SDH mutations. Another small subgroup of sporadic GIST present with BRAF mutations as an alternative genomic event. Finally, very rare kindreds with germline mutations in either KIT or PDGFRA have been described who develop multiple GIST and depending on the mutational subtype mastocytosis, hyperpigmentation and/or dysphagia. In summary, the molecular characterisation of GIST has revolutionized their treatment due to increasing knowledge about the high relevance of predictive molecular typing in solid tumors.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_002"
+            }
+          ]
+        }, 
+        {
+          "context": "A case of bilateral multiple pulmonary chondroma: necessity of follow-up for Carney's triad. We report a case of pulmonary bilateral multiple chondromas that were possibly an initial clinical presentation of Carney's triad. A 56-year-old Japanese non-smoking asymptomatic woman was admitted to the hospital for further examination of small, multiple, bilateral nodules in the lungs. Although chest radiological findings suggested that the nodules were possibly metastatic pulmonary tumors, the malignant origin was not detected. During diagnostic video-assisted thoracic surgery, wedge resections including the nodules were performed. Since pathological examination showed nodules were surrounded by fibrous and eosinophilic stroma, we diagnose the nodules as chondromas. These chondromas were possibly components of Carney's triad, because each nodule had a thin fibrous pseudocapsule and did not have an entrapped epithelium and fat. Some patients die of Carney's triad because of malignant alteration of lesions. Therefore, the patients with Carney's triad should be taken a medical check periodically. This patient was scheduled to undergo the check-up for several years.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[Experience of complete Carney's triad showing pulmonary hamartoma associated with gastrointestinal stromal tumor and para-arotic paraganglioma]. A 34-year-old man, who had undergone the gastrectomy for gastrointestinal stromal tumor (GIST) and para-aortic paraganglioma 3 years before, was found to have a left lung tumor on a computed tomography. The tumor was revealed to be a pulmonary hamartoma, and diagnosed as Carney's triad. This is a rare case of complete type Carney's triad of an adult male.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Gastrointestinal stromal tumours in patients with other-type cancer: a mere coincidence or an etiological association? A study of 97 GIST cases. Gastrointestinal stromal tumours (GIST) occur mostly as sporadic solitary lesions involving the tubular GI tract and are only rarely associated with other benign or malignant neoplasms or occur as part of a multi-neoplastic disease as in the setting of Carney's triad and von Recklinghausen's disease. We analysed a total of 97 cases of surgically resected GIST looking for various types of associated non-GIST malignancies. 18 cases (18.6 %) were identified. There were 12 women and 6 men aged 43 to 87, average age 71.7 years. 12 GISTs were located in the stomach, four in the small intestine, and one each in the duodenum and the vermiform appendix. Associated malignancies (mostly carcinomas) were gastrointestinal/pancreatic (9), gynaecological (3), mammary (2), renal (1), prostatic (1), pulmonary (2) and haematolymphoid (2) in origin. Most GISTs (16/18) represented benign or low-risk lesions (innocent bystanders) detected during evaluation for the known cancer, either during staging, intra-operatively or on follow-up. Two women (43 and 72 years old) with large malignant GISTs (10.5 and 12 cm), one of them with two simultaneous hepatic metastases resected at the same time as the primary GIST, developed infiltrating ductal mammary carcinoma and were alive and well 75 and 95 months postoperatively, respectively. Furthermore, one of them developed endometrial carcinoma. We concluded that GISTs are not uncommonly encountered in cancer-patients during staging, intraoperatively or on follow-up and should be considered in the differential diagnosis of newly detected focal lesions to avoid their misinterpretation as metastasis from the known malignancy with consequently false therapeutic decisions.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_005"
+            }
+          ]
+        }, 
+        {
+          "context": "[Carney's triad: a new case]. Carney's triad is a very unusual syndrome, associating three different tumours on the same patient, a young woman generally: a gastric leiomyoblastoma, a pulmonary chondroma and an extra-adrenal paraganglioma. The authors report through the literature review and a new case of Carney's syndrome associating gastric leiomyoblastoma and extra-adrenal paragangliomas, the different diagnostic and therapeutic criterias.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Carney's triad: a 16-year follow-up. We report a female teenager who presented with a gastrointestinal stromal tumor of the stomach and a paraganglioneuroma. She later developed a pulmonary chondroma, fulfilling the requirements of Carney's triad. This patient demonstrates the course of the disease, which included severe emotional symptoms. She died, at 30 years of age, 16 years after the onset of disease, riddled with metastases. Many patients with Carney's triad survive for many years, but we can not predict the prognosis in any patient. During her lifetime, the patient had considerable emotional suffering, perhaps because of her disease.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_007"
+            }
+          ]
+        }, 
+        {
+          "context": "A case of incomplete Carney's triad. A 62-year-old woman, who had multiple pulmonary nodules noted 6 years earlier, and surgery for a gastrointestinal stromal tumor 2 years earlier, was found to have enlargement of her pulmonary nodules. Surgery was selected to make a definite diagnosis. Thoracoscopic segmentectomy of right segments 9 and 10 was performed, and pulmonary chondroma was diagnosed. Carney designated the combination of 3 rare soft tissue tumors (gastric leiomyosarcoma, pulmonary chondroma, and extraadrenal paraganglioma) as a syndrome. This patient may have had an incomplete type of Carney's triad with 2 lesions in the stomach and lung.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Gastrointestinal stromal tumors in the setting of multiple tumor syndromes. PURPOSE OF REVIEW: Knowledge related to gastrointestinal stromal tumor (GIST) in the setting of nonhereditary and hereditary multiple tumor syndromes continues to expand. This review describes associations between sporadic GIST and second malignancies, as well as new contributions to our knowledge about hereditary GIST multiple tumor syndromes. RECENT FINDINGS: Sporadic GIST patients have increased risk of developing synchronous/metachronous cancers, including nonhematologic and hematologic malignancies. Data suggest these associations are nonrandom, more prevalent in men and increase with age. New adrenal tumors have also been associated with nonhereditary Carney's triad. Meanwhile, understanding of the molecular basis of heritable GIST syndromes has improved. Several new familial GIST kindreds have been reported, including those with germline KIT and PDGFR\u03b1 mutations. Knowledge about succinate dehydrogenase (SDH) deficiency and mutations in hereditary GIST syndromes has expanded. It is now known that neurofibromatosis-1-associated GISTs are SDHB-positive, whereas Carney-Stratakis syndrome-associated GISTs are SDHB-deficient with underlying germline mutations in SDH subunits A-D. SUMMARY: Recognition and early diagnosis of GIST syndromes allows for improved comprehensive medical care. With additional understanding of the molecular pathogenesis of GIST multiple tumor syndromes, we can refine our screening programs and management of these patients and their families.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_009"
+            }
+          ]
+        }, 
+        {
+          "context": "[Incomplete Carney's Triad and arterial hypertension in a young woman]. The case of young woman with arterial hypertension diagnosed two years before, is here presented; she had a ferropenic anemia caused by digestive loss of blood. Multiple gastric tumors and pararenal non functioning paraganglioma were found. No chondromas were detected. An incomplete Carney's Triad was diagnosed. We remark that multiple gastric tumors in a young adult suggest the possibility of gastrointestinal stromal tumors (GIST) Endoscopic biopsy frequently is not effective because these tumors are deep placed in the muscular gastric layers. The importance of specific techniques for a positive diagnosis are emphasized. Continuous follow up is needed because these tumors have uncertain prognosis. Lung chondromas may appear years later after the GIST was removed and might be confused with GIST metastases.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_010"
+            }
+          ]
+        }, 
+        {
+          "context": "Incomplete Carney triad--a review of two cases. A curious association of three rare tumours was described by Carney in 1977. 'Carney's triad' characteristically includes multifocal pulmonary chondroma, gastric stromal sarcoma and extra-adrenal paraganglioma. Patients may exhibit complete or incomplete expression of the triad. Carney acknowledged that, of 79 patients, only 17 possessed all three tumours. We report here two patients with incomplete expression of Carney's triad.", 
+          "qas": [
+            {
+              "question": "Which cancers compose Carney's triad?", 
+              "id": "5a75df9883b0d9ea66000002_011"
+            }
+          ]
+        }, 
+        {
+          "context": "Trispecific broadly neutralizing HIV antibodies mediate potent SHIV protection in macaques. The development of an effective AIDS vaccine has been challenging because of viral genetic diversity and the difficulty of generating broadly neutralizing antibodies (bnAbs). We engineered trispecific antibodies (Abs) that allow a single molecule to interact with three independent HIV-1 envelope determinants: the CD4 binding site, the membrane-proximal external region (MPER), and the V1V2 glycan site. Trispecific Abs exhibited higher potency and breadth than any previously described single bnAb, showed pharmacokinetics similar to those of human bnAbs, and conferred complete immunity against a mixture of simian-human immunodeficiency\u00a0viruses (SHIVs) in nonhuman primates, in contrast to single bnAbs. Trispecific Abs thus constitute a platform to engage multiple therapeutic targets through a single protein, and they may be applicable for treatment of diverse diseases, including infections, cancer, and autoimmunity.", 
+          "qas": [
+            {
+              "question": "What do the trispecific HIV antibodies target?", 
+              "id": "5a9d2dd21d1251d03b00001a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "BRD3 and BRD4 BET Bromodomain Proteins Differentially Regulate Skeletal Myogenesis. Myogenic differentiation proceeds through a highly coordinated cascade of gene activation that necessitates epigenomic changes in chromatin structure. Using a screen of small molecule epigenetic probes we identified three compounds which inhibited myogenic differentiation in C2C12 myoblasts; (+)-JQ1, PFI-1, and Bromosporine. These molecules target Bromodomain and Extra Terminal domain (BET) proteins, which are epigenetic readers of acetylated histone lysine tail residues. BETi-mediated anti-myogenic effects were also observed in a model of MYOD1-mediated myogenic conversion of human fibroblasts, and in primary mouse and human myoblasts. All three BET proteins BRD2, BRD3 and BRD4 exhibited distinct and dynamic patterns of protein expression over the course of differentiation without concomitant changes in mRNA levels, suggesting that BET proteins are regulated at the post-transcriptional level. Specific BET protein knockdown by RNA interference revealed that BRD4 was required for myogenic differentiation, whereas BRD3 down-regulation resulted in enhanced myogenic differentiation. ChIP experiments revealed a preferential binding of BRD4 to the Myog promoter during C2C12 myoblast differentiation, co-incident with increased levels of H3K27 acetylation. These results have identified an essential role for BET proteins in the regulation of skeletal myogenesis, and assign distinct functions to BRD3 and BRD4.", 
+          "qas": [
+            {
+              "question": "List BET proteins.", 
+              "id": "5aacdcf1fcf4565872000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Brd4 inhibition attenuates unilateral ureteral obstruction-induced fibrosis by blocking TGF-\u03b2-mediated Nox4 expression. Uncovering new therapeutic targets for renal fibrosis holds promise for the treatment of chronic kidney diseases. Bromodomain and extra-terminal (BET) protein inhibitors have been shown to effectively ameliorate pathological fibrotic responses. However, the pharmacological effects and underlying mechanisms of these inhibitors in renal fibrosis remain elusive. In this study, we determined that the inhibition of Brd4, a BET family member, with a selective potent chemical inhibitor, JQ1, could prevent the development of renal fibrosis and block the progression of fibrosis in rats that have undergone unilateral ureteral obstruction (UUO). Inhibiting Brd4 with either JQ1 or genetic knockdown resulted in decreased expression of fibrotic genes such as \u03b1-smooth muscle actin, collagen IV and fibronectin both in UUO-induced fibrosis and upon TGF-\u03b21 stimulation in HK-2 cells. Brd4 inhibition also suppressed the oxidative stress induced by UUO in vivo or by TGF-\u03b21 in HK-2 cells. Moreover, Nox4, which is constitutively active in renal cells and is involved in the generation of hydrogen peroxide, was up-regulated during UUO-mediated fibrosis and induced by TGF-\u03b21 in HK-2 cells, and this up-regulation could be blunted by Brd4 inhibition. Consistently, Nox4-mediated ROS generation and fibrotic gene expression were attenuated upon Brd4 inhibition. Further, the transcriptional activity of Nox4 was suppressed by JQ1 or siRNA against Brd4. Additionally, Smad3 and ERK1/2 phosphorylation, which are upstream signals of Nox4 expression, were inhibited both in JQ1-administered UUO rats and Brd4-inhibited HK-2 cells. In conclusion, these results indicated that the inhibition of Brd4 might protect against renal fibrosis by blocking the TGF-\u03b2-Nox4-ROS-fibrosis axis, suggesting that Brd4 could be a promising therapeutic target.", 
+          "qas": [
+            {
+              "question": "List BET proteins.", 
+              "id": "5aacdcf1fcf4565872000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Bdf1 Bromodomains Are Essential for Meiosis and the Expression of Meiotic-Specific Genes. Bromodomain and Extra-terminal motif (BET) proteins play a central role in transcription regulation and chromatin signalling pathways. They are present in unicellular eukaryotes and in this study, the role of the BET protein Bdf1 has been explored in Saccharomyces cerevisiae. Mutation of Bdf1 bromodomains revealed defects on both the formation of spores and the meiotic progression, blocking cells at the exit from prophase, before the first meiotic division. This phenotype is associated with a massive deregulation of the transcription of meiotic genes and Bdf1 bromodomains are required for appropriate expression of the key meiotic transcription factor NDT80 and almost all the Ndt80-inducible genes, including APC complex components. Bdf1 notably accumulates on the promoter of Ndt80 and its recruitment is dependent on Bdf1 bromodomains. In addition, the ectopic expression of NDT80 during meiosis partially bypasses this dependency. Finally, purification of Bdf1 partners identified two independent complexes with Bdf2 or the SWR complex, neither of which was required to complete sporulation. Taken together, our results unveil a new role for Bdf1 -working independently from its predominant protein partners Bdf2 and the SWR1 complex-as a regulator of meiosis-specific genes.", 
+          "qas": [
+            {
+              "question": "List BET proteins.", 
+              "id": "5aacdcf1fcf4565872000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Therapeutic targeting of BET protein BRD4 delays murine lupus. BRD4 is a member of the BET (bromodomain and extraterminal domain) family proteins that can bind acetylated histones and influence transcription, which are considered as potential therapeutic targets in many distinct diseases. And the BET inhibitor JQ1 has been proven to be effective in suppressing multiple inflammatory and autoimmune diseases. This study aimed to examine the therapeutic potential of JQ1 on a lupus model, MRL-lpr mice. Ten-week-old MRL-lpr mice were treated with JQ1 (oral administration of 200mg/kg) or vehicle for 8weeks. The proteinuria, nephritic damage, serum biochemistry, autoantibodies and cytokines were examined. Splenocytes of MRL-lpr mice were isolated for in vitro experiments. Treatment with JQ1 significantly attenuated the progression of proteinuria and nephritis. The serum concentrations of anti-dsDNA antibody as well as B-cell activating factor (BAFF), interleukin (IL)-1\u03b2, IL-6, IL-17 and INF-\u03b3 were inhibited, and IL-10 augmented by JQ1. Importantly, JQ1 improved the survival of lupus mice. In vitro, BAFF, IL-1\u03b2, IL-6, IL-17 and INF-\u03b3 were inhibited, and IL-10 augmented by JQ1 (500nM) in the cultures of splenocytes from diseased MRL-lpr mice, which was further supported by a significant reduction in immune complex-mediated activation of human monocytes in vitro by JQ1. Taken together, JQ1 effectively alleviates lupus in MRL-lpr mice by suppressing BAFF, pro-inflammatory cytokines and autoimmunity, supporting the therapeutic value of JQ1 in lupus disease.", 
+          "qas": [
+            {
+              "question": "List BET proteins.", 
+              "id": "5aacdcf1fcf4565872000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "DNA methylation regulates bromodomain-containing protein 2 expression during adipocyte differentiation. Obesity is characterized by excessive accumulation of white adipose tissue. Bromodomain-containing protein 2 (Brd2), which belongs to the bromodomain and extraterminal domain family of proteins, suppresses adipocyte differentiation. DNA methylation is critical for several differentiation processes and possibly in adipocyte differentiation. However, whether DNA methylation regulates the expression of Brd2 is not clear. In our study, we demonstrated that DNA methylation contributes to the regulation of Brd2 expression during pre-adipocyte differentiation. Brd2 mRNA levels were low in pre-adipocytes, increased in early adipocytes, and declined in mature adipocytes. To test whether and how Brd2 expression is regulated by DNA methylation during the differentiation of 3T3-L1 pre-adipocytes to adipocytes, cells were cultured in the presence of the methylation inhibitor 5-aza-2'-deoxycytidine (5-Aza). Pre-adipocytes and adipocytes exposed to 5-Aza exhibited a dose-dependent increase in Brd2 transcription levels, while only mature adipocytes exhibited increased expression of Brd2 protein. Subsequently, we tested the DNA methylation status of the Brd2 promoter region. Bisulfite-sequencing analysis revealed that six CpG sites in two predicted promoters of Brd2 were demethylated in early adipocytes and highly methylated in mature adipocytes. Digestion of bisulfite-converted PCR products of the Brd2 promoter region from 3T3-L1 cells with BstU1 (CGGC) revealed that the demethylation rate of the Brd2 promoter was consistent with Brd2 mRNA expression in differentiating 3T3-L1 cells. In conclusion, DNA demethylation of the Brd2 promoter region induced Brd2 expression during differentiation of 3T3-L1 cells into adipocytes.", 
+          "qas": [
+            {
+              "question": "List BET proteins.", 
+              "id": "5aacdcf1fcf4565872000009_004"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

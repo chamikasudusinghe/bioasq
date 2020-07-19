@@ -1,0 +1,442 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "CUL-2 and UBXN-3 drive replisome disassembly during DNA replication termination and\u00a0mitosis. Replisome disassembly is the final step of DNA replication in eukaryotes, involving the ubiquitylation and CDC48-dependent dissolution of the CMG helicase (CDC45-MCM-GINS). Using Caenorhabditis elegans early embryos and Xenopus laevis egg extracts, we show that the E3 ligase CUL-2 associates with the replisome and drives ubiquitylation and disassembly of CMG, together with the CDC-48 cofactors UFD-1 and NPL-4. Removal of CMG from chromatin in frog egg extracts requires CUL2 neddylation, and our data identify chromatin recruitment of CUL2 as a key regulated step during DNA replication termination. Interestingly, however, CMG persists on chromatin until prophase in worms that lack CUL-2, but is then removed by a mitotic pathway that requires the CDC-48 cofactor UBXN-3, orthologous to the human tumour suppressor FAF1. Partial inactivation of lrr-1 and ubxn-3 leads to synthetic lethality, suggesting future approaches by which a deeper understanding of CMG disassembly in metazoa could be exploited therapeutically.", 
+          "qas": [
+            {
+              "question": "Which factors drive replisome disassembly during DNA replication termination and mitosis?", 
+              "id": "5a6d0b2db750ff445500002d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Ufd1-Npl4 Recruit Cdc48 for Disassembly of Ubiquitylated CMG Helicase at the End of Chromosome Replication. Disassembly of the Cdc45-MCM-GINS (CMG) DNA helicase is the key regulated step during DNA replication termination in eukaryotes, involving ubiquitylation of the Mcm7 helicase subunit, leading to a disassembly process that requires the Cdc48 \"segregase\". Here, we employ a screen to identify partners of budding yeast Cdc48 that are important for disassembly of ubiquitylated CMG helicase at the end of chromosome replication. We demonstrate that the ubiquitin-binding Ufd1-Npl4 complex recruits Cdc48 to ubiquitylated CMG. Ubiquitylation of CMG in yeast cell extracts is dependent upon lysine 29 of Mcm7, which is the only detectable site of ubiquitylation both in\u00a0vitro and in\u00a0vivo (though in\u00a0vivo other sites can be modified when K29 is mutated). Mutation of K29 abrogates in\u00a0vitro recruitment of Ufd1-Npl4-Cdc48 to the CMG helicase, supporting a model whereby Ufd1-Npl4 recruits Cdc48 to ubiquitylated CMG at the end of chromosome replication, thereby driving the disassembly reaction.", 
+          "qas": [
+            {
+              "question": "List the partners of budding yeast Cdc48 that are important for disassembly of ubiquitylated CMG helicase at the end of chromosome replication", 
+              "id": "5a6d1143b750ff445500002e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Triggering of the abductor pollicis longus in association with deQuervain's tenosynovitis. DeQuervain's tenosynovitis is a common cause of radial-sided wrist pain. Symptoms result from a narrow first dorsal compartment and associated tendinosis of the enclosed extensor pollicis brevis and/or abductor pollicis longus (APL). Surgical intervention, offered when conservative measures fail to adequately relieve symptoms, requires a detailed understanding of potentially aberrant anatomy in order to avoid persistence or recurrence of symptoms. We describe a case whereby the patient presented with complaints of thumb triggering in extension and associated disabling first dorsal compartment tendinosis. Intraoperatively, after supernumerary tendons were identified and addressed, the APL was at risk for subluxation over a prominent fibroosseous ridge. Routine first dorsal compartment release alone may have failed to address all of this patient's pathology.", 
+          "qas": [
+            {
+              "question": "Which tendons are affected in the Dequervain's tenosynovitis?", 
+              "id": "5a68ff52b750ff445500001c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Surgical Decompression of Resistant Cases of DeQuervain's Disease. DeQuervain's disease of the first dorsal compartment of the wrist, is a common wrist pathology, pain results from resisted gliding of the abductor pollicis longus and the extensor pollicis brevis tendon in the fibroosseous canal. Management of resistant cases of DeQuervain's disease with failed conservative treatment treated by surgical decompression yield satisfactory outcomes. A large number of patients being dissatisfied with the medical treatment, still present with persistent pain and positive clinical finding. Surgical decompression is an effective method for the treatment of resistant cases of DeQuervain's disease. Outcome variables were measured by Scheller, Forget and Macey evaluation criteria. Most of our patients were female 28(93.3%), housewife 17(56.7%) with mean age of 41.57 years, ranging from 25-60 years. Right sided involvement was 20(66.7%) and Left sided involvement was 10(33.3%). Restricted movement of thumb in 30(100%) were the predominant symptoms. One (3.3%) patient develop chronic tenosynovitis, 1(3.3%) patient develop hypertrophic scar. There was no wound infection in the follow-up period of 3-18 months. Satisfactory results were found in 29(96.7%).", 
+          "qas": [
+            {
+              "question": "Which tendons are affected in the Dequervain's tenosynovitis?", 
+              "id": "5a68ff52b750ff445500001c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression of Cyclic GMP-AMP Synthase in Patients With Systemic Lupus Erythematosus. OBJECTIVE: Type I interferon (IFN) is implicated in the pathogenesis of systemic lupus erythematosus (SLE) and interferonopathies such as Aicardi-Gouti\u00e8res syndrome. A recently discovered DNA-activated type I IFN pathway, cyclic GMP-AMP synthase (cGAS), has been linked to Aicardi-Gouti\u00e8res syndrome and mouse models of lupus. The aim of this study was to determine whether the cGAS pathway contributes to type I IFN production in patients with SLE. METHODS: SLE disease activity was measured by the Safety of Estrogens in Lupus Erythematosus National Assessment version of the Systemic Lupus Erythematosus Disease Activity Index. Expression of messenger RNA for cGAS and IFN-stimulated genes (ISGs) was determined by quantitative polymerase chain reaction analysis. Cyclic GMP-AMP (cGAMP) levels were examined by multiple reaction monitoring with ultra-performance liquid chromatography tandem mass spectrometry. RESULTS: Expression of cGAS in peripheral blood mononuclear cells (PBMCs) was significantly higher in SLE patients than in normal controls (n = 51 and n = 20 respectively; P < 0.01). There was a positive correlation between cGAS expression and the IFN score (P < 0.001). The expression of cGAS in PBMCs showed a dose response to type I IFN stimulation in vitro, consistent with it being an ISG. Targeted measurement of cGAMP by tandem mass spectrometry detected cGAMP in 15% of the SLE patients (7 of 48) but none of the normal (0 of 19) or rheumatoid arthritis (0 of 22) controls. Disease activity was higher in SLE patients with cGAMP versus those without cGAMP. CONCLUSION: Increased cGAS expression and cGAMP in a proportion of SLE patients indicates that the cGAS pathway should be considered as a contributor to type I IFN production. Whereas higher cGAS expression may be a consequence of exposure to type I IFN, detection of cGAMP in patients with increased disease activity indicates potential involvement of this pathway in disease expression.", 
+          "qas": [
+            {
+              "question": "List the four most important interferonopathies", 
+              "id": "5a882b5761bb38fb24000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Inherited Arterial Calcification Syndromes: Etiologies and Treatment Concepts. PURPOSE OF REVIEW: We give an update on the etiology and potential treatment options of rare inherited monogenic disorders associated with arterial calcification and calcific cardiac valve disease. RECENT FINDINGS: Genetic studies of rare inherited syndromes have identified key regulators of ectopic calcification. Based on the pathogenic principles causing the diseases, these can be classified into three groups: (1) disorders of an increased extracellular inorganic phosphate/inorganic pyrophosphate ratio (generalized arterial calcification of infancy, pseudoxanthoma elasticum, arterial calcification and distal joint calcification, progeria, idiopathic basal ganglia calcification, and hyperphosphatemic familial tumoral calcinosis; (2) interferonopathies (Singleton-Merten syndrome); and (3) others, including Keutel syndrome and Gaucher disease type IIIC. Although some of the identified causative mechanisms are not easy to target for treatment, it has become clear that a disturbed serum phosphate/pyrophosphate ratio is a major force triggering arterial and cardiac valve calcification. Further studies will focus on targeting the phosphate/pyrophosphate ratio to effectively prevent and treat these calcific disease phenotypes.", 
+          "qas": [
+            {
+              "question": "List the four most important interferonopathies", 
+              "id": "5a882b5761bb38fb24000013_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Inflammatory myopathy in a patient with Aicardi-Gouti\u00e8res syndrome. Aicardi-Gouti\u00e8res syndrome (AGS) is an inflammatory disorder belonging to the recently characterized group of type I interferonopathies. The most consistently affected tissues in AGS are the central nervous system and skin, but various organ systems and tissues have been reported to be affected, pointing to the systemic nature of the disease. Here we describe a patient with AGS due to a homozygous p.Arg114His mutation in the TREX1 gene. The histologically proven inflammatory myopathy in our patient expands the range of clinical features of AGS. Histological signs of muscle biopsies in the proband, and in two other AGS patients described earlier, are similar to those seen in various autoimmune myositises and could be ascribed to inapproapriate IFN I activation. In view of signs of possible mitochondrial damage in AGS, we propose that mitochondrial DNA could be a trigger of autoimmune responses in AGS.", 
+          "qas": [
+            {
+              "question": "List the four most important interferonopathies", 
+              "id": "5a882b5761bb38fb24000013_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Familial Chilblain Lupus - What Can We Learn from Type I Interferonopathies? PURPOSE OF REVIEW: Familial chilblain lupus belongs to the group of type I interferonopathies and is characterized by typical skin manifestations and acral ischaemia. This review aims to give an overview of clinical signs and the pathophysiological mechanisms. RECENT FINDINGS: There are several mutations that can lead to this autosomal dominant disease. Most frequent is a mutation of the gene for TREX-1. However, as well cases of families with mutations in the SAMHD1 gene and, recently, with one for the gene that codes for the protein stimulator of interferon genes have been described. These genes are involved in the process of the detection of intracellular DNA, and their mutation results in an increased production of type I interferons and their gene products, resulting in auto-inflammation and auto-immunity. JAK inhibitors have been successfully used to treat this disorder. Familial chilblain is a rare disorder with very distinct clinical signs. Its pathophysiological mechanism gives insight into the process of interferon-induced inflammation in auto-immune diseases.", 
+          "qas": [
+            {
+              "question": "List the four most important interferonopathies", 
+              "id": "5a882b5761bb38fb24000013_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Type I interferon pathway in CNS homeostasis and neurological disorders. Type I interferons (IFNs), IFN-\u03b1 and IFN-\u03b2, represent the major effector cytokines of the host immune response against viruses and other intracellular pathogens. These cytokines are produced via activation of numerous pattern recognition receptors, including the Toll-like receptor signaling network, retinoic acid-inducible gene-1 (RIG-1), melanoma differentiation-associated protein-5 (MDA-5) and interferon gamma-inducible protein-16 (IFI-16). Whilst the contribution of type I IFNs to peripheral immunity is well documented, they can also be produced by almost every cell in the central nervous system (CNS). Furthermore, IFNs can reach the CNS from the periphery to modulate the function of not only microglia and astrocytes, but also neurons and oligodendrocytes, with major consequences for cognition and behavior. Given the pleiotropic nature of type I IFNs, it is critical to determine their exact cellular impact. Inappropriate upregulation of type I IFN signaling and interferon-stimulated gene expression have been linked to several CNS diseases termed \"interferonopathies\" including Aicardi-Goutieres syndrome and ubiquitin specific peptidase 18 (USP18)-deficiency. In contrast, in the CNS of mice with virus-induced neuroinflammation, type I IFNs can limit production of other cytokines to prevent potential damage associated with chronic cytokine expression. This capacity of type I IFNs could also explain the therapeutic benefits of exogenous type I IFN in chronic CNS autoimmune diseases such as multiple sclerosis. In this review we will highlight the importance of a well-balanced level of type I IFNs for healthy brain physiology, and to what extent dysregulation of this cytokine system can result in brain 'interferonopathies'.", 
+          "qas": [
+            {
+              "question": "List the four most important interferonopathies", 
+              "id": "5a882b5761bb38fb24000013_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Type I interferon-mediated monogenic autoinflammation: The type I interferonopathies, a conceptual overview. Type I interferon is a potent substance. As such, the induction, transmission, and resolution of the type I interferon-mediated immune response are tightly regulated. As defined, the type I interferonopathies represent discrete examples of a disturbance of the homeostatic control of this system caused by Mendelian mutations. Considering the complexity of the interferon response, the identification of further monogenic diseases belonging to this disease grouping seems likely, with the recognition of type I interferonopathies becoming of increasing clinical importance as treatment options are developed based on an understanding of disease pathology and innate immune signaling. Definition of the type I interferonopathies indicates that autoinflammation can be both interferon and noninterferon related, and that a primary disturbance of the innate immune system can \"spill over\" into autoimmunity in some cases. Indeed, that several non-Mendelian disorders, most particularly systemic lupus erythematosus and dermatomyositis, are also characterized by an up-regulation of type I interferon signaling suggests the possibility that insights derived from this work will have relevance to a broader field of clinical medicine.", 
+          "qas": [
+            {
+              "question": "List the four most important interferonopathies", 
+              "id": "5a882b5761bb38fb24000013_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Hydrogen-bonded structures and interaction energies in two forms of the SGLT-2 inhibitor sotagliflozin. The sotagliflozin molecule exhibits two fundamentally different molecular conformations in form 1 {systematic name: (2S,3R,4R,5S,6R)-2-[4-chloro-3-(4-ethoxybenzyl)phenyl]-6-(methylsulfanyl)tetrahydro-2H-pyran-3,4,5-triol, CHClOS, (I)} and the monohydrate [CHClOS\u00b7HO, (II)]. Both crystals display hydrogen-bonded layers formed by intermolecular interactions which involve the three -OH groups of the xyloside fragment of the molecule. The layer architectures of (I) and (II) contain a non-hydrogen-bonded molecule-molecule interaction along the short crystallographic axis (a axis) whose total PIXEL energy exceeds that of each hydrogen-bonded molecule-molecule pair. The hydrogen-bonded layer of (I) has the topology of the 4-connected sql net and that formed by the water and sotagliflozin molecules of (II) has the topology of a 3,7-connected net.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Effect of Sodium Glucose Cotransporter 2 Inhibitors With Low SGLT2/SGLT1 Selectivity on Circulating Glucagon-Like Peptide 1 Levels in Type 2 Diabetes Mellitus. Sodium glucose cotransporter 2 (SGLT2) inhibitors are a new class of antidiabetic drugs that improve glycemic control by inhibiting reabsorption of glucose filtered through the renal glomerulus. Use of drugs in this class has increased because of their effect of decreasing body weight and a low risk for hypoglycemia, in addition to a relatively strong glucose-lowering effect. SGLT2 inhibitors such as canagliflozin and sotagliflozin (a SGLT1/SGLT2 dual inhibitor) also have a mild or moderate intestinal and renal SGLT1 inhibitory effect because of their relatively weak selectivity for SGLT2 over SGLT1. Recent evidence shows that these SGLT2 inhibitors with low SGLT2/SGLT1 selectivity elevate the level of circulating glucagon like peptide-1 (GLP-1), an incretin hormone that promotes insulin secretion in pancreatic \u03b2 cells. This effect probably occurs partly via inhibition of intestinal SGLT1, and the elevation of active GLP-1 levels is especially apparent when these drugs are co-administered with dipeptidyl peptidase 4 (DPP4) inhibitors. These findings suggest that a combination of canagliflozin or sotagliflozin and a DPP4 inhibitor can provide a beneficial effect associated with elevation of circulating active GLP-1 and may serve as a treatment for patients with type 2 diabetes.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Development of sotagliflozin, a dual sodium-dependent glucose transporter 1/2 inhibitor. The sodium-dependent glucose transporter 2 (SGLT2) inhibitors are an important emerging class for the treatment of diabetes. Development of SGLT2 inhibitors has been oriented around a desire for high selectivity for the SGLT2 protein relative to the SGLT1 protein. More recently, genetic and pharmacology research in mice has indicated that gastrointestinal SGLT1 inhibition may also be an appropriate therapeutic target to treat diabetes. Combining SGLT1 and SGLT2 inhibition in a single molecule would provide complementary insulin-independent mechanisms to treat diabetes. Therefore, sotagliflozin (LX4211) has been developed as a dual inhibitor of SGLT1 and SGLT2. The differentiating clinical features of dual inhibitor of SGLT1 and SGLT2 include a large postprandial glucose reduction, elevation of glucagon-like peptide 1 and modest urinary glucose excretion. These features may have clinical implications for the use of sotagliflozin in the treatment of both type 1 and type 2 diabetes.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Effects of Sotagliflozin Added to Insulin in Patients with Type 1 Diabetes. BACKGROUND: In most patients with type 1 diabetes, adequate glycemic control is not achieved with insulin therapy alone. We evaluated the safety and efficacy of sotagliflozin, an oral inhibitor of sodium-glucose cotransporters 1 and 2, in combination with insulin treatment in patients with type 1 diabetes. METHODS: In this phase 3, double-blind trial, which was conducted at 133 centers worldwide, we randomly assigned 1402 patients with type 1 diabetes who were receiving treatment with any insulin therapy (pump or injections) to receive sotagliflozin (400 mg per day) or placebo for 24 weeks. The primary end point was a glycated hemoglobin level lower than 7.0% at week 24, with no episodes of severe hypoglycemia or diabetic ketoacidosis after randomization. Secondary end points included the change from baseline in glycated hemoglobin level, weight, systolic blood pressure, and mean daily bolus dose of insulin. RESULTS: A significantly larger proportion of patients in the sotagliflozin group than in the placebo group achieved the primary end point (200 of 699 patients [28.6%] vs. 107 of 703 [15.2%], P<0.001). The least-squares mean change from baseline was significantly greater in the sotagliflozin group than in the placebo group for glycated hemoglobin (difference, -0.46 percentage points), weight (-2.98 kg), systolic blood pressure (-3.5 mm Hg), and mean daily bolus dose of insulin (-2.8 units per day) (P < 0.002 for all comparisons). The rate of severe hypoglycemia was similar in the sotagliflozin group and the placebo group (3.0% [21 patients] and 2.4% [17], respectively). The rate of documented hypoglycemia with a blood glucose level of 55 mg per deciliter (3.1 mmol per liter) or below was significantly lower in the sotagliflozin group than in the placebo group. The rate of diabetic ketoacidosis was higher in the sotagliflozin group than in the placebo group (3.0% [21 patients] and 0.6% [4], respectively). CONCLUSIONS: Among patients with type 1 diabetes who were receiving insulin, the proportion of patients who achieved a glycated hemoglobin level lower than 7.0% with no severe hypoglycemia or diabetic ketoacidosis was larger in the group that received sotagliflozin than in the placebo group. However, the rate of diabetic ketoacidosis was higher in the sotagliflozin group. (Funded by Lexicon Pharmaceuticals; inTandem3 ClinicalTrials.gov number, NCT02531035 .).", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Sotagliflozin as a potential treatment for type 2 diabetes mellitus. INTRODUCTION: SGLT1 is the primary transporter responsible for the absorption of glucose and galactose in the intestine, while SGLT2 and SGLT1 are both involved in the renal reabsorption of glucose. SGLT2 inhibitors are a new class of oral antidiabetic drugs, acting by increasing urinary glucose excretion (UGE). They offer the advantages of a reduced risk of hypoglycaemia, a decrease in body weight and blood pressure and an efficacy at all stages of type 2 diabetes (T2DM). AREAS COVERED: Herein, the authors focus specifically on sotagliflozin (LX4211), the first-in-class dual SGLT1/SGLT2 inhibitor. Original publications in English were selected as the basis of this review. Clinical trials were identified using the Clinicaltrial.gov database. EXPERT OPINION: By a potential additional mechanism of action on intestinal glucose absorption linked to SGLT1 inhibition, sotagliflozin differentiates from SGLT2 inhibitors by reducing postprandial glucose excursion and insulin secretion, as well as by increasing GLP-1 secretion. Despite a weaker effect on UGE than selective SGLT2 inhibitors, sotagliflozin is as effective as SGLT2 inhibitors on HbA1C reduction, with a similar safety profile in short-term studies. While sotagliflozin was first assessed in T2DM, it is now in phase 3 development as an adjuvant treatment in patients with T1DM after positive results from a pilot study.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_004"
+            }
+          ]
+        }, 
+        {
+          "context": "THE EMERGING ROLE OF ADJUNCTIVE NONINSULIN ANTIHYPERGLYCEMIC THERAPY IN THE MANAGEMENT OF TYPE 1 DIABETES. OBJECTIVE: Review available data on adjunctive therapies for type 1 diabetes (T1D), with a special focus on newer antihyperglycemic agents. METHODS: Published data on hypoglycemia, obesity, mortality, and goal attainment in T1D were reviewed to determine unmet therapeutic needs. PubMed databases and abstracts from recent diabetes meetings were searched using the term \"type 1 diabetes\" and the available and investigational sodium-glucose cotransporter (SGLT) inhibitors, glucagon-like peptide 1 (GLP-1) receptor agonists, dipeptidyl peptidase 4 inhibitors, and metformin. RESULTS: The majority of patients with T1D do not meet glycated hemoglobin (A1C) goals established by major diabetes organizations. Hypoglycemia risks and a rising incidence of obesity and metabolic syndrome featured in the T1D population limit optimal use of intensive insulin therapy. Noninsulin antihyperglycemic agents may enable T1D patients to achieve target A1C levels using lower insulin doses, which may reduce the risk of hypoglycemia. In pilot studies, the SGLT2 inhibitor dapagliflozin and the GLP-1 receptor agonist liraglutide reduced blood glucose, weight, and insulin dose in patients with T1D. Phase 2 studies with the SGLT2 inhibitor empagliflozin and the dual SGLT1 and SGLT2 inhibitor sotagliflozin, which acts in the gut and the kidney, have demonstrated reductions in A1C, weight, and glucose variability without an increased incidence of hypoglycemia. CONCLUSION: Newer antihyperglycemic agents, particularly GLP-1 agonists, SGLT2 inhibitors, and dual SGLT1 and SGLT2 inhibitors, show promise as adjunctive treatment for T1D that may help patients achieve better glucose control without weight gain or increased hypoglycemia.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Sotagliflozin, a Dual SGLT1 and SGLT2 Inhibitor, as Adjunct Therapy to Insulin in Type 1 Diabetes. OBJECTIVE: To assess the safety and efficacy of dual sodium-glucose cotransporter (SGLT) 1 and SGLT2 inhibition with sotagliflozin as adjunct therapy to insulin in type 1 diabetes. RESEARCH DESIGN AND METHODS: We treated 33 patients with sotagliflozin, an oral dual SGLT1 and SGLT2 inhibitor, or placebo in a randomized, double-blind trial assessing safety, insulin dose, glycemic control, and other metabolic parameters over 29 days of treatment. RESULTS: In the sotagliflozin-treated group, the percent reduction from baseline in the primary end point of bolus insulin dose was 32.1% (P = 0.007), accompanied by lower mean daily glucose measured by continuous glucose monitoring (CGM) of 148.8 mg/dL (8.3 mmol/L) (P = 0.010) and a reduction of 0.55% (5.9 mmol/mol) (P = 0.002) in HbA1c compared with the placebo group that showed 6.4% reduction in bolus insulin dose, a mean daily glucose of 170.3 mg/dL (9.5 mmol/L), and a decrease of 0.06% (0.65 mmol/mol) in HbA1c. The percentage of time in target glucose range 70-180 mg/dL (3.9-10.0 mmol/L) increased from baseline with sotagliflozin compared with placebo, to 68.2% vs. 54.0% (P = 0.003), while the percentage of time in hyperglycemic range >180 mg/dL (10.0 mmol/L) decreased from baseline, to 25.0% vs. 40.2% (P = 0.002), for sotagliflozin and placebo, respectively. Body weight decreased (1.7 kg) with sotagliflozin compared with a 0.5 kg gain (P = 0.005) in the placebo group. CONCLUSIONS: As adjunct to insulin, dual SGLT1 and SGLT2 inhibition with sotagliflozin improved glycemic control and the CGM profile with bolus insulin dose reduction, weight loss, and no increased hypoglycemia in type 1 diabetes.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecular Interaction of Anti-Diabetic Drugs With Acetylcholinesterase and Sodium Glucose Co-Transporter 2. Type 2 Diabetes Mellitus (T2DM) and Alzheimer's disease (AD) are the two disorders which are known to share pertinent pathological and therapeutic links. Sodium glucose co-transporter-2 (SGLT2) and Acetylcholinesterase (AChE) are established inhibition targets for T2DM and AD treatments, respectively. Reports suggest that anti-diabetic drugs could be used for AD treatment also. The present study used molecular docking by Autodock4.2 using our \"Click-By-Click\"-protocol, Ligplot1.4.3 and \"change in accessible surface area (\u0394ASA)-calculations\" to investigate the binding of two investigational anti-diabetic drugs, Ertugliflozin and Sotagliflozin to an established target (SGLT2) and a research target (human brain AChE). Sotagliflozin appeared more promising for SGLT2 as well as AChE-inhibition with reference to \u0394G and Ki values in comparison to Ertugliflozin. The \u0394G and Ki values for \"Sotagliflozin:AChE-binding\" were -7.16 kcal/mol and 5.6 \u03bcM, respectively while the same were found to be -8.47 kcal/mol and 0.62 \u03bcM, respectively for its interaction with SGLT2. Furthermore, \"Sotagliflozin:SGLT2-interaction\" was subjected to (un)binding simulation analyses by \"Molecular-Motion-Algorithms.\" This information is significant as the exact binding mode, interacting amino acid residues and simulation results for the said interaction have not been described yet. Also no X-ray crystal is available for the same. Finally, the results described herein indicate that Sotagliflozin could have an edge over Ertugliflozin for treatment of Type 2 diabetes. Future design of drugs based on Sotagliflozin scaffolds for treatment of Type 2 and/or Type 3 diabetes are highly recommended. As these drugs are still in late phases of clinical trials, the results described herein appear timely. J. Cell. Biochem. 118: 3855-3865, 2017. \u00a9 2017 Wiley Periodicals, Inc.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Sotagliflozin improves glycemic control in nonobese diabetes-prone mice with type 1 diabetes. PURPOSE: Oral agents are needed that improve glycemic control without increasing hypoglycemic events in patients with type 1 diabetes (T1D). Sotagliflozin may meet this need, because this compound lowers blood glucose through the insulin-independent mechanisms of inhibiting kidney SGLT2 and intestinal SGLT1. We examined the effect of sotagliflozin on glycemic control and rate of hypoglycemia measurements in T1D mice maintained on a low daily insulin dose, and compared these results to those from mice maintained in better glycemic control with a higher daily insulin dose alone. MATERIALS AND METHODS: Nonobese diabetes-prone mice with cyclophosphamide-induced T1D were randomized to receive one of four daily treatments: 0.2 U insulin/vehicle, 0.05 U insulin/vehicle, 0.05 U insulin/2 mg/kg sotagliflozin or 0.05 U insulin/30 mg/kg sotagliflozin. Insulin was delivered subcutaneously by micro-osmotic pump; the day after pump implantation, mice received their first of 22 once-daily oral doses of sotagliflozin or vehicle. Glycemic control was monitored by measuring fed blood glucose and hemoglobin A1c levels. RESULTS: Blood glucose levels decreased rapidly and comparably in the 0.05 U insulin/sotagliflozin-treated groups and the 0.2 U insulin/vehicle group compared to the 0.05 U insulin/vehicle group, which had significantly higher levels than the other three groups from day 2 through day 23. A1c levels were also significantly higher in the 0.05 U insulin/vehicle group compared to the other three groups on day 23. Importantly, the 0.2 U insulin/vehicle group had, out of 100 blood glucose measurements, 13 that were <70 mg/dL compared to one of 290 for the other three groups combined. CONCLUSION: Sotagliflozin significantly improved glycemic control, without increasing the rate of hypoglycemia measurements, in diabetic mice maintained on a low insulin dose. This sotagliflozin-mediated improvement in glycemic control was comparable to that achieved by raising the insulin dose alone, but was not accompanied by the increased rate of hypoglycemia measurements observed with the higher insulin dose.", 
+          "qas": [
+            {
+              "question": "Which two cotransporters are inhibited by sotagliflozin?", 
+              "id": "5a7238d32dc08e987e000009_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Growth and developmental retardation, ocular ptosis, cardiac defect, and anal atresia: confirmation of the ROCA-Wiedemann syndrome. We report on a girl with growth and mental retardation, peculiar face with ptosis, epicanthus, broad nasal bridge, low-set and abnormal ears, cleft uvula, congenital heart defect, and anal atresia. A similar condition was reported previously by Wiedemann et al. [1982: An atlas of characteristic syndromes: a visual aid to diagnosis, 2nd ed. p 114-115]. We confirm the existence of this condition that, although similar to Ohdo syndrome, seems to be an independent clinical entity. We propose that, based on the principal clinical manifestations, this condition should be identified with the acronym ROCA (retardation of growth and development, ocular ptosis, cardiac defect, and anal atresia).", 
+          "qas": [
+            {
+              "question": "Which are the main manifestations of Ohdo syndrome?", 
+              "id": "58f8a08370f9fc6f0f00001b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A novel MED12 mutation: Evidence for a fourth phenotype. Mutations of the MED12 gene have been reported mainly in males with FG (Opitz-Kaveggia), Lujan-Fryns, or X-linked Ohdo syndromes. Recently, a different phenotype characterized by minor anomalies, severe intellectual disability (ID), and absent language was reported in female and male patients belonging to the same family and carrying a frameshift MED12 mutation (c.5898dupC). Here, we report on two brothers and their niece affected by severe and mild ID, respectively, where whole exome sequencing combined with variant analysis within a panel of ID-related genes, disclosed a novel c.2312T>C (p.Ile771Thr) MED12 mutation. This variant, which has not been reported as a polymorphism, was not present in a third unaffected brother, and was predicted to be deleterious by five bioinformatic databases. This finding together with the phenotypic analogies shared with the carriers of c.5898dupC mutation suggests the existence of a fourth MED12-related disorder, characterized by severe ID, absent or deficient language and, milder, clinical manifestation in heterozygotes. We have reviewed the literature on MED12 heterozygotes, their clinical manifestations, and discuss the possible biological causes of this condition. \u00a9 2016 Wiley Periodicals, Inc.", 
+          "qas": [
+            {
+              "question": "Which are the main manifestations of Ohdo syndrome?", 
+              "id": "58f8a08370f9fc6f0f00001b_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Skeletal manifestations in Ohdo syndrome: a case with bilateral patella dislocations. We report a new case of Ohdo syndrome with bilateral patella dislocations where surgical intervention has been indicated. A review of the skeletal manifestations reported in the literature on Ohdo syndrome reveals that joint laxity and skeletal deformities are important aspects of the phenotype.", 
+          "qas": [
+            {
+              "question": "Which are the main manifestations of Ohdo syndrome?", 
+              "id": "58f8a08370f9fc6f0f00001b_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Pembrolizumab versus ipilimumab for advanced melanoma: final overall survival results of a multicentre, randomised, open-label phase 3 study (KEYNOTE-006). BACKGROUND: Interim analyses of the phase 3 KEYNOTE-006 study showed superior overall and progression-free survival of pembrolizumab versus ipilimumab in patients with advanced melanoma. We present the final protocol-specified survival analysis. METHODS: In this multicentre, open-label, randomised, phase 3 trial, we recruited patients from 87 academic institutions, hospitals, and cancer centres in 16 countries (Australia, Austria, Belgium, Canada, Chile, Colombia, France, Germany, Israel, Netherlands, New Zealand, Norway, Spain, Sweden, UK, and USA). We randomly assigned participants (1:1:1) to one of two dose regimens of pembrolizumab, or one regimen of ipilimumab, using a centralised, computer-generated allocation schedule. Treatment assignments used blocked randomisation within strata. Eligible patients were at least 18 years old, with an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, at least one measurable lesion per Response Evaluation Criteria In Solid Tumors version 1.1 (RECIST v1.1), unresectable stage III or IV melanoma (excluding ocular melanoma), and up to one previous systemic therapy (excluding anti-CTLA-4, PD-1, or PD-L1 agents). Secondary eligibility criteria are described later. Patients were excluded if they had active brain metastases or active autoimmune disease requiring systemic steroids. The primary outcome was overall survival (defined as the time from randomisation to death from any cause). Response was assessed per RECIST v1.1 by independent central review at week 12, then every 6 weeks up to week 48, and then every 12 weeks thereafter. Survival was assessed every 12 weeks, and final analysis occurred after all patients were followed up for at least 21 months. Primary analysis was done on the intention-to-treat population (all randomly assigned patients) and safety analyses were done in the treated population (all randomly assigned patients who received at least one dose of study treatment). Data cutoff date for this analysis was Dec 3, 2015. This study was registered with ClinicalTrials.gov, number NCT01866319. FINDINGS: Between Sept 18, 2013, and March 3, 2014, 834 patients with advanced melanoma were enrolled and randomly assigned to receive intravenous pembrolizumab every 2 weeks (n=279), intravenous pembrolizumab every 3 weeks (n=277), or intravenous ipilimumab every 3 weeks (ipilimumab for four doses; n=278). One patient in the pembrolizumab 2 week group and 22 patients in the ipilimumab group withdrew consent and did not receive treatment. A total of 811 patients received at least one dose of study treatment. Median follow-up was 22\u00b79 months; 383 patients died. Median overall survival was not reached in either pembrolizumab group and was 16\u00b70 months with ipilimumab (hazard ratio [HR] 0\u00b768, 95% CI 0\u00b753-0\u00b787 for pembrolizumab every 2 weeks vs ipilimumab; p=0\u00b70009 and 0\u00b768, 0\u00b753-0\u00b786 for pembrolizumab every 3 weeks vs ipilimumab; p=0\u00b70008). 24-month overall survival rate was 55% in the 2-week group, 55% in the 3-week group, and 43% in the ipilimumab group. INTERPRETATION: Substantiating the results of the interim analyses of KEYNOTE-006, pembrolizumab continued to provide superior overall survival versus ipilimumab, with no difference between pembrolizumab dosing schedules. These conclusions further support the use of pembrolizumab as a standard of care for advanced melanoma. FUNDING: Merck & Co.", 
+          "qas": [
+            {
+              "question": "Which drugs were tested in the KEYNOTE-006 study?", 
+              "id": "5a737b483b9d13c70800000b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Pembrolizumab: A Review in Advanced Melanoma. Pembrolizumab (Keytruda(\u00ae)) is a humanized monoclonal antibody against programmed death receptor-1 (PD-1), a key immunoinhibitory checkpoint protein implicated in down-regulating anti-tumour immune responses. This intravenous drug is indicated for the treatment of advanced (unresectable or metastatic) melanoma, on the basis of its clinical benefit in this setting in the phase I KEYNOTE 001 trial (expansion cohorts) and the phase II and III trials, KEYNOTE 002 and 006. These studies were conducted in ipilimumab-na\u00efve and/or ipilimumab-experienced patients and assessed varying pembrolizumab regimens administered every 2 or 3\u00a0weeks, all of which helped to determine the recommended dosage of 2\u00a0mg/kg every 3\u00a0weeks. In the trials with active comparator arms, pembrolizumab regimens significantly improved progression-free survival (PFS), overall survival (OS) and overall response rates (ORR) relative to ipilimumab in ipilimumab-na\u00efve patients (KEYNOTE 006), and significantly improved PFS and ORR, but not OS (although OS data are immature), relative to chemotherapy in ipilimumab-refractory patients, who had also received BRAF/MEK inhibitor therapy if BRAF-mutation positive (KEYNOTE 002). Pembrolizumab has an acceptable tolerability profile, with immune-related adverse events that are generally manageable/reversible. Thus, pembrolizumab is a valuable treatment option for patients with advanced melanoma, including those who have progressed on ipilimumab and BRAF/MEK inhibitors.", 
+          "qas": [
+            {
+              "question": "Which drugs were tested in the KEYNOTE-006 study?", 
+              "id": "5a737b483b9d13c70800000b_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Pembrolizumab versus Ipilimumab in Advanced Melanoma. BACKGROUND: The immune checkpoint inhibitor ipilimumab is the standard-of-care treatment for patients with advanced melanoma. Pembrolizumab inhibits the programmed cell death 1 (PD-1) immune checkpoint and has antitumor activity in patients with advanced melanoma. METHODS: In this randomized, controlled, phase 3 study, we assigned 834 patients with advanced melanoma in a 1:1:1 ratio to receive pembrolizumab (at a dose of 10 mg per kilogram of body weight) every 2 weeks or every 3 weeks or four doses of ipilimumab (at 3 mg per kilogram) every 3 weeks. Primary end points were progression-free and overall survival. RESULTS: The estimated 6-month progression-free-survival rates were 47.3% for pembrolizumab every 2 weeks, 46.4% for pembrolizumab every 3 weeks, and 26.5% for ipilimumab (hazard ratio for disease progression, 0.58; P<0.001 for both pembrolizumab regimens versus ipilimumab; 95% confidence intervals [CIs], 0.46 to 0.72 and 0.47 to 0.72, respectively). Estimated 12-month survival rates were 74.1%, 68.4%, and 58.2%, respectively (hazard ratio for death for pembrolizumab every 2 weeks, 0.63; 95% CI, 0.47 to 0.83; P=0.0005; hazard ratio for pembrolizumab every 3 weeks, 0.69; 95% CI, 0.52 to 0.90; P=0.0036). The response rate was improved with pembrolizumab administered every 2 weeks (33.7%) and every 3 weeks (32.9%), as compared with ipilimumab (11.9%) (P<0.001 for both comparisons). Responses were ongoing in 89.4%, 96.7%, and 87.9% of patients, respectively, after a median follow-up of 7.9 months. Efficacy was similar in the two pembrolizumab groups. Rates of treatment-related adverse events of grade 3 to 5 severity were lower in the pembrolizumab groups (13.3% and 10.1%) than in the ipilimumab group (19.9%). CONCLUSIONS: The anti-PD-1 antibody pembrolizumab prolonged progression-free survival and overall survival and had less high-grade toxicity than did ipilimumab in patients with advanced melanoma. (Funded by Merck Sharp & Dohme; KEYNOTE-006 ClinicalTrials.gov number, NCT01866319.).", 
+          "qas": [
+            {
+              "question": "Which drugs were tested in the KEYNOTE-006 study?", 
+              "id": "5a737b483b9d13c70800000b_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Cost-Effectiveness of Pembrolizumab Versus Ipilimumab in Ipilimumab-Na\u00efve Patients with Advanced Melanoma in the United States. BACKGROUND: Recent clinical trials have shown that pembrolizumab significantly prolonged progression-free survival and overall survival compared with ipilimumab in ipilimumab-na\u00efve patients with unresectable or metastatic melanoma. However, there has been no published evidence on the cost-effectiveness of pembrolizumab for this indication. OBJECTIVE: To assess the long-term cost-effectiveness of pembrolizumab versus ipilimumab in ipilimumab-na\u00efve patients with unresectable or meta-static melanoma from a U.S. integrated health system perspective. METHODS: A partitioned-survival model was developed, which divided overall survival time into progression-free survival and postprogression survival. The model used Kaplan-Meier estimates of progression-free survival and overall survival from a recent randomized phase 3 study (KEYNOTE-006) that compared pembrolizumab and ipilimumab. Extrapolation of progression-free survival and overall survival beyond the clinical trial was based on parametric functions and literature data. The base-case time horizon was 20 years, and costs and health outcomes were discounted at a rate of 3% per year. Clinical data-including progression-free survival and overall survival data spanning a median follow-up time of 15 months, as well as quality of life and adverse event data from the ongoing KEYNOTE-006 trial-and cost data from public sources were used to populate the model. Costs included those of drug acquisition, treatment administration, adverse event management, and disease management of advanced melanoma. The incremental cost-effectiveness ratio (ICER) expressed as cost difference per quality-adjusted life-year (QALY) gained was the main outcome, and a series of sensitivity analyses were performed to test the robustness of the results. RESULTS: In the base case, pembrolizumab was projected to increase the life expectancy of U.S. patients with advanced melanoma by 1.14 years, corresponding to a gain of 0.79 discounted QALYs over ipilimumab. The model also projected an average increase of $63,680 in discounted perpatient costs of treatment with pembrolizumab versus ipilimumab. The corresponding ICER was $81,091 per QALY ($68,712 per life-year) over a 20-year time horizon. With $100,000 per QALY as the threshold, when input parameters were varied in deterministic one-way sensitivity analyses, the use of pembrolizumab was cost-effective relative to ipilimumab in most ranges. Further, in a comprehensive probabilistic sensitivity analysis, the ICER was cost-effective in 83% of the simulations. CONCLUSIONS: Compared with ipilimumab, pembrolizumab had higher expected QALYs and was cost-effective for the treatment of patients with unresectable or metastatic melanoma from a U.S. integrated health system perspective. DISCLOSURES: This study was supported by funding from Merck & Co., which reviewed and approved the manuscript before journal submission. Wang, Pellissier, Xu, Stevinson, and Liu are employees of, and own stock in, Merck & Co. Chmielowski has served as a paid consultant for Merck & Co. and received a consultant fee for clinical input in connection with this study. Chmielowski also reports receiving advisory board and speaker bureau fees from multiple major pharmaceutical companies. Wang led the modeling and writing of the manuscript. Chmielowski, Xu, Stevinson, and Pellissier contributed substantially to the modeling design and methodology. Liu led the data collection work and contributed substantially to writing the manuscript. In conducting the analysis and writing the manuscript, the authors followed Merck publication polices and the \"cost-effectiveness analysis alongside clinical trials-good research practices and the CHEERS reporting format as recommended by the International Society for Pharmacoeconomics and Outcomes Research.", 
+          "qas": [
+            {
+              "question": "Which drugs were tested in the KEYNOTE-006 study?", 
+              "id": "5a737b483b9d13c70800000b_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Patient-reported outcomes in KEYNOTE-006, a randomised study of pembrolizumab versus ipilimumab in patients with advanced melanoma. OBJECTIVE: Report results of patient-reported health-related quality of life (HRQoL) and symptoms from phase III KEYNOTE-006 study of pembrolizumab versus ipilimumab in patients with ipilimumab-naive advanced melanoma. PATIENTS AND METHODS: Patients received pembrolizumab 10\u00a0mg/kg every 2 (Q2W) or every 3 weeks (Q3W) for up to 2 years, or four cycles of ipilimumab 3\u00a0mg/kg Q3W. The European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire C30 (EORTC QLQ-C30) was administered at baseline and throughout the study. Patient-reported outcome (PRO) analyses were pre-specified exploratory endpoints; the primary PRO assessment was the score change from baseline to week 12 in EORTC QLQ-C30 global health status (GHS)/HRQoL score between the arms using constrained longitudinal data analysis. RESULTS: The PRO analysis population included 776 patients: pembrolizumab Q2W (n\u00a0=\u00a0270); pembrolizumab Q3W (n\u00a0=\u00a0266); ipilimumab (n\u00a0=\u00a0240). Baseline GHS was similar across arms. QLQ-C30 compliance rates at week 12 were 87% (n\u00a0=\u00a0214), 97% (n\u00a0=\u00a0226),\u00a0and 96% (n\u00a0=\u00a0178), for the pembrolizumab Q2W, pembrolizumab Q3W, and ipilimumab arms, respectively. From baseline to week 12, GHS/HRQoL scores were better maintained with pembrolizumab than with ipilimumab (decrease of -1.9 and -2.5 for pembrolizumab versus -10.0 for ipilimumab; p\u00a0<\u00a00.001 for each pembrolizumab arm versus ipilimumab). Fewer patients treated with pembrolizumab experienced deterioration in GHS at week 12 (31% for pembrolizumab Q2W; 29% for Q3W and 44% for ipilimumab), with similar trends observed for individual functioning and symptoms scales. CONCLUSIONS: HRQoL was better maintained with pembrolizumab than with ipilimumab in patients with ipilimumab-naive advanced melanoma. CLINICALTRIALS. GOV IDENTIFIER: NCT01866319.", 
+          "qas": [
+            {
+              "question": "Which drugs were tested in the KEYNOTE-006 study?", 
+              "id": "5a737b483b9d13c70800000b_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Genomewide location analysis of Candida albicans Upc2p, a regulator of sterol metabolism and azole drug resistance. Upc2p, a transcription factor of the zinc cluster family, is an important regulator of sterol biosynthesis and azole drug resistance in Candida albicans. To better understand Upc2p function in C. albicans, we used genomewide location profiling to identify the transcriptional targets of Upc2p in vivo. A triple hemagglutinin epitope, introduced at the C terminus of Upc2p, conferred a gain-of-function effect on the fusion protein. Location profiling identified 202 bound promoters (P < 0.05). Overrepresented functional groups of genes whose promoters were bound by Upc2p included 12 genes involved in ergosterol biosynthesis (NCP1, ERG11, ERG2, and others), 18 genes encoding ribosomal subunits (RPS30, RPL32, RPL12, and others), 3 genes encoding drug transporters (CDR1, MDR1, and YOR1), 4 genes encoding transcription factors (INO2, ACE2, SUT1, and UPC2), and 6 genes involved in sulfur amino acid metabolism (MET6, SAM2, SAH1, and others). Bioinformatic analyses suggested that Upc2p binds to the DNA motif 5'-VNCGBDTR that includes the previously characterized Upc2p binding site 5'-TCGTATA. Northern blot analysis showed that increased binding correlates with increased expression for the analyzed Upc2p targets (ERG11, MDR1, CDR1, YOR1, SUT1, SMF12, and CBP1). The analysis of ERG11, MDR1, and CDR1 transcripts in wild-type and upc2Delta/upc2Delta strains grown under Upc2p-activating conditions (lovastatin treatment and hypoxia) showed that Upc2p regulates its targets in a complex manner, acting as an activator or as a repressor depending upon the target and the activating condition. Taken together, our results indicate that Upc2p is a key regulator of ergosterol metabolism. They also suggest that Upc2p may contribute to azole resistance by regulating the expression of drug efflux pump-encoding genes in addition to ergosterol biosynthesis genes.", 
+          "qas": [
+            {
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?", 
+              "id": "590c740d70f9fc6f0f00001d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Sterol metabolism and ERG2 gene regulation in the yeast Saccharomyces cerevisiae. Certain exogenously-supplied sterols, like ergost-8-enol, are efficiently converted into ergosterol in yeast. We have taken advantage of this property to study the regulation of the Delta8-Delta7-sterol isomerase-encoding ERG2 gene in an ergosterol auxotrophic mutant devoid of squalene-synthase activity. Ergosterol starvation leads to an 8-16-fold increase in ERG2 gene expression. Such an increase was also observed in wild-type cells either grown anaerobically or treated with SR31747A a sterol isomerase inhibitor. Exogenously-supplied zymosterol is entirely transformed into ergosterol, which represses ERG2 transcription. By contrast, exogenously-supplied ergosterol has little or no effect on ERG2 transcription.", 
+          "qas": [
+            {
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?", 
+              "id": "590c740d70f9fc6f0f00001d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "AAA ATPases regulate membrane association of yeast oxysterol binding proteins and sterol metabolism. The yeast genome encodes seven oxysterol binding protein homologs, Osh1p-Osh7p, which have been implicated in regulating intracellular lipid and vesicular transport. Here, we show that both Osh6p and Osh7p interact with Vps4p, a member of the AAA (ATPases associated with a variety of cellular activities) family. The coiled-coil domain of Osh7p was found to interact with Vps4p in a yeast two-hybrid screen and the interaction between Osh7p and Vps4p appears to be regulated by ergosterol. Deletion of VPS4 induced a dramatic increase in the membrane-associated pools of Osh6p and Osh7p and also caused a decrease in sterol esterification, which was suppressed by overexpression of OSH7. Lastly, overexpression of the coiled-coil domain of Osh7p (Osh7pCC) resulted in a multivesicular body sorting defect, suggesting a dominant negative role of Osh7pCC possibly through inhibiting Vps4p function. Our data suggest that a common mechanism may exist for AAA proteins to regulate the membrane association of yeast OSBP proteins and that these two protein families may function together to control subcellular lipid transport.", 
+          "qas": [
+            {
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?", 
+              "id": "590c740d70f9fc6f0f00001d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Two thymidine hydroxylases differentially regulate the formation of glucosylated DNA at regions flanking polymerase II polycistronic transcription units throughout the genome of Trypanosoma brucei. Base J is a hypermodified DNA base localized primarily to telomeric regions of the genome of Trypanosoma brucei. We have previously characterized two thymidine-hydroxylases (TH), JBP1 and JBP2, which regulate J-biosynthesis. JBP2 is a chromatin re-modeling protein that induces de novo J-synthesis, allowing JBP1, a J-DNA binding protein, to stimulate additional J-synthesis. Here, we show that both JBP2 and JBP1 are capable of stimulating de novo J-synthesis. We localized the JBP1- and JBP2-stimulated J by anti-J immunoprecipitation and high-throughput sequencing. This genome-wide analysis revealed an enrichment of base J at regions flanking polymerase II polycistronic transcription units (Pol II PTUs) throughout the T. brucei genome. Chromosome-internal J deposition is primarily mediated by JBP1, whereas JBP2-stimulated J deposition at the telomeric regions. However, the maintenance of J at JBP1-specific regions is dependent on JBP2 SWI/SNF and TH activity. That similar regions of Leishmania major also contain base J highlights the functional importance of the modified base at Pol II PTUs within members of the kinetoplastid family. The regulation of J synthesis/localization by two THs and potential biological function of J in regulating kinetoplastid gene expression is discussed.", 
+          "qas": [
+            {
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?", 
+              "id": "5925227670f9fc6f0f000020_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Tb927.10.6900 encodes the glucosyltransferase involved in synthesis of base J in Trypanosoma brucei. Base J is a DNA modification found in the genome of Trypanosoma brucei and all other kinetoplastids analyzed, where it replaces a small fraction of Ts, mainly in telomeric and chromosome-internal transcription initiation and termination regions. The synthesis of base J is a two-step process whereby a specific T is converted to HOMedU (hydroxymethyldeoxyuridine) and subsequently glucosylated to generate J. The thymidine hydroxylases (JPB1 and JBP2) that catalyze the first step have been characterized, but the identity of the glucosyltransferase catalyzing the second step has proven elusive. Recent bioinformatic analysis by Iyer et al. (Nucleic Acids Res 2013;41:7635) suggested that Tb927.10.6900 encodes the glucosyltransferase (HmdUGT) responsible for converting HOMedU to J in T. brucei. We now present experimental evidence to validate this hypothesis; null mutants of Tb927.10.6900 are unable to synthesize base J. Orthologues from related kinetoplastids show only modest conservation, with several insertion sequences found in those from Leishmania and related genera.", 
+          "qas": [
+            {
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?", 
+              "id": "5925227670f9fc6f0f000020_001"
+            }
+          ]
+        }, 
+        {
+          "context": "JBP1 and JBP2 are two distinct thymidine hydroxylases involved in J biosynthesis in genomic DNA of African trypanosomes. Genomic DNA of African trypanosomes contains a hypermodified thymidine residue termed base J (beta-d-glucosyl-HOMedU). This modified base is localized primarily to repetitive DNA, namely the telomeres, and is implicated in the regulation of antigenic variation. The base is synthesized in a two-step pathway. Initially, a thymidine residue in DNA is hydroxylated by a thymidine hydroxylase (TH). This intermediate (HOMedU) is then glucosylated to form base J. Two proteins involved in J synthesis, JBP1 (J binding protein 1) and JBP2, contain a putative TH domain related to the family of Fe(2+)/2-oxoglutarate-dependent hydroxylases. We have previously shown that mutations in the TH domain of JBP1 kill its ability to stimulate J synthesis. Here we show that mutation of key residues in the TH domain of JBP2 ablate its ability to induce de novo J synthesis. While the individual JBP1 null and JBP2 null trypanosomes have reduced J levels, the deletion of both JBP1 and JBP2 generates a cell line that completely lacks base J but still contains glucosyl-transferase activity. Reintroduction of JBP2 in the J-null trypanosome stimulates HOMedU formation and site-specific synthesis of base J. We conclude that JBP2 and JBP1 are the TH enzymes involved in J biosynthesis.", 
+          "qas": [
+            {
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?", 
+              "id": "5925227670f9fc6f0f000020_002"
+            }
+          ]
+        }, 
+        {
+          "context": "JBP2, a SWI2/SNF2-like protein, regulates de novo telomeric DNA glycosylation in bloodstream form Trypanosoma brucei. Synthesis of the modified thymine base, beta-d-glucosyl-hydroxymethyluracil or J, within telomeric DNA of Trypanosoma brucei correlates with the bloodstream form specific epigenetic silencing of telomeric variant surface glycoprotein genes involved in antigenic variation. In order to analyze the function of base J in the regulation of antigenic variation, we are characterizing the regulatory mechanism of J biosynthesis. We have recently proposed a model in which chromatin remodeling by a SWI2/SNF2-like protein (JBP2) regulates the developmental and de novo site-specific localization of J synthesis within bloodstream form trypanosome DNA. Consistent with this model, we now show that JBP2 (-/-) bloodstream form trypanosomes contain five-fold less base J and are unable to stimulate de novo J synthesis in newly generated telomeric arrays.", 
+          "qas": [
+            {
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?", 
+              "id": "5925227670f9fc6f0f000020_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification of the glucosyltransferase that converts hydroxymethyluracil to base J in the trypanosomatid genome. O-linked glucosylation of thymine in DNA (base J) is an important regulatory epigenetic mark in trypanosomatids. \u03b2-d-glucopyranosyloxymethyluracil (base J) synthesis is initiated by the JBP1/2 enzymes that hydroxylate thymine, forming 5-hydroxymethyluracil (hmU). hmU is then glucosylated by a previously unknown glucosyltransferase. A recent computational screen identified a possible candidate for the base J-associated glucosyltransferase (JGT) in trypanosomatid genomes. We demonstrate that recombinant JGT utilizes uridine diphosphoglucose to transfer glucose to hmU in the context of dsDNA. Mutation of conserved residues typically involved in glucosyltransferase catalysis impairs DNA glucosylation in vitro. The deletion of both alleles of JGT from the genome of Trypanosoma brucei generates a cell line that completely lacks base J. Reintroduction of JGT in the JGT KO restores J synthesis. Ablation of JGT mRNA levels by RNAi leads to the sequential reduction in base J and increased levels of hmU that dissipate rapidly. The analysis of JGT function confirms the two-step J synthesis model and demonstrates that JGT is the only glucosyltransferase enzyme required for the second step of the pathway. Similar to the activity of the related Ten-Eleven Translocation (TET) family of dioxygenases on 5mC, our studies also suggest the ability of the base J-binding protein enzymes to catalyze iterative oxidation of thymine in trypanosome DNA. Here we discuss the regulation of hmU and base J formation in the trypanosome genome by JGT and base J-binding protein.", 
+          "qas": [
+            {
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?", 
+              "id": "5925227670f9fc6f0f000020_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Sirolimus as an Effective Agent in the Treatment of Immune Thrombocytopenia (ITP) and Evans Syndrome (ES): A Single Institution's Experience. BACKGROUND: Autoimmune cytopenias are characterized by immune-mediated destruction of hematopoietic cell lines with immune thrombocytopenia (ITP) affecting platelets and Evans syndrome (ES) affecting platelets and red blood cells. For patients with persistent disease, limited options for effective and well-tolerated therapies exist. OBJECTIVES: Our aim is to describe our institution's experience with sirolimus as therapy for pediatric patients with persistent ITP and ES. DESIGN/METHOD: A retrospective analysis was performed in patients with persistent ITP and ES treated with sirolimus. Responses were categorized as complete response (CR), partial response, modest response, or no response. RESULTS: Of the 17 patients treated, 12 had ITP and 5 had ES. Seventy-three percent of ITP patients achieved a CR, 78% of them by 3 months. Only 2 patients did not achieve a durable response. Eighty percent of ES patients had a response, with 50% of them achieving CR and the other 50% an asymptomatic partial response. One patient with ES achieved modest response, but discontinued therapy due to an adverse effect. Of the patients that achieved CR, 90% remain off all therapy for a median of 2 years. CONCLUSIONS: Our data suggest that sirolimus is a safe and effective steroid-sparing agent in the treatment of persistent ITP and ES.", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Autoimmune hemolytic anemia in systemic lupus erythematosus at diagnosis: differences between pediatric and adult patients. Objective To determine the overall prevalence of autoimmune hemolytic anemia (AIHA), and to compare clinical and laboratory features in a large population of children and adult lupus patients at diagnosis. Methods This retrospective study evaluated the medical charts of 336 childhood-onset systemic lupus erythematosus (cSLE) and 1830 adult SLE (aSLE) patients followed in the same tertiary hospital. Demographic data, clinical features and disease activity were recorded. AIHA was defined according to the presence of anemia (hemoglobin <10 g/dL) and evidence of hemolysis (reticulocytosis and positive direct antiglobulin test (DAT)/Coombs test) at SLE diagnosis. Evans syndrome (ES) was defined by the combination of immune thrombocytopenia (platelet count <100,000/mm) and AIHA. Results The frequency of AIHA at diagnosis was significantly higher in cSLE patients compared to aSLE (49/336 (14%) vs 49/1830 (3%), p = 0.0001), with similar frequency of ES (3/336 (0.9%) vs 10/1830 (0.5%), p = 0.438). The median of hemoglobin levels was reduced in cSLE vs aSLE patients (8.3 (2.2-10) vs 9.5 (6.6-10) g/dL, p = 0.002) with a higher frequency of multiple hemorrhagic manifestations (41% vs 7%, p = 0.041) and erythrocyte transfusion due to bleeding (24% vs 5%, p = 0.025). cSLE patients also had more often constitutional involvement (84% vs 31%, p < 0.001), fever (65% vs 26%, p < 0.001), weight loss > 2 kg (39% vs 6%, p < 0.001), reticuloendothelial manifestations (48% vs 8%, p < 0.001), hepatomegaly (25% vs 2%, p < 0.001) and splenomegaly (21% vs 2%, p = 0.004). Other major organ involvements were common but with similar frequencies in cSLE and aSLE ( p > 0.05). Median systemic lupus erythematosus disease activity index 2000 (SLEDAI-2 K) was comparable in cSLE and aSLE (p = 0.161). Conclusions We identified that AIHA was not a common condition in cSLE and aSLE, with distinct features characterized by a higher prevalence/severity in children and concomitant constitutional symptoms in the majority of them.", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Evans Syndrome as First Manifestation of Primary Immunodeficiency in Clinical Practice. BACKGROUND: Evans syndrome (ES) is a rare immune disorder in children, manifested by simultaneous or sequential autoimmune cytopenias (ACs) of unknown cause and having a chronic course with periods of exacerbation and remission. Some primary immunodeficiencies (PIDs) may present with autoimmune manifestations without infections, masking suspicion of them. The PIDs that can typically manifest as ES are autoimmune lymphoproliferative syndrome and common variable immunodeficiency (CVID). MATERIALS AND METHODS: Review of clinical charts and laboratory results of pediatric patients followed-up in the outpatient clinic of PID with a diagnosis of ES and humoral immunodeficiency. RESULTS: Three pediatric patients, a boy and 2 girls, presented with corticosteroid-dependent ES. In the diagnostic approach, autoimmune lymphoproliferative syndrome was ruled out, and during follow-up, patients showed laboratory signs of humoral immune deficiency and were diagnosed with CVID. After initiating the recommended treatment for CVID with AC, patients improved without new exacerbations. CONCLUSIONS: These cases highlight the importance of detection of possible PID in the context of ES and the establishment of CVID treatment to control AC.", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Natural History, Pathogenesis, and Treatment of Evans Syndrome in Children. Primary Evans syndrome (ES) is defined by the concurrent or sequential occurrence of immune thrombocytopenia and autoimmune hemolytic anemia in the absence of an underlying etiology. The syndrome is characterized by a chronic, relapsing, and potentially fatal course requiring long-term immunosuppressive therapy. Treatment of ES is hardly evidence-based. Corticosteroids are the mainstay of therapy. Rituximab has emerged as the most widely used second-line treatment, as it can safely achieve high response rates and postpone splenectomy. An increasing number of new genetic defects involving critical pathways of immune regulation identify specific disorders, which explain cases of ES previously reported as \"idiopathic\".", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Association of autoimmune hepatitis type 1 in a child with Evans syndrome. Autoimmune hepatitis (AIH) is a progressive liver disease that is often associated with extrahepatic autoimmune disorders. Evans syndrome (ES) is a rare autoimmune disorder, which is characterized by immune thrombocytopenia and autoimmune hemolytic anemia. Association of AIH with ES is rare, especially in children. We report a 3-year-old female with a past medical history of ES who presented with jaundice and significant transaminitis due to AIH type 1. She required multiple treatments with steroids as well as azathioprine, intravenous immunoglobulin and a course of rituximab.", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Common Variable Immunodeficiency patients with a phenotypic profile of immunosenescence present with thrombocytopenia. Common variable immunodeficiency (CVID) is a heterogeneous group of diseases. Our aim was to define sub-groups of CVID patients with similar phenotypes and clinical characteristics. Using eight-color flow cytometry, we analyzed both B- and T-cell phenotypes in a cohort of 88 CVID patients and 48 healthy donors. A hierarchical clustering of probability binning \"bins\" yielded a separate cluster of 22 CVID patients with an abnormal phenotype. We showed coordinated proportional changes in na\u00efve CD4+ T-cells (decreased), intermediate CD27- CD28+ CD4+ T-cells (increased) and CD21low B-cells (increased) that were stable for over three years. Moreover, the lymphocytes' immunophenotype in this patient cluster exhibited features of profound immunosenescence and chronic activation. Thrombocytopenia was only found in this cluster (36% of cases, manifested as Immune Thrombocytopenia (ITP) or Evans syndrome). Clinical complications more frequently found in these patients include lung fibrosis (in 59% of cases) and bronchiectasis (55%). The degree of severity of these symptoms corresponded to more deviation from normal levels with respect to CD21low B-cells, na\u00efve CD4+ and CD27\u2212 CD28+ CD4+ T-cells. Next-generation sequencing did not reveal any common genetic background. We delineate a subgroup of CVID patients with activated and immunosenescent immunophenotype of lymphocytes and distinct set of clinical complications without common genetic background.", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Evans Syndrome Complicated by Intratubular Hemoglobin Cast Nephropathy. Evans syndrome (ES) is a rare autoimmune disorder whose exact pathophysiology is unknown. It is characterized by the simultaneous or subsequent development of autoimmune hemolytic anemia (AIHA) and immune thrombocytopenia (ITP). Intravascular hemolysis, with hemoglobinemia, is known to produce acute kidney injury; however, the development of intratubular hemoglobin casts (hemoglobin cast nephropathy) in the setting of acute hemolysis is uncommon. Likewise, the association of ES and acute renal failure is equally uncommon. We present a case of a 7-year-old girl with ES who developed acute kidney injury in the setting of intravascular hemolysis and had widespread intratubular hemoglobin casts.", 
+          "qas": [
+            {
+              "question": "List the two most important hematological features of the Evans syndrome", 
+              "id": "5a76196faacfb9cd4c000001_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Detecting circular RNAs: bioinformatic and experimental challenges. The pervasive expression of circular RNAs (circRNAs) is a recently discovered feature of gene expression in highly diverged eukaryotes. Numerous algorithms that are used to detect genome-wide circRNA expression from RNA sequencing (RNA-seq) data have been developed in the past few years, but there is little overlap in their predictions and no clear gold-standard method to assess the accuracy of these algorithms. We review sources of experimental and bioinformatic biases that complicate the accurate discovery of circRNAs and discuss statistical approaches to address these biases. We conclude with a discussion of the current experimental progress on the topic.", 
+          "qas": [
+            {
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?", 
+              "id": "5a43b2d7966455904c00000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "PcircRNA_finder: a software for circRNA prediction in plants. MOTIVATION: Recent studies reveal an important role of non-coding circular RNA (circRNA) in the control of cellular processes. Because of differences in the organization of plant and mammal genomes, the sensitivity and accuracy of circRNA prediction programs using algorithms developed for animals and humans perform poorly for plants. RESULTS: A circRNA prediction software for plants (termed PcircRNA_finder) was developed that is more sensitive in detecting circRNAs than other frequently used programs (such as find_circ and CIRCexplorer), Based on analysis of simulated and real rRNA-/RNAase R RNA-Seq data from Arabidopsis thaliana and rice PcircRNA_finder provides a more comprehensive sensitive, precise prediction method for plants circRNAs. AVAILABILITY AND IMPLEMENTATION: http://ibi.zju.edu.cn/bioinplant/tools/manual.htm CONTACT: fanlj@zju.edu.cnSupplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?", 
+              "id": "5a43b2d7966455904c00000c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Circular RNA profile in gliomas revealed by identification tool UROBORUS. Recent evidence suggests that many endogenous circular RNAs (circRNAs) may play roles in biological processes. However, the expression patterns and functions of circRNAs in human diseases are not well understood. Computationally identifying circRNAs from total RNA-seq data is a primary step in studying their expression pattern and biological roles. In this work, we have developed a computational pipeline named UROBORUS to detect circRNAs in total RNA-seq data. By applying UROBORUS to RNA-seq data from 46 gliomas and normal brain samples, we detected thousands of circRNAs supported by at least two read counts, followed by successful experimental validation on 24 circRNAs from the randomly selected 27 circRNAs. UROBORUS is an efficient tool that can detect circRNAs with low expression levels in total RNA-seq without RNase R treatment. The circRNAs expression profiling revealed more than 476 circular RNAs differentially expressed in control brain tissues and gliomas. Together with parental gene expression, we found that circRNA and its parental gene have diversified expression patterns in gliomas and control brain tissues. This study establishes an efficient and sensitive approach for predicting circRNAs using total RNA-seq data. The UROBORUS pipeline can be accessed freely for non-commercial purposes at http://uroborus.openbioinformatics.org/.", 
+          "qas": [
+            {
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?", 
+              "id": "5a43b2d7966455904c00000c_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Specific identification and quantification of circular RNAs from sequencing data. MOTIVATION: Circular RNAs (circRNAs) are a poorly characterized class of molecules that have been identified decades ago. Emerging high-throughput sequencing methods as well as first reports on confirmed functions have sparked new interest in this RNA species. However, the computational detection and quantification tools are still limited. RESULTS: We developed the software tandem, DCC and CircTest DCC uses output from the STAR read mapper to systematically detect back-splice junctions in next-generation sequencing data. DCC applies a series of filters and integrates data across replicate sets to arrive at a precise list of circRNA candidates. We assessed the detection performance of DCC on a newly generated mouse brain data set and publicly available sequencing data. Our software achieves a much higher precision than state-of-the-art competitors at similar sensitivity levels. Moreover, DCC estimates circRNA versus host gene expression from counting junction and non-junction reads. These read counts are finally used to test for host gene-independence of circRNA expression across different experimental conditions by our R package CircTest We demonstrate the benefits of this approach on previously reported age-dependent circRNAs in the fruit fly. AVAILABILITY AND IMPLEMENTATION: The source code of DCC and CircTest is licensed under the GNU General Public Licence (GPL) version 3 and available from https://github.com/dieterich-lab/[DCC or CircTest]. CONTACT: christoph.dieterich@age.mpg.de SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?", 
+              "id": "5a43b2d7966455904c00000c_003"
+            }
+          ]
+        }, 
+        {
+          "context": "miARma-Seq: a comprehensive tool for miRNA, mRNA and circRNA analysis. Large-scale RNAseq has substantially changed the transcriptomics field, as it enables an unprecedented amount of high resolution data to be acquired. However, the analysis of these data still poses a challenge to the research community. Many tools have been developed to overcome this problem, and to facilitate the study of miRNA expression profiles and those of their target genes. While a few of these enable both kinds of analysis to be performed, they also present certain limitations in terms of their requirements and/or the restrictions on data uploading. To avoid these restraints, we have developed a suite that offers the identification of miRNA, mRNA and circRNAs that can be applied to any sequenced organism. Additionally, it enables differential expression, miRNA-mRNA target prediction and/or functional analysis. The miARma-Seq pipeline is presented as a stand-alone tool that is both easy to install and flexible in terms of its use, and that brings together well-established software in a single bundle. Our suite can analyze a large number of samples due to its multithread design. By testing miARma-Seq in validated datasets, we demonstrate here the benefits that can be gained from this tool by making it readily accessible to the research community.", 
+          "qas": [
+            {
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?", 
+              "id": "5a43b2d7966455904c00000c_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Comparison of circular RNA prediction tools. CircRNAs are novel members of the non-coding RNA family. For several decades circRNAs have been known to exist, however only recently the widespread abundance has become appreciated. Annotation of circRNAs depends on sequencing reads spanning the backsplice junction and therefore map as non-linear reads in the genome. Several pipelines have been developed to specifically identify these non-linear reads and consequently predict the landscape of circRNAs based on deep sequencing datasets. Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance. By this approach, we observe surprisingly dramatic differences between the algorithms specifically regarding the highly expressed circRNAs and the circRNAs derived from proximal splice sites. Collectively, this study emphasizes that circRNA annotation should be handled with care and that several algorithms should ideally be combined to achieve reliable predictions.", 
+          "qas": [
+            {
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?", 
+              "id": "5a43b2d7966455904c00000c_005"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

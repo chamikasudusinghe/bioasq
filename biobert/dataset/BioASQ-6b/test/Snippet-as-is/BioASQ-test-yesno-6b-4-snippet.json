@@ -1,0 +1,937 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a8ee9d1fcd1d6a10c000027_001",
+              "question": "Is there a disease or condition called Exploding Head Syndrome?"
+            }
+          ],
+          "context": "This case report describes the first-ever diagnosis of exploding head syndrome in a patient with longstanding epilepsy and novel nocturnal events. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8ee9d1fcd1d6a10c000027_002",
+              "question": "Is there a disease or condition called Exploding Head Syndrome?"
+            }
+          ],
+          "context": "Exploding head syndrome (EHS) is characterized by loud noises or a sense of explosion in the head during sleep transitions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8ee9d1fcd1d6a10c000027_003",
+              "question": "Is there a disease or condition called Exploding Head Syndrome?"
+            }
+          ],
+          "context": "Exploding head syndrome is characterized by the perception of loud noises during sleep-wake or wake-sleep transitions. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8ee9d1fcd1d6a10c000027_004",
+              "question": "Is there a disease or condition called Exploding Head Syndrome?"
+            }
+          ],
+          "context": "Exploding head syndrome (EHS) is characterized by attacks of a sudden noise or explosive feeling experienced in the head occurring during the transition from wake to sleep or from sleep to wake."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8ee9d1fcd1d6a10c000027_005",
+              "question": "Is there a disease or condition called Exploding Head Syndrome?"
+            }
+          ],
+          "context": "Exploding head syndrome is characterized by the perception of abrupt, loud noises when going to sleep or waking up."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8ee9d1fcd1d6a10c000027_006",
+              "question": "Is there a disease or condition called Exploding Head Syndrome?"
+            }
+          ],
+          "context": "xploding head syndrome (EHS) is a rare parasomnia in which affected individuals awaken from sleep with the sensation of a loud bang. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_001",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": " The loss of CD55 and CD59 renders PNH erythrocytes susceptible to intravascular haemolysis, which can lead to thrombosis and to much of the morbidity and mortality of PNH. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_002",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "CD55 Deficiency, Early-Onset Protein-Losing Enteropathy, and Thrombosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_003",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "CONCLUSIONS: CD55 deficiency with hyperactivation of complement, angiopathic thrombosis, and protein-losing enteropathy (the CHAPLE syndrome) is caused by abnormal complement activation due to biallelic loss-of-function mutations in CD55. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_004",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "It is caused by the expansion of a hematopoietic progenitor cell that has acquired a mutation in the X-linked phosphatidylinositol glycan class A (PIGA) gene that results in deficiency of the glycosylphosphatidylinositol anchor structure responsible for fixing a wide spectrum of proteins particularly CD55 and CD59. The clinical features of this disease arise as a result of complement-mediated hemolysis in unprotected red cells, leukocytes, and platelets as well as the release of free hemoglobin. Patients may present with a variety of clinical manifestations, such as anemia, thrombosis, kidney disease, smooth muscle dystonias, abdominal pain, dyspnea, and extreme fatigue."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_005",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "The lack of one of the GPI-AP complement regulatory proteins (CD55, CD59) leads to hemolysis. The disease is diagnosed with hemolytic anemia, marrow failure and thrombosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_006",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "Paroxysmal nocturnal hemoglobinuria (PNH) is a rare bone marrow failure disorder that manifests with hemolytic anemia, thrombosis, and peripheral blood cytopenias. The absence of two glycosylphosphatidylinositol (GPI)-anchored proteins, CD55 and CD59, leads to uncontrolled complement activation that accounts for hemolysis and other PNH manifestations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_007",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "RESULTS: CD55 and/or CD59 deficiencies were found in 1.6% (2/127) of patients with primary BCS, 1.0% (1/100) of non-malignant and non-cirrhotic patients with PVT, and 4.7% (4/85) of cirrhotic patients with PVT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_008",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "Data of this study indicate that the PNH defect as detected with CD55, CD59, and CD16 is not an important cause of intra-abdominal thrombosis in northwestern India."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_009",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "PNH testing of red blood cells revealed a CD55 and CD59 deficiency consistent with PNH in both cases. The systemic complications typically associated with thrombosis were not observed for the following several months with early conservative treatments including eculizumab."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a723cd12dc08e987e00000b_010",
+              "question": "Can CD55 deficiency cause thrombosis?"
+            }
+          ],
+          "context": "Deficiency of the GPI-anchored complement inhibitors CD55 and CD59 on erythrocytes leads to intravascular hemolysis upon complement activation. Apart from hemolysis, another prominent feature is a highly increased risk of thrombosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981dd0fcd1d6a10c00002e_001",
+              "question": "Are sleep apnea and snoring associated with cardiac arrhythmias?"
+            }
+          ],
+          "context": "Atrial fibrillation (AF) is the commonest arrhythmia in clinical practice and is associated with increased cardiovascular morbidity and mortality. Obstructive sleep apnea (OSA), a common breathing disorder, is an independent risk factor for AF."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981dd0fcd1d6a10c00002e_002",
+              "question": "Are sleep apnea and snoring associated with cardiac arrhythmias?"
+            }
+          ],
+          "context": "There is a growing consensus in the scientific community that suggests a strong association between obstructive sleep apnea (OSA) and cardiovascular (CVD) conditions and events, including coronary artery disease, hypertension, arrhythmia, heart failure, and sudden cardiac death. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981dd0fcd1d6a10c00002e_003",
+              "question": "Are sleep apnea and snoring associated with cardiac arrhythmias?"
+            }
+          ],
+          "context": "part from well-established risk factors that increase the odds for the development of AF, e.g. age or arterial hypertension, recent analyses indicate that obstructive sleep apnoea (OSA) may independently, negatively modify the arrhythmia occur-rence profile. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981dd0fcd1d6a10c00002e_004",
+              "question": "Are sleep apnea and snoring associated with cardiac arrhythmias?"
+            }
+          ],
+          "context": "Evidence supports a causal association of sleep apnea with the incidence and morbidity of hypertension, coronary heart disease, arrhythmia, heart failure, and stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa82180d6d6b54f79000015_001",
+              "question": "Are osteoclasts specialized in bone degradation?"
+            }
+          ],
+          "context": "osteoclast-mediated attack on bone"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa82180d6d6b54f79000015_002",
+              "question": "Are osteoclasts specialized in bone degradation?"
+            }
+          ],
+          "context": "Bone degradation is caused by osteoclasts, the normal bone-resorbing cells. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa82180d6d6b54f79000015_003",
+              "question": "Are osteoclasts specialized in bone degradation?"
+            }
+          ],
+          "context": "Cathepsin K is a highly potent collagenase in osteoclasts and is responsible for bone degradation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa82180d6d6b54f79000015_004",
+              "question": "Are osteoclasts specialized in bone degradation?"
+            }
+          ],
+          "context": "In osteoclasts, Src controls podosome organization and bone degradation, which leads to an osteopetrotic phenotype in src(-/-) mice"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa82180d6d6b54f79000015_005",
+              "question": "Are osteoclasts specialized in bone degradation?"
+            }
+          ],
+          "context": "Bone degradation by osteoclasts depends on the formation of a sealing zone, composed of an interlinked network of podosomes, which delimits the degradation lacuna into which osteoclasts secrete acid and proteolytic enzymes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_001",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "RESULTS: fourteen randomized clinical trials were identified (7 with bevacizumab, 2 cilengitide, 1 enzastaurin, 1 dasatinib, 1 vandetanib, 1 temsirolimus, 1 cediranib) including 4330 patients. Antiangiogenic drugs showed no improvement in overall survival with a pooled HR of 1.00, a trend for an inferior outcome, in terms of overall survival, was observed in the group of patients receiving antiangiogenic drug alone compared to cytotoxic drug alone (HR=1.24, p=0.056)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_002",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "CONCLUSIONS: Temsirolimus was not superior to temozolomide in patients with an unmethylated MGMT promoter."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_003",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "The actuarial 1-year survival was 72.2% [95% confidence interval (CI), 58.2-82.2] in the temozolomide arm and 69.6% (95% CI, 55.8-79.9) in the temsirolimus arm [hazard ratio (HR) 1.16; 95% CI, 0.77-1.76; P = 0.47]."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_004",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "CONCLUSION: The combination of bevacizumab with temsirolimus was well-tolerated and resulted in stable disease of at least four months/partial response in three out of six pediatric patients with chemorefractory CNS tumors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_005",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "CONCLUSIONS: Temsirolimus administered weekly at the dose of 75 mg/m(2) did not meet the primary objective efficacy threshold in children with high-grade glioma, neuroblastoma or rhabdomyosarcoma; however, meaningful prolonged stable disease merits further evaluation in combination therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_006",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "Novel targeted agents such as bevacizumab, imatinib, erlotinib, temsirolimus, immunotherapy, cilengitide, talampanel, etc. are helping classical chemotherapeutic agents, like temozolomide, to achieve an increase in overall survival."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733a672dc08e987e000014_007",
+              "question": "Does temsirolimus improve survival of glioblastoma patients?"
+            }
+          ],
+          "context": "CONCLUSIONS: CCI-779 was well tolerated at this dose schedule; however, there was no evidence of efficacy in patients with recurrent GBM"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a991ee21d1251d03b000005_001",
+              "question": "Are there sex differences in the transcriptome of the mouse hippocampus?"
+            }
+          ],
+          "context": "To better understand the possible molecular basis for the sex-biased nature of neurological disorders, we used a developmental series of female and male mice at 1, 2, and 4 months of age to assess both mRNA and protein in the hippocampus with RNA-sequencing and mass-spectrometry, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a991ee21d1251d03b000005_002",
+              "question": "Are there sex differences in the transcriptome of the mouse hippocampus?"
+            }
+          ],
+          "context": "The bulk of these differentially expressed genes are changed in both sexes at one or more ages, but a total of 198 transcripts are differentially expressed between females and males at one or more ages. The number of transcripts that are differentially expressed between females and males is greater in adult animals than in younger animals. Additionally, we identify 69 transcripts that show complex and sex-specific patterns of temporal regulation through postnatal development, 8 of which are heat-shock proteins. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a991ee21d1251d03b000005_003",
+              "question": "Are there sex differences in the transcriptome of the mouse hippocampus?"
+            }
+          ],
+          "context": "Additionally, this analysis reveals sex differences in the transcriptome of the developing mouse hippocampus, and further clarifies the need to include both female and male mice in longitudinal studies involving molecular changes in the hippocampus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_001",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "Emerging evidence for adjunctive therapy with tocilizumab, methotrexate, aspirin, angiotensin receptor blockers, and statins is encouraging and may lead to a more mainstream role for these therapies among patients with GCA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_002",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": " TNF-\u03b1 blockers are ineffective in giant cell arteritis, while observational evidence and a phase 2 randomized trial support the use of tocilizumab in relapsing giant cell arteritis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_003",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "OBJECTIVES: Randomised-controlled trials have recently proven the efficacy of the interleukin (IL)-6 receptor antagonist tocilizumab (TCZ) in giant cell arteritis (GCA). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_004",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "CONCLUSIONS: TCZ may exert its therapeutic effects in GCA by increasing the proliferation and activation of Tregs, and by reverting the pathogenic Treg phenotype seen during active disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_005",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "Cyclophosphamide and tocilizumab look promising but require validation in further studies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_006",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "Therefore, tocilizumab (humanised monoclonal antibody binding the human interleukin-6 receptor) was introduced as a potential salvage therapy with a swift consecutive resolution of the systemic symptoms and stabilization of the ophthalmic lesions.CONCLUSIONS: Although a late effect of steroids pulses cannot be formally ruled out in this dramatic situation, tocilizumab likely offered a decisive effect in preventing bilateral blindness and may have contributed to steroid tapering. Tocilizumab may represent a new early effective second-line treatment option in corticosteroid-resistant anterior ischemic optic neuropathy. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_007",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "Tocilizumab for giant cell arteritis with corticosteroid-resistant progressive anterior ischemic optic neuropathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_008",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "CONCLUSIONS: Tocilizumab, received weekly or every other week, combined with a 26-week prednisone taper was superior to either 26-week or 52-week prednisone tapering plus placebo with regard to sustained glucocorticoid-free remission in patients with giant-cell arteritis. Longer follow-up is necessary to determine the durability of remission and safety of tocilizumab."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_009",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "Two RCTs have evidenced the efficacy of tocilizumab in addition to glucocorticoids (GCs) in the treatment of giant cell arteritis (GCA)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_010",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": " Recent randomized placebo-controlled trials have reported on the efficacy and safety of abatacept and mostly tocilizumab in inducing and maintaining remission of GCA. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_011",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "If a biological therapy is indicated, and in light of the data discussed in this review, the first choice would be tocilizumab in GCA and anti-TNF-\u03b1 agents (mainly infliximab) in TAK."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a733d2a2dc08e987e000015_012",
+              "question": "Is Tocilizumab effective for Giant-Cell Arteritis?"
+            }
+          ],
+          "context": "CONCLUSION: TCZ is effective in GCA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a992d981d1251d03b00000b_001",
+              "question": "Can nanoparticles be used for afterglow imaging?"
+            }
+          ],
+          "context": "Ultralong Phosphorescence of Water-Soluble Organic Nanoparticles for In Vivo Afterglow Imaging"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a992d981d1251d03b00000b_002",
+              "question": "Can nanoparticles be used for afterglow imaging?"
+            }
+          ],
+          "context": "Afterglow or persistent luminescence eliminates the need for light excitation and thus circumvents the issue of autofluorescence, holding promise for molecular imaging. However, current persistent luminescence agents are rare and limited to inorganic nanoparticles. This study reports the design principle, synthesis, and proof-of-concept application of organic semiconducting nanoparticles (OSNs) with ultralong phosphorescence for in vivo afterglow imaging. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a992d981d1251d03b00000b_003",
+              "question": "Can nanoparticles be used for afterglow imaging?"
+            }
+          ],
+          "context": "This study not only introduces the first category of water-soluble ultralong phosphorescence organic nanoparticles but also reveals a universal design principle to prolong the lifetime of phosphorescent molecules to the level that can be effective for molecular imaging."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa825b1fcf4565872000003_001",
+              "question": "Are stress granules membraneous?"
+            }
+          ],
+          "context": "PMLOs are different in size, shape, and composition, and almost invariantly contain intrinsically disordered proteins (e.g., eIF4B and TDP43 in stress granules,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa825b1fcf4565872000003_002",
+              "question": "Are stress granules membraneous?"
+            }
+          ],
+          "context": "Liquid-liquid phase separation (LLPS) of RNA-binding proteins plays an important role in the formation of multiple membrane-less organelles involved in RNA metabolism, including stress granules."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa825b1fcf4565872000003_003",
+              "question": "Are stress granules membraneous?"
+            }
+          ],
+          "context": "Stress granules (SG) are membrane-less compartments involved in regulating mRNAs during stress."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa825b1fcf4565872000003_004",
+              "question": "Are stress granules membraneous?"
+            }
+          ],
+          "context": " In addition to membrane delimited organelles, proteins and RNAs can organize themselves into specific domains. Some examples include stress granules and subnuclear bodies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774e40faa1ab7d2e000007_001",
+              "question": "Is there a link between nuclear position and DNA repair pathway choice?"
+            }
+          ],
+          "context": "Nuclear position dictates DNA repair pathway choice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774e40faa1ab7d2e000007_002",
+              "question": "Is there a link between nuclear position and DNA repair pathway choice?"
+            }
+          ],
+          "context": "We demonstrate that DSBs induced at the nuclear membrane (but not at nuclear pores or nuclear interior) fail to rapidly activate the DNA damage response (DDR) and repair by homologous recombination (HR). Real-time and superresolution imaging reveal that DNA DSBs within lamina-associated domains do not migrate to more permissive environments for HR, like the nuclear pores or the nuclear interior, but instead are repaired in situ by alternative end-joining. Our results are consistent with a model in which nuclear position dictates the choice of DNA repair pathway, thus revealing a new level of regulation in DSB repair controlled by spatial organization of DNA within the nucleus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a992eac1d1251d03b00000c_001",
+              "question": "Can non ubiquitinated Tomm20 promote mitophagy?"
+            }
+          ],
+          "context": " A total of 338 new targets were identified and from these we validated glycogen synthase kinase 3\u03b2 (Gsk3\u03b2), which can phosphorylate \u03b1-synuclein, and translocase of outer mitochondrial membrane 20 (Tomm20), a mitochondrial translocase that, when ubiquitinated, promotes mitophagy, as SCFFbxo7substrates both in vitro and in vivo Ubiquitin chain restriction analyses revealed that Fbxo7 modified Gsk3\u03b2 using K63 linkages. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa304f1d6d6b54f79000004_001",
+              "question": "Is the consumption of chocolate associated with an increase in cardiovascular disease?"
+            }
+          ],
+          "context": "The consumption of natural polyphenol-rich foods, and cocoa in particular, has been related to a reduced risk of CVD, including coronary heart disease and stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa304f1d6d6b54f79000004_002",
+              "question": "Is the consumption of chocolate associated with an increase in cardiovascular disease?"
+            }
+          ],
+          "context": "chocolate has been shown to decrease CVD risk due to its antioxidant and anti-inflammatory properties."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa304f1d6d6b54f79000004_003",
+              "question": "Is the consumption of chocolate associated with an increase in cardiovascular disease?"
+            }
+          ],
+          "context": "A number of studies have shown that dietary polyphenols exert a protective effect against hypertension, dyslipidemias, inflammation, endothelial function and atherosclerosis, conditions associated with increased risk for cardiovascular disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa304f1d6d6b54f79000004_004",
+              "question": "Is the consumption of chocolate associated with an increase in cardiovascular disease?"
+            }
+          ],
+          "context": "Chocolate consumption may have a beneficial effect on cardiovascular health,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacd38efcf4565872000006_001",
+              "question": "Is DNA polymerase \u03b8 involved in DNA repair?"
+            }
+          ],
+          "context": "DNA polymerase \u03b8 (Pol \u03b8) is implicated in various cellular processes including double-strand break repair and apurinic/apyrimidinic site bypass."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacd38efcf4565872000006_002",
+              "question": "Is DNA polymerase \u03b8 involved in DNA repair?"
+            }
+          ],
+          "context": " Pol \u03b8 is the defining enzyme for a pathway of DSB repair termed \"alternative end-joining\" (altEJ) or \"theta-mediated end-joining.\""
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacd38efcf4565872000006_003",
+              "question": "Is DNA polymerase \u03b8 involved in DNA repair?"
+            }
+          ],
+          "context": "DNA polymerase \u03b8 is a key player in PARP-mediated DNA damage repair and essential for the survival of cancer cells where homologous recombination is compromised. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacd38efcf4565872000006_004",
+              "question": "Is DNA polymerase \u03b8 involved in DNA repair?"
+            }
+          ],
+          "context": "DNA polymerase \u03b8 protects against genomic instability via an alternative end-joining repair pathway for DNA double-strand breaks."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9931cd1d1251d03b00000d_001",
+              "question": "Does SARM1 deletion cause neurodegeneration?"
+            }
+          ],
+          "context": "Finally, using neurons from two distinct mutant mouse strains whose axons are highly resistant to neurodegeneration (Wld(S) and Sarm1(-/-)), we found that the three different fibrils were secreted by axons after anterograde transport, in the absence of axonal lysis, indicating that trans-neuronal spread can occur in intact healthy neurons."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac4161d1251d03b000010_001",
+              "question": "Does MC1R palmitoylation reduce pigmentation?"
+            }
+          ],
+          "context": "The melanocortin-1 receptor (MC1R), a G-protein-coupled receptor, has a crucial role in human and mouse pigmentation. Activation of MC1R in melanocytes by \u03b1-melanocyte-stimulating hormone (\u03b1-MSH) stimulates cAMP signalling and melanin production and enhances DNA repair after ultraviolet irradiation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac4161d1251d03b000010_002",
+              "question": "Does MC1R palmitoylation reduce pigmentation?"
+            }
+          ],
+          "context": "MC1R palmitoylation, primarily mediated by the protein-acyl transferase ZDHHC13, is essential for activating MC1R signalling, which triggers increased pigmentation, ultraviolet-B-induced G1-like cell cycle arrest and control of senescence and melanomagenesis in vitro and in vivo."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac4161d1251d03b000010_003",
+              "question": "Does MC1R palmitoylation reduce pigmentation?"
+            }
+          ],
+          "context": "The results highlight a central role for MC1R palmitoylation in pigmentation and protection against melanoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c886fcd1d6a10c00002a_001",
+              "question": "A bite from the Lone Star Tick Amblyomma americanum, can cause the victim to become allergic to red meat, yes or no?"
+            }
+          ],
+          "context": "A recent discovery of an IgE antibody specific to galactose-\u03b1-1,3-galactose, which is a carbohydrate abundantly expressed on cells and tissues of beef, pork, and lamb, adds one more tool to aid the clinician in making the appropriate diagnosis. A link has been discovered between the bite of the Lone Star Tick (Amblyomma americanum) and the development of sensitivity to galactose-\u03b1-1,3-galactose. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c886fcd1d6a10c00002a_002",
+              "question": "A bite from the Lone Star Tick Amblyomma americanum, can cause the victim to become allergic to red meat, yes or no?"
+            }
+          ],
+          "context": ". Recently described conditions such as Southern tick-associated rash illness and anaphylaxis to red meat following tick bites have been attributed to the lone star tick."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d79ca1d1251d03b00001d_001",
+              "question": "Is the gene CDKN2A nevogenic?"
+            }
+          ],
+          "context": "Germline mutations in CDKN2A are frequently identified among melanoma kindreds and are associated with increased atypical nevus counts."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d79ca1d1251d03b00001d_002",
+              "question": "Is the gene CDKN2A nevogenic?"
+            }
+          ],
+          "context": "Phenotypic characteristics of members of a melanoma prone kindred with a V126D CDKN2A gene mutation were monitored over approximately 15 y."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d79ca1d1251d03b00001d_003",
+              "question": "Is the gene CDKN2A nevogenic?"
+            }
+          ],
+          "context": " Rare germline mutations in CDKN2A predispose to melanoma and appear to be nevogenic, although the correlation between nevus phenotype and mutation status is poor. It is plausible that more common CDKN2A variants may influence both melanoma susceptibility and nevus susceptibility. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d79ca1d1251d03b00001d_004",
+              "question": "Is the gene CDKN2A nevogenic?"
+            }
+          ],
+          "context": "supporting the view that CDKN2A is nevogenic."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a80dbaafaa1ab7d2e000026_001",
+              "question": "Are there ways of joint Bayesian inference of risk variants?"
+            }
+          ],
+          "context": "Joint Bayesian inference of risk variants and tissue-specific epigenomic enrichments across multiple complex human diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a80dbaafaa1ab7d2e000026_002",
+              "question": "Are there ways of joint Bayesian inference of risk variants?"
+            }
+          ],
+          "context": "Genome wide association studies (GWAS) provide a powerful approach for uncovering disease-associated variants in human, but fine-mapping the causal variants remains a challenge. This is partly remedied by prioritization of disease-associated variants that overlap GWAS-enriched epigenomic annotations. Here, we introduce a new Bayesian model RiVIERA (Risk Variant Inference using Epigenomic Reference Annotations) for inference of driver variants from summary statistics across multiple traits using hundreds of epigenomic annotations. In simulation, RiVIERA promising power in detecting causal variants and causal annotations, the multi-trait joint inference further improved the detection power. We applied RiVIERA to model the existing GWAS summary statistics of 9 autoimmune diseases and Schizophrenia by jointly harnessing the potential causal enrichments among 848 tissue-specific epigenomics annotations from ENCODE/Roadmap consortium covering 127 cell/tissue types and 8 major epigenomic marks. RiVIERA identified meaningful tissue-specific enrichments for enhancer regions defined by H3K4me1 and H3K27ac for Blood T-Cell specifically in the nine autoimmune diseases and Brain-specific enhancer activities exclusively in Schizophrenia. Moreover, the variants from the 95% credible sets exhibited high conservation and enrichments for GTEx whole-blood eQTLs located within transcription-factor-binding-sites and DNA-hypersensitive-sites."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_001",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "INTERPRETATION: In patients with BRCA mutant or BRCA wild-type and LOH high platinum-sensitive ovarian carcinomas treated with rucaparib, progression-free survival was longer than in patients with BRCA wild-type LOH low carcinomas."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_002",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "High LOH is associated with response to the PARP inhibitor rucaparib in BRCA wild-type ovarian cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_003",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "Rucaparib Approved for Ovarian Cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_004",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "The FDA approved the PARP inhibitor rucaparib to treat women with advanced ovarian cancer who have already been treated with at least two chemotherapies and have a BRCA1 or BRCA2 gene mutation identified by an approved companion diagnostic test."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_005",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "Rucaparib (Rubraca\u2122) is an oral, small molecule, poly (ADP-ribose) polymerase inhibitor being developed by Clovis Oncology, Inc. (Boulder, CO, USA) for the treatment of solid tumours. It has been approved in the USA as monotherapy for the treatment of patients with deleterious BRCA mutation (germline and/or somatic) associated advanced ovarian cancer who have been treated with two or more chemotherapies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_006",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "In 2016, the US Food and Drug Administration approved three novel drugs for the treatment of solid malignancies-olaratumab in selected patients with soft-tissue sarcoma, atezolizumab for the treatment of bladder cancer, and rucaparib for the treatment of ovarian cancer; also in 2016, the use of previously approved anticancer agents (including atezolizumab) was expanded into 11 new patient populations. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7379a83b9d13c70800000a_007",
+              "question": "Is Rucaparib effective for ovarian cancer?"
+            }
+          ],
+          "context": "Conclusions:Rucaparib was tolerable and had activity in patients with platinum-sensitive germlineBRCA1/2-mutated HGOC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9acba61d1251d03b000014_001",
+              "question": "Has intepirdine been evaluated in clinical trials? (November 2017)"
+            }
+          ],
+          "context": "Using small molecules blocking 5-HT6serotonin receptor (intepirdine), inhibiting BACE activity (E2609, AZD3293, and verubecestat), or reducing tau aggregation (TRx0237) are also currently in Phase III clinical trials."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa3fa73d6d6b54f79000008_001",
+              "question": "Is subacute sclerosing panencephalitis caused by the Measles vaccine?"
+            }
+          ],
+          "context": "Subacute sclerosing panencephalitis (SSPE) is a potentially fatal complication of measles. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa3fa73d6d6b54f79000008_002",
+              "question": "Is subacute sclerosing panencephalitis caused by the Measles vaccine?"
+            }
+          ],
+          "context": "Subacute sclerosing panencephalitis (SSPE) is a fatal complication of measles. We reviewed California cases from 1998-2015 to understand risk f"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa3fa73d6d6b54f79000008_003",
+              "question": "Is subacute sclerosing panencephalitis caused by the Measles vaccine?"
+            }
+          ],
+          "context": "Subacute sclerosing panencephalitis should be eliminated by measles vaccination"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8b292afcd1d6a10c00001f_001",
+              "question": "Is there any role of interleukin-11 in cardiovascular fibrosis?"
+            }
+          ],
+          "context": "IL11 is a crucial determinant of cardiovascular fibrosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8b292afcd1d6a10c00001f_002",
+              "question": "Is there any role of interleukin-11 in cardiovascular fibrosis?"
+            }
+          ],
+          "context": "Using integrated imaging-genomics analyses of primary human fibroblasts, we found that Interleukin 11 (IL11) upregulation is the dominant transcriptional response to TGFB1 exposure and required for its profibrotic effect. IL11 and its receptor (IL11RA) are expressed specifically in fibroblasts where they drive non-canonical, ERK-dependent autocrine signalling that is required for fibrogenic protein synthesis. In mice, fibroblast-specific Il11 transgene expression or Il11 injection causes heart and kidney fibrosis and organ failure whereas genetic deletion of Il11ra1 is protective against disease. Thus, inhibition of IL11 prevents fibroblast activation across organs and species in response to a range of important pro-fibrotic stimuli. These data reveal a central role of IL11 in fibrosis and we propose inhibition of IL11 as a new therapeutic strategy to treat fibrotic diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d28981d1251d03b000017_001",
+              "question": "Does verubecestat activate BACE?"
+            }
+          ],
+          "context": "Verubecestat is a potent BACE1 enzyme inhibitor currently being investigated in Phase III trials for the treatment of mild-to-moderate and prodromal Alzheimer's disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76072283b0d9ea66000013_001",
+              "question": "Does armodafinil improve fatigue of glioma patients?"
+            }
+          ],
+          "context": "CONCLUSIONS: While treatment was well-tolerated, an 8-week course of armodafinil did not improve fatigue or QOL in glioma patients undergoing RT in this pilot study. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76072283b0d9ea66000013_002",
+              "question": "Does armodafinil improve fatigue of glioma patients?"
+            }
+          ],
+          "context": "We evaluated whether armodafinil, a wakefulness-promoting medication, improves fatigue in glioma patients undergoing RT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76072283b0d9ea66000013_003",
+              "question": "Does armodafinil improve fatigue of glioma patients?"
+            }
+          ],
+          "context": "Armodafinil did not significantly improve fatigue or QOL based on the 42-day change in FACIT-F fatigue subscale, FACT-G, CFS, or BFI. Further analysis suggests no difference between the arms even after accounting for the potential bias of missing data. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa4faaed6d6b54f7900000b_001",
+              "question": "Is Citrobacter rodentium pathogenic?"
+            }
+          ],
+          "context": "One day after colonization, mice were infected with the colonic pathogen, Citrobacter rodentium."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa4faaed6d6b54f7900000b_002",
+              "question": "Is Citrobacter rodentium pathogenic?"
+            }
+          ],
+          "context": "The human pathogen enteropathogenic Escherichia coli (EPEC), as well as the mouse pathogen Citrobacter rodentium, colonize the gut mucosa via attaching and effacing lesion formation and cause diarrheal diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa4faaed6d6b54f7900000b_003",
+              "question": "Is Citrobacter rodentium pathogenic?"
+            }
+          ],
+          "context": "EPEC-like mouse pathogen Citrobacter rodentium"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa4faaed6d6b54f7900000b_004",
+              "question": "Is Citrobacter rodentium pathogenic?"
+            }
+          ],
+          "context": "Here, we develop a model that provides that link for the investigation of Citrobacter rodentium infection, a mouse model for enteropathogenic Escherichia coli (EPEC). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70ec6899e2c3af2600000c_001",
+              "question": "Is pregabalin effective for sciatica?"
+            }
+          ],
+          "context": "CONCLUSIONS: Treatment with pregabalin did not significantly reduce the intensity of leg pain associated with sciatica and did not significantly improve other outcomes, as compared with placebo, over the course of 8 weeks. The incidence of adverse events was significantly higher in the pregabalin group than in the placebo group. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70ec6899e2c3af2600000c_002",
+              "question": "Is pregabalin effective for sciatica?"
+            }
+          ],
+          "context": "Whilst pregabalin (PGB) and gabapentin (GBP) are both used to treat neuropathic pain, their relative role in sciatica is unclear."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70ec6899e2c3af2600000c_003",
+              "question": "Is pregabalin effective for sciatica?"
+            }
+          ],
+          "context": "GBP and PGB appeared to demonstrate comparable efficacy and SE. However, the amount and quality of evidence was low, and only indirect comparisons were available. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d30241d1251d03b00001b_001",
+              "question": "Can gas vesicles be detected by ultrasound?"
+            }
+          ],
+          "context": "Gas vesicles-genetically encoded protein nanostructures isolated from buoyant photosynthetic microbes-have recently been identified as nanoscale reporters for ultrasound."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d30241d1251d03b00001b_002",
+              "question": "Can gas vesicles be detected by ultrasound?"
+            }
+          ],
+          "context": "Here, we demonstrate that genetic engineering of gas vesicles results in nanostructures with new mechanical, acoustic, surface, and functional properties to enable harmonic, multiplexed, and multimodal ultrasound imaging as well as cell-specific molecular targeting. "
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

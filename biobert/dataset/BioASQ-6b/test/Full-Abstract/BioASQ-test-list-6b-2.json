@@ -1,0 +1,829 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "BMAL1-dependent circadian oscillation of nuclear CLOCK: posttranslational events induced by dimerization of transcriptional activators of the mammalian clock system. Mammalian CLOCK and BMAL1 are two members of bHLH-PAS-containing family of transcription factors that represent the positive elements of circadian autoregulatory feedback loop. In the form of a heterodimer, they drive transcription from E-box enhancer elements in the promoters of responsive genes. We have examined abundance, posttranslational modifications, cellular localization of endogenous and ectopically expressed CLOCK and BMAL1 proteins. Nuclear/cytoplasm distribution of CLOCK was found to be under circadian regulation. Analysis of subcellular localization of CLOCK in embryo fibroblasts of mice carrying different germ-line circadian mutations showed that circadian regulation of nuclear accumulation of CLOCK is BMAL1-dependent. Formation of CLOCK/BMAL1 complex following ectopic coexpression of both proteins is followed by their codependent phosphorylation, which is tightly coupled to CLOCK nuclear translocation and degradation. This binding-dependent coregulation is specific for CLOCK/BMAL1 interaction, as no other PAS domain protein that can form a complex with either CLOCK or BMAL1 was able to induce similar effects. Importantly, all posttranslational events described in our study are coupled with active transactivation complex formation, which argues for their significant functional role. Altogether, these results provide evidence for an additional level of circadian system control, which is based on regulation of transcriptional activity or/and availability of CLOCK/BMAL1 complex.", 
+          "qas": [
+            {
+              "question": "Which are the main transcriptional activators of circadian oscillations?", 
+              "id": "5a86ebf2faa1ab7d2e000038_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A direct repeat of E-box-like elements is required for cell-autonomous circadian rhythm of clock genes. BACKGROUND: The circadian expression of the mammalian clock genes is based on transcriptional feedback loops. Two basic helix-loop-helix (bHLH) PAS (for Period-Arnt-Sim) domain-containing transcriptional activators, CLOCK and BMAL1, are known to regulate gene expression by interacting with a promoter element termed the E-box (CACGTG). The non-canonical E-boxes or E-box-like sequences have also been reported to be necessary for circadian oscillation. RESULTS: We report a new cis-element required for cell-autonomous circadian transcription of clock genes. This new element consists of a canonical E-box or a non-canonical E-box and an E-box-like sequence in tandem with the latter with a short interval, 6 base pairs, between them. We demonstrate that both E-box or E-box-like sequences are needed to generate cell-autonomous oscillation. We also verify that the spacing nucleotides with constant length between these 2 E-elements are crucial for robust oscillation. Furthermore, by in silico analysis we conclude that several clock and clock-controlled genes possess a direct repeat of the E-box-like elements in their promoter region. CONCLUSION: We propose a novel possible mechanism regulated by double E-box-like elements, not to a single E-box, for circadian transcriptional oscillation. The direct repeat of the E-box-like elements identified in this study is the minimal required element for the generation of cell-autonomous transcriptional oscillation of clock and clock-controlled genes.", 
+          "qas": [
+            {
+              "question": "Which are the main transcriptional activators of circadian oscillations?", 
+              "id": "5a86ebf2faa1ab7d2e000038_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Effect of tofacitinib withdrawal and re-treatment on patient-reported outcomes: results from a Phase 3 study in patients with moderate to severe chronic plaque psoriasis. BACKGROUND: Tofacitinib is an oral Janus kinase inhibitor being investigated for psoriasis. A Phase 3 withdrawal/re-treatment study (NCT01186744; OPT Retreatment) showed tofacitinib re-treatment was effective in patients with chronic plaque psoriasis. OBJECTIVES: To describe the effects of tofacitinib withdrawal/re-treatment on health-related quality of life (HRQoL) and disease symptoms measured by patient-reported outcomes (PROs). METHODS: The study was divided into initial treatment, treatment withdrawal, and re-treatment periods. Initial treatment: patients were randomized to receive tofacitinib 5 (n = 331) or 10 mg (n = 335) BID for 24 weeks. Treatment withdrawal: patients who achieved both > 75% reduction in Psoriasis Area and Severity Index (PASI) score from baseline and Physician's Global Assessment of 'clear'/'almost clear' at Week (W)24 received placebo (withdrawal) or the previous dose (continuous treatment). Re-treatment: at relapse (> 50% loss of W24 PASI response) or at W40, patients received their initial tofacitinib dose. PROs included: Dermatology Life Quality Index (DLQI), Itch Severity Item (ISI), Short Form-36 (SF-36) and Patient's Global Assessment (PtGA). RESULTS: After initial treatment with tofacitinib 5 and 10 mg BID, substantial and significant improvements were reported for mean DLQI (baseline: 12.6 and 12.6; W24: 5.1 and 2.6) and ISI (baseline: 6.7 and 6.9; W24: 2.9 and 1.6). Patients continuously treated with tofacitinib 5 and 10 mg BID maintained those improvements through Week 56 (DLQI: 3.0 and 2.1; ISI: 2.3 and 1.4). By W40, patients withdrawn from tofacitinib 5 and 10 mg BID showed worsening in DLQI (5.0 and 6.2) and ISI (3.7 and 4.0) scores; improvements were regained upon re-treatment (W56, DLQI: 3.4 and 2.4; ISI: 2.2 and 1.6). Similar results were reported for PtGA and SF-36. CONCLUSION: Continuous tofacitinib treatment provided sustained improvement in HRQoL and disease symptoms. Patients randomized to treatment withdrawal lost initial improvements. Upon re-treatment, improvements were recaptured to levels comparable to those seen with continuous treatment.", 
+          "qas": [
+            {
+              "question": "Which clinical trials for psoriasis involved tofacitinib? (November 2017)", 
+              "id": "5a7600b983b0d9ea6600000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficacy of tofacitinib for the treatment of nail psoriasis: Two 52-week, randomized, controlled phase 3 studies in patients with moderate-to-severe plaque psoriasis. BACKGROUND: Tofacitinib is an oral Janus kinase inhibitor. Efficacy and safety of tofacitinib in patients with moderate-to-severe plaque psoriasis have been demonstrated. OBJECTIVE: We sought to assess the efficacy of tofacitinib for the treatment of nail psoriasis over a period of 52\u00a0weeks. METHODS: In 2 identical phase 3 studies (OPT Pivotal 1 and 2), patients were randomized 2:2:1 to receive tofacitinib 5\u00a0mg, tofacitinib 10\u00a0mg, or placebo, twice daily. At week 16, placebo-treated patients were re-randomized to tofacitinib. This post hoc analysis of patients with existing nail psoriasis assessed the Nail Psoriasis Severity Index (NAPSI) score and proportions of patients achieving > 50% reduction in NAPSI from baseline (NAPSI50), NAPSI75, or NAPSI100. RESULTS: Baseline mean NAPSI scores for patients treated with tofacitinib 5\u00a0mg\u00a0(N\u00a0=\u00a0487), tofacitinib 10\u00a0mg\u00a0(N\u00a0=\u00a0476), and placebo (N\u00a0=\u00a0233) twice daily were 27.0, 27.3, and 26.9, respectively. At week 16, significantly (all P\u00a0<\u00a0.05) more patients receiving tofacitinib 5\u00a0mg and tofacitinib 10\u00a0mg versus placebo twice daily achieved NAPSI50 (32.8%, 44.2% vs 12.0%), NAPSI75 (16.9%, 28.1% vs 6.8%), and NAPSI100 (10.3%, 18.2% vs 5.1%), respectively. Improvements were sustained to week 52. LIMITATIONS: Limitations include discontinuation of clinical nonresponders at week 28. CONCLUSIONS: Tofacitinib treatment resulted in improvements in nail psoriasis versus placebo at week 16; improvements were maintained over 52\u00a0weeks [NCT01276639; NCT01309737].", 
+          "qas": [
+            {
+              "question": "Which clinical trials for psoriasis involved tofacitinib? (November 2017)", 
+              "id": "5a7600b983b0d9ea6600000c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Tofacitinib versus etanercept or placebo in patients with moderate to severe chronic plaque psoriasis: patient-reported outcomes from a Phase 3 study. BACKGROUND: Tofacitinib is an oral Janus kinase inhibitor that is being investigated for psoriasis. Psoriasis impacts on physical and psychological well-being; improvements in health-related quality of life (HRQoL) with etanercept in psoriasis are well documented. OBJECTIVE: To evaluate HRQoL with tofacitinib, vs. placebo or etanercept, in the Phase 3, randomized, placebo-controlled, non-inferiority, Oral-treatment Psoriasis Trial (OPT) Compare Study (NCT01241591). METHODS: Adults with moderate to severe chronic plaque psoriasis were randomized 3:3:3:1 to tofacitinib 10 or 5 mg twice daily (BID), etanercept 50 mg twice weekly or placebo, for 12 weeks. Patient-reported outcomes (PROs) included Dermatology Life Quality Index (DLQI), Itch Severity Item and Patient Global Assessment of psoriasis. RESULTS: At baseline, 83.4% (911/1092) of patients had a DLQI score ranging between 6 and 30, indicating a substantial burden of disease. By Week 12, 47.3%, 43.6% and 30.9% of patients in the tofacitinib 10 mg BID, etanercept and tofacitinib 5 mg BID groups, respectively, had a DLQI score of 0 or 1 (no effect of psoriasis on QoL) vs. 7.8% for placebo (all P < 0.0001). Tofacitinib significantly reduced itch vs. placebo (P < 0.05 both doses) and etanercept (P < 0.0001 both doses) within 1 day of starting treatment. Furthermore, reductions in itch were greater with tofacitinib 10 mg BID, vs. etanercept, at Weeks 2-12 (all time points P < 0.05). At Week 2, an Itch Severity Item score of 'little or no itch' was more frequent with tofacitinib 10 mg (68.6%) vs. etanercept (57.4%) and placebo (12.2%), and the PtGA response rate was significantly greater with tofacitinib 10 mg vs. placebo (P < 0.05). CONCLUSION: Oral tofacitinib provided significant improvements across multiple PROs by Week 12. Improvements with tofacitinib 10 mg BID were comparable to etanercept, and improvements in itch were greater and more rapid with tofacitinib 10 mg BID.", 
+          "qas": [
+            {
+              "question": "Which clinical trials for psoriasis involved tofacitinib? (November 2017)", 
+              "id": "5a7600b983b0d9ea6600000c_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Tasquinimod modulates tumor-infiltrating myeloid cells and improves the antitumor immune response to PD-L1 blockade in bladder cancer. The infiltration of myeloid cells helps tumors to overcome immune surveillance and imparts resistance to cancer immunotherapy. Thus, strategies to modulate the effects of these immune cells may offer a potential therapeutic benefit. We report here that tasquinimod, a novel immunotherapy which targets S100A9 signaling, reduces the immunosuppressive properties of myeloid cells in preclinical models of bladder cancer (BCa). As single anticancer agent, tasquinimod treatment was effective in preventing early stage tumor growth, but did not achieve a clear antitumor effect in advanced tumors. Investigations of this response revealed that tasquinimod induces an increase in the expression of a negative regulator of T cell activation, Programmed-death-ligand 1 (PD-L1). This markedly weakens its antitumor immunity, yet provokes an \"inflamed\" milieu rendering tumors more prone to T cell-mediated immune attack by PD-L1 blockade. Interestingly, the combination of tasquinimod with an Anti-PD-L1 antibody enhanced the antitumor immune response in bladder tumors. This combination synergistically modulated tumor-infiltrating myeloid cells, thereby strongly affecting proliferation and activation of effector T cells. Together, our data provide insight into the rational combination of therapies that activate both innate and adaptive immune system, such as the association of S100A9-targeting agents with immune checkpoints inhibitors, to improve the response to cancer immunotherapeutic agents in BCa.", 
+          "qas": [
+            {
+              "question": "List proteins that are targeted by \"immune checkpoints inhibitors\".", 
+              "id": "5a8842a261bb38fb24000015_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Programmed cell death 1 checkpoint inhibitors in the treatment of patients with advanced melanoma. The treatment landscape of advanced melanoma has changed significantly following the discovery and marketing authorisation of immune checkpoints inhibitors. Ipilimumab (anti-CTLA-4) was the first one to be approved, and it. demonstrated long-term survival in about 20% of patients. Subsequently, anti-programmed cell death-1 (a-PD-1) antibodies (pembrolizuamb, nivolumab), inhibitors of PD-1/programmed cell death-1 ligand (PD1-L) synapse, showed higher clinical efficacy with lower toxicity comparing to ipilimumab. The highest clinical benefit in patients was observed when nivolumab and ipiliumumab were combined. However, the above strategy, due to very high toxicity, has limitations for use in all patients with advanced melanoma. Notwithstanding, patients treated with anti-PD1 beyond disease progression benefit from treatment continuation; further studies are warranted in this indication. Furthermore, patients responding to treatment with anti-PD1 will benefit from the therapy after its discontinuation. Immune checkpoint inhibitors are clinically effective regardless of BRAF mutation. Currently there is no recommendation regarding which treatment option should be selected for the treatment of the population - immunotherapy or targeted therapy with BRAF and MEK inhibitors. Randomised trials are ongoing comparing these two treatment strategies in patients with BRAF mutation. Encouraging results were observed in early phase trials in patients receiving the combination of immune and targeted therapy. Phase 3 studies are underway. Patients with elevated serum lactate dehydrogenase present poor prognosis regardless of the systemic treatment used. novel treatment strategies should probably be developed for these patients.", 
+          "qas": [
+            {
+              "question": "List proteins that are targeted by \"immune checkpoints inhibitors\".", 
+              "id": "5a8842a261bb38fb24000015_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Use of programmed cell death protein ligand 1 assay to predict the outcomes of non-small cell lung cancer patients treated with immune checkpoint inhibitors. The recent discovery of immune checkpoints inhibitors, especially anti-programmed cell death protein 1 (PD-1) and anti-programmed cell death protein ligand 1 (PD-L1) monoclonal antibodies, has opened new scenarios in the management of non-small cell lung cancer (NSCLC) and this new class of drugs has achieved a rapid development in the treatment of this disease. However, considering the costs of these drugs and the fact that only a subset of patients experience long-term disease control, the identification of predictive biomarkers for the selection of candidates suitable for treatment has become a priority. The research focused mainly on the expression of the PD-L1 receptor on both tumor cells and/or immune infiltrates determined by immunohistochemistry (IHC). However, different checkpoint inhibitors were tested, different IHC assays were used, different targets were considered (tumor cells, immune infiltrates or both) and different expression thresholds were employed in clinical trials. In some trials the assay was used prospectively to select the patients, while in other trials it was evaluated retrospectively. Some confusion emerges, which makes it difficult to easily compare the literature data and to translate them in practice management. This mini-review shows the possibilities and pitfalls of the PD-L1 expression to predict the activity and efficacy of anti PD1/PD-L1 monoclonal antibodies in the treatment of NSCLC.", 
+          "qas": [
+            {
+              "question": "List proteins that are targeted by \"immune checkpoints inhibitors\".", 
+              "id": "5a8842a261bb38fb24000015_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Emanuel syndrome due to unusual segregation of paternal origin. Emanuel syndrome is an inherited chromosomal abnormality resulting from 3:1 meiotic segregation from parental balanced translocation carrier t(11;22)(q23;q11), mostly of maternal origin. It is characterized by mental retardation, microcephaly, preauricular tag or sinus, ear anomalies, cleft or high arched palate, micrognathia, congenital heart diseases, kidney abnormalities, structural brain anomalies and genital anomalies in male. Here in, we describe a female patient with supernumerary der(22) syndrome (Emanuel syndrome) due to balanced translocation carrier father t(11;22) (q23;q11). She was mentally and physically disabled and had most of the craniofacial dysmorphism of this syndrome. Our patient had cleft palate, maldeveloped corpus callosum and hind brain with normal internal organs. Additionally, arachnodactyly, hyperextensibility of hand joints, abnormal deep palmar and finger creases, extra finger creases and bilateral talipus were evident and not previously described with this syndrome. Cytogenetic analysis and FISH documented that the patient had both translocation chromosomes plus an additional copy of der(22) with karyotyping: 47,XX,t(11; 22)(q23;q11),+der(22)t(11;22)(q23;q11). We postulated that this rare chromosomal complement can arise from; 2:2 segregation in the first meiotic division of the balanced translocation father followed by non-disjunction at meiosis II in the balanced spermatocyte.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Complex small supernumerary marker chromosomes - an update. BACKGROUND: Complex small supernumerary marker chromosomes (sSMC) constitute one of the smallest subgroups of sSMC in general. Complex sSMC consist of chromosomal material derived from more than one chromosome; the best known representative of this group is the derivative chromosome 22 {der(22)t(11;22)} or Emanuel syndrome. In 2008 we speculated that complex sSMC could be part of an underestimated entity. RESULTS: Here, the overall yet reported 412 complex sSMC are summarized. They constitute 8.4% of all yet in detail characterized sSMC cases. The majority of the complex sSMC is contributed by patients suffering from Emanuel syndrome (82%). Besides there are a der(22)t(8;22)(q24.1;q11.1) and a der(13)t(13;18)(q11;p11.21) or der(21)t(18;21)(p11.21;q11.1) = der(13 or 21)t(13 or 21;18) syndrome. The latter two represent another 2.6% and 2.2% of the complex sSMC-cases, respectively. The large majority of complex sSMC has a centric minute shape and derives from an acrocentric chromosome. Nonetheless, complex sSMC can involve material from each chromosomal origin. Most complex sSMC are inherited form a balanced translocation in one parent and are non-mosaic. Interestingly, there are hot spots for the chromosomal breakpoints involved. CONCLUSIONS: Complex sSMC need to be considered in diagnostics, especially in non-mosaic, centric minute shaped sSMC. As yet three complex-sSMC-associated syndromes are identified. As recurrent breakpoints in the complex sSMC were characterized, it is to be expected that more syndromes are identified in this subgroup of sSMC. Overall, complex sSMC emphasize once more the importance of detailed cytogenetic analyses, especially in patients with idiopathic mental retardation.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Prevalence of Emanuel syndrome: theoretical frequency and surveillance result. Constitutional t(11;22)(q23;q11) is the most frequent recurrent non-Robertsonian translocation in humans. Balanced carriers of t(11;22) usually manifest no clinical symptoms, and are often identified after the birth of offspring with an unbalanced form of this translocation, known as Emanuel syndrome. To determine the prevalence of the disorder, we sent surveillance questionnaires to 735 core hospitals in Japan. The observed number of Emanuel syndrome cases was 36 and that of t(11;22) balanced translocation carriers, 40. On the basis of the de novo t(11;22) translocation frequency in sperm from healthy men, we calculated the frequency of the translocations in the general population. Accordingly, the prevalence of Emanuel syndrome was estimated at 1 in 110,000. Based on this calculation, the estimated number of Emanuel syndrome cases in Japan is 1063 and of t(11;22) balanced translocation carriers, 16,604, which are much higher than the numbers calculated from the questionnaire responses. It is possible that this discordance is partly attributable to a lack of disease identification. Further efforts should be made to increase the awareness of Emanuel syndrome to ensure a better quality of life for affected patients and their families.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Derivative 11;22 (emanuel) syndrome: a case report and a review. Emanuel syndrome (ES) is a rare anomaly characterized by a distinctive phenotype, consisting of characteristic facial dysmorphism, microcephaly, severe mental retardation, developmental delay, renal anomalies, congenital cardiac defects, and genital anomalies in boys. Here, we report a male neonate, with the classical features of Emanuel syndrome.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Prenatal screening characteristics in Emanuel syndrome: a case series and review of the literature. PURPOSE: Emanuel syndrome is a rare chromosomal disorder characterized by severe mental retardation and multiple anomalies. The syndrome is caused by chromosomal imbalance due to a supernumerary derivative chromosome 22. Little is known regarding the characteristics of prenatal biochemical screening, or ultrasonographic markers in this syndrome. We aimed to identify a prenatal screening pattern characteristic of Emanuel Syndrome. METHODS: We report the prenatal characteristics of five fetuses with Emanuel syndrome, four of which were diagnosed prenatally. RESULTS: We found no consistent pattern of prenatal biochemical markers or other prenatal characteristics. Nevertheless, increased NT, low PAPP-A and ultrasound features such as intra uterine growth restriction, posterior fossa, cardiac and bowel abnormalities may be helpful in raising the suspicion for this rare genetic syndrome. CONCLUSION: Review of the biochemical screening results, ultrasound findings, and demographic characteristics of this Emanuel syndrome case series, as well as of the relevant literature fail to suggest a characteristic prenatal pattern.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_004"
+            }
+          ]
+        }, 
+        {
+          "context": "A clinical and molecular analysis of a patient with Emanuel syndrome. Emanuel syndrome (ES) is the most frequent type of recurrent non - Robertsonian translocation that is characterized by numerous anomalies. Over 100\u00a0patients with ES have been described in the literature. The phenotype of this syndrome varies but often consists of facial dysmorphism, microcephaly, severe intellectual disability, developmental retardation, congenital heart disease and genital anomalies. The present study describes a 2 - year - old boy with multiple malformations, including facial dysmorphism, severe intellectual disability, growth retardation, congenital heart disease, cleft lip and palate, genital malformation (micropenis), amblyopia, thymic dysplasia and hearing impairment. The karyotype of the patient was 47,XY,+del(22)(q13), and the maternal karyotype was 46,XX,t(11;22)(q25;q13),9qh - ,15p+. Single - nucleotide polymorphism - array analysis of the proband indicated a partial duplication of chromosomes 22 and 11 at 22q11.1 - q11.21 and 11q23.3 - q25, respectively, which confirmed the diagnosis of ES. To date, no cases of ES have been reported in mainland China. The present case further emphasizes the necessity and importance of high - resolution techniques for genetic diagnosis and for subsequent genetic counseling. The present study contributed to the phenotypic delineation of ES and confirmed the first ES patient in mainland China.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Renal cell carcinoma and a constitutional t(11;22)(q23;q11.2): case report and review of the potential link between the constitutional t(11;22) and cancer. We observed a t(11;22)(q23-24;q11.2-12) and monosomy 3 in renal tumor cells from a 72-year-old man. The hypothesis of a primitive peripheral neuroectodermal tumor (PPNET) located in the kidney was promptly excluded: Histologically, the tumor was a clear cell renal cell carcinoma (RCC) and we did not observe an EWSR1 gene rearrangement. The constitutional origin of this alteration was established. We report on the second case of RCC in a patient with a constitutional t(11;22). The t(11;22)(q23;q11.2) is the main recurrent germline translocation in humans. Unbalanced translocation can be transmitted to the progeny and can cause Emanuel syndrome. Our observation alerts cancer cytogeneticists to the fortuitous discovery of the constitutional t(11;22) in tumor cells. This translocation appears grossly similar to the t(11;22)(q24;q12) of PPNET and should be evoked if present in all cells of a tumor other than PPNET. This is important when providing appropriate genetic counseling. Moreover, the potential oncogenic role of the t(11;22) and its predisposing risk of cancer are under debate. The family history of the patient revealed a disabled brother who died at an early age from colon cancer and a sister with breast cancer. This observation reopens the issue of a link between the constitutional t(11;22) and cancer, and the utility of cancer prevention workups for t(11;22) carriers.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_006"
+            }
+          ]
+        }, 
+        {
+          "context": "[Genetic diagnosis and follow up of a fetus with Emanuel syndrome]. OBJECTIVE: To carry out genetic analysis for a fetus with Dandy-Walker malformation and provide prenatal diagnosis for its parents during the subsequent pregnancy. METHODS: Routine G-banding was carried out to analyze the karyotype of the fetus and its parents, and next-generation sequencing (NGS) and fluorescence in situ hybridization (FISH) were used to verify the result. RESULTS: The father showed a normal karyotype, while the mother was found to carry a balanced t(11; 22) (q23; q11) translocation. NGS and FISH analysis verified that the supernumerary marker chromosome carried by the fetus was der(22) t(11; 22) (q23;q11). The fetus was diagnosed with Emanuel syndrome. During the next pregnancy, the fetus was found to carry the same balanced translocation as its mother. After genetic counseling, the couple decided to continue with the pregnancy, and eventually delivered a healthy baby. CONCLUSION: A fetal case of Emanuel syndrome has been identified. The derivative der(22) t(11; 22)(q23; q11) chromosome probably underlies the Dandy-Walker malformation in the fetus. Combined cytogenetic and molecular analyses can attain a more precise diagnosis for fetal abnormalities detected by ultrasonography.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Emanuel Syndrome (ES): new case-report and review of the literature. Multiple congenital anomalies and craniofacial dysmorphism are characterizing the so-called Emanuel or supernumerary der(22)t(11;22) syndrome (OMIM609029). Mental and developmental retardation are major clinical features. The der(22) may arise from a parental balanced t(11;22)(q23;q11.2) or can be created de novo. Here we present a 2 years old boy with normal prenatal history, cyanotic at delivery and with ear anomalies, a preauricular tag, high-arched palate and micrognathia. There were neither microcephaly, nor heart or kidney defects. Psychological and motor testing at the age of 2 years confirmed significant mental and developmental delay. In addition, the child had seizures and an abnormal electroencephalogram. Cytogenetic and molecular analyses revealed a karyotype 47,XY,+der(22)t(11;22)(q23;q11.2). As parents refused further tests it could not be determined if the der(22) arose de novo or was parentally derived. Overall the present report should alert physician to offer cytogenetic and/or molecular diagnostics in comparable cases.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Modeling abnormal early development with induced pluripotent stem cells from aneuploid syndromes. Many human diseases share a developmental origin that manifests during childhood or maturity. Aneuploid syndromes are caused by supernumerary or reduced number of chromosomes and represent an extreme example of developmental disease, as they have devastating consequences before and after birth. Investigating how alterations in gene dosage drive these conditions is relevant because it might help treat some clinical aspects. It may also provide explanations as to how quantitative differences in gene expression determine phenotypic diversity and disease susceptibility among natural populations. Here, we aimed to produce induced pluripotent stem cell (iPSC) lines that can be used to improve our understanding of aneuploid syndromes. We have generated iPSCs from monosomy X [Turner syndrome (TS)], trisomy 8 (Warkany syndrome 2), trisomy 13 (Patau syndrome) and partial trisomy 11;22 (Emanuel syndrome), using either skin fibroblasts from affected individuals or amniocytes from antenatal diagnostic tests. These cell lines stably maintain the karyotype of the donors and behave like embryonic stem cells in all tested assays. TS iPSCs were used for further studies including global gene expression analysis and tissue-specific directed differentiation. Multiple clones displayed lower levels of the pseudoautosomal genes ASMTL and PPP2R3B than the controls. Moreover, they could be transformed into neural-like, hepatocyte-like and heart-like cells, but displayed insufficient up-regulation of the pseudoautosomal placental gene CSF2RA during embryoid body formation. These data support that abnormal organogenesis and early lethality in TS are not caused by a tissue-specific differentiation blockade, but rather involves other abnormalities including impaired placentation.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_009"
+            }
+          ]
+        }, 
+        {
+          "context": "A New Case of a Complex Small Supernumerary Marker Chromosome: A Der(9)t(7;9)(p22;q22) due to a Maternal Balanced Rearrangement. Complex small supernumerary marker chromosomes (sSMCs) constitute one of the smallest subsets within the patients with an sSMC. Complex sSMCs consist of chromosomal material derived from more than one chromosome, for example, the derivative der(22)t(11;22)(q23;q11.2) in Emanuel syndrome. Here, a yet unreported case of a complex sSMC formed due to a t(7;9)(p22;q22)mat is presented.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_010"
+            }
+          ]
+        }, 
+        {
+          "context": "Anesthetic Management of a Patient With Emanuel Syndrome. Emanuel syndrome is associated with supernumerary chromosome, which consists of the extra genetic material from chromosome 11 and 22. The frequency of this syndrome has been reported as 1 in 110,000. It is a rare anomaly associated with multiple systemic malformations such as micrognathia and congenital heart disease. In addition, patients with Emanuel syndrome may have seizure disorders. We experienced anesthetic management of a patient with Emanuel syndrome who underwent palatoplasty. This patient had received tracheotomy due to micrognathia. In addition, he had atrial septal defect, mild pulmonary artery stenosis, and cleft palate. Palatoplasty was performed without any complication during anesthesia. Close attention was directed to cardiac function, seizure, and airway management.", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_011"
+            }
+          ]
+        }, 
+        {
+          "context": "A case with Emanuel syndrome: extra derivative 22 chromosome inherited from the mother. Emanuel syndrome (ES) is a rare chromosomal disorder that is characterized by multiple congenital anomalies and developmental disabilities. Affected children are usually identified in the newborn period as the offspring of balanced (11;22) translocation carriers. Carriers of this balanced translocation usually have no clinical symptoms and are often identified after the birth of offspring with an unbalanced form of the translocation, the supernumerary der(22) t(11;22) syndrome. We report a 3-year-old boy with the t(11;22)(q23;q11) chromosome, transmitted in an unbalanced fashion from his mother. He has several developmental delays; he is not independently ambulatory and language is significantly impaired. Using his peripheral blood, karyotyping was performed to define his multiple congenital anomalies, revealing the following chromosomal abnormality: 47, XY, +der(22)t(11;22)(q23.3;q11.2). To ascertain the origin and trait of this supernumerary marker chromosome [der(22)t(11;22)(q23.3;q11.2)], karyotyping of his parents was performed. The mother was found to be a balanced carrier: 46, XX, t(11;22) (q23.3; q11.2).", 
+          "qas": [
+            {
+              "question": "Which chromosomes are implicated in the Emanuel syndrome?", 
+              "id": "5a736efc3b9d13c708000006_012"
+            }
+          ]
+        }, 
+        {
+          "context": "Comprehensive genome-wide analysis of the Aux/IAA gene family in Eucalyptus: evidence for the role of EgrIAA4 in wood formation. Auxin plays a pivotal role in various plant growth and development processes, including vascular differentiation. The modulation of auxin responsiveness through the auxin perception and signaling machinery is believed to be a major regulatory mechanism controlling cambium activity and wood formation. To gain more insights into the roles of key Aux/IAA gene regulators of the auxin response in these processes, we identified and characterized members of the Aux/IAA family in the genome of Eucalyptus grandis, a tree of worldwide economic importance. We found that the gene family in Eucalyptus is slightly smaller than that in Populus and Arabidopsis, but all phylogenetic groups are represented. High-throughput expression profiling of different organs and tissues highlighted several Aux/IAA genes expressed in vascular cambium and/or developing xylem, some showing differential expression in response to developmental (juvenile vs. mature) and/or to environmental (tension stress) cues. Based on the expression profiles, we selected a promising candidate gene, EgrIAA4, for functional characterization. We showed that EgrIAA4 protein is localized in the nucleus and functions as an auxin-responsive repressor. Overexpressing a stabilized version of EgrIAA4 in Arabidopsis dramatically impeded plant growth and fertility and induced auxin-insensitive phenotypes such as inhibition of primary root elongation, lateral root emergence and agravitropism. Interestingly, the lignified secondary walls of the interfascicular fibers appeared very late, whereas those of the xylary fibers were virtually undetectable, suggesting that EgrIAA4 may play crucial roles in fiber development and secondary cell wall deposition.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Plant Stress Tolerance Requires Auxin-Sensitive Aux/IAA Transcriptional Repressors. The Aux/IAA proteins are auxin-sensitive repressors that mediate diverse physiological and developmental processes in plants [1, 2]. There are 29 Aux/IAA genes in Arabidopsis that exhibit unique but partially overlapping patterns of expression [3]. Although some studies have suggested that individual Aux/IAA genes have specialized function, genetic analyses of the family\u00a0have been limited by the scarcity of loss-of-function phenotypes [4]. Furthermore, with a few exceptions, our knowledge of the factors that regulate Aux/IAA expression is limited [1, 5]. We\u00a0hypothesize that transcriptional control of Aux/IAA genes plays a central role in the establishment of the auxin-signaling pathways that regulate organogenesis, growth, and environmental response. Here, we describe a screen for\u00a0transcription factors (TFs) that regulate the Aux/IAA genes. We identify TFs from 38 families, including 26 members of the DREB/CBF family. Several DREB/CBF TFs directly promote transcription of the IAA5 and IAA19 genes in response to abiotic stress. Recessive mutations in these IAA\u00a0genes result in decreased tolerance to stress conditions, demonstrating a role for auxin in abiotic stress. Our results demonstrate that stress\u00a0pathways interact with the auxin gene regulatory network (GRN) through transcription of\u00a0the Aux/IAA genes. We propose that the Aux/IAA genes function as hubs that integrate genetic\u00a0and environmental information to achieve the appropriate developmental or physiological outcome.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Auxin-induced, SCF(TIR1)-mediated poly-ubiquitination marks AUX/IAA proteins for degradation. The plant hormone auxin (indole-3-acetic acid or IAA) regulates plant development by inducing rapid cellular responses and changes in gene expression. Auxin promotes the degradation of Aux/IAA transcriptional repressors, thereby allowing auxin response factors (ARFs) to activate the transcription of auxin-responsive genes. Auxin enhances the binding of Aux/IAA proteins to the receptor TIR1, which is an F-box protein that is part of the E3 ubiquitin ligase complex SCF(TIR1). Binding of Aux/IAA proteins leads to degradation via the 26S proteasome, but evidence for SCF(TIR1)-mediated poly-ubiquitination of Aux/IAA proteins is lacking. Here we used an Arabidopsis cell suspension-based protoplast system to find evidence for SCF(TIR1)-mediated ubiquitination of the Aux/IAA proteins SHY2/IAA3 and BDL/IAA12. Each of these proteins showed a distinct abundance and repressor activity when expressed in this cell system. Moreover, the amount of endogenous TIR1 protein appeared to be rate-limiting for a proper auxin response measured by the co-transfected DR5::GUS reporter construct. Co-transfection with 35S::TIR1 led to auxin-dependent degradation, and excess of 35S::TIR1 even led to degradation of Aux/IAAs in the absence of auxin treatment. Expression of the mutant tir1-1 protein or the related F-box protein COI1, which is involved in jasmonate signaling, had no effect on Aux/IAA degradation. Our results show that SHY2/IAA3 and BDL/IAA12 are poly-ubiquitinated and degraded in response to increased auxin or TIR1 levels. In conclusion, our data provide experimental support for the model that SCF(TIR1)-dependent poly-ubiquitination of Aux/IAA proteins marks these proteins for degradation by the 26S proteasome, leading to activation of auxin-responsive gene expression.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The tomato Aux/IAA transcription factor IAA9 is involved in fruit development and leaf morphogenesis. Auxin/indole-3-acetic acid (Aux/IAA) proteins are transcriptional regulators that mediate many aspects of plant responses to auxin. While functions of most Aux/IAAs have been defined mainly by gain-of-function mutant alleles in Arabidopsis thaliana, phenotypes associated with loss-of-function mutations have been scarce and subtle. We report here that the downregulation of IAA9, a tomato (Solanum lycopersicum) gene from a distinct subfamily of Aux/IAA genes, results in a pleiotropic phenotype, consistent with its ubiquitous expression pattern. IAA9-inhibited lines have simple leaves instead of wild-type compound leaves, and fruit development is triggered before fertilization, giving rise to parthenocarpy. This indicates that IAA9 is a key mediator of leaf morphogenesis and fruit set. In addition, antisense plants displayed auxin-related growth alterations, including enhanced hypocotyl/stem elongation, increased leaf vascularization, and reduced apical dominance. Auxin dose-response assays revealed that IAA9 downregulated lines were hypersensitive to auxin, although the only early auxin-responsive gene that was found to be upregulated in the antisense lines was IAA3. The activity of the IAA3 promoter was stimulated in the IAA9 antisense genetic background, indicating that IAA9 acts in planta as a transcriptional repressor of auxin signaling. While no mutation in any member of subfamily IV has been reported to date, the phenotypes associated with the downregulation of IAA9 reveal distinct and novel roles for members of the Aux/IAA gene family.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_003"
+            }
+          ]
+        }, 
+        {
+          "context": "AUX/IAA proteins are active repressors, and their stability and activity are modulated by auxin. Aux/IAA genes are early auxin response genes that encode short-lived nuclear proteins with four conserved domains, referred to as I, II, III, and IV. Arabidopsis Aux/IAA proteins repressed transcription on auxin-responsive reporter genes in protoplast transfection assays. Mutations in domain II resulted in increased repression, whereas mutations in domains I and III partially relieved repression. Aux/IAA proteins fused to a heterologous DNA binding domain were targeted to promoters of constitutively expressed reporter genes and actively repressed transcription in an auxin-responsive and dose-dependent manner. In comparison with an unfused luciferase protein, luciferase fused to Aux/IAA proteins displayed less luciferase activity, which further decreased in the presence of auxin in transfected protoplasts. Domain II mutations increased and domain I mutations decreased luciferase activity with the fusion proteins. These results suggested that Aux/IAA proteins function as active repressors by dimerizing with auxin response factors bound to auxin response elements and that early auxin response genes are regulated by auxin-modulated stabilities of Aux/IAA proteins.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Variation in auxin sensing guides AUX/IAA transcriptional repressor ubiquitylation and destruction. Auxin is a small molecule morphogen that bridges SCF-AUX/IAA co-receptor interactions leading to ubiquitylation and proteasome-dependent degradation of AUX/IAA transcriptional repressors. Here, we systematically dissect auxin sensing by SCF-IAA6 and SCF-IAA19 co-receptor complexes, and assess IAA6/IAA19 ubiquitylation in vitro and IAA6/IAA19 degradation in vivo. We show that TIR1-IAA19 and TIR1-IAA6 have distinct auxin affinities that correlate with ubiquitylation and turnover dynamics of the AUX/IAA. We establish a system to track AUX/IAA ubiquitylation in IAA6 and IAA19 in vitro and show that it occurs in flexible hotspots in degron-flanking regions adorned with specific Lys residues. We propose that this signature is exploited during auxin-mediated SCF-AUX/IAA interactions. We present evidence for an evolving AUX/IAA repertoire, typified by the IAA6/IAA19 ohnologues, that discriminates the range of auxin concentrations found in plants. We postulate that the intrinsic flexibility of AUX/IAAs might bias their ubiquitylation and destruction kinetics enabling specific auxin responses.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Aux/IAA proteins contain a potent transcriptional repression domain. Aux/IAA proteins are short-lived nuclear proteins that repress expression of primary/early auxin response genes in protoplast transfection assays. Repression is thought to result from Aux/IAA proteins dimerizing with auxin response factor (ARF) transcriptional activators that reside on auxin-responsive promoter elements, referred to as AuxREs. Most Aux/IAA proteins contain four conserved domains, designated domains I, II, III, and IV. Domain II and domains III and IV play roles in protein stability and dimerization, respectively. A clear function for domain I had not been established. Results reported here indicate that domain I in Aux/IAA proteins is an active repression domain that is transferable and dominant over activation domains. An LxLxL motif within domain I is important for conferring repression. The dominance of Aux/IAA repression domains over activation domains in ARF transcriptional activators provides a plausible explanation for the repression of auxin response genes via ARF-Aux/IAA dimerization on auxin-responsive promoters.", 
+          "qas": [
+            {
+              "question": "Which genes belong to the AUX/IAA family of transcription repressors in plants?", 
+              "id": "5a86c938faa1ab7d2e000034_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Patient-reported outcomes from a phase 3 study of baricitinib versus placebo or adalimumab in rheumatoid arthritis: secondary analyses from the RA-BEAM study. BACKGROUND: To assess the effect of baricitinib on patient-reported outcomes (PROs) in patients with active rheumatoid arthritis and an inadequate response to methotrexate (MTX). METHODS: In this double-blind phase 3 study, patients were randomised 3:3:2 to placebo (n=488), baricitinib 4 mg once daily (n=487), or adalimumab 40 mg biweekly (n=330) with background MTX. PROs included the SF-36, EuroQol 5-D (EQ-5D) index scores and visual analogue scale, Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F), Health Assessment Questionnaire-Disability Index (HAQ-DI), Patient's Global Assessment of Disease Activity (PtGA), patient's assessment of pain and Work Productivity and Activity Impairment Questionnaire-Rheumatoid Arthritis (WPAI-RA), and measures collected in electronic patient daily diaries: duration and severity of morning joint stiffness (MJS), Worst Ttiredness and Worst Joint Pain. The primary study endpoint was at week 12. Treatment comparisons were assessed with logistic regression for categorical measures or analysis of covariance for continuous variables. RESULTS: Compared with placebo and adalimumab, baricitinib showed statistically significant improvements (p < 0.05) in HAQ-DI, PtGA, pain, FACIT-F, SF-36 physical component score, EQ-5D index scores and WPAI-RA daily activity at week 12. Improvements were maintained for measures assessed to week 52. Statistically significant improvement in patient diary measures (MJS duration and severity), worst tiredness and worst joint pain were observed for baricitinib versus placebo and adalimumab at week 12 (p < 0.05). CONCLUSIONS: Baricitinib provided significantly greater improvement in most PROs compared with placebo and adalimumab, including physical function MJS, pain, fatigue and quality of life. Improvement was maintained to the end of the study (week 52). TRIAL REGISTRATION: NCT01710358.", 
+          "qas": [
+            {
+              "question": "Which phase III clinical trials for rheumatoid arthritis involve baricitinib? (November 2017)", 
+              "id": "5a76155c83b0d9ea6600001e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Baricitinib in patients with inadequate response or intolerance to conventional synthetic DMARDs: results from the RA-BUILD study. BACKGROUND: Baricitinib is an oral, reversible, selective Janus kinase 1 and 2 inhibitor. METHODS: In this phase III, double-blind 24-week study, 684 biologic disease-modifying antirheumatic drug (DMARD)-na\u00efve patients with rheumatoid arthritis and inadequate response or intolerance to > 1 conventional synthetic DMARDs were randomly assigned 1:1:1 to placebo or baricitinib (2 or 4 mg) once daily, stratified by region and the presence of joint erosions. Endpoint measures included American College of Rheumatology 20% response (ACR20, primary endpoint), Disease Activity Score (DAS28) and Simplified Disease Activity Index (SDAI) score < 3.3. RESULTS: More patients achieved ACR20 response at week 12 with baricitinib 4 mg than with placebo (62% vs 39%, p < 0.001). Compared with placebo, statistically significant improvements in DAS28, SDAI remission, Health Assessment Questionnaire-Disability Index, morning joint stiffness, worst joint pain and worst tiredness were observed. In a supportive analysis, radiographic progression of structural joint damage at week 24 was reduced with baricitinib versus placebo. Rates of adverse events during the treatment period and serious adverse events (SAEs), including serious infections, were similar among groups (SAEs: 5% for baricitinib 4 mg and placebo). One patient had an adverse event of tuberculosis (baricitinib 4 mg); one patient had an adverse event of non-melanoma skin cancer (baricitinib 4 mg). Two deaths and three major adverse cardiovascular events occurred (placebo). Baricitinib was associated with a decrease in neutrophils and increases in low-density and high-density lipoprotein. CONCLUSIONS: In patients with rheumatoid arthritis and an inadequate response or intolerance to conventional synthetic DMARDs, baricitinib was associated with clinical improvement and inhibition of progression of radiographic joint damage. TRIAL REGISTRATION NUMBER: NCT01721057; Results.", 
+          "qas": [
+            {
+              "question": "Which phase III clinical trials for rheumatoid arthritis involve baricitinib? (November 2017)", 
+              "id": "5a76155c83b0d9ea6600001e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Patient-reported outcomes from a randomised phase III study of baricitinib in patients with rheumatoid arthritis and an inadequate response to biological agents (RA-BEACON). OBJECTIVES: To assess baricitinib on patient-reported outcomes (PROs) in patients with moderately to severely active rheumatoid arthritis, who had insufficient response or intolerance to > 1 tumour necrosis factor inhibitors (TNFis) or other biological disease-modifying antirheumatic drugs (bDMARDs). METHODS: In this double-blind phase III study, patients were randomised to once-daily placebo or baricitinib 2 or 4 mg for 24 weeks. PROs included the Short Form-36, EuroQol 5-D, Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F), Health Assessment Questionnaire-Disability Index (HAQ-DI), Patient's Global Assessment of Disease Activity (PtGA), patient's assessment of pain, duration of morning joint stiffness (MJS) and Work Productivity and Activity Impairment Questionnaire-Rheumatoid Arthritis. Treatment comparisons were performed with logistic regression for categorical measures or analysis of covariance for continuous variables. RESULTS: 527 patients were randomised (placebo, 176; baricitinib 2 mg, 174; baricitinib 4 mg, 177). Both baricitinib-treated groups showed statistically significant improvements versus placebo in most PROs. Improvements were generally more rapid and of greater magnitude for patients receiving baricitinib 4 mg than 2 mg and were maintained to week 24. At week 24, more baricitinib-treated patients versus placebo-treated patients reported normal physical functioning (HAQ-DI <0.5; p < 0.001), reductions in fatigue (FACIT-F > 3.56; p < 0.05), improvements in PtGA (p < 0.001) and pain (p < 0.001) and reductions in duration of MJS (p<0.01). CONCLUSIONS: Baricitinib improved most PROs through 24 weeks compared with placebo in this study of treatment-refractory patients with previously inadequate responses to bDMARDs, including at least one TNFi. PRO results aligned with clinical efficacy data for baricitinib. TRIAL REGISTRATION NUMBER: NCT01721044; Results.", 
+          "qas": [
+            {
+              "question": "Which phase III clinical trials for rheumatoid arthritis involve baricitinib? (November 2017)", 
+              "id": "5a76155c83b0d9ea6600001e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The Arabidopsis thaliana immunophilin ROF1 directly interacts with PI(3)P and PI(3,5)P2 and affects germination under osmotic stress. A direct interaction of the Arabidopsis thaliana immunophilin ROF1 with phosphatidylinositol-3-phosphate and phosphatidylinositol-3,5-bisphosphate was identified using a phosphatidylinositol-phosphate affinity chromatography of cell suspension extracts, combined with a mass spectrometry (nano LC ESI-MS/MS) analysis. The first FK506 binding domain was shown sufficient to bind to both phosphatidylinositol-phosphate stereoisomers. GFP-tagged ROF1 under the control of a 35S promoter was localised in the cytoplasm and the cell periphery of Nicotiana tabacum leaf explants. Immunofluorescence microscopy of Arabidopsis thaliana root tips verified its cytoplasmic localization and membrane association and showed ROF1 localization in the elongation zone which was expanded to the meristematic zone in plants grown on high salt media. Endogenous ROF1 was shown to accumulate in response to high salt treatment in Arabidopsis thaliana young leaves as well as in seedlings germinated on high salt media (0.15 and 0.2 M NaCl) at both an mRNA and protein level. Plants over-expressing ROF1, (WSROF1OE), exhibited enhanced germination under salinity stress which was significantly reduced in the rof1(-) knock out mutants and abolished in the double mutants of ROF1 and of its interacting homologue ROF2 (WSrof1(-)/2(-)). Our results show that ROF1 plays an important role in the osmotic/salt stress responses of germinating Arabidopsis thaliana seedlings and suggest its involvement in salinity stress responses through a phosphatidylinositol-phosphate related protein quality control pathway.", 
+          "qas": [
+            {
+              "question": "What induces Arabidopsis ROF1 expression?", 
+              "id": "5a888b56d543831129000002_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Selective and powerful stress gene expression in Arabidopsis in response to malondialdehyde. The provenance, half-life and biological activity of malondialdehyde (MDA) were investigated in Arabidopsis thaliana. We provide genetic confirmation of the hypothesis that MDA originates from fatty acids containing more than two methylene-linked double bonds, showing that tri-unsaturated fatty acids are the in vivo source of up to 75% of MDA. The abundance of the combined pool of free and reversibly bound MDA did not change dramatically in stress, although a significant increase in the free MDA pool under oxidative conditions was observed. The half-life of infiltrated MDA indicated rapid metabolic turnover/sequestration. Exposure of plants to low levels of MDA using a recently developed protocol powerfully upregulated many genes on a cDNA microarray with a bias towards those implicated in abiotic/environmental stress (e.g. ROF1 and XERO2). Remarkably, and in contrast to the activities of other reactive electrophile species (i.e. small vinyl ketones), none of the pathogenesis-related (PR) genes tested responded to MDA. The use of structural mimics of MDA isomers suggested that the propensity of the molecule to act as a cross-linking/modifying reagent might contribute to the activation of gene expression. Changes in the concentration/localisation of unbound MDA in vivo could strongly affect stress-related transcription.", 
+          "qas": [
+            {
+              "question": "What induces Arabidopsis ROF1 expression?", 
+              "id": "5a888b56d543831129000002_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Novel structure of a high molecular weight FK506 binding protein from Arabidopsis thaliana. We have isolated clones of an Arabidopsis gene (ROF1, for rotamase FKBP) encoding a high molecular weight member of the FK506 binding protein (FKBP) family. The deduced amino acid sequence of ROF1 predicts a 551-amino acid, 62 kDa polypeptide which is 44% identical to human FKBP59 - a 59 kDa FKBP which binds to the 90 kDa heat shock protein and is associated with inactive steroid hormone receptors. ROF1 contains three FKBP12-like domains in the N-terminal portion of the protein (in contrast to two domains in mammalian FKBP59), an internal repeat structure associated with protein-protein interactions (tetratricopeptide repeats), and a putative calmodulin binding domain near the C-terminal region of the protein. No sequences associated with protein translocation out of the cytosol were found in ROF1. ROF1 mRNA was found at equivalent low levels in light-grown roots, stems, and flowers and at slightly higher levels in leaves. The abundance of ROF1 mRNA increased several-fold under stress conditions such as wounding or exposure to elevated NaCl levels.", 
+          "qas": [
+            {
+              "question": "What induces Arabidopsis ROF1 expression?", 
+              "id": "5a888b56d543831129000002_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Arabidopsis immunophilins ROF1 (AtFKBP62) and ROF2 (AtFKBP65) exhibit tissue specificity, are heat-stress induced, and bind HSP90. The plant co-chaperones FK506-binding proteins (FKBPs) are peptidyl prolyl cis-trans isomerases that function in protein folding, signal transduction and chaperone activity. We report the characterization of the Arabidopsis large FKBPs ROF1 (AtFKBP62) and ROF2 (AtFKBP65) expression and protein accumulation patterns. Transgenic plants expressing ROF1 promoter fused to GUS reporter gene reveal that ROF1 expression is organ specific. High expression was observed in the vascular elements of roots, in hydathodes and trichomes of leaves and in stigma, sepals, and anthers. The tissue specificity and temporal expression of ROF1 and ROF2 show that they are developmentally regulated. Although ROF1 and ROF2 share 85% identity, their expression in response to heat stress is differentially regulated. Both genes are induced in plants exposed to 37 degrees C, but only ROF2 is a bonafide heat-stress protein, undetected when plants are grown at 22 degrees C. ROF1/ROF2 proteins accumulate at 37 degrees C, remain stable for at least 4 h upon recovery at 22 degrees C, whereas, their mRNA level is reduced after 1 h at 22 degrees C. By protein interaction assays, it was demonstrated, that ROF1 is a novel partner of HSP90. The five amino acids identified as essential for recognition and interaction between the mammalian chaperones and HSP90 are conserved in the plant ROF1-HSP90. We suggest that ROF/HSP90 complexes assemble in vivo. We propose that specific complexes formation between an HSP90 and ROF isoforms depends on their spatial and temporal expression. Such complexes might be regulated by environmental conditions such as heat stress or internal cues such as different hormones.", 
+          "qas": [
+            {
+              "question": "What induces Arabidopsis ROF1 expression?", 
+              "id": "5a888b56d543831129000002_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Arabidopsis ROF1 (FKBP62) modulates thermotolerance by interacting with HSP90.1 and affecting the accumulation of HsfA2-regulated sHSPs. Arabidopsis ROF1 (AtFKBP62) is a peptidyl prolyl cis/trans isomerase and a member of the FKBP (FK506 binding protein) family. ROF1 expression is induced by heat stress and developmentally regulated. In this study, we show that ROF1 binds heat shock proteins HSP90.1 via its tetratricopeptide repeat domain, and localizes in the cytoplasm under normal conditions. Exposure to heat stress induces nuclear localization of the ROF1-HSP90.1 complex, which is dependent upon the presence of the transcription factor HsfA2, which interacts with HSP90.1 but not with ROF1. Nuclear localization of ROF1 was not detected in Arabidopsis HSP90.1 and HsfA2 knockout mutants. The rof1 knockout plants exhibited collapse when 24-48 h passed between acclimation at 37 degrees C and exposure to 45 degrees C. Transgenic ROF1 over-expressors showed better survival in response to exposure to 45 degrees C than wild-type plants did. In rof1 knockout mutants, the level of expression of small HSPs regulated by HsfA2 was dramatically reduced after exposure to 37 degrees C and recovery for 24-48 h, and correlates well with the mutant phenotype. We suggest a role for ROF1 in prolongation of thermotolerance by sustaining the levels of small HSPs that are essential for survival at high temperatures.", 
+          "qas": [
+            {
+              "question": "What induces Arabidopsis ROF1 expression?", 
+              "id": "5a888b56d543831129000002_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Eligibility for palivizumab prophylaxis in a cohort of children with severe bronchiolitis. In 2014, the American Academy of Pediatrics (AAP) updated their recommendations for palivizumab prophylaxis for children who are at high risk for severe respiratory syncytial virus (RSV) infection. To investigate the potential impact of the more restrictive 2014 criteria on the eligibility for palivizumab prophylaxis, we applied the 2012 and 2014 AAP recommendations for palivizumab prophylaxis to a multicenter cohort of 2207 US children hospitalized for bronchiolitis. According to the 2012 AAP recommendations, 215 children (9.7%) were eligible for palivizumab prophylaxis, while 140 children (6.3%) would have been eligible based on the 2014 updated recommendations (34.9% relative decrease; 95%CI: 28.5-41.7%). The decrease was largely driven by the restriction of eligibility to preterm infants with gestational age <29 weeks. Further development of and refinement of cost-effective approaches for the prevention of severe RSV infection are needed.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Discovery of a Prefusion Respiratory Syncytial Virus F-Specific Monoclonal Antibody That Provides Greater In Vivo Protection than the Murine Precursor of Palivizumab. Palivizumab, a humanized murine monoclonal antibody that recognizes antigenic site II on both the prefusion (pre-F) and postfusion (post-F) conformations of the respiratory syncytial virus (RSV) F glycoprotein, is the only prophylactic agent approved for use for the treatment of RSV infection. However, its relatively low neutralizing potency and high cost have limited its use to a restricted population of infants at high risk of severe disease. Previously, we isolated a high-potency neutralizing antibody, 5C4, that specifically recognizes antigenic site \u00d8 at the apex of the pre-F protein trimer. We compared in vitro and in vivo the potency and protective efficacy of 5C4 and the murine precursor of palivizumab, antibody 1129. Both antibodies were synthesized on identical murine backbones as either an IgG1 or IgG2a subclass and evaluated for binding to multiple F protein conformations, in vitro inhibition of RSV infection and propagation, and protective efficacy in mice. Although 1129 and 5C4 had similar pre-F protein binding affinities, the 5C4 neutralizing activity was nearly 50-fold greater than that of 1129 in vitro In BALB/c mice, 5C4 reduced the peak titers of RSV 1,000-fold more than 1129 did in both the upper and lower respiratory tracts. These data indicate that antibodies specific for antigenic site \u00d8 are more efficacious at preventing RSV infection than antibodies specific for antigenic site II. Our data also suggest that site \u00d8-specific antibodies may be useful for the prevention or treatment of RSV infection and support the use of the pre-F protein as a vaccine antigen.IMPORTANCE There is no vaccine yet available to prevent RSV infection. The use of the licensed antibody palivizumab, which recognizes site II on both the pre-F and post-F proteins, is restricted to prophylaxis in neonates at high risk of severe RSV disease. Recommendations for using passive immunization in the general population or for therapy in immunocompromised persons with persistent infection is limited because of cost, determined from the high doses needed to compensate for its relatively low neutralizing potency. Prior efforts to improve the in vitro potency of site II-specific antibodies did not translate to significant in vivo dose sparing. We isolated a pre-F protein-specific, high-potency neutralizing antibody (5C4) that recognizes antigenic site \u00d8 and compared its efficacy to that of the murine precursor of palivizumab (antibody 1129) matched for isotype and pre-F protein binding affinities. Our findings demonstrate that epitope specificity is an important determinant of antibody neutralizing potency, and defining the mechanisms of neutralization has the potential to identify improved products for the prevention and treatment of RSV infection.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficacy and long-term outcomes of palivizumab prophylaxis to prevent respiratory syncytial virus infection in infants with cystic fibrosis in Northern Ireland. BACKGROUND: RSV causes considerable morbidity and mortality in children. In cystic fibrosis (CF) viral infections are associated with worsening respiratory symptoms and bacterial colonization. Palivizumab is effective in reducing RSV hospitalization in high risk patient groups. Evidence regarding its effectiveness and safety in CF is inconclusive. CF screening in N. Ireland enabled timely palivizumab prophylaxis, becoming routine in 2002. OBJECTIVES: To determine the effect of palivizumab on RSV-related hospitalization and compare lung function and bacterial colonization at age 6 years for those born pre- and post-introduction of palivizumab prophylaxis. METHODS: A retrospective audit was conducted for all patients diagnosed with CF during the period from 1997 to 2007 inclusive. RSV-related hospitalization, time to Pseudomonas aeruginosa (PA) 1st isolate, lung function and growth parameters were recorded. Comparisons were made for outcomes pre- and post-introduction of routine palivizumab administration in 2002. A cost evaluation was also performed. RESULTS: Ninety-two children were included; 47 pre- and 45 post-palivizumab introduction. The overall RSV-positive hospitalization rate was 13%. The relative risk of RSV infection in palivizumab non-recipients versus recipients was 4.78 (95%CI: 1.1-20.7), P = 0.027. Notably, PA 1st isolate was significantly earlier in the palivizumab recipient cohort versus non-recipient cohort (median 57 vs. 96 months, P < 0.025) with a relative risk of 2.5. Chronic PA infection at 6 years remained low in both groups, with similar lung function and growth parameters. Total costs were calculated at \u00a396,127 ($151,880) for the non-recipient cohort versus \u00a3137,954 ($217,967) for the recipient cohort. CONCLUSION: Palivizumab was effective in reducing RSV-related hospitalization infection in CF patients. Surprisingly, we found a significantly earlier time to 1st isolate of PA in palivizumab recipients which we could not explain by altered or improved diagnostic tests.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Bronchiolitis in Infants and Children. Bronchiolitis is among the most common illnesses in infants and children, and is the most common cause for hospitalization in infants in the U.S. This illness can be caused by many viruses, most commonly respiratory syncytial virus. It is diagnosed clinically by history and physical exam findings, with a narrow role for ancillary testing. Management is supportive, with medications demonstrating limited utility in multiple studies. Preventive measures include hand hygiene, breastfeeding, avoiding tobacco smoke exposure, and isolation precautions for hospitalized patients. Palivizumab prophylaxis is recommended for infants with qualifying high risk conditions. Recent evidence-based clinical practice guidelines have been published by the American Academy of Pediatrics to guide diagnosis, treatment, and prevention of bronchiolitis.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_003"
+            }
+          ]
+        }, 
+        {
+          "context": "RSV N-nanorings fused to palivizumab-targeted neutralizing epitope as a nanoparticle RSV vaccine. Respiratory syncytial virus (RSV) is the leading cause of acute respiratory infections in children, yet no vaccine is available. The sole licensed preventive treatment against RSV is composed of a monoclonal neutralizing antibody (palivizumab), which targets a conformational epitope located on the fusion protein (F). Palivizumab reduces the burden of bronchiolitis but does not prevent infection. Thus, the development of RSV vaccines remains a priority. We previously evaluated nanorings formed by RSV nucleoprotein (N) as an RSV vaccine, as well as an immunostimulatory carrier for heterologous antigens. Here, we linked the palivizumab-targeted epitope (called FsII) to N, to generate N-FsII-nanorings. Intranasal N-FsII immunization elicited anti-F antibodies in mice that were non-neutralizing in vitro. Nevertheless, RSV-challenged animals were better protected against virus replication than mice immunized with N-nanorings, especially in the upper airways. In conclusion, an N-FsII-focused vaccine is an attractive candidate combining N-specific cellular immunity and F-specific antibodies for protection.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Best practice in the prevention and management of paediatric respiratory syncytial virus infection. Respiratory syncytial virus (RSV) infection is ubiquitous with almost all infants having been infected by 2 years of age and lifelong repeated infections common. It is the second largest cause of mortality, after malaria, in infants outside the neonatal period and causes up to 200,000 deaths per year worldwide. RSV results in clinical syndromes that include upper respiratory tract infections, otitis media, bronchiolitis (up to 80% of cases) and lower respiratory tract disease including pneumonia and exacerbations of asthma or viral-induced wheeze. For the purposes of this review we will focus on RSV bronchiolitis in infants in whom the greatest disease burden lies. For infants requiring hospital admission, the identification of the causative respiratory virus is used to direct cohorting or isolation and infection control procedures to minimize nosocomial transmission. Nosocomial RSV infections are associated with poorer clinical outcomes, including increased mortality, the need for mechanical ventilation and longer length of hospital stay. Numerous clinical guidelines for the management of infants with bronchiolitis have been published, although none are specific for RSV bronchiolitis. Ribavirin is the only licensed drug for the specific treatment of RSV infection but due to drug toxicity and minimal clinical benefit it has not been recommended for routine clinical use. There is currently no licensed vaccine to prevent RSV infection but passive immunoprophylaxis using a monoclonal antibody, palivizumab, reduces the risk of hospitalization due to RSV infection by 39-78% in various high-risk infants predisposed to developing severe RSV disease. The current management of RSV bronchiolitis is purely supportive, with feeding support and oxygen supplementation until the infant immune system mounts a response capable of controlling the disease. The development of a successful treatment or prophylactic agent has the potential to revolutionize the care and outcome for severe RSV infections in the world's most vulnerable infants.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Immunological Features of Respiratory Syncytial Virus-Caused Pneumonia-Implications for Vaccine Design. The human respiratory syncytial virus (hRSV) is the causative agent for high rates of hospitalizations due to viral bronchiolitis and pneumonia worldwide. Such a disease is characterized by an infection of epithelial cells of the distal airways that leads to inflammation and subsequently to respiratory failure. Upon infection, different pattern recognition receptors recognize the virus and trigger the innate immune response against the hRSV. Further, T cell immunity plays an important role for virus clearance. Based on animal studies, it is thought that the host immune response to hRSV is based on a biased T helper (Th)-2 and Th17 T cell responses with the recruitment of T cells, neutrophils and eosinophils to the lung, causing inflammation and tissue damage. In contrast, human immunity against RSV has been shown to be more complex with no definitive T cell polarization profile. Nowadays, only a humanized monoclonal antibody, known as palivizumab, is available to protect against hRSV infection in high-risk infants. However, such treatment involves several injections at a significantly high cost. For these reasons, intense research has been focused on finding novel vaccines or therapies to prevent hRSV infection in the population. Here, we comprehensively review the recent literature relative to the immunological features during hRSV infection, as well as the new insights into preventing the disease caused by this virus.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Respiratory Syncytial Virus Bronchiolitis in Children. Bronchiolitis is a common lower respiratory tract infection in infants and young children, and respiratory syncytial virus (RSV) is the most common cause of this infection. RSV is transmitted through contact with respiratory droplets either directly from an infected person or self-inoculation by contaminated secretions on surfaces. Patients with RSV bronchiolitis usually present with two to four days of upper respiratory tract symptoms such as fever, rhinorrhea, and congestion, followed by lower respiratory tract symptoms such as increasing cough, wheezing, and increased respiratory effort. In 2014, the American Academy of Pediatrics updated its clinical practice guideline for diagnosis and management of RSV bronchiolitis to minimize unnecessary diagnostic testing and interventions. Bronchiolitis remains a clinical diagnosis, and diagnostic testing is not routinely recommended. Treatment of RSV infection is mainly supportive, and modalities such as bronchodilators, epinephrine, corticosteroids, hypertonic saline, and antibiotics are generally not useful. Evidence supports using supplemental oxygen to maintain adequate oxygen saturation; however, continuous pulse oximetry is no longer required. The other mainstay of therapy is intravenous or nasogastric administration of fluids for infants who cannot maintain their hydration status with oral fluid intake. Educating parents on reducing the risk of infection is one of the most important things a physician can do to help prevent RSV infection, especially early in life. Children at risk of severe lower respiratory tract infection should receive immunoprophylaxis with palivizumab, a humanized monoclonal antibody, in up to five monthly doses. Prophylaxis guidelines are restricted to infants born before 29 weeks' gestation, infants with chronic lung disease of prematurity, and infants and children with hemodynamically significant heart disease.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Observed Effectiveness of Palivizumab for 29-36-Week Gestation Infants. BACKGROUND: Respiratory syncytial virus (RSV) is a common reason for hospitalization of infants. In clinical trials, palivizumab reduced RSV hospitalization rates for premature infants. The 2014 American Academy of Pediatrics clinical practice guideline advised against use of palivizumab for otherwise healthy infants > 29 weeks' gestation. The aim of this study was to determine the effect of palivizumab administration on hospitalization rates for RSV and bronchiolitis without RSV diagnosis among infants 29 to 36 weeks' gestation who do not have chronic illness. METHODS: Claims data were extracted from databases of 9 Texas Medicaid managed care programs. Eligible infants were 29 to 36 weeks' gestation, without claims suggesting chronic illness, and who were born between April 1 and December 31 of 2012, 2013, and 2014. RESULTS: A total of 2031 eligible infants of 29 to 32 weeks' gestation and 12 066 infants of 33 to 36 weeks' gestation were identified; 41.5% of the infants 29 to 32 weeks' gestation and 3.7% of the infants 33 to 36 weeks' gestation had paid claims for dispensing of > 1 palivizumab doses. Among the infants of 29 to 32 weeks' gestation, palivizumab dispensing was associated with reduced RSV hospitalization rates (3.1% vs 5.0%, P = .04) but increased hospitalizations for bronchiolitis without RSV diagnosis (3.3% vs 1.9%, P = .05). There were no significant differences by palivizumab administration status for the infants of 33 to 36 weeks' gestation. CONCLUSIONS: Among infants 29 to 32 weeks' gestation without chronic illness, palivizumab use was associated with reduced RSV hospitalizations but increased hospitalizations for bronchiolitis without RSV diagnosis.", 
+          "qas": [
+            {
+              "question": "List indications for palivizumab for treatment of RSV-induced bronchiolitis. ", 
+              "id": "5a67a207b750ff4455000008_008"
+            }
+          ]
+        }, 
+        {
+          "context": "POEMS Syndrome: Therapeutic Options. Treatment of polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes (POEMS) syndrome should be directed at the underlying plasma cell clone with risk-adapted therapy based on the extent of the plasma cell disorder. Radiation therapy is effective for patients with a localized presentation, without bone marrow involvement, and 1 to 3 bone lesions. Patients with disseminated disease should receive, preferably, high-dose chemotherapy with peripheral blood transplantation. Low-dose melphalan and dexamethasone or new agents used in myeloma are also effective. The most promising agent is lenalidomide, which could be given before high-dose therapy or radiation to get rapid neurologic responses.", 
+          "qas": [
+            {
+              "question": "List main clinical features of the POEMS syndrome.", 
+              "id": "5a67afb7b750ff445500000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "POEMS Syndrome: Diagnosis and Investigative Work-up. POEMS syndrome is a rare paraneoplastic syndrome secondary to a plasma cell dyscrasia. Recognition of a combination of peripheral neuropathy, organomegaly, endocrinopathy, monoclonal plasmaproliferative disorder, skin changes, papilledema, extravascular volume overload, sclerotic bone lesions, thrombocytosis, and Castleman disease is the first step in managing the disease. Increased blood levels of vascular endothelial growth factor are usually confirmatory. This rare disorder should not be missed, especially if the patient has a putative diagnosis of chronic inflammatory polyradiculoneuropathy, a lambda restricted monoclonal gammopathy, and thrombocytosis, and is not responding as expected to immunomodulatory therapy commonly used for chronic inflammatory polyradiculoneuropathy.", 
+          "qas": [
+            {
+              "question": "List main clinical features of the POEMS syndrome.", 
+              "id": "5a67afb7b750ff445500000d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The Peripheral Neuropathies of POEMS Syndrome and Castleman Disease. Polyneuropathy, organomegaly, endocrinopathy, monoclonal plasma cell disorder, skin changes (POEMS) syndrome is a rare paraneoplastic disorder. The polyneuropathy can be the presenting symptom and is typically a painful, motor-predominant polyradiculoneuropathy often mimicking chronic inflammatory demyelinating polyradiculoneuropathy. The presence of a lambda monoclonal protein, elevated vascular endothelial growth factor, systemic features, and treatment resistance are clues to the diagnosis. Castleman disease (CD) is seen in a subset of these patients, and when present the neuropathy is similar but less severe. In contrast, in those patients with purely CD, the neuropathy is often a mild, painless distal sensory neuropathy.", 
+          "qas": [
+            {
+              "question": "List main clinical features of the POEMS syndrome.", 
+              "id": "5a67afb7b750ff445500000d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Glomeruloid hemangioma and POEMS syndrome. POEMS syndrome is a paraneoplastic manifestation associated with hematopoietic disorders such as multiple myeloma and Castleman disease. POEMS is an acronym for the main clinical features of the syndrome, namely, Polyneuropathy, Organomegaly, Endocrinopathy, M protein, and Skin abnormalities. Glomeruloid hemangiomas are considered to be a specific clinical marker of POEMS syndrome. However, while they are not pathognomonic, their presence should raise suspicion of this syndrome or alert clinicians to its possible future development, as these lesions can appear years before the onset of the syndrome. We report the cases of 2 women with plasma cell dyscrasias and sudden onset of lesions with a vascular appearance and histologic findings consistent with glomeruloid hemangioma. Recognition of this vascular tumor is important for the early diagnosis of POEMS syndrome.", 
+          "qas": [
+            {
+              "question": "List main clinical features of the POEMS syndrome.", 
+              "id": "5a67afb7b750ff445500000d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Prognostic study for overall survival in patients with newly diagnosed POEMS syndrome. POEMS syndrome (polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy and skin changes) is a multisystem disorder with a good long-term prognosis. In its dozens of clinical features, those with independent prognostic value are still not well characterized. We retrospectively included 362 patients with newly diagnosed POEMS syndrome at our institute from 2000 to 2015. On the basis of a randomized sample splitting, we first identified four baseline clinical variables, including age >50 years (hazards ratio (HR) 4.07, 95% confidence interval (CI) 1.41-11.76, P=0.009), pulmonary hypertension (HR 3.99, 95% CI 1.44-11.04, P=0.008), pleural effusion (HR 3.81, 95% CI 1.23-11.79, P=0.02) and estimated glomerular filtration rate <30 ml/min/1.73 m (HR 8.25, 95% CI 2.18-31.25, P=0.002), associated with inferior overall survival in the derivation cohort, with the use of multivariate Cox regression model. These factors were incorporated together to develop a prognostic nomogram. Concordance index calculation (0.727, 95% CI 0.601-0.853, P=0.018) and calibration curve plotting demonstrated its significant predictive and discriminatory capacity in the validation cohort. This nomogram could be a useful and convenient tool in clinical practice to evaluate individualized prognosis in patients with newly diagnosed POEMS syndrome.", 
+          "qas": [
+            {
+              "question": "List main clinical features of the POEMS syndrome.", 
+              "id": "5a67afb7b750ff445500000d_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Renal inflammation and injury are associated with lymphangiogenesis in hypertension. Lymphatic vessels are vital for the trafficking of immune cells from the interstitium to draining lymph nodes during inflammation. Hypertension is associated with renal infiltration of activated immune cells and inflammation; however, it is unknown how renal lymphatic vessels change in hypertension. We hypothesized that renal macrophage infiltration and inflammation would cause increased lymphatic vessel density in hypertensive rats. Spontaneously hypertensive rats (SHR) that exhibit hypertension and renal injury (SHR-A3 strain) had significantly increased renal lymphatic vessel density and macrophages at 40 wk of age compared with Wistar-Kyoto (WKY) controls. SHR rats that exhibit hypertension but minimal renal injury (SHR-B2 strain) had significantly less renal lymphatic vessel density compared with WKY rats. The signals for lymphangiogenesis, VEGF-C and its receptor VEGF-R3, and proinflammatory cytokine genes increased significantly in the kidneys of SHR-A3 rats but not in SHR-B2 rats. Fischer 344 rats exhibit normal blood pressure but develop renal injury as they age. Kidneys from 24-mo- and/or 20-mo-old Fischer rats had significantly increased lymphatic vessel density, macrophage infiltration, VEGF-C and VEGF-R3 expression, and proinflammatory cytokine gene expression compared with 4-mo-old controls. These data together demonstrate that renal immune cell infiltration and inflammation cause lymphangiogenesis in hypertension- and aging-associated renal injury.", 
+          "qas": [
+            {
+              "question": "List factors that promote lymphangiogenesis.", 
+              "id": "5a89a20ffcd1d6a10c00000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Vegfd modulates both angiogenesis and lymphangiogenesis during zebrafish embryonic development. Vascular endothelial growth factors (VEGFs) control angiogenesis and lymphangiogenesis during development and in pathological conditions. In the zebrafish trunk, Vegfa controls the formation of intersegmental arteries by primary angiogenesis and Vegfc is essential for secondary angiogenesis, giving rise to veins and lymphatics. Vegfd has been largely thought of as dispensable for vascular development in vertebrates. Here, we generated a zebrafish vegfd mutant by genome editing. vegfd mutants display significant defects in facial lymphangiogenesis independent of vegfc function. Strikingly, we find that vegfc and vegfd cooperatively control lymphangiogenesis throughout the embryo, including during the formation of the trunk lymphatic vasculature. Interestingly, we find that vegfd and vegfc also redundantly drive artery hyperbranching phenotypes observed upon depletion of Flt1 or Dll4. Epistasis and biochemical binding assays suggest that, during primary angiogenesis, Vegfd influences these phenotypes through Kdr (Vegfr2) rather than Flt4 (Vegfr3). These data demonstrate that, rather than being dispensable during development, Vegfd plays context-specific indispensable and also compensatory roles during both blood vessel angiogenesis and lymphangiogenesis.", 
+          "qas": [
+            {
+              "question": "List factors that promote lymphangiogenesis.", 
+              "id": "5a89a20ffcd1d6a10c00000e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Changes in Lymphangiogenesis and Vascular Endothelial Growth Factor Expression by Neo-Adjuvant Hormonal Therapy in Prostate Cancer Patients. BACKGROUND: The anti-cancer mechanism of neo-adjuvant hormonal therapy (NHT) is not well understood. Lymphangiogenesis plays an important role in cancer progression and is regulated by a complex mechanism that includes vascular endothelial growth factor (VEGF) signaling. However, there is little information regarding relationship between lymphangiogenesis and androgen deprivation. The aim of this study was to clarify changes in lymphangiogenesis and VEGF expression induced by androgen deprivation in prostate cancer in vivo and in vitro. METHODS: Patients who had undergone a radical prostatectomy were enrolled in the study (NHT, n = 60 and non-NHT, n = 64). Lymph vessels were identified by D2-40 immunoreactivity and lymph vessel density and lymph vessel area (LVD and LVA, respectively) were measured from micrographs. The expression of VEGF-A, -B, -C, and -D was evaluated by immunohistochemistry. The prognostic value of LVD and LVA for biochemical recurrence was also investigated. RESULTS: Mean LVD \u00b1 SD was higher in the NHT than in the non-NHT group (11.3 \u00b1 3.0 vs. 7.1 \u00b1 3.4 per high power field; P < 0.001). LVA was larger in the NHT than in the non-NHT group (512.8 \u00b1 174.9 vs. 202.7 \u00b1 72.8 \u00b5m ; P < 0.001). VEGF-A expression was lower whereas VEGF-C and -D levels were higher in the NHT than in the non-NHT group. VEGF-B expression in specimens with NHT was lower than that in biopsy specimens at diagnosis. These results were confirmed by in vitro studies used androgen-sensitive prostate cancer cell line. LVA was found to be an independent predictor of biochemical recurrence in patients who received NHT. CONCLUSIONS: Our results demonstrate that NHT stimulates lymphangiogenesis via upregulation of VEGF-C and -D, which may increase LVA and affect the outcome of prostate cancer patients. This findings were supported by in vitro data of prostate cancer cell. Prostate 77:255-262, 2017. \u00a9 2016 The Authors. The Prostate Published by Wiley Periodicals, Inc.", 
+          "qas": [
+            {
+              "question": "List factors that promote lymphangiogenesis.", 
+              "id": "5a89a20ffcd1d6a10c00000e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Alginate hydrogels allow for bioactive and sustained release of VEGF-C and VEGF-D for lymphangiogenic therapeutic applications. Lymphatic dysfunction is associated with the progression of many cardiovascular disorders due to their role in maintaining tissue fluid homeostasis. Promoting new lymphatic vessels (lymphangiogenesis) is a promising strategy to reverse these cardiovascular disorders via restoring lymphatic function. Vascular endothelial growth factor (VEGF) members VEGF-C and VEGF-D are both potent candidates for stimulating lymphangiogenesis, though maintaining spatial and temporal control of these factors represents a challenge to developing efficient therapeutic lymphangiogenic applications. Injectable alginate hydrogels have been useful for the controlled delivery of many angiogenic factors, including VEGF-A, to stimulate new blood vasculature. However, the utility of these tunable hydrogels for delivering lymphangiogenic factors has never been closely examined. Thus, the objective of this study was to utilize ionically cross-linked alginate hydrogels to deliver VEGF-C and VEGF-D for potential lymphangiogenic applications. We demonstrated that lymphatic endothelial cells (LECs) are sensitive to temporal presentation of VEGF-C and VEGF-D but with different responses between the factors. The greatest LEC mitogenic and sprouting response was observed for constant concentrations of VEGF-C and a high initial concentration that gradually decreased over time for VEGF-D. Additionally, alginate hydrogels provided sustained release of radiolabeled VEGF-C and VEGF-D. Finally, VEGF-C and VEGF-D released from these hydrogels promoted a similar number of LEC sprouts as exogenously added growth factors and new vasculature in vivo via a chick chorioallantoic membrane (CAM) assay. Overall, these findings demonstrate that alginate hydrogels can provide sustained and bioactive release of VEGF-C and VEGF-D which could have applications for therapeutic lymphangiogenesis.", 
+          "qas": [
+            {
+              "question": "List factors that promote lymphangiogenesis.", 
+              "id": "5a89a20ffcd1d6a10c00000e_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[The role of neuromodulators (substance P and calcitonin gene-related peptide) in the development of neurogenic inflammation in the oral mucosa]. Vatous observations carried out in the course of the years have shown that certain neuropeptides have a possible role to play as inflammation mediators. The substances on which attention has been principally focused are: substance P, calcitonin gene-related peptide, capsaicin an histamine. Knowledge acquired in this field, however, does not yet permit us to sufficiently clarify the role, not to speak of the possible action mechanism, on the basis of which these neuropeptides act, although it is confirmed that these substances have been found first in laboratory animals and later also in human tissues in the course of experimentally induced neurogenic inflammation. The need to know more and more about inflammatory mechanisms and the increasingly complex possibilities offered by the application of technology in the field of medical research have led to many small advance in our knowledge of what is involved in inflammation. In fact it has been understood that behind the typical signs of inflammation (the famous four cardinal signs of Celsus: pain, redness, swelling, heat) no abstract entities or strange alchemies are concealed, but a series of well-known, classified substance, the so-called \"inflammation mediators\", namely a variety of substances of cellular or plasmatic origin united by the fact that exist, in stationary state conditions, in the form of inactive precursors, or sequestered in intracellular sites where they are unable to carry out their action. Following an inflammatory stimulus, they are activated, or their synthesis can be induced, or their release from intracellular sequestration sites in favoured; in any case they are stored in the disturbance district in concentrations that are such as to act on their respective targets, triggering event s that characterise the various stages of the inflammatory process.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Autotoxicity and Alzheimer disease. I mmunological responses are considered to be either humoral, resulting from cloning of B lymphocytes, or cell mediated, resulting from cloning of T lymphocytes. Autoimmune diseases occur when the cloned products attack host tissue. Inflammation is considered a nonspecific response to injury, characterized by exudation of serum into damaged tissue, and identified by the cardinal signs of rubor, calor, dolor, and tumor. However, these classic mechanisms do not fit pathological observations of Alzheimer disease (AD)-affected brain tissue. Although many of the components prominently associated with peripheral immunological and inflammatory states are present in AD lesions, there are no identifiable B lymphocytes or antibodies, and T cells are sparse. Furthermore, the blood-brain barrier is intact, excluding exudation of exogenous serum proteins. Although \"neuroinflammation\" is the term commonly used to describe the pathological changes, it fails to define adequately the process that is taking place. The reaction is neither a nonspecific response to injury, as classically implied for inflammatory reactions, nor an autoimmune reaction, despite the directed attack against plaques and extracellular tangles. It is most appropriately defined as an innate immunoreaction. The fact that such a reaction can be mounted by brain, an organ frequently described as being immunologically privileged, suggests that a reevaluation is required of the dimensions of the innate immune system, including how it operates at the tissue level. The innate immune system is primitive, while the adaptive immune system, which is directed by peripheral immune organs, is an invention of vertebrates. Even in vertebrates, however, the innate immune system is the first line of defense. Much more needs to be learned about the operation of the innate immune system in health and disease. Arch Neurol. 2000.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Resolution of inflammation: mechanisms and opportunity for drug development. Inflammation is a beneficial host reaction to tissue damage and has the essential primary purpose of restoring tissue homeostasis. Inflammation plays a major role in containing and resolving infection and may also occur under sterile conditions. The cardinal signs of inflammation dolor, calor, tumor and rubor are intrinsically associated with events including vasodilatation, edema and leukocyte trafficking into the site of inflammation. If uncontrolled or unresolved, inflammation itself can lead to further tissue damage and give rise to chronic inflammatory diseases and autoimmunity with eventual loss of organ function. It is now evident that the resolution of inflammation is an active continuous process that occurs during an acute inflammatory episode. Successful resolution requires activation of endogenous programs with switch from production of pro-inflammatory towards pro-resolving molecules, such as specific lipid mediators and annexin A1, and the non-phlogistic elimination of granulocytes by apoptosis with subsequent removal by surrounding macrophages. These processes ensure rapid restoration of tissue homeostasis. Here, we review recent advances in the understanding of resolution of inflammation, highlighting the pharmacological strategies that may interfere with the molecular pathways which control leukocyte survival and clearance. Such strategies have proved beneficial in several pre-clinical models of inflammatory diseases, suggesting that pharmacological modulation of the resolution process may be useful for the treatment of chronic inflammatory diseases in humans.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[Between symbol and symptom: pain and its meanings in classical antiquity]. According to semiotics, which may be defined as the doctrine of the essential nature and fundamental varieties of signs, objects, and interpretants, pain is considered to be a sign (significant) with very different meanings (significance) either as a naturalistic symptom (of disease) or as a symbol used in a metaphorical context. When following this methodological perspective it is possible to interpret medical as well as poetic writings on equal terms. In Graeco-Roman medical texts pain was mostly understood as a result and an indicator of disease, but nonetheless as a symptom which seemed to be actively produced by the affected body. Especially in the Corpus Hippocraticum dating from the 5th and 4th century B. C. this materialistic and at the same time psychosomatic attitude can be noticed. Aristotle (4th century B. C.), Celsus (1st century A. D.), and the famous experimental physiologist Galen (2nd century A. D.) agreed that pain was a sign of evil which should be fought without exception. It was Galen who added the disturbance of function (functio laesa) as the fifth cardinal sign of inflammation to the four well-known cardinal signs of Celsus (rubor, calor, tumor, dolor). He also coined the term [see text] to characterize an attack of migraine. In algotherapy, Galen used a complex pharmacological system which was based upon the four cardinal qualities of humoral pathology. On the other hand, pain was designed as a multi-dimensional symbol by the famous Graeco-Roman epic poets. In Homer's Odyssey (8th century B. C.), pain appears transformed into the shape of a scar which is visible and palpable on the hero's leg like an identification tag, whereas in Virgil's Aeneids (1st century B. C.) pain symbolizes weakness and defencelessness which can only be alleviated by the goddess Venus.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Regulation of Chemokine-Receptor Interactions and Functions. Inflammation is the body's response to injury or infection. As early as 2000 years ago, the Roman encyclopaedist Aulus Cornelius Celsus recognised four cardinal signs of this response-redness, heat, swelling and pain; a fifth sign is loss of function.[...].", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Functio Laesa: Cancer Inflammation and Therapeutic Resistance. Tumor, calor, rubor, and dolor describe four cardinal signs of inflammation. The fifth-functio laesa, or loss of function-was promulgated by Rudolf Virchow, who, in the 19th century, also noted an intricate link between inflammation and cancer. However, the role of cancer inflammation in driving loss of therapeutic efficacy has only recently been fully appreciated, as a result of molecular and immunohistochemical approaches applied in clinical medicine and the availability of novel agents for modulating inflammation. This review focuses on clinical evidence from solid malignancies that have shaped our view of how the immune system regulates cancer development, progression, and response to treatment. Understanding the multifaceted relationship between inflammation and patient outcomes has the potential to advance prognostic tools and uncover therapeutic opportunities for improving clinical outcomes.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Inflammation: John Hunter's \"A treatise on the blood, inflammation and gun-shot wounds\". John Hunter's A Treatise on the Blood, Inflammation and Gunshot Wounds was published in 1794. Throughout the nineteenth century this was considered the most important study of inflammation and has been widely quoted since. After a section on the nature of blood and the circulatory system, in which he describes the vascular supply in detail, he passes on to an extensive survey of inflammation. This is based mainly on his wide clinical experience, including that as a military surgeon. He, however, supplements this with a number of experiments, some of which are classic. He bases his observations on the four cardinal signs of Celsus (redness, heat, swelling and pain). Inflammation is then divided into three main groups: adhesive, suppurative and ulcerative. He discusses the nature of pus and the formation and treatment of abscesses. He describes his experiments on the transplantation of tissues under the general heading of adhesive inflammation. This, he states, underlies the union of wounds and thus the union of tissues after transplantation. Although unaware of the role of infecting organisms as a cause of inflammation, he makes observations on inflammation in smallpox, venereal infections and tuberculosis. He relates these to his observations on inflammatory aspects of wound healing. Lister was particularly influenced by Hunter's observations in the development of antisepsis. As well as the local effect of inflammation, Hunter was concerned with the constitutional effects such as fever.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Natural resolution of inflammation. Inflammation is a protective response essential for maintaining human health and for fighting disease. As an active innate immune reaction to challenge, inflammation gives rise to clinical cardinal signs: rubor, calor, dolor, tumor and functio laesa. Termination of acute inflammation was previously recognized as a passive process; a natural decay of pro-inflammatory signals. We now understand that the natural resolution of inflammation involves well-integrated, active, biochemical programs that return tissues to homeostasis. This review focuses on recent advances in the understanding of the role of endogenous lipid mediators that modulate cellular fate and inflammation. Biosynthesis of eicosanoids and other lipids in exudates coincides with changes in the types of inflammatory cells. Resolution of inflammation is initiated by an active class switch in lipid mediators, such as classic prostaglandins and leukotrienes, to the production of proresolution mediators. Endogenous pro-resolving lipid mediators, including arachidonic acid-derived lipoxins, aspirin-triggered lipoxins, \u03c93-eicosapentaenoic acid-derived resolvins of the E-series, docosahexaenoic acid-derived resolvins of the D-series, protectins and maresins, are biosynthesized during the resolution phase of acute inflammation. Depending on the type of injury and the type of tissue, the initial cells that respond are polymorphonuclear leukocytes, monocytes/macrophages, epithelial cells or endothelial cells. The selective interaction of specific lipid mediators with G protein-coupled receptors expressed on innate immune cells (e.g. G protein-coupled receptor 32, lipoxin A4 receptor/formyl peptide receptor2, chemokine-like receptor 1, leukotriene B4 receptor type 1 and cabannoid receptor 2) induces cessation of leukocyte infiltration; vascular permeability/edema returns to normal with polymorphonuclear neutrophil death (mostly via apoptosis), the nonphlogistic infiltration of monocyte/macrophages and the removal (by macrophages) of apoptotic polymorphonuclear neutrophils, foreign agents (bacteria) and necrotic debris from the site. While an acute inflammatory response that is resolved in a timely manner prevents tissue injury, inadequate resolution and failure to return tissue to homeostasis results in neutrophil-mediated destruction and chronic inflammation. A better understanding of the complex mechanisms of lipid agonist mediators, cell targets and actions allows us to exploit and develop novel therapeutic strategies to treat human inflammatory diseases, including periodontal diseases.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_007"
+            }
+          ]
+        }, 
+        {
+          "context": "From inflammation to sickness: historical perspective. The concept of the four cardinal signs of acute inflammation comes from antiquity as rubor et tumor cum calore et dolore, (redness and swelling with heat and pain) extended later by functio laesa (loss of function). The contemporary understanding of this process we owe to 19th-century milestone discoveries by Rudolph Virchow, Julius Cohnheim and Elie Metchnikoff. In the 20th century, the development of potent technological tools allowed the rapid expansion of knowledge of the cells and mediators of inflammatory processes, as well as the molecular mechanisms of their interactions. It turned out that some mediators of inflammation have both local and distant targets, among them the liver (responding by the production of several acute phase reactants) and neurohormonal centers. In the last decades it has become clear that the immune system shares mediators and their receptors with the neurohormonal system of the body; thus, they form a common homeostatic entity. Such an integrative view, introduced by J. Edwin Blalock, when combined with Hans Selye's concept of stress, led to the contemporary understanding of sickness behavior, defined by Robert Dantzer as a highly organized strategy of the organism to fight infections and to respond to other environmental stressors.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Is There a Role for Inflammation in Contact Lens Discomfort? PURPOSE: The aim of this study was to examine the literature with respect to inflammation of the ocular surface and the presence of inflammatory mediators in the tear film during contact lens wear. METHODS: The literature on contact lens discomfort that relates to signs of inflammation was searched. Reference was paid to the cardinal signs of inflammation (pain, heat, redness, and swelling) as well as the appearance of inflammatory mediators in the tear film during contact lens wear. RESULTS: Contact lens wear does induce discomfort, which is a mild form of pain, and wearing of lenses can induce increases in limbal and conjunctival redness. However, there is little evidence for a direct relationship between limbal or conjunctival redness and contact lens discomfort. Contact lenses may increase the temperature of the ocular surface by a small amount ( < 2.1\u00b0C). Corneal or conjunctival swelling has not been associated with contact lens discomfort. Complement or kinin breakdown products or histamine in tears are not associated with contact lens discomfort. Cytokines are generally not related to discomfort, although nerve growth factor levels were increased in tears of symptomatics in one report. The presence of degraded lipids, leukotriene B4 and peroxidation products, and the enzyme secretory phospholipase A2 in tears has been associated with contact lens discomfort, and this area is worthy of further research. CONCLUSIONS: There have been only a few studies that have investigated a role for inflammation in contact lens-induced discomfort, and the strongest associations have been found with lipid degradation processes.", 
+          "qas": [
+            {
+              "question": "What are the 4 cardinal signs of inflammation according to Celsus?", 
+              "id": "5a678d63b750ff4455000003_009"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification of polyubiquitin binding proteins involved in NF-kappaB signaling using protein arrays. Attachment of ubiquitin to proteins represents a central mechanism for the regulation of protein metabolism and function. In the NF-kappaB pathway, binding of NEMO to polyubiquitinated substrates initiates the pathway in response to cellular stimuli. Other polyubiquitin binding proteins can antagonize this pathway by competing with NEMO for polyubiquitin. We have used protein arrays to identify polyubiquitin binding proteins that regulate NF-kappaB activity. Using polyubiquitin as bait, protein arrays were screened and polyubiquitin binders identified. Novel polyubiquitin binders AWP1, CALCOCO2, N4BP1, RIO3, TEX27, TTC3, UBFD1 and ZNF313 were identified using this approach, while known NF-kappaB regulators including NEMO, A20, ABIN-1, ABIN-2, optineurin and p62 were also identified. Overexpressed AWP1 and RIO3 repressed NF-kappaB activity in a manner similar to optineurin, while siRNAs directed against AWP1 and RIO3 also reduced NF-kappaB activity. TNFalpha-dependent degradation of IkappaBalpha was also suppressed by overexpression of AWP1 and RIO3, possibly due to the polyubiquitin binding activity of these proteins. Protein array screening using polyubiquitin enabled rapid identification of many known and novel polyubiquitin binding proteins and the identification of novel NF-kappaB regulators.", 
+          "qas": [
+            {
+              "question": "List polyubiquitin binding proteins involved in NF-kappaB signaling.", 
+              "id": "5a8a9abdfcd1d6a10c000019_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Essential roles of K63-linked polyubiquitin-binding proteins TAB2 and TAB3 in B cell activation via MAPKs. Polyubiquitination of proteins plays a critical role in the activation of immune cells. K63-linked polyubiquitin-binding proteins TGF-\u03b2-activated kinase 1 (TAK1)-binding protein (TAB)2 and TAB3 are implicated in NF-\u03baB signaling via TAK1 activation. However, TAB2 alone is dispensable for NF-\u03baB activation in embryonic fibroblasts, and the functional roles of TAB2 and TAB3 in immune cells has yet to be clarified. In this study, we demonstrate that TAB2 and TAB3 are essential for B cell activation leading to Ag-specific Ab responses, as well as B-1 and marginal zone B cell development. TAB2 and TAB3 are critical for the activation of MAPKs, especially ERK, but not NF-\u03baB, in response to TLR and CD40 stimulation in B cells. Surprisingly, TAB2 and TAB3 are dispensable for TAK1 activation in B cells, indicating that TAB2 and TAB3 activate MAPKs via a pathway independent of TAK1. In contrast to B cells, macrophages lacking TAB2 and TAB3 did not show any defects in the cytokine production and the signaling pathway in response to TLR stimulation. Furthermore, TAB2 and TAB3 were dispensable for TNF-induced cytokine production in embryonic fibroblasts. Thus, TAB2- and TAB3-mediated K63-linked polyubiquitin recognition controls B cell activation via MAPKs, but not the TAK1/NF-\u03baB axis.", 
+          "qas": [
+            {
+              "question": "List polyubiquitin binding proteins involved in NF-kappaB signaling.", 
+              "id": "5a8a9abdfcd1d6a10c000019_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecular control of the NEMO family of ubiquitin-binding proteins. Research over the past decade has revealed how NF-\u03baB essential modulator (NEMO; also known as IKK\u03b3) regulates the IKK\u03b1-IKK\u03b2 signalling axis in the innate immune system. The discovery that NEMO is a polyubiquitin-binding protein and that the IKK complex is modulated by other protein kinases that are themselves controlled by polyubiquitin chains has provided a deeper molecular understanding of the non-degradative roles of ubiquitylation. New mechanistic insights of NEMO and related polyubiquitin-binding proteins have become a paradigm for how the interplay between phosphorylation and ubiquitylation controls cell signalling networks in health and disease.", 
+          "qas": [
+            {
+              "question": "List polyubiquitin binding proteins involved in NF-kappaB signaling.", 
+              "id": "5a8a9abdfcd1d6a10c000019_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Overlap of Juvenile polyposis syndrome and Cowden syndrome due to de novo chromosome 10 deletion involving BMPR1A and PTEN: implications for treatment and surveillance. We describe a patient with a severe juvenile polyposis phenotype, due to a de novo deletion of chromosome 10q22.3-q24.1. He was initially diagnosed with Juvenile polyposis syndrome (JPS) at age four after presenting with hematochezia due to multiple colonic juvenile polyps. He then re-presented at 23 years with recurrent hematochezia from juvenile polyps in his ileoanal pouch. He is one of the earliest reported cases of JPS associated with a large deletion of chromosome 10. Since his initial diagnosis of JPS further studies have confirmed an association between JPS and mutations in BMPR1A in chromosome band 10q23.2, which is in close proximity to PTEN. Mutations in PTEN cause Cowden syndrome (CS) and other PTEN hamartoma tumor syndromes. Due to the chromosome 10 deletion involving contiguous portions of BMPR1A and PTEN in our patient, he may be at risk for CS associated cancers and features, in addition to the polyps associated with JPS. This case presents new challenges in developing appropriate surveillance algorithms to account for the risks associated with each syndrome and highlights the importance of longitudinal follow-up and transitional care between pediatric and adult gastroenterology for patients with hereditary polyposis syndromes.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Somatic alterations in juvenile polyps from BMPR1A and SMAD4 mutation carriers. Juvenile polyposis syndrome (JPS) is a rare autosomal dominant disorder predisposing to gastrointestinal hamartomatous polyps and cancer with a pathogenic SMAD4 or BMPR1A germline mutation (1st-hit) being identified in about 40-50% of patients. Little is known, however, about the occurrence and nature of somatic alterations (2nd-hit) in SMAD4-/BMPR1A-related juvenile polyps. In this study, we screened 25 polyps from three patients carrying either a pathogenic SMAD4 (c.1244-1247delACAG) or BMPR1A (c.583C>T; p.Gln195*) germline mutation for somatic alterations. The SMAD4-related polyps were also analyzed for SMAD4 protein expression by immunohistochemistry. Despite comprehensive screening for loss of heterozygosity (LOH), mutations in the coding sequence, chromosomal rearrangements, and promoter methylation, no somatic alterations could be identified in 14 SMAD4-related polyps. SMAD4 protein expression, however, was lost in 8 (57%) of 14 juvenile polyps with 6 showing concomitant loss in both, the epithelial and stromal, compartments. In the BMPR1A-related polyps, five out of nine (56%) displayed LOH. Further analysis of selected polyps revealed that LOH was gene copy number neutral and had occurred in the epithelial compartment. The heterogeneity of genetic mutations and protein expression levels indicates that different modes of gene inactivation can be operational in SMAD4- and BMPR1A-related polyp formation. Our observation, that about half of BMPR1A-related polyps displayed LOH, predominantly in the epithelial compartment, is compatible with BMPR1A acting as a tumour suppressor gene. Still, it remains to be determined whether juvenile polyp development generally requires loss of BMPR1A expression or, as observed in some SMAD4-related polyps, can occur despite normal protein expression.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A SMAD4 mutation indicative of juvenile polyposis syndrome in a family previously diagnosed with Menetrier's disease. BACKGROUND: Menetrier's disease (MD) is a rare disease with unknown aetiology, characterized by hypertrophic folds within the fundus and body of the stomach. AIMS: We investigated mutations of the candidate genes SMAD4, BMPR1A, TGF-\u03b1, and PDX1 within a family with MD. METHODS: A large 4-generation family with MD was identified. This family had 5 cases of MD, 1 case of MD and juvenile polyposis syndrome (JPS) and 3 cases of JPS. Participants provided saliva for DNA extraction and completed a health questionnaire designed to assess conditions that may be found in patients with MD. Following pedigree analysis, we sequenced the coding regions of the SMAD4 and BMPR1A genes and the regulatory regions of the TGF-\u03b1 and PDX1 genes in affected and non-affected family members. RESULTS: No mutations were identified in the sequenced regions of BMPR1A, TGF-\u03b1, or PDX1. A dominant 1244_1247delACAG mutation of SMAD4 was identified in each of the subjects with JPS as well as in each of the subjects with MD. Although this mutation segregated with disease, there were also unaffected/undiagnosed carriers. CONCLUSION: The 1244_1247delACAG mutation of SMAD4 is the cause of JPS and the likely cause of MD in a large family initially diagnosed with MD.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Prevalence of thoracic aortopathy in patients with juvenile Polyposis Syndrome-Hereditary Hemorrhagic Telangiectasia due to SMAD4. Hereditary hemorrhagic telangiectasia (HHT) is characterized by abnormal vascular structures that may present as epistaxis, telangiectasias, and/or arteriovenous malformations. The genes associated with HHT (ACVRL1, ENG, and SMAD4) are members of the TGF\u03b2 pathway. Other syndromes associated with abnormalities in TGF\u03b2 signaling include Marfan syndrome, Loeys-Dietz syndrome and related disorders. These disorders have aortic disease as a prominent finding. While there are case reports of patients with HHT and aortopathy (dilatation/aneurysm, dissection, and rupture), this has not been systematically investigated. We conducted a retrospective chart review to determine the prevalence of aortopathy in an HHT cohort. Patients from a single institution were identified who met the Curacao Criteria for a clinical diagnosis of HHT and/or had a mutation in ACVRL1, ENG, or SMAD4 and underwent echocardiogram. Two-dimensional echocardiograms were reviewed by a single pediatric cardiologist, and data were collected on demographics, genotype, HHT features, aortic root measurements, past medical history, and family history. Z scores and nomograms were utilized to identify abnormal results. Twenty-six patients from 15 families (one ACVRL1, four ENG, eight SMAD4, and two clinical diagnoses) were included in the analysis. Aortopathy was found in 6/26 (23%) patients; all had SMAD4 mutations. In our cohort, 6/16 (38%) SMAD4 mutation carriers had evidence of aortopathy. These data suggest that aortopathy could be part of the spectrum of SMAD4-induced HHT manifestations. Routine aortic imaging, including measurements of the aorta, should be considered in patients with SMAD4 mutations to allow for appropriate medical and surgical recommendations.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Juvenile polyposis syndrome. Juvenile polyposis syndrome (JPS) is an autosomal dominant predisposition to the occurrence of hamartomatous polyps in the gastrointestinal tract. Diagnosis of JPS is based on the occurrence of numerous colon and rectum polyps or any number of polyps with family history and, in the case of juvenile polyps, their occurrence also outside the large intestine. The JPS is caused by mutations in SMAD4 and BMPR1A. Products of the SMAD4 gene are involved in signal transduction in the transforming growth factor \u03b2 pathway and BMPR1A protein is a receptor belonging to the family of transmembrane serine/threonine kinases. Both proteins are responsible for processes determining appropriate development of colonic mucosa. The JPS belongs to the group of hamartomatous polyposes. The hamartomatous polyposis syndromes constitute a group of diseases in which manifestations differ slightly and only molecular diagnostics gives the possibility of verifying the clinical diagnosis.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Nonfamilial Juvenile Polyposis Syndrome with Exon 5 Novel Mutation in SMAD 4 Gene. Juvenile polyposis syndrome (JPS) is a rare autosomal dominant hereditary disorder, characterized by multiple juvenile polyps in the gastrointestinal tract and an increased risk of colorectal cancer. JPS is most frequently caused by mutations in the SMAD4 or BMPR1A genes. Herein, we report a child with juvenile polyposis syndrome (JPS) with a novel mutation in the SMAD4 gene. An 8-year-old boy presented with recurrent rectal bleeding and was found to have multiple polyps in the entire colon. The histology of the resected polyps was consistent with juvenile polyps. Subsequent genetic screening revealed a novel mutation in SMAD4, exon 5 (p.Ser144Stop). To the best of our knowledge, this mutation has not been reported before. Offering genotypic diagnosis for patients with JPS is an important step for strategic plan of management.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Exome Sequencing Reveals Germline SMAD9 Mutation That Reduces Phosphatase and Tensin Homolog Expression and Is Associated With Hamartomatous Polyposis and Gastrointestinal Ganglioneuromas. Hamartomatous polyposis syndromes (HPS) account for a small but appreciable proportion of inherited gastrointestinal cancer predisposition syndromes; patients with HPS have an increased risk for colon and extracolonic malignancies. We present a unique case of familial juvenile polyposis syndrome associated with gastrointestinal ganglioneuromas of unknown etiology. The patient was tested for HPS-associated genes, but no mutation was detected. Exome sequencing identified a germline heterozygous mutation in SMAD9 (SMAD9(V90M)). This mutation was predicted to be an activating mutation. HEK cells transfected to express SMAD9(V90M) had reduced expression of phosphatase and tensin homolog; this reduction was also observed in a polyp from the patient. We have therefore identified a new susceptibility locus for HPS. Patients with\u00a0hamartomatous polyposis in the colon associated with\u00a0ganglioneuromatosis should be referred for genetic assessments.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Massive gastric polyposis associated with a germline SMAD4 gene mutation. Juvenile polyposis syndrome (JPS) is a rare autosomal dominant disorder characterized by the development of multiple hamartomatous polyps in the gastrointestinal tract. Polyps are most common in the colorectum (98% of patients) and the stomach (14%). Causative mutations for JPS have been identified in two genes to date, SMAD4 and BMPR1A. SMAD4 mutations are associated with a higher incidence of gastric polyposis. In this case report, we describe two patients with massive gastric polyposis associated with a SMAD4 mutation. Both presented with anaemia and both had colonic polyps. Initial endoscopic findings revealed giant rugal folds suggestive of M\u00e9n\u00e9trier disease. However, as other possible gastropathies could not be differentiated on the basis of histology, a definitive diagnosis of JPS required additional mutation analysis. In patients with polyposis predominant in or limited to the stomach, establishing a diagnosis based solely on the pathological features of polyps can be challenging due to difficulties in differentiating JPS from other hypertrophic gastropathies. Mutation analysis should be considered early in the diagnostic process in cases of suspected juvenile polyposis, thus facilitating rapid diagnosis and adequate follow-up.", 
+          "qas": [
+            {
+              "question": "Which two genes are implicated in Juvenile polyposis syndrome?", 
+              "id": "5a70dbe599e2c3af26000004_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Tofacitinib as Induction and Maintenance Therapy for Ulcerative Colitis. BACKGROUND: Tofacitinib, an oral, small-molecule Janus kinase inhibitor, was shown to have potential efficacy as induction therapy for ulcerative colitis in a phase 2 trial. We further evaluated the efficacy of tofacitinib as induction and maintenance therapy. METHODS: We conducted three phase 3, randomized, double-blind, placebo-controlled trials of tofacitinib therapy in adults with ulcerative colitis. In the OCTAVE Induction 1 and 2 trials, 598 and 541 patients, respectively, who had moderately to severely active ulcerative colitis despite previous conventional therapy or therapy with a tumor necrosis factor antagonist were randomly assigned to receive induction therapy with tofacitinib (10 mg twice daily) or placebo for 8 weeks. The primary end point was remission at 8 weeks. In the OCTAVE Sustain trial, 593 patients who had a clinical response to induction therapy were randomly assigned to receive maintenance therapy with tofacitinib (either 5 mg or 10 mg twice daily) or placebo for 52 weeks. The primary end point was remission at 52 weeks. RESULTS: In the OCTAVE Induction 1 trial, remission at 8 weeks occurred in 18.5% of the patients in the tofacitinib group versus 8.2% in the placebo group (P=0.007); in the OCTAVE Induction 2 trial, remission occurred in 16.6% versus 3.6% (P<0.001). In the OCTAVE Sustain trial, remission at 52 weeks occurred in 34.3% of the patients in the 5-mg tofacitinib group and 40.6% in the 10-mg tofacitinib group versus 11.1% in the placebo group (P<0.001 for both comparisons with placebo). In the OCTAVE Induction 1 and 2 trials, the rates of overall infection and serious infection were higher with tofacitinib than with placebo. In the OCTAVE Sustain trial, the rate of serious infection was similar across the three treatment groups, and the rates of overall infection and herpes zoster infection were higher with tofacitinib than with placebo. Across all three trials, adjudicated nonmelanoma skin cancer occurred in five patients who received tofacitinib and in one who received placebo, and adjudicated cardiovascular events occurred in five who received tofacitinib and in none who received placebo; as compared with placebo, tofacitinib was associated with increased lipid levels. CONCLUSIONS: In patients with moderately to severely active ulcerative colitis, tofacitinib was more effective as induction and maintenance therapy than placebo. (Funded by Pfizer; OCTAVE Induction 1, OCTAVE Induction 2, and OCTAVE Sustain ClinicalTrials.gov numbers, NCT01465763 , NCT01458951 , and NCT01458574 , respectively.).", 
+          "qas": [
+            {
+              "question": "Name the phase 3 clinical trials for tofacitinib in colitis.", 
+              "id": "5a75fbf383b0d9ea6600000a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Early prednisone treatment in Duchenne muscular dystrophy. The purpose of this long-term, open parallel-group, double-consent study of alternate-day, low-dose prednisone in 2-4-year-old patients with Duchenne muscular dystrophy (DMD) was to determine whether prednisone produces a beneficial effect when given earlier than usual. Muscle function was evaluated by timed tests, and muscle strength with a hand-held myometer. After 55 months of treatment, the five patients (mean age 8.3 years) in the prednisone group were still able to get up from the floor, whereas two of the three in the control group had lost this ability. Side effects included a decline in growth rate in the prednisone-treated patients and excessive weight gain in one control and three treated patients. Because steroids are effective in prolonging function, but not in recovering lost function, we propose that treatment be started with low-dose prednisone in DMD patients as soon as the diagnosis is definite.", 
+          "qas": [
+            {
+              "question": "What are the prednisone side effects in DMD patients?", 
+              "id": "5a7723b79e632bc06600000b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Long-Term Outcome of Interdisciplinary Management of Patients with Duchenne Muscular Dystrophy Receiving Daily Glucocorticoid Treatment. OBJECTIVE: To evaluate clinical outcomes and steroid side effects in a cohort of patients with Duchenne muscular dystrophy (DMD) treated with long-term daily glucocorticoid therapy. Although daily glucocorticoid therapy has been shown to extend ambulatory function in DMD, less frequent dosing is often used because of side effect concerns. STUDY DESIGN: Retrospective study of 97 patients with DMD aged 10 to <16 years treated with daily glucocorticoid (89% on deflazacort) for a mean of 8.5 years. Outcome measures were motor, pulmonary, and cardiac function, and scoliosis. Side effects were growth failure and weight gain, facial fullness, blood pressure, bone health, cataracts, gastrointestinal symptoms, behavior, hypertrichosis, and need for medication interventions. RESULTS: For 13- to 16-year-old patients, 40% could rise from the floor and 50% could perform the 30-foot run test. Forced vital capacity for the entire cohort was well preserved. Thirteen percent of younger (10- to <13-year-old) and 21% of older patients had findings of left ventricle systolic dysfunction. Six percent (all aged 16 years) developed scoliosis (Cobb angle >20 degrees). Eighty-six percent had normal weight velocities; 30% had no increased facial fullness; 72% had short stature; and 19% had asymptomatic cataracts. Asymptomatic spine compression deformities were noted in 76% and long bone fractures in 30%. One patient stopped glucocorticoid because of behavioral concerns. CONCLUSIONS: With evidence for improved outcomes and manageable side effects, we recommend use of daily glucocorticoid therapy for patients with DMD with anticipatory management of side effects and a coordinated interdisciplinary care approach.", 
+          "qas": [
+            {
+              "question": "What are the side effects of deflazacort in DMD patients?", 
+              "id": "5a7727f39e632bc06600000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Treatment of psoriatic arthritis with traditional DMARD's and novel therapies: approaches and recommendations. Recent advances in the therapeutics of psoriatic arthritis (PsA) have provided more options to clinicians managing PsA. The purpose of this review is to update the reader on treatment options for PsA using conventional synthetic disease modifying agents (csDMARDs) and novel therapies including tumour necrosis factor alpha inhibitors, interleukin 12/23 inhibitor (ustekinumab), the interleukin 17 antagonists including secukinumab, brodalumab, ixekizumab, and the phosphodiesterase-4 inhibitor, apremilast. Areas covered: We reviewed published articles on the treatment of PsA. Our main sources of data included treatment recommendations, registry studies, systematic literature reviews, major randomised controlled trials for more recently approved drugs, and abstracts from the American College of Rheumatology and EULAR meetings. Expert commentary: An overview of the evidence for the use of various pharmacotherapeutic agents for treatment of this heterogeneous disease was compiled. Treatment options for the various domains of PsA are also discussed.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "New treatment options and emerging drugs for axial spondyloarthritis: biological and targeted synthetic agents. Ankylosing spondylitis (AS) and axial spondyloarthritis (ax SpA) are chronic inflammatory diseases mainly involving the axial skeleton. Pharmacological treatments for AS and ax SpA usually include local glucocorticoid injections, NSAIDs and anti-TNF\u03b1 agents. Since around 30% to 40% of patients are non responders or intolerant to anti-TNF\u03b1 agents, we need new therapeutic options for AS and ax SpA. Areas covered: This review describes the new biological agents that can be used or are in development for AS or ax SpA as well as emerging synthetic targeted drugs. Expert opinion: Based on the rationale of the involvement of the IL-23/Th17 axis in AS, novel biological agents have been developed and include secukinumab, an anti-IL-17A agent and ustekinumab, an anti-IL-23 antibody. New compounds in the class of synthetic drugs are apremilast, a PDE4 inhibitor, and inhibitors of kinase pathways. Secukinumab gave positive results in the treatment of AS. Ustekinumab yielded promising results in AS in an open labeled study. Apremilast is not effective in AS while results with kinase inhibitors are preliminary. Future studies will clarify the place of secukinumab in the therapeutic management of AS, its influence on radiographic progression and its effects on the non radiographic form of the disease.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Varicella zoster virus meningitis under ustekinumab because of plaque psoriasis. Ustekinumab, a monoclonal antibody that binds to the shared p40 subunit of interleukin (IL)-12 and IL-23, is approved in the USA and Europe for moderate to severe plaque psoriasis. There are concerns that biologic treatments like ustekinumab may lead to an increased rate of infections. We report a 77-year-old woman who developed varicella zoster virus meningitis 8\u00a0weeks after initiation of ustekinumab therapy because of plaque psoriasis. She presented clinically with sudden onset of fatigue, vertigo, nausea and epileptic seizures. Investigations of the cerebrospinal fluid revealed 522/3 cells, lactate 2.9\u00a0mmol/L, protein 232\u00a0mg/dL and 2.4\u00a0\u00d7\u00a010 varicella zoster virus. After 3\u00a0weeks of therapy with acyclovir she recovered. We conclude that infection by varicella zoster virus has to be considered as a differential diagnosis in patients with newly developing neurological or psychiatric abnormalities under immunosuppressive therapy.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Interleukin 23-Helper T Cell 17 Axis as a Treatment Target for Pityriasis Rubra Pilaris. Importance: Treatment of pityriasis rubra pilaris (PRP) is solely based on its resemblance to psoriasis rather than any knowledge of its pathomechanism. Insight into pathogenic mediators of inflammation is essential for targeted and valid treatment options that could replace previous serendipitous therapeutic approaches in refractory PRP. Objective: To determine whether blockade of the interleukin 23-helper T cell 17 (IL-23-TH17) pathway with ustekinumab represents an efficacious and, based on its proinflammatory cytokine profile, targeted treatment option in PRP. Design, Setting, and Participants: In this case report, a patient with PRP received outpatient treatment at a university hospital department of dermatology with ustekinumab according to the dosing regimen approved for psoriasis. Lesional skin biopsy samples were taken from this patient and 2 others with refractory PRP. Messenger RNA (mRNA) expression of proinflammatory innate and T-cell-derived cytokines were measured and compared with skin samples from patients with psoriasis and healthy donors. From 1 patient, lesional skin samples were taken before ustekinumab treatment and 4 and 28 weeks after treatment initiation. Follow-up was completed after 6 months. Intervention: Subcutaneous ustekinumab, 45 mg, at weeks 0 and 4 and quarterly thereafter. Main Outcomes and Measures: The primary outcome was to determine the changes in expression of proinflammatory innate and T-cell-derived cytokines during ustekinumab therapy. The secondary objective was to evaluate the clinical and histopathologic phenotype in relation to the mRNA expression profile of proinflammatory cytokines. Results: In lesional PRP skin samples from a single patient, upregulated expression levels were found for most proinflammatory innate cytokines, including tumor necrosis factor (TNF), IL-6, IL-12, IL-23, and IL-1\u03b2. Among adaptive T-cell cytokines, an increase of TH1 cytokines and, in particular, TH17 cytokines IL-17A, IL-17F, and IL-22 was seen in PRP. The patient with PRP who received ustekinumab showed regression of skin lesions after 2 weeks and almost complete resolution after 1 month. Clinical and histopathologic improvement paralleled the expression levels of TH17 cytokines but not of interferon-\u03b3 and TNF, which lagged behind the amelioration. Conclusions and Relevance: In this case report, a role of the IL-23-TH17-axis in PRP was identified, suggesting a shared pathogenic inflammatory pathway with psoriasis, despite evident clinical and histopathologic differences. In addition, this report provides a rationale for targeting the IL-23-TH17-pathway as a treatment option for refractory PRP.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Reversible Posterior Leukoencephalopathy Syndrome (RPLS) in a Psoriasis Patient Treated With Ustekinumab. The use of monoclonal antibodies against interleukin (IL)-12 and -23, such as ustekinumab, has considerably reduced the disease burden in many patients with moderate to severe psoriasis. Reversible posterior leukoencephalopathy syndrome (RPLS) is a neurologic disorder that has been documented with increased frequency with the use of systemic and biologic agents. We report a case of a 58-year-old man with psoriasis who presented with confusion and memory difficulties after being on treatment with ustekinumab for over six years. Imaging with CT and MRI revealed mild parenchymal edema with the typical appearance and distribution of RPLS, confirming the diagnosis of this condition. This case reports the second case of RPLS associated with ustekinumab treatment, with the only other known case reported during clinical trials. With the increasing use of biologics in patients with moderate to severe psoriasis, it is critical that clinicians are cognizant of this potential associated adverse event. <p><em>J Drugs Dermatol. 2017;16(2):177-179.</em></p>.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_004"
+            }
+          ]
+        }, 
+        {
+          "context": "A randomised phase II study evaluating the efficacy and safety of subcutaneously administered ustekinumab and guselkumab in patients with active rheumatoid arthritis despite treatment with methotrexate. OBJECTIVE: Interleukin (IL)-12 and IL-23 have been implicated in the pathogenesis of rheumatoid arthritis (RA). The safety and efficacy of ustekinumab, a human monoclonal anti-IL-12/23 p40 antibody, and guselkumab, a human monoclonal anti-IL-23 antibody, were evaluated in adults with active RA despite methotrexate (MTX) therapy. METHODS: Patients were randomly assigned (1:1:1:1:1) to receive placebo at weeks 0, 4 and every 8 weeks (n=55), ustekinumab 90 mg at weeks 0, 4 and every 8 weeks (n=55), ustekinumab 90 mg at weeks 0, 4 and every 12 weeks (n=55), guselkumab 50 mg at weeks 0, 4 and every 8 weeks (n=55), or guselkumab 200 mg at weeks 0, 4 and every 8 weeks (n=54) through week 28; all patients continued a stable dose of MTX (10-25 mg/week). The primary end point was the proportion of patients with at least a 20% improvement in the American College of Rheumatology criteria (ACR 20) at week 28. Safety was monitored through week 48. RESULTS: At week 28, there were no statistically significant differences in the proportions of patients achieving an ACR 20 response between the combined ustekinumab group (53.6%) or the combined guselkumab group (41.3%) compared with placebo (40.0%) (p=0.101 and p=0.877, respectively). Through week 48, the proportions of patients with at least one adverse event (AE) were comparable among the treatment groups. Infections were the most common type of AE. CONCLUSIONS: Treatment with ustekinumab or guselkumab did not significantly reduce the signs and symptoms of RA. No new safety findings were observed with either treatment. TRIAL REGISTRATION NUMBER: NCT01645280.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Treatment options for pyoderma gangrenosum. Pyoderma gangrenosum (PG) is an orphan disease. While research on such disorders is based on only few randomized multicenter as well as retrospective studies, most of the data comes from case series of small patient groups. Apart from topical and intralesional therapeutic options for early stages and mild disease courses, treatment predominantly involves systemic therapeutic agents. Besides systemic corticosteroids and cyclosporine A (CsA), options also include intravenous immunoglobulins (IVIG) and biologics such as the TNF\u03b1 inhibitors infliximab, adalimumab, and etanercept; the interleukin (IL) 12/23 antibody ustekinumab; the IL-1 receptor antagonist anakinra; and the IL-1\u03b2 antibody canakinumab. The best evidence-based study data is available for CsA, prednisolone, and infliximab; the latter especially in patients with concomitant ulcerative colitis or Crohn's disease. A response to IVIG and canakinumab has been reported in smaller case series. First described by Brocq almost 100 years ago, it was soon recognized that PG did in fact require treatment. To this day, however, such treatment remains a clinical challenge. Despite the severe - albeit rare -clinical picture, improvement in therapeutic options may be expected in the future, primarily due to further clinical studies - especially with a greater number of patients, a better understanding of the etiopathogenesis, as well as the use of modern targeted therapies with higher efficacy and a lower rate of side effects than conventional immunosuppressants such as prednisolone and CsA.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Review of the treatment of psoriatic arthritis with biological agents: choice of drug for initial therapy and switch therapy for non-responders. Psoriatic arthritis (PsA) is a heterogeneous chronic inflammatory disease with a broad clinical spectrum and variable course. It can involve musculoskeletal structures as well as skin, nails, eyes, and gut. The management of PsA has changed tremendously in the last decade, thanks to an earlier diagnosis, an advancement in pharmacological therapies, and a wider application of a multidisciplinary approach. The commercialization of tumor necrosis factor inhibitors (adalimumab, certolizumab pegol, etanercept, golimumab, and infliximab) as well as interleukin (IL)-12/23 (ustekinumab) and IL-17 (secukinumab) inhibitors is representative of a revolution in the treatment of PsA. No evidence-based strategies are currently available for guiding the rheumatologist to prescribe biological drugs. Several international and national recommendation sets are currently available with the aim to help rheumatologists in everyday clinical practice management of PsA patients treated with biological therapy. Since no specific biological agent has been demonstrated to be more effective than others, the drug choice should be made according to the available safety data, the presence of extra-articular manifestations, the patient's preferences (e.g., administration route), and the drug price. However, future studies directly comparing different biological drugs and assessing the efficacy of treatment strategies specific for PsA are urgently needed.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Routine Laboratory Parameter Dynamics and Laboratory Adverse Events in Psoriasis Patients on Long-term Treatment with Adalimumab, Etanercept, and Ustekinumab. Only limited data on laboratory parameter dynamics and safety under prolonged biologic treatment in a \"real-world\" scenario are available for recommendations on screening and monitoring. This study is a retrospective analysis of routine parameter dynamics and laboratory adverse events (LAE) in psoriasis patients on long-term treatment (n = 199) with tumour necrosis factor (TNF)-\u03b1-antagonists (adalimumab, etanercept), and the interleukin (IL)12/23-antagonist ustekinumab. Overall, neutrophil (PMN) counts (-11%) and triglycerides (+9%) changed considerably. TNF-\u03b1-antagonists and ustekinumab differentially affected lymphocyte counts (+13% and \u00b10%, respectively). Dynamics were pronounced during the first 180 days of treatment. In 340 treatment-years, 15 Common Terminology Criteria for Adverse Events (CTCAE) III-IV\u00b0 LAE were recorded (11 involved liver enzymes). They prompted alteration of the biologic regime in only 2 cases. Age, sex, previous systemic treatments, and psoriatic arthritis did not significantly predict LAE. Liver enzyme and triglyceride screening may be warranted in some instances. Our data suggest that unguided monitoring of other routine laboratory parameters is unnecessary under long-term biologic treatment.", 
+          "qas": [
+            {
+              "question": "Which two interleukins are inhibited by Ustekinumab?", 
+              "id": "5a7244aa2dc08e987e00000f_008"
+            }
+          ]
+        }, 
+        {
+          "context": "CRTAP and LEPRE1 mutations in recessive osteogenesis imperfecta. Autosomal dominant osteogenesis imperfecta (OI) is caused by mutations in the genes (COL1A1 or COL1A2) encoding the chains of type I collagen. Recently, dysregulation of hydroxylation of a single proline residue at position 986 of both the triple-helical domains of type I collagen alpha1(I) and type II collagen alpha1(II) chains has been implicated in the pathogenesis of recessive forms of OI. Two proteins, cartilage-associated protein (CRTAP) and prolyl-3-hydroxylase-1 (P3H1, encoded by the LEPRE1 gene) form a complex that performs the hydroxylation and brings the prolyl cis-trans isomerase cyclophilin-B (CYPB) to the unfolded collagen. In our screen of 78 subjects diagnosed with OI type II or III, we identified three probands with mutations in CRTAP and 16 with mutations in LEPRE1. The latter group includes a mutation in patients from the Irish Traveller population, a genetically isolated community with increased incidence of OI. The clinical features resulting from CRTAP or LEPRE1 loss of function mutations were difficult to distinguish at birth. Infants in both groups had multiple fractures, decreased bone modeling (affecting especially the femurs), and extremely low bone mineral density. Interestingly, \"popcorn\" epiphyses may reflect underlying cartilaginous and bone dysplasia in this form of OI. These results expand the range of CRTAP/LEPRE1 mutations that result in recessive OI and emphasize the importance of distinguishing recurrence of severe OI of recessive inheritance from those that result from parental germline mosaicism for COL1A1 or COL1A2 mutations.", 
+          "qas": [
+            {
+              "question": "List the 6 genes associated with the autosomal recessive form of Osteogenesis imperfecta", 
+              "id": "5a70ce4ab750ff4455000064_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecular spectrum and differential diagnosis in patients referred with sporadic or autosomal recessive osteogenesis imperfecta. BACKGROUND: Osteogenesis imperfecta (OI) is a heterogeneous bone disorder characterized by recurrent fractures. Although most cases of OI have heterozygous mutations in COL1A1 or COL1A2 and show autosomal dominant inheritance, during the last years there has been an explosion in the number of genes responsible for both recessive and dominant forms of this condition. Herein, we have analyzed a cohort of patients with OI, all offspring of unaffected parents, to determine the spectrum of variants accounting for these cases. Twenty patients had nonrelated parents and were sporadic, and 21 were born to consanguineous relationships. METHODS: Mutation analysis was performed using a next-generation sequencing gene panel, homozygosity mapping, and whole exome sequencing (WES). RESULTS: Patients offspring of nonconsanguineous parents were mostly identified with COL1A1 or COL1A2 heterozygous changes, although there were also a few cases with IFITM5 and WNT1 heterozygous mutations. Only one sporadic patient was a compound heterozygote for two recessive mutations. Patients offspring of consanguineous parents showed homozygous changes in a variety of genes including CRTAP,FKBP10,LEPRE1,PLOD2,PPIB,SERPINF1,TMEM38B, and WNT1. In addition, two patients born to consanguineous parents were found to have de novo COL1A1 heterozygous mutations demonstrating that causative variants in the collagen I structural genes cannot be overlooked in affected children from consanguineous couples. Further to this, WES analysis in probands lacking mutations in OI genes revealed deleterious variants in SCN9A,NTRK1, and SLC2A2, which are associated with congenital indifference to pain (CIP) and Fanconi-Bickel syndrome (FBS). CONCLUSION: This work provides useful information for clinical and genetic diagnosis of OI patients with no positive family history of this disease. Our data also indicate that CIP and FBS are conditions to be considered in the differential diagnosis of OI and suggest a positive role of SCN9A and NTRK1 in bone development.", 
+          "qas": [
+            {
+              "question": "List the 6 genes associated with the autosomal recessive form of Osteogenesis imperfecta", 
+              "id": "5a70ce4ab750ff4455000064_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Type 1 collagenopathy presenting with a Russell-Silver phenotype. Osteogenesis imperfecta (OI) is a heterogeneous group of inherited disorders of bone formation, resulting in low bone mass and an increased propensity to fracture. It exhibits a broad spectrum of clinical severity, ranging from multiple fractures in utero and perinatal death, to normal adult stature and low fracture incidence. Extra-skeletal features of OI include blue sclera, hearing loss, skin hyperlaxity, joint hyperextensibility, and dentinogenesis imperfecta. The pro\u03b11(I) and pro\u03b12(I) chains of collagen 1 are encoded by the COL1A1 and COL1A2 genes, respectively; quantitative or qualitative defects in type I collagen synthesis usually manifest as types of OI or some sub-types of EDS. The majority of patients (about 90%) with a clinical diagnosis of OI have a mutation in the COL1A1 or COL1A2 genes, which shows an autosomal dominant pattern of inheritance. Six other genes, CRTAP, LEPRE1, FKBP10, PP1B, SP7/Osterix (OSX), and SERPINH1, are associated with autosomal recessive forms of OI. However, other, rare phenotypes have also been described. There are many differential diagnoses of the short, syndromic child, including chromosomal, single gene, and multifactorial causes. However, one condition of particular relevance in the context of this report is the Russell-Silver syndrome (RSS). As originally described, the RSS is a very specific condition. However, it has subsequently become an umbrella term for a heterogeneous group of conditions presenting with short stature and triangular shape to the face. A significant proportion of these are now believed to be due to imprinting defects at 11p15. However, the cause in many cases remains unknown. We describe two cases with a phenotypic overlap between OI and RSS who both have COL1A1 mutations. Thus, a type 1 collagenopathy should be considered in the differential diagnosis of syndromic short stature.", 
+          "qas": [
+            {
+              "question": "List the 6 genes associated with the autosomal recessive form of Osteogenesis imperfecta", 
+              "id": "5a70ce4ab750ff4455000064_002"
+            }
+          ]
+        }, 
+        {
+          "context": "A novel homozygous variant in SERPINH1 associated with a severe, lethal presentation of osteogenesis imperfecta with hydranencephaly. Osteogenesis imperfecta (OI) is a genetic disorder characterised by low bone mineral density resulting in fractures. 85-90% of patients with OI carry a variant in the type 1 collagen genes, COL1A1 and COL1A2, which follows an autosomal dominant pattern of inheritance. However, within the last two decades, there have been growing number of variants identified in genes that follow an autosomal recessive pattern of inheritance. Our proband is a child born in Mexico with multiple fractures of ribs, minimal calvarial mineralisation, platyspondyly, marked compression and deformed long bones. He also presented with significant hydranencephaly, requiring ventilatory support from birth, and died at 8days of age. A homozygous c.338_357delins22 variant in exon 2 of SERPINH1 was identified. This gene encodes heat shock protein 47, a collagen-specific chaperone which binds to the procollagen triple helix and is responsible for collagen stabilisation in the endoplasmic reticulum. There is minimal literature on the mechanism of action for variants in SERPINH1 resulting in osteogenesis imperfecta. Here we discuss this rare, previously unreported variant, and expand on the phenotypic presentation of this novel variant resulting in a severe, lethal phenotype of OI in association with hydranencephaly.", 
+          "qas": [
+            {
+              "question": "List the 6 genes associated with the autosomal recessive form of Osteogenesis imperfecta", 
+              "id": "5a70ce4ab750ff4455000064_003"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

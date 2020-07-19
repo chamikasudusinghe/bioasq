@@ -1,0 +1,703 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_001",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "Leukocytes accumulate in the injured region, where they cause tissue injury by several mechanisms, including occlusion of microvasculature, generation of oxygen free radicals, release of cytotoxic enzymes, alteration of vasomotor reactivity, and increase in cytokine and chemoattractant release. Monoclonal antibodies against leukocyte adhesion molecules have been shown to reduce infarct volume in animal models of ischemia-reperfusion. However, this treatment failed to show benefit in the Enlimomab Acute Stroke Trial. A number of factors may complicate the use of antibody directed adhesion molecule blockade in acute stroke and will be discussed in this article. Overall, an increased understanding of inflammatory and immunologic mechanisms still offers great potential for reducing acute stroke injury."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_002",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "There was no increase in the frequency of adverse events with increasing doses of enlimomab.CONCLUSIONS: Doses of enlimomab between 140 and 480 mg administered over 5 days did not increase the risk of adverse events in patients with ischaemic or haemorrhagic stroke during an observation period of 30 +/- 10 days."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_003",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "Examination of several potential mechanisms for the negative outcome in a clinical stroke trial of enlimomab, a murine anti-human intercellular adhesion molecule-1 antibody: a bedside-to-bench study. BACKGROUND AND PURPOSE: Enlimomab, a murine monoclonal anti-human intercellular adhesion molecule (ICAM)-1 antibody, had a negative outcome in a multicenter acute-stroke trial."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_004",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "BACKGROUND AND PURPOSE: Enlimomab, a murine monoclonal anti-human intercellular adhesion molecule (ICAM)-1 antibody, had a negative outcome in a multicenter acute-stroke trial."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_005",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "CONCLUSIONS: Administration to rats of a murine antibody preparation against ICAM-1, 1A29, elicits the production of host antibodies against the protein, activation of circulating neutrophils, complement activation, and sustained microvascular activation. These observations provide several possible mechanisms for central nervous system-related clinical deterioration that occurred when Enlimomab was given in acute ischemic stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_006",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "Fewer patients had symptom-free recovery on enlimomab than placebo (p = 0.004), and more died (22.2 versus 16.2%). The negative effect of enlimomab was apparent on days 5, 30, and 90 of treatment (p = 0.005). There were significantly more adverse events with enlimomab treatment than placebo, primarily infections and fever."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_007",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "CONCLUSIONS: The authors conclude that anti-ICAM therapy with enlimomab is not an effective treatment for ischemic stroke in the model studied and, indeed, may significantly worsen stroke outcome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74acd80384be9551000006_001",
+              "question": "Are AAV vectors considered for the treatment of retinal dystrophies?"
+            }
+          ],
+          "context": "Clinical trials treating inherited retinal dystrophy caused by RPE65 mutations had put retinal gene therapy at the forefront of gene therapy. Both successes and limitations in these clinical trials have fueled developments in gene vectors, which continue to further advance the field. These novel gene vectors aim to more safely and efficiently transduce retinal cells, expand the gene packaging capacity of AAV, and utilize new strategies to correct the varying mechanisms of dysfunction found with inherited retinal dystrophies. With recent clinical trials and numerous pre-clinical studies utilizing these novel vectors, the future of ocular gene therapy continues to hold vast potential."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_001",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "The quality of included articles was evaluated by using Revman5.0, and meta-analysis was performed. The results showed that 1027 articles were obtained in initial retrieval, and finally 7 articles, involving a total of 4039 cases, were included for analysis. The meta-analysis showed that no significant differences were found in the long-term mortality (OR=0.91, 95% CI 0.07 to 1.09, P=0.30), the rate of dependency (OR=1.02, 95% CI 0.87 to 1.24, P=0.85), and the effective rate (OR=0.98, 95% CI 0.84 to 1.14, P=0.82) between citicoline group and control group. The overall rate of adverse events in citicoline group was not significantly different from that in control group (P=0.30). The quality of included articles reached moderate-low level."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_002",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "The overall rate of adverse events in citicoline group was not significantly different from that in control group (P=0.30). The quality of included articles reached moderate-low level. In conclusion, citicolne cannot reduce long-term mortality and dependence rate in the treatment of acute stroke, and the effective rate of citivoline may be not better than that of controls but with reliable safety."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_003",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "Citicoline (CDP-choline) increases Sirtuin1 expression concomitant to neuroprotection in experimental stroke. CDP-choline has shown neuroprotective effects in cerebral ischemia. In humans, although a recent trial International Citicoline Trial on Acute Stroke (ICTUS) has shown that global recovery is similar in CDP-choline and placebo groups, CDP-choline was shown to be more beneficial in some patients, such as those with moderate stroke severity and not treated with t-PA. Several mechanisms have been proposed to explain the beneficial actions of CDP-choline. We have now studied the participation of Sirtuin1 (SIRT1) in the neuroprotective actions of CDP-choline."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_004",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "INTERPRETATION: Under the circumstances of the ICTUS trial, citicoline is not efficacious in the treatment of moderate-to-severe acute ischaemic stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_005",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "37 centres in Spain, 11 in Portugal, and 11 in Germany recruited patients. Of the 2298 patients who gave informed consent and underwent randomisation, 1148 were assigned to citicoline and 1150 to placebo. The trial was stopped for futility at the third interim analysis on the basis of complete data from 2078 patients. The final randomised analysis was based on data for 2298 patients: 1148 in citicoline group and 1150 in placebo group. Global recovery was similar in both groups (odds ratio 1\u00b703, 95% CI 0\u00b786-1\u00b725; p=0\u00b7364)."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_006",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "The trial was stopped for futility at the third interim analysis on the basis of complete data from 2078 patients. The final randomised analysis was based on data for 2298 patients: 1148 in citicoline group and 1150 in placebo group. Global recovery was similar in both groups (odds ratio 1\u00b703, 95% CI 0\u00b786-1\u00b725; p=0\u00b7364). No significant differences were reported in the safety variables nor in the rate of adverse events. INTERPRETATION:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad240f70340b9f058000015_001",
+              "question": "Is human lysyl oxidase-like 2 a glycoprotein?"
+            }
+          ],
+          "context": "This method was successfully applied to a novel recombinant protein, human lysyl oxidase-like 2. Furthermore, the glycosylation PTMs were readily detected at two glycosylation sites in the protein."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad240f70340b9f058000015_002",
+              "question": "Is human lysyl oxidase-like 2 a glycoprotein?"
+            }
+          ],
+          "context": "A general protease digestion procedure for optimal protein sequence coverage and post-translational modifications analysis of recombinant glycoproteins: application to the characterization of human lysyl oxidase-like 2 glycosylation. Using recombinant DNA technology for expression of protein therapeutics is a maturing field of pharmaceutical research and development. As recombinant proteins are increasingly utilized as biotherapeutics, improved methodologies ensuring the characterization of post-translational modifications (PTMs) are needed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad240f70340b9f058000015_003",
+              "question": "Is human lysyl oxidase-like 2 a glycoprotein?"
+            }
+          ],
+          "context": "The N-glycosylation site at Asn-644 in the LOX catalytic domain is not conserved in human LOX (hLOX), although the LOX catalytic domain of hLOX shares \u223c50% identity and \u223c70% homology with hLOXL2. The catalytic domain of hLOX was not secreted from S2 cells using the same expression system. These results suggest that the N-glycan at Asn-644 of hLOXL2 enhances the solubility and stability of the LOX catalytic domain."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad3013d0340b9f058000019_001",
+              "question": "Can GDF15 be a biomarker for metformin treatment?"
+            }
+          ],
+          "context": "Growth Differentiation Factor 15 as a Novel Biomarker for Metformin. OBJECTIVE: Metformin is a commonly used glucose-lowering drug."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad3013d0340b9f058000019_002",
+              "question": "Can GDF15 be a biomarker for metformin treatment?"
+            }
+          ],
+          "context": "A 1.64 ng/mL higher GDF15 level predicted a 188-mg higher metformin dose (P < 0.0001). CONCLUSIONS: GDF15 levels are a biomarker for the use of metformin in people with dysglycemia, and its concentration reflects the dose of metformin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa395fcd6d6b54f79000007_001",
+              "question": "Has rituximab been considered as a treatment for chronic fatigues syndrome? (November 2017)"
+            }
+          ],
+          "context": "Because of the range of symptoms of CFS/ME, treatment approaches vary widely. Studies undertaken have heterogeneous designs and are limited by sample size, length of follow-up, applicability and methodological quality. The use of rintatolimod and rituximab as well as counselling, behavioural and rehabilitation therapy programs may be of benefit for CFS/ME, but the evidence of their effectiveness is still limited. Similarly, adaptive pacing appears to offer some benefits, but the results are debatable: so is the use of nutritional supplements, which may be of value to CFS/ME patients with biochemically proven deficiencies. To summarize, the recommended treatment strategies should include proper administration of nutritional supplements in CFS/ME patients with demonstrated deficiencies and personalized pacing programs to relieve symptoms and improve performance of daily activities, but a larger randomized controlled trial (RCT) evaluation is required to confirm these preliminary observations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab9032afcf4565872000018_001",
+              "question": "Does oncogene-induced DNA replication stress inhibit genomic instability?"
+            }
+          ],
+          "context": "Oncogene-induced DNA replication stress is thought to drive genomic instability in cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab9032afcf4565872000018_002",
+              "question": "Does oncogene-induced DNA replication stress inhibit genomic instability?"
+            }
+          ],
+          "context": "We used the number of SNSs in the various lesions to calculate mutation rates for normal colon and adenomas and found that colon adenomas exhibit a mutator phenotype. Interestingly, the SNSs in the adenomas mapped more often than expected within very large genes, where focal deletions in response to DNA replication stress also map. We propose that single-stranded DNA generated in response to oncogene-induced replication stress compromises the repair of deaminated cytosines and other damaged bases, leading to the observed SNS mutator phenotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_001",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": ". Brucellosis is a major cause of pyrexia of unknown origin (PUO)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_002",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Brucellosis is the most common bacterial zoonosis, and causes a considerable burden of disease in endemic countries. Cardiovascular involvement is the main cause of mortality due to infection with Brucella spp,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_003",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "quite abruptly, he developed asthenia and hypersomnia without any apparent cause or symptoms like fever, chills, or night sweats. On November 14, 2009, he suffered from pain and edema in the right testicle that coincided with pain in the abdomen. Clinical, serological, and bacteriological investigations confirmed the first case of unilateral orchitis in man in Ecuador caused by Brucella abortus biovar 1"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_004",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "[Brucella abortus endocarditis: survival of a 74 year old patient]. Brucellosis is not frequent in Chile but it may present with life threatening complications like endocarditis. The case reported refers to a 74 year old man admitted to the Infectious Diseases Hospital Dr. Lucio C\u00f3rdova in Santiago. He had been febrile for 3 months with no specific symptoms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_005",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Human brucellosis exhibits diverse pathological manifestations that can affect almost any organ. In particular, osteoarticular complications are the most common focal manifestation of brucellosis and occur in 40-80% of patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_006",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Brucella. Human brucellosis often makes the diagnosis difficult. The symptoms and clinical signs most commonly reported are fever, fatigue, malaise, chills, sweats headaches, myalgia, arthralgia, and weight loss. Some cases have been presented with only joint pain, lower backache, and involuntary limb movement, burning feet, or ischemic heart attacks."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_007",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Forty-five cases were collected (31 acute and 14 sub-acute). Contamination was digestive in 62%. Symptoms of patients were fever (93%), sweating (82%), arthralgia (78%) and splenomegaly (51%). Elevated erythrocyte sedimentation rate was determined in 80%, leukopenia in 49% and anaemia in 37% of cases. Blood cultures were positives in 39% of cases. The four sequenced strains were identified as Brucella melitensis biovar abortus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd3707fcf456587200002d_001",
+              "question": "Is the petrous bone used in ancient DNA sampling?"
+            }
+          ],
+          "context": "Large-scale genomic analyses of ancient human populations have become feasible partly due to refined sampling methods. The inner part of petrous bones and the cementum layer in teeth roots are currently recognized as the best substrates for such research."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd3707fcf456587200002d_002",
+              "question": "Is the petrous bone used in ancient DNA sampling?"
+            }
+          ],
+          "context": "Ancient DNA (aDNA) research involves invasive and destructive sampling procedures that are often incompatible with anthropological, anatomical, and bioarcheological analyses requiring intact skeletal remains. The osseous labyrinth inside the petrous bone has been shown to yield higher amounts of endogenous DNA than any other skeletal element; however, accessing this labyrinth in cases of a complete or reconstructed skull involves causing major structural damage to the cranial vault or base."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd3707fcf456587200002d_003",
+              "question": "Is the petrous bone used in ancient DNA sampling?"
+            }
+          ],
+          "context": "Ancient DNA makes it possible to observe natural selection directly by analysing samples from populations before, during and after adaptation events. Here we report a genome-wide scan for selection using ancient DNA, capitalizing on the largest ancient DNA data set yet assembled: 230 West Eurasians who lived between 6500 and 300 bc, including 163 with newly reported data. The new samples include, to our knowledge, the first genome-wide ancient DNA from Anatolian Neolithic farmers, whose genetic material we obtained by extracting from petrous bones, and who we show were members of the population that was the source of Europe's first farmers. We also report a transect of the steppe region in Samara between 5600 and 300 bc, which allows us to identify admixture into the steppe from at least two external sources. We detect selection at loci associated with diet, pigmentation and immunity, and two independent episodes of selection on height."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_001",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "However, advances in molecular biology, sequencing, and computational tools uncovered that numerous segments within these genomic elements do contribute to the regulation of gene expression. Introns are differentially removed in a cell type-specific manner to produce a range of alternatively-spliced transcripts, and many span tens to hundreds of kilobases. Recent work in human and fruitfly tissues revealed that long introns are extensively processed cotranscriptionally and in a stepwise manner, before their two flanking exons are spliced together. This process, called \"recursive splicing,\" often involves non-canonical splicing elements positioned deep within introns, and different mechanisms for its deployment have been proposed. Still, the very existence and widespread nature of recursive splicing offers a new regulatory layer in the transcript maturation pathway, which may also have implications in human disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_002",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Cutting a Long Intron Short: Recursive Splicing and Its Implications. Over time eukaryotic genomes have evolved to host genes carrying multiple exons separated by increasingly larger intronic, mostly non-protein-coding, sequences. Initially, little attention was paid to these intronic sequences, as they were considered not to contain regulatory information."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_003",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "In this paper, we present a new classification of RNA-Seq reads based on three major stages of splicing: pre-, intermediate- and post-splicing. Applying this novel classification we demonstrate the possibility to analyze the order of splicing. Furthermore, we uncover the potential to investigate the multi-step nature of splicing, assessing various types of recursive splicing events. We provide the data that gives biological insight into the order of splicing, show that non-sequential splicing of certain introns is reproducible and coinciding in multiple cell lines. We validated our observations with independent experimental technologies and showed the reliability of our method."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_004",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recursive splicing is a process in which large introns are removed in multiple steps by re-splicing at ratchet points--5' splice sites recreated after splicing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_005",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "We also show that recursive splicing is a constitutive process, that depletion of U2AF inhibits recursive splicing, and that the sequence and function of ratchet points are evolutionarily conserved in Drosophila. Finally, we identify four recursively spliced human genes, one of which is also recursively spliced in Drosophila. Together, these results indicate that recursive splicing is commonly used in Drosophila, occurs in humans, and provides insight into the mechanisms by which some large introns are removed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_006",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recursive splicing in long vertebrate genes. It is generally believed that splicing removes introns as single units from precursor messenger RNA transcripts. However, some long Drosophila melanogaster introns contain a cryptic site, known as a recursive splice site (RS-site), that enables a multi-step process of intron removal termed recursive splicing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_007",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "The extent to which recursive splicing occurs in other species and its mechanistic basis have not been examined. Here we identify highly conserved RS-sites in genes expressed in the mammalian brain that encode proteins functioning in neuronal development. Moreover, the RS-sites are found in some of the longest introns across vertebrates. We find that vertebrate recursive splicing requires initial definition of an 'RS-exon' that follows the RS-site. The RS-exon is then excluded from the dominant mRNA isoform owing to competition with a reconstituted 5' splice site formed at the RS-site after the first splicing step."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_008",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "The peculiarities of large intron splicing in animals. In mammals a considerable 92% of genes contain introns, with hundreds and hundreds of these introns reaching the incredible size of over 50,000 nucleotides. These \"large introns\" must be spliced out of the pre-mRNA in a timely fashion, which involves bringing together distant 5' and 3' acceptor and donor splice sites."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_009",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "The peculiarities of large intron splicing in animals. In mammals a considerable 92% of genes contain introns, with hundreds and hundreds of these introns reaching the incredible size of over 50,000 nucleotides. These \"large introns\" must be spliced out of the pre-mRNA in a timely fashion, which involves bringing together distant 5' and 3' acceptor and donor splice sites. In invertebrates, especially Drosophila, it has been shown that larger introns can be spliced efficiently through a process known as recursive splicing-a consecutive splicing from the 5'-end at a series of combined donor-acceptor splice sites called RP-sites. Using a computational analysis of the genomic sequences, we show that vertebrates lack the proper enrichment of RP-sites in their large introns, and, therefore, require some other method to aid splicing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_010",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "These \"large introns\" must be spliced out of the pre-mRNA in a timely fashion, which involves bringing together distant 5' and 3' acceptor and donor splice sites. In invertebrates, especially Drosophila, it has been shown that larger introns can be spliced efficiently through a process known as recursive splicing-a consecutive splicing from the 5'-end at a series of combined donor-acceptor splice sites called RP-sites. Using a computational analysis of the genomic sequences, we show that vertebrates lack the proper enrichment of RP-sites in their large introns, and, therefore, require some other method to aid splicing. We analyzed over 15,000 non-redundant, large introns from six mammals, 1,600 from chicken and zebrafish, and 560 non-redundant large introns from five invertebrates. Our bioinformatic investigation demonstrates that, unlike the studied invertebrates, the studied vertebrate genomes contain consistently abundant amounts of direct and complementary strand interspersed repetitive elements (mainly SINEs and LINEs) that may form stems with each other in large introns."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_011",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Subdivision of large introns in Drosophila by recursive splicing at nonexonic elements. Many genes with important roles in development and disease contain exceptionally long introns, but special mechanisms for their expression have not been investigated. We present bioinformatic, phylogenetic, and experimental evidence in Drosophila for a mechanism that subdivides many large introns by recursive splicing at nonexonic elements and alternative exons."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_012",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recursive splice sites predicted with highly stringent criteria are found at much higher frequency than expected in the sense strands of introns>20 kb, but they are found only at the expected frequency on the antisense strands, and they are underrepresented within introns<10 kb."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_001",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "Lysyl oxidase (LOX) and LOX-like (LOXL) proteins play crucial roles in ECM remodeling due to their collagen crosslinking and intracellular functions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_002",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "Glycoproteins constituted the main structural components, with two proteins, FBN1 and LTBP2, constituting 70%-80% of the protein. Other abundant components were MFAP2, EMILIN-1, and ADAMTSL-6. Lysyl oxidase-like 1, a crosslinking enzyme implicated in collagen and elastin biogenesis, was detected at significant levels. The equatorial and hyaloid zonular samples were compositionally similar to each other, although the hyaloid sample was relatively enriched in the proteoglycan opticin and the fibrillar collagens COL2A1, COL11A1, COL5A2, and COL5A3. Conclusions:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_003",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "HPC behaviour in vitro, promoting their differentiation towards hepatocytes, while inhibiting ductal cell lineage commitment. CONCLUSIONS: LOXL2 mediates collagen crosslinking and fibrotic matrix stabilisation during liver fibrosis, and independently promotes fibrogenic HPC differentiation. By blocking these two convergent profibrotic pathways, therapeutic LOXL2 inhibition attenuates both parenchymal and biliary fibrosis and promotes fibrosis reversal."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_004",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "As a model we analyzed the human dermal substitute denovoDerm and the dermo-epidermal skin substitute denovoSkin. The quantification of the extracellular matrix proteins type III collagen and laminin 5 in tissue homogenates using western blotting analysis and ELISA was not successful. The same was true for assaying lysyl oxidase, an enzyme involved in crosslinking of matrix molecules. As an alternative, gene expression levels were measured using qPCR. Various RNA isolation procedures were probed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_005",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "Although the cell-intrinsic effects of EMT are important for tumor progression, the reciprocal dynamic crosstalk between mesenchymal cancer cells and the extracellular matrix (ECM) is equally critical in regulating invasion and metastasis. Investigating the collaborative effect of EMT and ECM in the metastatic process reveals increased collagen deposition in metastatic tumor tissues as a direct consequence of amplified collagen gene expression in ZEB1-activated mesenchymal lung cancer cells. In addition, collagen fibers in metastatic lung tumors exhibit greater linearity and organization as a result of collagen crosslinking by the lysyl oxidase (LOX) family of enzymes. Expression of the LOX and LOXL2 isoforms is directly regulated by miR-200 and ZEB1, respectively, and their upregulation in metastatic tumors and mesenchymal cell lines is coordinated to that of collagen. Functionally, LOXL2, as opposed to LOX, is the principal isoform that crosslinks and stabilizes insoluble collagen deposition in tumor tissues."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0817cd0c506ce46000001_001",
+              "question": "Is p53 a transcription factor?"
+            }
+          ],
+          "context": "MicroRNA Control of p53. Tumor suppressor p53 plays a central role in tumor suppression. As a transcription factor, p53 mainly exerts its tumor suppressive function through transcriptional regulation of many target genes. To maintain the proper function of p53, p53 protein level and activity are exquisitely controlled by a group of positive and negative regulators in cells. Thus, p53, its regulators, and regulated genes form a complicated p53 signaling network."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0817cd0c506ce46000001_002",
+              "question": "Is p53 a transcription factor?"
+            }
+          ],
+          "context": "Long noncoding RNAs in the p53 network. The tumor-suppressor protein p53 is activated in response to numerous cellular stresses including DNA damage. p53 functions primarily as a sequence-specific transcription factor that controls the expression of hundreds of protein-coding genes and noncoding RNAs, including microRNAs (miRNAs) and long noncoding RNAs (lncRNAs). While the role of protein-coding genes and miRNAs in mediating the effects of p53 has been extensively studied, the physiological function and molecular mechanisms by which p53-regulated lncRNAs act is beginning to be understood. In this review, we discuss recent studies on lncRNAs that are directly or indirectly regulated by p53 and how they contribute to the biological outcomes of p53 activation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0817cd0c506ce46000001_003",
+              "question": "Is p53 a transcription factor?"
+            }
+          ],
+          "context": "When such damage is prolonged or not repairable, senescence, apoptosis or autophagy is induced. One major level of DDR regulation occurs via the orchestrated transcriptional control of select sets of genes encoding proteins that mediate the response. p53 is a transcription factor that transactivates specific DDR downstream genes through binding DNA consensus sequences usually in or near target gene promoter regions. The profile of p53-regulated genes activated at any given time varies, and is dependent upon type of DNA damage or stress experienced, exact composition of the consensus DNA binding sequence, presence of other DNA binding proteins, as well as cell context. RAD9 is another protein critical for the response of cells to DNA damage, and can also selectively regulate gene transcription."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_001",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "o determine the difference in sternal infection and other infectious events between conventional wire and cable-tie-based closure techniques post-sternotomy in a collective of patients after cardiac surgery."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_002",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "Our study underlines a neutral effect of the sternal ZipFix\u2122 system in patients regarding sternal infection. Postoperative complications are similar in both sternal closure methods. The cable-tie-based system is fast, easy to use, reliable and safe."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_003",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "Wire closure still remains the preferred technique despite reasonable disadvantages. Associated complications, such as infection and sternal instability, cause time- and cost-consuming therapies. We present a new tool for sternal closure with its first clinical experience and results.METHODS: The sternal ZipFix(TM) System is based on the cable-tie principle."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_004",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "In our initial evaluation, the short-term results have shown that the sternal ZipFix(TM) can be used safely and effectively. It is fast, easy to use and serves as a potential alternative for traditional wire closure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_001",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "Functional roles of enhancer RNAs for oestrogen-dependent transcriptional activation. The functional importance of gene enhancers in regulated gene expression is well established. In addition to widespread transcription of long non-coding RNAs (lncRNAs) in mammalian cells, bidirectional ncRNAs are transcribed on enhancers, and are thus referred to as enhancer RNAs (eRNAs). However, it has remained unclear whether these eRNAs are functional or merely a reflection of enhancer activation. Here we report that in human breast cancer cells 17\u03b2-oestradiol (E2)-bound oestrogen receptor \u03b1 (ER-\u03b1) causes a global increase in eRNA transcription on enhancers adjacent to E2-upregulated coding genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_002",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "The androgen receptor (AR) is a key factor that regulates the behavior and fate of prostate cancer cells. The AR-regulated network is activated when AR binds enhancer elements and modulates specific enhancer-promoter looping. Kallikrein-related peptidase 3 (KLK3), which codes for prostate-specific antigen (PSA), is a well-known AR-regulated gene and its upstream enhancers produce bidirectional enhancer RNAs (eRNAs), termed KLK3e. Here, we demonstrate that KLK3e facilitates the spatial interaction of the KLK3 enhancer and the KLK2 promoter and enhances long-distance KLK2 transcriptional activation. KLK3e carries the core enhancer element derived from the androgen response element III (ARE III), which is required for the interaction of AR and Mediator 1 (Med1)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_003",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "Since the discovery that many transcriptional enhancers are transcribed into long noncoding RNAs termed \"enhancer RNAs\" (eRNAs), their putative role in enhancer function has been debated. Very recent evidence has indicted that some eRNAs play a role in initiating or activating transcription, possibly by helping recruit and/or stabilize binding of the general transcription machinery to the proximal promoter of their target genes. The distal enhancer of the gonadotropin hormone \u03b1-subunit gene, chorionic gonadotropin alpha (Cga), is responsible for Cga cell-specific expression in gonadotropes and thyrotropes, and we show here that it encodes two bidirectional nonpolyadenylated RNAs whose levels are increased somewhat by exposure to gonadotropin-releasing hormone but are not necessarily linked to Cga transcriptional activity. Knockdown of the more distal eRNA led to a drop in Cga mRNA levels, initially without effect on the forward eRNA levels. With time, however, the repression on the Cga increased, and the forward eRNA levels were suppressed also."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_004",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "A richer picture has taken shape, integrating transcription of coding genes, enhancer RNAs (eRNAs), and various other noncoding transcriptional events. In this review we give an overview of recent studies detailing the mechanisms of RNA polymerase II (RNA Pol II)-based transcriptional initiation and discuss the ways in which transcriptional direction is established as well as its functional implications."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_005",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "XR-seq maps capture transcription-coupled repair at sites of divergent gene promoters and bidirectional enhancer RNA (eRNA) production at enhancers"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad35933133db5eb78000001_001",
+              "question": "Is the protein pelota a ribosomal rescue factor?"
+            }
+          ],
+          "context": "In higher eukaryotes, transfer RNAs (tRNAs) with the same anticodon are encoded by multiple nuclear genes, and little is known about how mutations in these genes affect translation and cellular homeostasis. Similarly, the surveillance systems that respond to such defects in higher eukaryotes are not clear. Here, we discover that loss of GTPBP2, a novel binding partner of the ribosome recycling protein Pelota, in mice with a mutation in a tRNA gene that is specifically expressed in the central nervous system causes ribosome stalling and widespread neurodegeneration. Our results not only define GTPBP2 as a ribosome rescue factor but also unmask the disease potential of mutations in nuclear-encoded tRNA genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad35933133db5eb78000001_002",
+              "question": "Is the protein pelota a ribosomal rescue factor?"
+            }
+          ],
+          "context": "However, when ribosomes translate an aberrant mRNA, they stall. Then, ribosomes are rescued from the aberrant mRNA, and the aberrant mRNA is subsequently degraded. In eukaryotes, Pelota (Dom34 in yeast) and Hbs1 are responsible for solving general problems of ribosomal stall in translation. In archaea, aPelota and aEF1\u03b1, homologous to Pelota and Hbs1, respectively, are considered to be involved in that process. In recent years, great progress has been made in determining structures of Dom34/aPelota and Hbs1/aEF1\u03b1."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad35933133db5eb78000001_003",
+              "question": "Is the protein pelota a ribosomal rescue factor?"
+            }
+          ],
+          "context": "Structural basis for mRNA surveillance by archaeal Pelota and GTP-bound EF1\u03b1 complex. No-go decay and nonstop decay are mRNA surveillance pathways that detect translational stalling and degrade the underlying mRNA, allowing the correct translation of the genetic code. In eukaryotes, the protein complex of Pelota (yeast Dom34) and Hbs1 translational GTPase recognizes the stalled ribosome containing the defective mRNA. Recently, we found that archaeal Pelota (aPelota) associates with archaeal elongation factor 1\u03b1 (aEF1\u03b1) to act in the mRNA surveillance pathway, which accounts for the lack of an Hbs1 ortholog in archaea. Here we present the complex structure of aPelota and GTP-bound aEF1\u03b1 determined at 2.3-\u00c5 resolution."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d9ab94e03427e73000003_001",
+              "question": "Is Cystatin D a biomarker?"
+            }
+          ],
+          "context": "Cystatin D (CST5): An ultra-early inflammatory biomarker of traumatic brain injury. Traumatic brain injury (TBI) is set to become the leading cause of neurological disability across all age groups. Currently, no reliable biomarkers exist to help diagnose the severity of TBI to identify patients who are at risk of developing secondary injuries."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9db99ffd02ddc336000001_001",
+              "question": "Is CXCL7 a chemokine?"
+            }
+          ],
+          "context": "Monomer Binding to CXCR2 Receptor N-Domain and Glycosaminoglycan Heparin. CXCL7, a chemokine highly expressed in platelets, orchestrates neutrophil recruitment during thrombosis and related pathophysiological processes by interacting with CXCR2 receptor and sulfated glycosaminoglycans (GAG). CXCL7 exists as monomers and dimers, and dimerization (~50 \u03bcM) and CXCR2 binding (~10 nM) constants indicate that CXCL7 is a potent agonist as a monomer. Currently, nothing is known regarding the structural basis by which receptor and GAG interactions mediate CXCL7 function."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9db99ffd02ddc336000001_002",
+              "question": "Is CXCL7 a chemokine?"
+            }
+          ],
+          "context": "Chemokine CXCL7 Heterodimers: Structural Insights, CXCR2 Receptor Function, and Glycosaminoglycan Interactions. Chemokines mediate diverse fundamental biological processes, including combating infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab144fefcf4565872000012_001",
+              "question": "The TRPM2 gene is associated with development of spontaneous thromboembolism?"
+            }
+          ],
+          "context": "TheTransientReceptorPotentialMelastatin 2 (TRPM2) is a member of G protein coupled receptor superfamily and a novel dual-function protein that possesses both ion channel andAdenosine 5'-DiphosPhataseRibose (ADPR) hydrolase function. TRPM2 is involved in Ca2+signaling in various cells as an endogenous redox sensor for oxidative stress and reactive oxygen species, and contributes to cytokine production, insulin release, motility, Ca2+entry and Ca2+-dependent cellular reactions such as endothelial hyper-permeability and apoptosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab144fefcf4565872000012_002",
+              "question": "The TRPM2 gene is associated with development of spontaneous thromboembolism?"
+            }
+          ],
+          "context": "Role of the phagosomal redox-sensitive TRP channel TRPM2 in regulating bactericidal activity of macrophages. Acidification of macrophage phagosomes serves an important bactericidal function. We show here that the redox-sensitive transient receptor potential (TRP) cation channel TRPM2 is expressed in the phagosomal membrane and regulates macrophage bactericidal activity through the activation of phagosomal acidification. Measurement of the TRPM2 current in phagosomes identified TRPM2 as a functional redox-sensitive cation channel localized in the phagosomal membrane. Simultaneous measurements of phagosomal Ca changes and phagosome acidification in macrophages undergoing phagocytosis demonstrated that TRPM2 was required to mediate the efflux of cations and for phagosomal acidification during the process of phagosome maturation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0aee419833b0d7b000004_001",
+              "question": "Is a mutation of the  ZIKV's membrane protein prM responsible for the microcephaly in new-born infants?"
+            }
+          ],
+          "context": "Here we show that a single serine-to-asparagine substitution [Ser139\u2192Asn139(S139N)] in the viral polyprotein substantially increased ZIKV infectivity in both human and mouse neural progenitor cells (NPCs) and led to more severe microcephaly in the mouse fetus, as well as higher mortality rates in neonatal mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0aee419833b0d7b000004_002",
+              "question": "Is a mutation of the  ZIKV's membrane protein prM responsible for the microcephaly in new-born infants?"
+            }
+          ],
+          "context": "A single mutation in the prM protein of Zika virus contributes to fetal microcephaly. Zika virus (ZIKV) has evolved into a global health threat because of its unexpected causal link to microcephaly. Phylogenetic analysis reveals that contemporary epidemic strains have accumulated multiple substitutions from their Asian ancestor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_001",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "In healing wounds and fibrotic lesions, fibroblasts and monocyte-derived fibroblast-like cells called fibrocytes help to form scar tissue. Although fibrocytes promote collagen production by fibroblasts, little is known about signaling from fibroblasts to fibrocytes. In this report, we show that fibroblasts stimulated with the fibrocyte-secreted inflammatory signal tumor necrosis factor-\u03b1 secrete the small leucine-rich proteoglycan lumican, and that lumican, but not the related proteoglycan decorin, promotes human fibrocyte differentiation. Lumican competes with the serum fibrocyte differentiation inhibitor serum amyloid P, but dominates over the fibroblast-secreted fibrocyte inhibitor Slit2. Lumican acts directly on monocytes, and unlike other factors that affect fibrocyte differentiation, lumican has no detectable effect on macrophage differentiation or polarization."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_002",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "TNF-\u03b1-stimulated fibroblasts secrete lumican to promote fibrocyte differentiation. In healing wounds and fibrotic lesions, fibroblasts and monocyte-derived fibroblast-like cells called fibrocytes help to form scar tissue. Although fibrocytes promote collagen production by fibroblasts, little is known about signaling from fibroblasts to fibrocytes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_003",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "Secreted 70kDa lumican stimulates growth and inhibits invasion of human pancreatic cancer. Lumican expression in the stromal tissues of pancreatic ductal adenocarcinoma (PDAC) correlates with tumor invasion, and tends to correlate with poor prognosis. We used gene transfection techniques to examine the biological roles of lumican secreted from PDAC cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_004",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "This was accompanied by a distinct cytoskeletal actin rearrangement and gelsolin subcellular relocation, as observed under laser scaning confocal microscope. Moreover, LS180 cells overexpressing lumican tend to form podosome-like structures as indicated by vinculin redistribution and its colocalization with gelsolin and actin at the submembrane region of the cells. In conclusion, the elevated level of lumican secretion to extracellular space leads to actin cytoskeletal remodeling followed by an increase in migration capacity of human colon LS180 cells. These data suggest that lumican expression and its presence in ECM has an impact on colon cancer cells motility and may modulate invasiveness of colon cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_005",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "Pancreatic ductal adenocarcinoma (PDAC) is lethal cancer whose primary tumor is characterized by dense composition of cancer cells, stromal cells, and extracellular matrix (ECM) composed largely of collagen. Within the PDAC tumor microenvironment, activated pancreatic stellate cells (PSC) are the dominant stromal cell type and responsible for collagen deposition. Lumican is a secreted proteoglycan that regulates collagen fibril assembly. We have previously identified that the presence of lumican in the ECM surrounding PDAC cells is associated with improved patient outcome after multimodal therapy and surgical removal of localized PDAC. EXPERIMENTAL DESIGN:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_006",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "Both human metastatic melanoma cell lines were found to express lumican mRNA and effectively secrete lumican in a proteoglycan form, characterized to be substituted mostly with keratan sulfate chains. Lumican mRNA was not detected in normal melanocytes. This is the first time that the synthesis and secretion of lumican in human melanoma cell lines is reported. The role of this proteoglycan in the development and progression of malignant melanoma has to be further investigated."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

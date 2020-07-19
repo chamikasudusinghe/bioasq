@@ -1,0 +1,784 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a6a2dcab750ff4455000023_001",
+              "question": "Which are the constitutive parts of a Genomic Regulatory Block (GRB)?"
+            }
+          ],
+          "context": "We found the largest mammal-teleost conserved chromosomal segments to be spanned by highly conserved noncoding elements (HCNEs), their developmental regulatory target genes, and phylogenetically and functionally unrelated \"bystander\" genes. Bystander genes are not specifically under the control of the regulatory elements that drive the target genes and are expressed in patterns that are different from those of the target genes. Reporter insertions distal to zebrafish developmental regulatory genes pax6.1/2, rx3, id1, and fgf8 and miRNA genes mirn9-1 and mirn9-5 recapitulate the expression patterns of these genes even if located inside or beyond bystander genes, suggesting that the regulatory domain of a developmental regulatory gene can extend into and beyond adjacent transcriptional units. We termed these chromosomal segments genomic regulatory blocks (GRBs). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8861eb8cb19eca6b000001_001",
+              "question": "List the two most important synaptic markers."
+            }
+          ],
+          "context": "hese improvements in neuron viability and function were correlated with significant increases in the levels of post-synaptic marker PSD95 and the pre-synaptic marker synaptophysin. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8861eb8cb19eca6b000001_002",
+              "question": "List the two most important synaptic markers."
+            }
+          ],
+          "context": "post-synaptic density (PSD)-95 protein, a post-synaptic marker"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8861eb8cb19eca6b000001_003",
+              "question": "List the two most important synaptic markers."
+            }
+          ],
+          "context": "Hippocampal levels of synaptic marker postsynaptic density 95 (PSD-95) and synaptophysin (SVP) were measured using western blot analysis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8861eb8cb19eca6b000001_004",
+              "question": "List the two most important synaptic markers."
+            }
+          ],
+          "context": "These animals showed a significant loss of presynaptic markers (synaptophysin; p<0.001),"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8861eb8cb19eca6b000001_005",
+              "question": "List the two most important synaptic markers."
+            }
+          ],
+          "context": "increases in the levels of the pre-synaptic marker, synaptophysin, and the post-synaptic marker, PSD95, were also present"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_001",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Hemolysis in Acute Alcoholic Hepatitis: Zieve's Syndrome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_002",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Lab studies revealed hemolysis as the cause of anemia. The patient was diagnosed with Zieve's syndrome and managed with supportive measures."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_003",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "After exclusion of other possibilities, Zieve's syndrome was diagnosed. This is a condition of hyperbilirubinaemia, Coombs' negative haemolytic anaemia and hyperlipidaemia associated with alcoholism."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_004",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "We report a case of recurrent Zieve's syndrome, consisting of jaundice, hemolytic anemia and hyperlipoproteinemia, initiated by alcohol abuse. The crucial feature of this syndrome, which allows differentiation with common acute alcoholic hepatitis, is the presence of hemolysis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_005",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Zieve's syndrome consists of transient haemolytic anaemic, jaundice, hyperlipidaemia and alcohol-induced liver disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_006",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Zieve's syndrome (hyperlipidaemia, anaemia and fatty liver degeneration) may rarely occur with intracranial haemorrhage. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_007",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Alcohol-associated haemolysis in Zieve's syndrome: a clinical and laboratory study of five cases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_008",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "In 1958 Zieve described a syndrome of jaundice, hyperlipidaemia, and transient haemolytic anaemia associated with alcohol abuse. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_009",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Zieve's syndrome, characterized by jaundice, hyperlipaemia and haemolytic anaemia, usually develops in young, chronically alcoholic subjects with enlarged fatty liver. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_010",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Zieve's syndrome (ZS), which consists of transient haemolytic anaemia, jaundice, hyperlipoproteinaemia, and alcohol-induced liver disease, was studied in male patients during the acute (n = 20) and the remittent (n = 10) phase. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_011",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Red cell metabolic and membrane features in haemolytic anaemia of alcoholic liver disease (Zieve's syndrome)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_012",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "[Changes of erythrocyte membrane lipids in ethanol induced hyperlipidemia (Zieve's syndrome) (author's transl)]."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_013",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "In 11 patients with alcohol-induced hyperlipemia, of whom 6 showed a Zieve Syndrome increased phospholipids, triglycerides and total cholesterol were found in the red cells stromal."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_014",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "The macroscopic and microscopic findings of a case of Zieve's syndrome are described (fatty liver, icterus, hyperlipemia and hemolytic anemia in chronic alcoholism). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_015",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "Reversible haemolytic anaemia associated with decreased red cell half-life and reticulocytosis was studied in 10 patients with Zieve's syndrome. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75ee7e83b0d9ea66000005_016",
+              "question": "List symptoms of the Zieve's syndrome."
+            }
+          ],
+          "context": "The Zieve's syndrome consists of the transient association of cholestatic jaundice, hemolytic anemia, hyperlipemia, in a chronic alcoholic. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7636d39e632bc066000004_001",
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?"
+            }
+          ],
+          "context": "signeR: an empirical Bayesian approach to mutational signature discovery."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7636d39e632bc066000004_002",
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?"
+            }
+          ],
+          "context": "Mutational signatures can be used to understand cancer origins and provide a unique opportunity to group tumor types that share the same origins and result from similar processes. These signatures have been identified from high throughput sequencing data generated from cancer genomes by using non-negative matrix factorisation (NMF) techniques. Current methods based on optimization techniques are strongly sensitive to initial conditions due to high dimensionality and nonconvexity of the NMF paradigm. In this context, an important question consists in the determination of the actual number of signatures that best represent the data. The extraction of mutational signatures from high-throughput data still remains a daunting task.RESULTS: Here we present a new method for the statistical estimation of mutational signatures based on an empirical Bayesian treatment of the NMF model. While requiring minimal intervention from the user, our method addresses the determination of the number of signatures directly as a model selection problem. In addition, we introduce two new concepts of significant clinical relevance for evaluating the mutational profile. The advantages brought by our approach are shown by the analysis of real and synthetic data. The later is used to compare our approach against two alternative methods mostly used in the literature and with the same NMF parametrization as the one considered here. Our approach is robust to initial conditions and more accurate than competing alternatives. It also estimates the correct number of signatures even when other methods fail. Results on real data agree well with current knowledge.AVAILABILITY AND IMPLEMENTATION: signeR is implemented in R and C\u2009++, and is available as a R package at http://bioconductor.org/packages/signeR"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7636d39e632bc066000004_003",
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?"
+            }
+          ],
+          "context": "Cancers arise as the result of somatically acquired changes in the DNA of cancer cells. However, in addition to the mutations that confer a growth advantage, cancer genomes accumulate a large number of somatic mutations resulting from normal DNA damage and repair processes as well as carcinogenic exposures or cancer related aberrations of DNA maintenance machinery. These mutagenic processes often produce characteristic mutational patterns called mutational signatures. The decomposition of a cancer genome's mutation catalog into mutations consistent with such signatures can provide valuable information about cancer etiology. However, the results from different decomposition methods are not always consistent. Hence, one needs to be able to not only decompose a patient's mutational profile into signatures but also establish the accuracy of such decomposition.Results: We proposed two complementary ways of measuring confidence and stability of decomposition results and applied them to analyze mutational signatures in breast cancer genomes. We identified both very stable and highly unstable signatures, as well as signatures that previously have not been associated with breast cancer. We also provided additional support for the novel signatures. Our results emphasize the importance of assessing the confidence and stability of inferred signature contributions.Availability: All tools developed in this paper have been implemented in an R package, called SignatureEstimation, which is available from https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#signatureestimation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7636d39e632bc066000004_004",
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?"
+            }
+          ],
+          "context": "Recent advances in sequencing technologies have enabled the production of massive amounts of data on somatic mutations from cancer genomes. These data have led to the detection of characteristic patterns of somatic mutations or \"mutation signatures\" at an unprecedented resolution, with the potential for new insights into the causes and mechanisms of tumorigenesis. Here we present new methods for modelling, identifying and visualizing such mutation signatures. Our methods greatly simplify mutation signature models compared with existing approaches, reducing the number of parameters by orders of magnitude even while increasing the contextual factors (e.g. the number of flanking bases) that are accounted for. This improves both sensitivity and robustness of inferred signatures. We also provide a new intuitive way to visualize the signatures, analogous to the use of sequence logos to visualize transcription factor binding sites. We illustrate our new method on somatic mutation data from urothelial carcinoma of the upper urinary tract, and a larger dataset from 30 diverse cancer types. The results illustrate several important features of our methods, including the ability of our new visualization tool to clearly highlight the key features of each signature, the improved robustness of signature inferences from small sample sizes, and more detailed inference of signature characteristics such as strand biases and sequence context effects at the base two positions 5' to the mutated site. The overall framework of our work is based on probabilistic models that are closely connected with \"mixed-membership models\" which are widely used in population genetic admixture analysis, and in machine learning for document clustering. We argue that recognizing these relationships should help improve understanding of mutation signature extraction problems, and suggests ways to further improve the statistical methods. Our methods are implemented in an R package pmsignature (https://github.com/friend1ws/pmsignature) and a web application available at https://friend1ws.shinyapps.io/pmsignature_shiny/."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7636d39e632bc066000004_005",
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?"
+            }
+          ],
+          "context": "SomaticSignatures: inferring mutational signatures from single-nucleotide variants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7636d39e632bc066000004_006",
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?"
+            }
+          ],
+          "context": "Mutational signatures are patterns in the occurrence of somatic single-nucleotide variants that can reflect underlying mutational processes. The SomaticSignatures package provides flexible, interoperable and easy-to-use tools that identify such signatures in cancer sequencing data. It facilitates large-scale, cross-dataset estimation of mutational signatures, implements existing methods for pattern decomposition, supports extension through user-defined approaches and integrates with existing Bioconductor workflows.AVAILABILITY AND IMPLEMENTATION: The R package SomaticSignatures is available as part of the Bioconductor project. Its documentation provides additional details on the methods and demonstrates applications to biological datasets."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981e66fcd1d6a10c00002f_001",
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors."
+            }
+          ],
+          "context": " Metabolic syndrome (MetS) is a collection of clinical conditions, including central obesity, hypertension, glucose intolerance and dyslipidemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981e66fcd1d6a10c00002f_002",
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors."
+            }
+          ],
+          "context": "Metabolic syndrome (MetS) is generally defined as a cluster of metabolically related cardiovascular risk factors which are often associated with the condition of insulin resistance, elevated blood pressure, and abdominal obesity"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981e66fcd1d6a10c00002f_003",
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors."
+            }
+          ],
+          "context": "Metabolic syndrome, defined as a cluster of obesity, hypertension, dyslipidemia, and insulin resistance/glucose intolerance, has been identified as a major risk factor for coronary heart disease in women."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981e66fcd1d6a10c00002f_004",
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors."
+            }
+          ],
+          "context": "Metabolic syndrome is a cluster of conditions that synergistically increase the risk of cardiovascular disease, type 2 diabetes, and premature mortality. The components are abdominal obesity, impaired glucose metabolism, dyslipidemia, and hypertension."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981e66fcd1d6a10c00002f_005",
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors."
+            }
+          ],
+          "context": "MetS is recognized clinically by numerous constitutive traits, including abdominal obesity, hypertension, dyslipidemia (elevated triglycerides, low high-density lipoprotein cholesterol), and hyperglycemia. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981e66fcd1d6a10c00002f_006",
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors."
+            }
+          ],
+          "context": "Abdominal obesity is frequently associated with a collection of metabolic disorders that include elevated blood pressure, characteristic lipid abnormalities (low high-density lipoprotein cholesterol and high triglycerides) and increased fasting glucose, with an underlying situation of insulin resistance, which has been defined as metabolic syndrome"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_001",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "Diagnosing acute HIV infection at point of care: a retrospective analysis of the sensitivity and specificity of a fourth-generation point-of-care test for detection of HIV core protein p24."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_002",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "Previous evaluation of the fourth-generation Alere Determine HIV-1/2 Ag/Ab Combo POCT showed only 50% sensitivity for HIV core protein p24 (p24 antigen) detection, which is suboptimal for diagnosis of acute HIV infection with limited advantage over third-generation POCT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_003",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "CONCLUSIONS: This new POCT shows improved sensitivity for detection of p24 antigen and may be of value for clinical use in detecting acute HIV infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_004",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "While fourth generation antigen-antibody combination assays have been successful in high-resource settings, rapid point of care (POC) versions of these assays have yet to demonstrate high sensitivity to detect AHI. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_005",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "STUDY DESIGN: A total of 30,201 sera were tested for HIV diagnosis using Abbott Architect\u00aeHIV-Ag/Ab-Combo 4th-gen-EIA at a hospital in Spain during 17 months. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_006",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "OBJECTIVE: To determine if fourth-generation antigen/antibody (Ag/Ab) rapid diagnostic tests (RDT) would have detected HIV infection earlier than the third-generation RDT used in MTN-003 (VOICE)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_007",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "BACKGROUND: Fourth generation assays detect simultaneously antibodies for HIV and the p24 antigen, identifying HIV infection earlier than previous generation tests."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_008",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "The status of clients on ART was additionally confirmed by fourth-generation HIV Ag/Ab combo tests, Architect and Genscreen Ultra."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_009",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "INTRODUCTION: We describe the overall accuracy and performance of a serial rapid HIV testing algorithm used in community-based HIV testing in the context of a population-based household survey conducted in two sub-districts of uMgungundlovu district, KwaZulu-Natal, South Africa, against reference fourth-generation HIV-1/2 antibody and p24 antigen combination immunoassays."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68fd01b750ff445500001b_010",
+              "question": "What is included in the fourth generation HIV test?"
+            }
+          ],
+          "context": "The sample was later routinely tested with a fourth generation antigen/antibody assay as per local protocol and was strongly positive."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_001",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "Respect for Autonomy (RFA) has been a mainstay of medical ethics since its enshrinement as one of the four principles of biomedical ethics by Beauchamp and Childress' in the late 1970s"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_002",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "There are four principles of medical ethics; Beneficence, Respect for autonomy, Non-maleficence, and Justice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_003",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "This paper argues that the four prima facie principles-beneficence, non-maleficence, respect for autonomy and justice-afford a good and widely acceptable basis for 'doing good medical ethics'. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_004",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "Contemporary clinical ethics was founded on principlism, and the four principles: respect for autonomy, nonmaleficence, beneficence and justice, remain dominant in medical ethics discourse and practice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_005",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "Each of the four principles (beneficence, nonmaleficence,justice and autonomy) is investigated in turn, looking in particular at the extent to which each is rooted in the Islamic paradigm."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_006",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "Guided by the medical ethics principles of \"four principles plus scope,\" Chinese aesthetic medical practitioners have proposed some extremely valuable ethical principles combined with the construction of aesthetic medicine and the requirements of clinical practice such as the principle of general nonmaleficence, the principle of local minimal invasiveness, the principle of informed consent, and the principle of respect and confidentiality."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_007",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "This commentary briefly argues that the four prima facie principles of beneficence, non-maleficence, respect for autonomy and justice enable a clinician (and anybody else) to make ethical sense of the author's proposed reliance on professional guidance and rules, on law, on professional integrity and on best interests, and to subject them all to ethical analysis and criticism based on widely acceptable basic prima facie moral obligations; and also to confront new situations in the light of those acceptable principles."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_008",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "BACKGROUND: The four principles of Beauchamp and Childress--autonomy, non-maleficence, beneficence and justice--have been extremely influential in the field of medical ethics, and are fundamental for understanding the current approach to ethical assessment in health care. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_009",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "Difficulties with the application of the four principles (autonomy, beneficence, nonmaleficence and justice) to judge medical practitioner behaviour are highlighted. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_010",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "Tom Beauchamp and James Childress have always maintained that their four principles approach (otherwise known as principlism) is a globally applicable framework for biomedical ethics. This claim is grounded in their belief that the principles of respect for autonomy, non-maleficence, beneficence and justice form part of a 'common morality', or collection of very general norms to which everyone who is committed to morality subscribes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_011",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "I will argue that there are difficulties with the application of the four principles approach to incompetent children. The most important principle - respect for autonomy - is not directly applicable to incompetent children and the most appropriate modification of the principle for them is not clear. The principle of beneficence - that one should act in the child's interests - is complicated by difficulties in assessing what a child's interests are and to which standard of interests those choosing for children should be held."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f7e6ab750ff4455000052_012",
+              "question": "List four principles of medical ethics."
+            }
+          ],
+          "context": "These principles are: respect for autonomy, beneficence, non-maleficence and justice, along with concern for their scope of application."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_001",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "Case 3 showed Heerfordt syndrome with facial nerve paralysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_002",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "Heerfordt's syndrome is defined as a combination of facial palsy, parotid swelling, uveitis and fever in sarcoidosis cases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_003",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "Heerfordt-Waldenstr\u00f6m syndrome, a rare presentation of sarcoidosis, is characterized by the presence of parotid gland enlargement, facial palsy, anterior uveitis, and fever. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_004",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "The patient was given a diagnosis of Heerfordt-Waldenstr\u00f6m syndrome, or uveoparotid fever."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_005",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "Physical examination revealed right facial paralysis, parotid gland swelling, high fever and poor general condition. Ophthalmoscopy revealed anterior and posterior uveitis including macular edema and chorioretinal infiltrates. Angiography revealed a dense pattern of hyperfluorescent lesions and these observations resulted in the diagnosis of Heerfordt syndrome. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_006",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "BACKGROUND: Heerfordt syndrome is rare and is characterized by fever, uveitis, parotid gland enlargement, and facial nerve palsy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_007",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "Heerfordt's syndrome with uveitis, enlargement of the parotid glands and optional paralysis of the Nn. facialis is a form of sarcoidosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70d12899e2c3af26000001_008",
+              "question": "List symptoms of Heerfordt syndrome."
+            }
+          ],
+          "context": "The Heerfordt syndrome is characterized by fever, uveitis, swelling of parotid gland and facial nerve palsy, and 53 cases have been reported in Japan until 2000. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8afbf2fcd1d6a10c00001c_001",
+              "question": "In quadruped mammals, what bones make up the stifle?"
+            }
+          ],
+          "context": "MR images showed the bone, articular cartilage, menisci and ligaments of the normal tiger stifle. SE T1-weighted sequence provided excellent resolution of the subchondral bones of the femur, tibia and patella compared with the GE STIR T2-weighted MR images."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8dc6b4fcd1d6a10c000026_001",
+              "question": "List 2 approved drug treatments for Inflammatory Bowel Disease (IBD)."
+            }
+          ],
+          "context": "Nonetheless, infliximab and adalimumab are the only biological agents that have been approved for this group of patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8dc6b4fcd1d6a10c000026_002",
+              "question": "List 2 approved drug treatments for Inflammatory Bowel Disease (IBD)."
+            }
+          ],
+          "context": " In September 2013, the European Medicines Agency approved two infliximab biosimilars for treatment of adult and paediatric inflammatory bowel disease patients,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_001",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Separation of Thoracoomphalopagus Conjoined Twins."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_002",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": " Eight different types of conjoined twins have been described in the literature. M"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_003",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Pygopagus are one of the rare types of conjoined twins with only a handful of cases reported in the literature. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_004",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Ischiopagus and diprosopus in India: two pairs of conjoined twins"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_005",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Dicephalus dipus dibrachius: conjoined twins "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_006",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "conjoined tripus twins with features of rachipagus, parapagus dicephalus, and cephalopagus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_007",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "craniopagus conjoined twin"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_008",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "diagnosis of conjoined twins, thoracopagus,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_009",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Eight different types of conjoined twins can be distinguished; one is cephalopagus, which is fourth in rarity of occurrence. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_010",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "They are classified into eight different subtypes, with 18% representing pyopagus conjoints."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_011",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Craniopagus twins (CPT) are an uncommon, highly fascinating accident of nature"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_012",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "Ischiopagus and pygopagus conjoined twins:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76018c83b0d9ea6600000e_013",
+              "question": "List the ten types of conjoined twins."
+            }
+          ],
+          "context": "The most common varieties encountered were thoraco-omphalopagus (28%), thoracopagus (18.5%), omphalopagus (10%), parasitic twins (10%) and craniopagus (6%)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75dff883b0d9ea66000003_001",
+              "question": "Name curated data resources for ChIP-seq data"
+            }
+          ],
+          "context": "MGA repository: a curated data resource for ChIP-seq and other genome annotated data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75dff883b0d9ea66000003_002",
+              "question": "Name curated data resources for ChIP-seq data"
+            }
+          ],
+          "context": "Cistrome Data Browser: a data portal for ChIP-Seq and chromatin accessibility data in human and mouse."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75dff883b0d9ea66000003_003",
+              "question": "Name curated data resources for ChIP-seq data"
+            }
+          ],
+          "context": "Although rapidly accumulating publicly available ChIP-seq, DNase-seq and ATAC-seq data are a valuable resource for the systematic investigation of gene regulation processes, a lack of standardized curation, quality control and analysis procedures have hindered extensive reuse of these data. To overcome this challenge, we built the Cistrome database, a collection of ChIP-seq and chromatin accessibility data (DNase-seq and ATAC-seq) published before January 1, 2016, including 13 366 human and 9953 mouse samples. All the data have been carefully curated and processed with a streamlined analysis pipeline and evaluated with comprehensive quality control metrics. We have also created a user-friendly web server for data query, exploration and visualization. The resulting Cistrome DB (Cistrome Data Browser), available online at http://cistrome.org/db, is expected to become a valuable resource for transcriptional and epigenetic regulation studies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75dff883b0d9ea66000003_004",
+              "question": "Name curated data resources for ChIP-seq data"
+            }
+          ],
+          "context": "CR Cistrome: a ChIP-Seq database for chromatin regulators and histone modification linkages in human and mouse."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a760e5583b0d9ea66000018_001",
+              "question": "Which comparisons demonstrate the applicability of StereoGene in regulatory genomics?"
+            }
+          ],
+          "context": "StereoGene: rapid estimation of genome-wide correlation of continuous or interval feature data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a760e5583b0d9ea66000018_002",
+              "question": "Which comparisons demonstrate the applicability of StereoGene in regulatory genomics?"
+            }
+          ],
+          "context": "Genomics features with similar genome-wide distributions are generally hypothesized to be functionally related, for example, colocalization of histones and transcription start sites indicate chromatin regulation of transcription factor activity. Therefore, statistical algorithms to perform spatial, genome-wide correlation among genomic features are required.Results: Here, we propose a method, StereoGene, that rapidly estimates genome-wide correlation among pairs of genomic features. These features may represent high-throughput data mapped to reference genome or sets of genomic annotations in that reference genome. StereoGene enables correlation of continuous data directly, avoiding the data binarization and subsequent data loss. Correlations are computed among neighboring genomic positions using kernel correlation. Representing the correlation as a function of the genome position, StereoGene outputs the local correlation track as part of the analysis. StereoGene also accounts for confounders such as input DNA by partial correlation. We apply our method to numerous comparisons of ChIP-Seq datasets from the Human Epigenome Atlas and FANTOM CAGE to demonstrate its wide applicability. We observe the changes in the correlation between epigenomic features across developmental trajectories of several tissue types consistent with known biology and find a novel spatial correlation of CAGE clusters with donor splice sites and with poly(A) sites. These analyses provide examples for the broad applicability of StereoGene for regulatory genomics."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

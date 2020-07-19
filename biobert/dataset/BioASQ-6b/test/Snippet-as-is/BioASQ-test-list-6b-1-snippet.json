@@ -1,0 +1,712 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a6d0b2db750ff445500002d_001",
+              "question": "Which factors drive replisome disassembly during DNA replication termination and mitosis?"
+            }
+          ],
+          "context": "Using Caenorhabditis elegans early embryos and Xenopus laevis egg extracts, we show that the E3 ligase CUL-2LRR-1associates with the replisome and drives ubiquitylation and disassembly of CMG, together with the CDC-48 cofactors UFD-1 and NPL-4. Removal of CMG from chromatin in frog egg extracts requires CUL2 neddylation, and our data identify chromatin recruitment of CUL2LRR1as a key regulated step during DNA replication termination. Interestingly, however, CMG persists on chromatin until prophase in worms that lack CUL-2LRR-1, but is then removed by a mitotic pathway that requires the CDC-48 cofactor UBXN-3, orthologous to the human tumour suppressor FAF1."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d1143b750ff445500002e_001",
+              "question": "List the partners of budding yeast Cdc48 that are important for disassembly of ubiquitylated CMG helicase at the end of chromosome replication"
+            }
+          ],
+          "context": "Ufd1-Npl4 Recruit Cdc48 for Disassembly of Ubiquitylated CMG Helicase at the End of Chromosome Replication."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d1143b750ff445500002e_002",
+              "question": "List the partners of budding yeast Cdc48 that are important for disassembly of ubiquitylated CMG helicase at the end of chromosome replication"
+            }
+          ],
+          "context": "We demonstrate that the ubiquitin-binding Ufd1-Npl4 complex recruits Cdc48 to ubiquitylated CMG."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68ff52b750ff445500001c_001",
+              "question": "Which tendons are affected in the Dequervain's tenosynovitis?"
+            }
+          ],
+          "context": "DeQuervain's tenosynovitis is a common cause of radial-sided wrist pain. Symptoms result from a narrow first dorsal compartment and associated tendinosis of the enclosed extensor pollicis brevis and/or abductor pollicis longus (APL). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68ff52b750ff445500001c_002",
+              "question": "Which tendons are affected in the Dequervain's tenosynovitis?"
+            }
+          ],
+          "context": "DeQuervain's disease of the first dorsal compartment of the wrist, is a common wrist pathology, pain results from resisted gliding of the abductor pollicis longus and the extensor pollicis brevis tendon in the fibroosseous canal. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a882b5761bb38fb24000013_001",
+              "question": "List the four most important interferonopathies"
+            }
+          ],
+          "context": "As defined, the type I interferonopathies represent discrete examples of a disturbance of the homeostatic control of this system caused by Mendelian mutations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a882b5761bb38fb24000013_002",
+              "question": "List the four most important interferonopathies"
+            }
+          ],
+          "context": "Familial chilblain lupus belongs to the group of type I interferonopathies and is characterized by typical skin manifestations and acral ischaemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a882b5761bb38fb24000013_003",
+              "question": "List the four most important interferonopathies"
+            }
+          ],
+          "context": "interferonopathies such as Aicardi-Gouti\u00e8res syndrome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a882b5761bb38fb24000013_004",
+              "question": "List the four most important interferonopathies"
+            }
+          ],
+          "context": "Inappropriate upregulation of type I IFN signaling and interferon-stimulated gene expression have been linked to several CNS diseases termed \"interferonopathies\" including Aicardi-Goutieres syndrome and ubiquitin specific peptidase 18 (USP18)-deficiency."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a882b5761bb38fb24000013_005",
+              "question": "List the four most important interferonopathies"
+            }
+          ],
+          "context": " interferonopathies (Singleton-Merten syndrome)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a882b5761bb38fb24000013_006",
+              "question": "List the four most important interferonopathies"
+            }
+          ],
+          "context": "Aicardi-Gouti\u00e8res syndrome (AGS) is an inflammatory disorder belonging to the recently characterized group of type I interferonopathies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_001",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "The present study used molecular docking by Autodock4.2 using our \"Click-By-Click\"-protocol, Ligplot1.4.3 and \"change in accessible surface area (\u0394ASA)-calculations\" to investigate the binding of two investigational anti-diabetic drugs, Ertugliflozin and Sotagliflozin to an established target (SGLT2) and a research target (human brain AChE)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_002",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "SGLT2 inhibitors such as canagliflozin and sotagliflozin (a SGLT1/SGLT2 dual inhibitor) also have a mild or moderate intestinal and renal SGLT1 inhibitory effect because of their relatively weak selectivity for SGLT2 over SGLT1."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_003",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "Hydrogen-bonded structures and interaction energies in two forms of the SGLT-2 inhibitor sotagliflozin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_004",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "We evaluated the safety and efficacy of sotagliflozin, an oral inhibitor of sodium-glucose cotransporters 1 and 2, in combination with insulin treatment in patients with type 1 diabetes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_005",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "Phase 2 studies with the SGLT2 inhibitor empagliflozin and the dual SGLT1 and SGLT2 inhibitor sotagliflozin, which acts in the gut and the kidney, have demonstrated reductions in A1C, weight, and glucose variability without an increased incidence of hypoglycemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_006",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "Sotagliflozin may meet this need, because this compound lowers blood glucose through the insulin-independent mechanisms of inhibiting kidney SGLT2 and intestinal SGLT1. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_007",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "AREAS COVERED: Herein, the authors focus specifically on sotagliflozin (LX4211), the first-in-class dual SGLT1/SGLT2 inhibitor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_008",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "Despite a weaker effect on UGE than selective SGLT2 inhibitors, sotagliflozin is as effective as SGLT2 inhibitors on HbA1C reduction, with a similar safety profile in short-term studies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_009",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "Therefore, sotagliflozin (LX4211) has been developed as a dual inhibitor of SGLT1 and SGLT2. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_010",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "Sotagliflozin, a Dual SGLT1 and SGLT2 Inhibitor, as Adjunct Therapy to Insulin in Type 1 Diabetes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_011",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "OBJECTIVE: To assess the safety and efficacy of dual sodium-glucose cotransporter (SGLT) 1 and SGLT2 inhibition with sotagliflozin as adjunct therapy to insulin in type 1 diabetes.RESEARCH DESIGN AND METHODS: We treated 33 patients with sotagliflozin, an oral dual SGLT1 and SGLT2 inhibitor, or placebo in a randomized, double-blind trial assessing safety, insulin dose, glycemic control, and other metabolic parameters over 29 days of treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7238d32dc08e987e000009_012",
+              "question": "Which two cotransporters are inhibited by sotagliflozin?"
+            }
+          ],
+          "context": "CONCLUSIONS: As adjunct to insulin, dual SGLT1 and SGLT2 inhibition with sotagliflozin improved glycemic control and the CGM profile with bolus insulin dose reduction, weight loss, and no increased hypoglycemia in type 1 diabetes."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f8a08370f9fc6f0f00001b_001",
+              "question": "Which are the main manifestations of Ohdo syndrome?"
+            }
+          ],
+          "context": " This finding together with the phenotypic analogies shared with the carriers of c.5898dupC mutation suggests the existence of a fourth MED12-related disorder, characterized by severe ID, absent or deficient language and, milder, clinical manifestation in heterozygotes."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f8a08370f9fc6f0f00001b_002",
+              "question": "Which are the main manifestations of Ohdo syndrome?"
+            }
+          ],
+          "context": "Skeletal manifestations in Ohdo syndrome: a case with bilateral patella dislocations."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f8a08370f9fc6f0f00001b_003",
+              "question": "Which are the main manifestations of Ohdo syndrome?"
+            }
+          ],
+          "context": "We report a new case of Ohdo syndrome with bilateral patella dislocations where surgical intervention has been indicated. A review of the skeletal manifestations reported in the literature on Ohdo syndrome reveals that joint laxity and skeletal deformities are important aspects of the phenotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f8a08370f9fc6f0f00001b_004",
+              "question": "Which are the main manifestations of Ohdo syndrome?"
+            }
+          ],
+          "context": "We confirm the existence of this condition that, although similar to Ohdo syndrome, seems to be an independent clinical entity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_001",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "The model used Kaplan-Meier estimates of progression-free survival and overall survival from a recent randomized phase 3 study (KEYNOTE-006) that compared pembrolizumab and ipilimumab."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_002",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "Pembrolizumab versus ipilimumab for advanced melanoma: final overall survival results of a multicentre, randomised, open-label phase 3 study (KEYNOTE-006)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_003",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "BACKGROUND: Interim analyses of the phase 3 KEYNOTE-006 study showed superior overall and progression-free survival of pembrolizumab versus ipilimumab in patients with advanced melanoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_004",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "INTERPRETATION: Substantiating the results of the interim analyses of KEYNOTE-006, pembrolizumab continued to provide superior overall survival versus ipilimumab, with no difference between pembrolizumab dosing schedules. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_005",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "OBJECTIVE: Report results of patient-reported health-related quality of life (HRQoL) and symptoms from phase III KEYNOTE-006 study of pembrolizumab versus ipilimumab in patients with ipilimumab-naive advanced melanoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_006",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "Patient-reported outcomes in KEYNOTE-006, a randomised study of pembrolizumab versus ipilimumab in patients with advanced melanoma"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_007",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "Pembrolizumab (Keytruda(\u00ae)) is a humanized monoclonal antibody against programmed death receptor-1 (PD-1), a key immunoinhibitory checkpoint protein implicated in down-regulating anti-tumour immune responses. This intravenous drug is indicated for the treatment of advanced (unresectable or metastatic) melanoma, on the basis of its clinical benefit in this setting in the phase I KEYNOTE 001 trial (expansion cohorts) and the phase II and III trials, KEYNOTE 002 and 006."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a737b483b9d13c70800000b_008",
+              "question": "Which drugs were tested in the KEYNOTE-006 study?"
+            }
+          ],
+          "context": "CONCLUSIONS: The anti-PD-1 antibody pembrolizumab prolonged progression-free survival and overall survival and had less high-grade toxicity than did ipilimumab in patients with advanced melanoma. (Funded by Merck Sharp&Dohme; KEYNOTE-006 ClinicalTrials.gov number, NCT01866319.)."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_001",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "We have taken advantage of this property to study the regulation of the Delta8-Delta7-sterol isomerase-encoding ERG2 gene in an ergosterol auxotrophic mutant devoid of squalene-synthase activity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_002",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "Ergosterol starvation leads to an 8-16-fold increase in ERG2 gene expression."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_003",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "Ergosterol starvation leads to an 8-16-fold increase in ERG2 gene expression."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_004",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "The yeast genome encodes seven oxysterol binding protein homologs, Osh1p-Osh7p, which have been implicated in regulating intracellular lipid and vesicular transport"
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_005",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "The yeast genome encodes seven oxysterol binding protein homologs, Osh1p-Osh7p, which have been implicated in regulating intracellular lipid and vesicular transport"
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_006",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "Sterol metabolism and ERG2 gene regulation in the yeast Saccharomyces cerevisiae."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_007",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "Genomewide location analysis of Candida albicans Upc2p, a regulator of sterol metabolism and azole drug resistance."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_008",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "To better understand Upc2p function in C. albicans, we used genomewide location profiling to identify the transcriptional targets of Upc2p in vivo."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_009",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "Upc2p, a transcription factor of the zinc cluster family, is an important regulator of sterol biosynthesis and azole drug resistance in Candida albicans"
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_010",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": " Taken together, our results indicate that Upc2p is a key regulator of ergosterol metabolism. They also suggest that Upc2p may contribute to azole resistance by regulating the expression of drug efflux pump-encoding genes in addition to ergosterol biosynthesis genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_011",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": "Northern blot analysis showed that increased binding correlates with increased expression for the analyzed Upc2p targets (ERG11, MDR1, CDR1, YOR1, SUT1, SMF12, and CBP1)."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c740d70f9fc6f0f00001d_012",
+              "question": "Which proteins are controlling sterol metabolism in S. cerevisiae?"
+            }
+          ],
+          "context": " Overrepresented functional groups of genes whose promoters were bound by Upc2p included 12 genes involved in ergosterol biosynthesis (NCP1, ERG11, ERG2, and others)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_001",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "Synthesis of the modified thymine base, beta-d-glucosyl-hydroxymethyluracil or J, within telomeric DNA of Trypanosoma brucei correlates with the bloodstream form specific epigenetic silencing of telomeric variant surface glycoprotein genes involved in antigenic variation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_002",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": " We have recently proposed a model in which chromatin remodeling by a SWI2/SNF2-like protein (JBP2) regulates the developmental and de novo site-specific localization of J synthesis within bloodstream form trypanosome DNA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_003",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "JBP1 and JBP2 are two distinct thymidine hydroxylases involved in J biosynthesis in genomic DNA of African trypanosomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_004",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "The base is synthesized in a two-step pathway. Initially, a thymidine residue in DNA is hydroxylated by a thymidine hydroxylase (TH). This intermediate (HOMedU) is then glucosylated to form base J. Two proteins involved in J synthesis, JBP1 (J binding protein 1) and JBP2, contain a putative TH domain related to the family of Fe(2+)/2-oxoglutarate-dependent hydroxylases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_005",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "Here we show that mutation of key residues in the TH domain of JBP2 ablate its ability to induce de novo J synthesis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_006",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": " We conclude that JBP2 and JBP1 are the TH enzymes involved in J biosynthesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_007",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "Two thymidine hydroxylases differentially regulate the formation of glucosylated DNA at regions flanking polymerase II polycistronic transcription units throughout the genome of Trypanosoma brucei."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_008",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "We have previously characterized two thymidine-hydroxylases (TH), JBP1 and JBP2, which regulate J-biosynthesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_009",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "JBP2 is a chromatin re-modeling protein that induces de novo J-synthesis, allowing JBP1, a J-DNA binding protein, to stimulate additional J-synthesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_010",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "JBP2 and JBP1 are capable of stimulating de novo J-synthesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_011",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "Chromosome-internal J deposition is primarily mediated by JBP1, whereas JBP2-stimulated J deposition at the telomeric regions. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_012",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "\u03b2-d-glucopyranosyloxymethyluracil (base J) synthesis is initiated by the JBP1/2 enzymes that hydroxylate thymine, forming 5-hydroxymethyluracil (hmU)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_013",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "A recent computational screen identified a possible candidate for the base J-associated glucosyltransferase (JGT) in trypanosomatid genomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_014",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "Here we discuss the regulation of hmU and base J formation in the trypanosome genome by JGT and base J-binding protein."
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_015",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": "The thymidine hydroxylases (JPB1 and JBP2) that catalyze the first step have been characterized, but the identity of the glucosyltransferase catalyzing the second step has proven elusive. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5925227670f9fc6f0f000020_016",
+              "question": "Which enzymes are responsible for base J creation in Trypanosoma brucei?"
+            }
+          ],
+          "context": " The deletion of both alleles of JGT from the genome of Trypanosoma brucei generates a cell line that completely lacks base J"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_001",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "Evans syndrome (ES) was defined by the combination of immune thrombocytopenia (platelet count<100,000/mm3) and AIHA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_002",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "Thrombocytopenia was only found in this cluster (36% of cases, manifested as Immune Thrombocytopenia (ITP) or Evans syndrome)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_003",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "BACKGROUND: Autoimmune cytopenias are characterized by immune-mediated destruction of hematopoietic cell lines with immune thrombocytopenia (ITP) affecting platelets and Evans syndrome (ES) affecting platelets and red blood cells. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_004",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "Primary Evans syndrome (ES) is defined by the concurrent or sequential occurrence of immune thrombocytopenia and autoimmune hemolytic anemia in the absence of an underlying etiology. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_005",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "Evans syndrome (ES) is a rare autoimmune disorder, which is characterized by immune thrombocytopenia and autoimmune hemolytic anemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_006",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "BACKGROUND: Evans syndrome (ES) is a rare immune disorder in children, manifested by simultaneous or sequential autoimmune cytopenias (ACs) of unknown cause and having a chronic course with periods of exacerbation and remission. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76196faacfb9cd4c000001_007",
+              "question": "List the two most important hematological features of the Evans syndrome"
+            }
+          ],
+          "context": "Evans syndrome (ES) is a rare autoimmune disorder whose exact pathophysiology is unknown. It is characterized by the simultaneous or subsequent development of autoimmune hemolytic anemia (AIHA) and immune thrombocytopenia (ITP). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_001",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "Numerous algorithms that are used to detect genome-wide circRNA expression from RNA sequencing (RNA-seq) data have been developed in the past few years, but there is little overlap in their predictions and no clear gold-standard method to assess the accuracy of these algorithms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_002",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "We developed the software tandem, DCC and CircTest DCC uses output from the STAR read mapper to systematically detect back-splice junctions in next-generation sequencing data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_003",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "Circular RNA profile in gliomas revealed by identification tool UROBORUS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_004",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "In this work, we have developed a computational pipeline named UROBORUS to detect circRNAs in total RNA-seq data. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_005",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": " Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_006",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "miARma-Seq: a comprehensive tool for miRNA, mRNA and circRNA analysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_007",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "PcircRNA_finder: a software for circRNA prediction in plants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43b2d7966455904c00000c_008",
+              "question": "Which are the best methods for the prediction of circular RNA (circRNA)?"
+            }
+          ],
+          "context": "A circRNA prediction software for plants (termed PcircRNA_finder) was developed that is more sensitive in detecting circRNAs than other frequently used programs (such as find_circ and CIRCexplorer)"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

@@ -1,0 +1,1081 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_001",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Methods: MEDLINE was searched for prospective studies that reported throat culture for both GAS and non-GAS as a reference standard, and reported at least one sign, symptom, or the Centor score."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_002",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "METHODS: Trained pharmacy staff assessed patients presenting with a sore throat using the Centor scoring system and patients meeting three or all four of the criteria were offered a throat swab test for Streptococcus pyogenes, Lancefield group A streptococci. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_003",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "CONCLUSION: Clinician judgement and Centor score are inadequate tools for clinical decision-making for children presenting with sore throat. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_004",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "A Study to Determine if Addition of Palatal Petechiae to Centor Criteria Adds More Significance to Clinical Diagnosis of Acute Strep Pharyngitis in Children."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_005",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Objective. A study to determine if addition of palatal petechiae to Centor criteria adds more value for clinical diagnosis of acute strep pharyngitis in children. Hypothesis. In children, Centor Criteria does not cover all the symptoms and signs of acute strep pharyngitis. We hypothesize that addition of palatal petechiae to Centor Criteria will increase the possibility of clinical diagnosis of group A streptococcal pharyngitis in children. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_006",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Conclusion. Our study concludes that addition of petechiae over the palate to Centor Criteria will increase the possibility of diagnosing acute group A streptococcal pharyngitis in children."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_007",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Appropriateness of diagnosis of streptococcal pharyngitis among Thai community pharmacists according to the Centor criteria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_008",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Objective To ascertain the appropriateness of diagnosis of streptococcal pharyngitis among Thai community pharmacists according to the Centor criteria and to identify factors related to antibiotic dispensing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_009",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Main outcome measure The appropriateness of diagnosis of streptococcal pharyngitis according to the original and modified Centor criteria and determinants of antibiotic dispensing including demographic characteristics of pharmacists, knowledge on pharyngitis, and attitudes and control beliefs on antibiotic dispensing. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_010",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Conclusion Pharmacists who are knowledgeable on the Centor criteria are more likely to appropriately diagnose streptococcal pharyngitis and less likely to dispense antibiotics in such case."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_011",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Adult men and women, youth and children \u22656\u00a0years of age who consult for sore throat and is judged to have a pharyngotonsillitis, with 3-4 Centor criteria and a positive rapid test for group A streptococci, will be included in the study. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6f960fb750ff445500005c_012",
+              "question": "Centor criteria are used for which disease?"
+            }
+          ],
+          "context": "Previous studies have shown that the Centor score combined with Rapid Antigen Detection Test (RADT) for Group A Streptococci can reduce unnecessary antibiotic prescribing in patients with sore throat. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a551a8fb750ff4455000002_001",
+              "question": "What is a potential side effect for Tymlos?"
+            }
+          ],
+          "context": "Thus, near life-long treatment with abaloparatide in rats resulted in dose and time dependent formation of osteosarcomas, with a comparable response to hPTH(1-34) at similar exposure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87f44061bb38fb2400000f_001",
+              "question": "Which disorder has been approved for treatment with Alk inhibitors?"
+            }
+          ],
+          "context": "Alectinib and crizotinib have been approved for the therapy of NSCLC caused by anaplastic lymphoma kinase gene (ALK) rearrangement"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87f44061bb38fb2400000f_002",
+              "question": "Which disorder has been approved for treatment with Alk inhibitors?"
+            }
+          ],
+          "context": "Alectinib, an anaplastic lymphoma kinase (ALK) inhibitor, is approved for treatment of patients with ALK+ non-small cell lung cancer who have progressed, on or are intolerant to, crizotinib"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87f44061bb38fb2400000f_003",
+              "question": "Which disorder has been approved for treatment with Alk inhibitors?"
+            }
+          ],
+          "context": " Ceritinib is a highly selective ALK inhibitor and shows promising efficacy in non-small cell lung cancers (NSCLC) harboring the ALK gene rearrangement. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87f44061bb38fb2400000f_004",
+              "question": "Which disorder has been approved for treatment with Alk inhibitors?"
+            }
+          ],
+          "context": "Anaplastic lymphoma kinase (ALK) rearrangement is detected in 3-7% of patients with non-small-cell lung cancer. Crizotinib is an ALK inhibitor, which was approved in 2011 for the treatment of ALK-positive lung cancer. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87f44061bb38fb2400000f_005",
+              "question": "Which disorder has been approved for treatment with Alk inhibitors?"
+            }
+          ],
+          "context": "Dramatic and often prolonged responses are seen in patients withALKalterations when treated with ALK inhibitors. Three of these-crizotinib, ceritinib, and alectinib-are now FDA approved for the treatment of metastatic NSCLC positive forALKfusions"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87f44061bb38fb2400000f_006",
+              "question": "Which disorder has been approved for treatment with Alk inhibitors?"
+            }
+          ],
+          "context": "In addition, novel ALKis exhibit good antitumor efficacy for brain metastases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_001",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "STUDY OBJECTIVE: The aim of this study is to evaluate whether adding the item of \"apple body type\" to the STOP-BANG questionnaire enhances diagnostic performance of the questionnaire for detecting obstructive sleep apnea (OSA)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_002",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "CONCLUSION: In the sleep center setting, adding the body type item to the STOP-BANG questionnaire improves not only clinical prediction for PSG confirmed OSA but also predicts moderate to severe of OSA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_003",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": " High and low probability of OSA were defined as a STOP-Bang score of \u22655 (h-OSA) and of<5 (l-OSA), respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_004",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "The STOP-BANG questionnaire improves the detection of epilepsy patients at risk for obstructive sleep apnea."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_005",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "We performed a quality improvement project, evaluating for improvements in the screening of OSA in epilepsy patients using the STOP-BANG questionnaire. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_006",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_007",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "Although screening tools such as the Berlin questionnaire (BQ), STOP-BANG questionnaire (SBQ), STOP questionnaire (STOP), and Epworth sleepiness scale (ESS) are widely used for OSA, the findings regarding their diagnostic accuracy are controversial. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_008",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "Compared with the BQ, STOP, and ESS, the SBQ is a more accurate tool for detecting mild, moderate, and severe OSA. Sleep specialists should use the SBQ to conduct patient interviews for the early diagnosis of OSA in clinical settings, particularly in resource-poor countries and sleep clinics where PSG is unavailable."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_009",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "Modified Mallampati Score Improves Specificity of STOP-BANG Questionnaire for Obstructive Sleep Apnea."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_010",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "BACKGROUND: An accurate, clinical screening tool for obstructive sleep apnea (OSA) that identifies patients for further diagnostic testing would assist in the diagnosis of this comorbidity. One example, the STOP-BANG questionnaire (SBQ), has been validated as a screening tool with high sensitivity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_011",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "The validated Berlin, STOP-BANG, and Epworth Sleepiness Scale questionnaires were administered to all eligible subjects to assess SA risk and daytime somnolence, and their demographic and clinical information, health-related quality of life, and symptoms of depression were collected using the questionnaires."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_012",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "Ninety-nine (49.5%) subjects were identified as high risk for SA using the Berlin questionnaire, whereas 26 (13%), 137 (68.5%), and 37 (18.5%) subjects were classified as low, intermediate, and high risk for SA, respectively, using the STOP-BANG questionnaire. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a742d620384be9551000002_013",
+              "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?"
+            }
+          ],
+          "context": "CONCLUSIONS: The SACS and the STOP-Bang questionnaires (BMI threshold of 25\u00a0kg/m2) were found to provide the best positive and negative LRs, respectively, for the prediction of OSA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_001",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "We therefore sought to identify novel mutations to better understand chordoma biology and to potentially identify therapeutic targets"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_002",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "Genotyping cancer-associated genes in chordoma identifies mutations in oncogenes and areas of chromosomal loss involving CDKN2A, PTEN, and SMARCB1"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_003",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "When this data is paired with the studies showing 18 of 21 chordoma samples displaying copy loss at the locus for CDKN2A, 17 of 21 chordoma samples displaying copy loss at PTEN, and 3 of 4 chordoma samples displaying deletion at the SMARCB1 locus, we can infer that a loss of heterozygosity at these three loci may play a significant role in chordoma pathogenesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_004",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "SMARCB1/INI1 Involvement in Pediatric Chordoma"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_005",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "All 8 cases were positive for brachyury, whereas there was no nuclear SMARCB1/INI1 expression in 4 of the 8 cases, including the poorly differentiated chordoma"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_006",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": " In this study, we considered immunohistochemistry and SMARCB1/INI1 mutational status to examine SMARCB1 status in a series of pediatric chordomas (7 classic and 1 poorly differentiated)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_007",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "pathogenic involvement of SMARCB1/INI1 in childhood chordoma"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_008",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "The diagnosis is all the more challenging that other poorly differentiated cancers lose SMARCB1 expression, such as epithelioid sarcomas (ES), renal medullary carcinomas (RMC) or undifferentiated chordomas (UC)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_009",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "Loss of SMARCB1/INI1 expression is considered to be a hallmark for childhood chordomas (CCs)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_010",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "Poorly differentiated chordoma with loss of SMARCB1/INI1 expression in pediatric patients"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_011",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "Identification of loss of SMARCB1/INI1 expression in poorly differentiated (PD) chordoma in pediatric patients suggests that PD chordoma is an entity molecularly distinct from conventional chordoma or atypical teratoid/rhabdoid tumor, which is also characterized by loss of SMARCB1/INI1 expression by inactivating mutation of the SMARCB1/INI gene"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_012",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "So far, around 20 cases of pediatric PD chordoma with loss of SMARCB1/INI1 expression have been reported"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_013",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "Here, we report two cases of pediatric PD chordoma with loss of SMARCB1/INI1 expression, which is very rare among the pediatric chordoma types"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86f074faa1ab7d2e00003a_014",
+              "question": "With which cancers has the loss of SMARCB1 been associated?"
+            }
+          ],
+          "context": "Based on the clival location and histologic findings along with the loss of SMARCB1/INI1 expression and positivity for nuclear brachyury staining, the final pathologic diagnosis for both cases was PD chordoma"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a735b383b9d13c708000002_001",
+              "question": "What is the name of the RNAi investigational drug being developed against hereditary amyloidosis?"
+            }
+          ],
+          "context": "Patisiran is an investigational RNA interference (RNAi) therapeutic in development for the treatment of hereditary ATTR (hATTR) amyloidosis, a progressive disease associated with significant disability, morbidity, and mortality."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f448b750ff4455000018_001",
+              "question": "Which bacteria causes erythrasma?"
+            }
+          ],
+          "context": "Erythrasma caused by Corynebacterium minutissimum can be confused with superficial mycoses."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f448b750ff4455000018_002",
+              "question": "Which bacteria causes erythrasma?"
+            }
+          ],
+          "context": "Exogenous coproporphyrin III production by Corynebacterium aurimucosum and Microbacterium oxydans in erythrasma lesions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f448b750ff4455000018_003",
+              "question": "Which bacteria causes erythrasma?"
+            }
+          ],
+          "context": "Erythrasma is a superficial skin disease caused by Gram-positive Corynebacterium species."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f448b750ff4455000018_004",
+              "question": "Which bacteria causes erythrasma?"
+            }
+          ],
+          "context": "AIM: To study a series of demographic features of patients suffering from pitted keratolysis, and to present a review of the Corynebacterium-associated infections, including pitted keratolysis, erythrasma, and trichobacteriosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f448b750ff4455000018_005",
+              "question": "Which bacteria causes erythrasma?"
+            }
+          ],
+          "context": "Corynebacterium minutissimum is the bacteria that leads to cutaneous eruptions of erythrasma and is the most common cause of interdigital foot infections. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f448b750ff4455000018_006",
+              "question": "Which bacteria causes erythrasma?"
+            }
+          ],
+          "context": "Bacterial skin infections caused by corynebacteria include erythrasma, trichomycosis axillaris and pitted keratolysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74a8a70384be9551000005_001",
+              "question": "Which siRNA based drug is in clinical trials for the treatment of pancreatic cancer?"
+            }
+          ],
+          "context": "The combination of siG12D-LODER\u2122 and chemotherapy is well tolerated, safe and demonstrated a potential efficacy in patients with LAPC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74a8a70384be9551000005_002",
+              "question": "Which siRNA based drug is in clinical trials for the treatment of pancreatic cancer?"
+            }
+          ],
+          "context": "An open-label Phase 1/2a study in the first-line setting of patients with non-operable LAPC was initiated. In this study patients were assigned to receive a single dose of siG12D-LODERs, in three escalating dose cohorts (0.025mg, 0.75mg and 3.0mg). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74a8a70384be9551000005_003",
+              "question": "Which siRNA based drug is in clinical trials for the treatment of pancreatic cancer?"
+            }
+          ],
+          "context": "The miniature biodegradable implant siG12D-LODER\u2122 was inserted into a tumor and released a siRNA drug against KRAS(G12D) along four months. This novel siRNA based drug was studied, in combination with chemotherapy, as targeted therapy for Locally Advanced Pancreatic Cancer (LAPC)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_001",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "Epstein-Barr virus (EBV) is a highly prevalent virus, transmitted via saliva, which often causes asymptomatic infection in children but frequently results in infectious mononucleosis in adolescents. Heterophile antibody tests, including the Monospot test, are red cell or latex agglutination assays, which detect antired cell antibodies produced as part of a polyclonal antibody response occurring during EBV infection. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_002",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "Laboratory investigations revealed that monospot test was positive, EBV serology tests; Anti-EA-D Ig G: 3+, Anti-VCA gp125 Ig G: 3+, Anti-VCA p19 Ig M: 2+, Anti EBNA-1 Ig M: negative, Anti EBNA-1 Ig M: negative, Anti EBNA-1 Ig G: negative."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_003",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "A 75-year-old woman presented with altered mental status, septic picture, and influenza-like symptoms. Initial investigations revealed atypical lymphocytosis, thrombocytopenia, elevated liver enzymes, and a positive monospot test result. Further investigation showed the Epstein-Barr virus viral capsid antibody IgM/IgG and Epstein-Barr virus DNA by polymerase chain reaction to be negative; however, interestingly her cytomegalovirus (CMV) IgM and IgG were positive, suggesting that her mononucleosis-like syndrome was due to acute CMV infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_004",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "Monospot test was positive. He subsequently had both a CT pulmonary angiogram and a CT angiogram of the aorta to exclude pulmonary embolism and aortic dissection. The CT revealed splenomegaly with a large subdiaphragmatic haematoma secondary to splenic rupture. This had likely caused referred pain through diaphragmatic irritation. He was taken to theatre for urgent splenectomy. The unifying diagnosis was infectious mononucleosis complicated by spontaneous splenic rupture secondary to Epstein-Barr virus infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_005",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "BACKGROUND: Infection with Epstein-Barr virus (EBV) is almost ubiquitous in humans and generally occurs at two ages: infantile, which is usually asymptomatic and associated with poorer socioeconomic conditions, and adolescent, which causes infectious mononucleosis (IM) in ~25% cases. The determinants of whether the infection causes IM remain uncertain. We aimed to evaluate seasonality and temporal trends in IM.METHODS: Data from all Monospot tests, used as a marker for IM, were collected from the Grampian population over 16 years.RESULTS: Positive Monospot test results peaked at 17 years in females and 19 in males. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_006",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "The evaluated diagnostic methods were real-time PCR (RT-PCR), IgM/IgG antibodies measured with different assays [measurement of Epstein-Barr virus viral load (EBV-VL) in peripheral blood, neutrophil/lymphocyte/monocyte counts, C-reactive protein values, and monospot test]. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_007",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "Serological tests for EBV infection were consistent with acute infection (EBV virus capsid antigen was reactive with IgM and IgG antibodies). The Monospot test was also positive. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a690487b750ff445500001f_008",
+              "question": "Which virus can be diagnosed with the monospot test?"
+            }
+          ],
+          "context": "Investigations revealed lymphocytosis and activated atypical lymphocytes in the peripheral smear, and positive monospot test. The boy subsequently recovered in one week with total disappearance of his rash. Epstein-Barr virus-related infectious mononucleosis was considered the most likely diagnosis for our patient."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e24a5b750ff445500003c_001",
+              "question": "Which workflow in Bioconductor has been developed for accessing human RNA-seq samples?"
+            }
+          ],
+          "context": "recount workflow: Accessing over 70,000 human RNA-seq samples with Bioconductor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e24a5b750ff445500003c_002",
+              "question": "Which workflow in Bioconductor has been developed for accessing human RNA-seq samples?"
+            }
+          ],
+          "context": "The recount2 resource is composed of over 70,000 uniformly processed human RNA-seq samples spanning TCGA and SRA, including GTEx."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74b1730384be9551000007_001",
+              "question": "Which retinal dystrophy related gene is targeted by the AAV2-hRPE65v2 drug?"
+            }
+          ],
+          "context": "Voretigene neparvovec gene replacement improved functional vision in RPE65-mediated inherited retinal dystrophy previously medically untreatable."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74b1730384be9551000007_002",
+              "question": "Which retinal dystrophy related gene is targeted by the AAV2-hRPE65v2 drug?"
+            }
+          ],
+          "context": "In this open-label, randomised, controlled phase 3 trial done at two sites in the USA, individuals aged 3 years or older with, in each eye, best corrected visual acuity of 20/60 or worse, or visual field less than 20 degrees in any meridian, or both, with confirmed genetic diagnosis of biallelic RPE65 mutations, sufficient viable retina, and ability to perform standardised multi-luminance mobility testing (MLMT) within the luminance range evaluated, were eligible. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74b1730384be9551000007_003",
+              "question": "Which retinal dystrophy related gene is targeted by the AAV2-hRPE65v2 drug?"
+            }
+          ],
+          "context": "Efficacy and safety of voretigene neparvovec (AAV2-hRPE65v2) in patients with RPE65-mediated inherited retinal dystrophy: a randomised, controlled, open-label, phase 3 trial."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e3155b750ff445500003f_001",
+              "question": "Which R/Bioconductor package has been developed for cancer subtype identification?"
+            }
+          ],
+          "context": "CancerSubtypes: an R/Bioconductor package for molecular cancer subtype identification, validation and visualization."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e3155b750ff445500003f_002",
+              "question": "Which R/Bioconductor package has been developed for cancer subtype identification?"
+            }
+          ],
+          "context": "Identifying molecular cancer subtypes from multi-omics data is an important step in the personalized medicine. We introduce CancerSubtypes, an R package for identifying cancer subtypes using multi-omics data, including gene expression, miRNA expression and DNA methylation data. CancerSubtypes integrates four main computational methods which are highly cited for cancer subtype identification and provides a standardized framework for data pre-processing, feature selection, and result follow-up analyses, including results computing, biology validation and visualization. The input and output of each step in the framework are packaged in the same data format, making it convenience to compare different methods. The package is useful for inferring cancer subtypes from an input genomic dataset, comparing the predictions from different well-known methods and testing new subtype discovery methods, as shown with different application scenarios in the Supplementary Material."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e354fb750ff4455000042_001",
+              "question": "Which R/bioconductor package has been developed to aid in epigenomic analysis?"
+            }
+          ],
+          "context": "DeepBlueR: large-scale epigenomic analysis in R."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6a02a3b750ff4455000021_001",
+              "question": "What protein is the most common cause of hereditary  renal amyloidosis?"
+            }
+          ],
+          "context": "ibrinogen A alpha chain amyloidosis is an autosomal dominant disease associated with mutations in the fibrinogen A alpha chain (FGA) gene, and it is the most common cause of hereditary renal amyloidosis in the UK"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6a02a3b750ff4455000021_002",
+              "question": "What protein is the most common cause of hereditary  renal amyloidosis?"
+            }
+          ],
+          "context": "Hereditary renal amyloidosis is an autosomal dominant condition with considerable overlap with other amyloidosis type"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6a02a3b750ff4455000021_003",
+              "question": "What protein is the most common cause of hereditary  renal amyloidosis?"
+            }
+          ],
+          "context": "We suspected amyloidosis with fibrinogen A alpha chain deposits, which is the most frequent cause of hereditary amyloidosis in Europe, with a glomerular preferential affectation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6a02a3b750ff4455000021_004",
+              "question": "What protein is the most common cause of hereditary  renal amyloidosis?"
+            }
+          ],
+          "context": "Three members of a family who died with renal amyloidosis were found to share a single nucleotide substitution in the fibrinogen alpha-chain gene. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_001",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "Corpus callosum glioblastoma multiforme (GBM): butterfly glioma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_002",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "The diagnosis of butterfly glioma (glioblastoma multiforme) was made based on imaging characteristics and was further confirmed by biopsy findings. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_003",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "Using Cox proportional hazards regression, the independent prognostic factors were Karnofsky Performance Status score \u226470, splenium involvement, and butterfly glioblastoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_004",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "Canine Butterfly Glioblastomas: A Neuroradiological Review."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_005",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "All tumors demonstrated classical histopathological features of glioblastoma multiforme (GBM), including glial cell pseudopalisading, serpentine necrosis, microvascular proliferation as well as invasion of the corpus callosum by neoplastic astrocytes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_006",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "Metastatic Adenoid Cystic Carcinoma Mimicking Butterfly Glioblastoma: A Rare Presentation in the Splenium of the Corpus Callosum."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_007",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "BACKGROUND: Intracranial spread of an adenoid cystic carcinoma (ACC) of the parotid gland is rare, and metastatic ACC to the splenium of the corpus callosum mimicking butterfly glioblastoma (GBM) has not been reported previously."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_008",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "Diverse molecular pattern in a bihemispheric glioblastoma (butterfly glioma) in a 16-year-old boy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_009",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "Glioblastoma multiforme (GBM), the most common malignant brain tumor of adults, is relatively rare in children. In a GBM affecting a 16-year-old boy, the tumor spread across the corpus callosum (butterfly glioma). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7234352dc08e987e000007_010",
+              "question": "What is the most common histological diagnosis of \"butterfly glioma\"?"
+            }
+          ],
+          "context": "The original \"clearcut\" diagnosis of glioblastoma multiforme, based on CT scans, was unexpectedly disproved by examination of stereotactically obtained brain biopsy specimens, which revealed a neuronal ceroid lipofuscinosis (Kufs' disease). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_001",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Familial Mediterranean fever (FMF) is caused by mutations in the MEFV gene and the spectrum of mutations among Greek-Cypriots with FMF-related symptoms was examined"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_002",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Familial Mediterranean fever (FMF) is the most common monogenic periodic fever syndrome and characterized by recurrent episodes of fever, serositis, arthritis, dermal manifestations, and long-term renal complications. The MEFV gene was described in 1997 as the gene responsible for FMF and is inherited in autosomal recessive manner."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_003",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Familial Mediterranean fever (FMF) is a hereditary autoinflammatory disease that is inherited in an autosomal recessive manner and is caused by mutations in theMEFVgene"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_004",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": " MEditerranean FeVer (MEFV) gene encodes for the pyrin protein and a mutated pyrin is associated with a prolonged or augmented inflammation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_005",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "The causative mutations for familial Mediterranean fever (FMF) are located in the MEFV gene, which encodes pyrin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_006",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Familial Mediterranean Fever (FMF), characterized by recurrent fever and inflammation of serous membranes, is an autosomal recessive disease caused by mutations in the Mediterranean fever (MEFV) gene. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_007",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": " patients affected by familial Mediterranean fever (FMF) whether or not interleukin (IL)-1\u03b2 secretion (1) is enhanced, (2) correlates with the type of MEFV mutation and (3) is mediated by NLRP3"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_008",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Familial Mediterranean fever (FMF) is a recessive inherited autoinflammatory syndrome. Patients with FMF have symptoms such as recurrent fever and abdominal pain, sometimes accompanied by arthralgia. Biopsy specimens have revealed substantial neutrophil infiltration into synovia. FMF patients have a mutation in the Mediterranean fever gene, encoding pyrin,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_009",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Atherosclerosis is the main pathogenesis. Familial Mediterranean fever (FMF) is an autosomal recessive disease. The gene causing FMF, designated MEFV, encodes a protein called pyrin or marenostrin"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_010",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "Familial Mediterranean fever (FMF) is an autosomal recessive autoinflammatory disorder due to MEFV mutations and one of the most frequent Mediterranean genetic diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e42f1b750ff4455000046_011",
+              "question": "What gene is mutated in Familial Mediterranean Fever?"
+            }
+          ],
+          "context": "The aim of this study was to determine the relationship between clinical findings and the most common mutated alleles of MEFV gene in a childhood population and to determine the sensitivity of the 12-mutation-strip assay test in familial Mediterranean fever (FMF)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e4d22b750ff445500004d_001",
+              "question": "Mutations in which gene cause Schimke immune-osseous dysplasia?"
+            }
+          ],
+          "context": "SMARCAL1 (SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A-Like 1), also known as HARP, is an ATP-dependent annealing helicase that stabilizes replication forks during DNA damage. Mutations in this gene are the cause of Schimke immune-osseous dysplasia (SIOD), an autosomal recessive disorder characterized by T-cell immunodeficiency and growth dysfunctions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_001",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "Recent reports have suggested that CTCF binding is more dynamic during development than previously appreciated"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_002",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "Conversely, CTCF binding sites in NPCs are largely preexisting in pluripotent stem cells. Only a small number of CTCF sites arise de novo in NPCs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_003",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": " Moreover, siRNA knockdown ofYy1specifically disrupts interactions between key NPC enhancers and their target genes. YY1-mediated interactions between NPC regulatory elements are often nested within constitutive loops anchored by CTCF"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_004",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "As recently reported, our data also suggest that chromatin loops preferentially form between CTCF binding sites oriented in a convergent manner"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_005",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "In all instances, CTCF and cohesin recruitment were lost, and chromatin loops with distal, convergent CTCF sites were disrupted or destabilized."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_006",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "Re-insertion of oppositely oriented CTCF recognition sequences restored CTCF and cohesin recruitment, but did not re-establish chromatin loops."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_007",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "Recent studies identified a correlation between the orientation of CTCF-binding sites (CBSs) and chromatin loops."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_008",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a895f51fcd1d6a10c000004_009",
+              "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?"
+            }
+          ],
+          "context": "CTCF sites at loop anchors occur predominantly (>90%) in a convergent orientation, with the asymmetric motifs \"facing\" one another. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d4e9afaa1ab7d2e000013_001",
+              "question": "How many amino acids does davunetide consist of?"
+            }
+          ],
+          "context": "We have assessed the effects of NAP (davunetide), an eight-amino acid peptide that decreases tau hyperphosphorylation, in mice overexpressing wild-type human \u03b1-synuclein (Thy1-aSyn mice), a model that recapitulates aspects of PD. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_001",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "Intravenous drug addiction is responsible for many complications, especially cutaneous and infectious. There is a syndrome, rarely observed in rheumatology, resulting in \"puffy hands\": the puffy hand syndrome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_002",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "They presented with an edema of the hands, bilateral, painless, no pitting, occurring in one of our patient during heroin intoxication, and in the other 2 years after stopping injections. In our two patients, additional investigations (biological, radiological, ultrasound) were unremarkable, which helped us, in the context, to put the diagnosis of puffy hand syndrome. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_003",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "Puffy hand syndrome develops after long-term intravenous drug addiction."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_004",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "The authors report an original clinical presentation of factitious disorders of the upper extremity in an ex-drug-addict patient with puffy hand syndrome. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_005",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "Puffy hand syndrome is an unrecognized complication of intravenous drug abuse. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_006",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "Puffy hand syndrome due to drug addiction: a case-control study of the pathogenesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_007",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "AIM: We studied the pathogenesis of puffy hand syndrome of intravenous drug use."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_008",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "CONCLUSIONS: Injection practices are likely to cause puffy hands syndrome, but buprenorphine misuse should not be considered as a significant risk factor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_009",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "[Puffy hand syndrome in drug addiction treated by low-stretch bandages]."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7346662dc08e987e00001a_010",
+              "question": "What causes \"Puffy hand syndrome\"?"
+            }
+          ],
+          "context": "BACKGROUND: Puffy hand syndrome is a complication of intravenous drug abuse, which has no current available treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70ce82b750ff4455000065_001",
+              "question": "What is the mode of action of the drug Prolia?"
+            }
+          ],
+          "context": "Recently anti-RANKL agents (receptor activator of nuclear factor-kappaB ligand) such as denosumab (Prolia, Amgen Inc., California, USA) that have a similar mode of action to bisphosphonates have been introduced to treat such diseases"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

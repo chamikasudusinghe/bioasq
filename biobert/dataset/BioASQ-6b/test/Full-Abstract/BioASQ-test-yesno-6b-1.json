@@ -1,0 +1,1000 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Risk of anaphylaxis in complementary and alternative medicine. PURPOSE OF REVIEW: Complementary and alternative medicine (CAM) use is widespread across the world. Patients with asthma and allergy regularly use CAM therapies. Allergic and anaphylactic reactions to CAM have been reported. RECENT FINDINGS: Recent attempts to regulate and monitor adverse reaction to these therapies have given us further insight into potential causes of severe allergic reactions. Several culprits identified including Andrographis paniculata, Echinacea species, bee products, Ginkgo biloba and Ginseng are discussed here. SUMMARY: Knowing the factors that increase the risk of anaphylaxis allows reactions to be recognized, reported and further investigated. Research to identify key causative allergens is necessary in the future. Collaboration between the allergy community and CAM practitioners can allow better understanding of allergy to these therapies.", 
+          "qas": [
+            {
+              "question": "Does echinacea increase anaphylaxis risk?", 
+              "id": "5a67a049b750ff4455000007_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Effect of Chicoric Acid on Mast Cell-Mediated Allergic Inflammation in Vitro and in Vivo. Chicoric acid (dicaffeoyl-tartaric acid), is a natural phenolic compound found in a number of plants, such as chicory (Cichorium intybus) and Echinacea (Echinacea purpurea), which possesses antioxidant, anti-inflammatory, antiviral, and analgesic activities. Although these biological effects of chicoric acid have been investigated, there are no reports of its antiallergic-related anti-inflammatory effects in human mast cells (HMC)-1 or anaphylactic activity in a mouse model. Therefore, we investigated the antiallergic-related anti-inflammatory effect of chicoric acid and its underlying mechanisms of action using phorbol-12-myristate 13-acetate plus calcium ionophore A23187 (PMACI)-stimulated HMC-1 cells. Chicoric acid decreased the mRNA expression of pro-inflammatory cytokines, such as tumor necrosis factor (TNF)-\u03b1, interleukin (IL)-6, and IL-1\u03b2. We studied the inhibitory effects of chicoric acid on the nuclear translocation of nuclear factor kappa B (NF-\u03baB) and activation of caspase-1. However, mitogen-activated protein kinase (MAPK) activation was not sufficient to abrogate the stimulus. In addition, we investigated the ability of chicoric acid to inhibit compound 48/80-induced systemic anaphylaxis in vivo. Oral administration of chicoric acid at 20 mg/kg inhibited histamine release and protected mice against compound 48/80-induced anaphylactic mortality. These results suggest that chicoric acid has an antiallergic-related anti-inflammatory effect that involves modulating mast cell-mediated allergic responses. Therefore, chicoric acid could be an efficacious agent for allergy-related inflammatory disorders.", 
+          "qas": [
+            {
+              "question": "Does echinacea increase anaphylaxis risk?", 
+              "id": "5a67a049b750ff4455000007_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Echinacea-associated anaphylaxis. A woman with atopy experienced anaphylaxis after taking, among other dietary supplements, a commercial extract of echinacea. Hypersensitivity was confirmed by skinprick and RAST testing. Regular ingestion of echinacea by up to 5% of surveyed patients with atopy, combined with detection of echinacea-binding IgE in atopic subjects (19% by skin testing; 20% with moderate to strong reactivity by RAST testing), raises the possibility of severe allergic reactions, even with first-time use, due to cross-reactivity with other structurally similar allergens. Patients with atopy should be cautioned about the risk of developing life-threatening reactions to complementary medicines, including echinacea.", 
+          "qas": [
+            {
+              "question": "Does echinacea increase anaphylaxis risk?", 
+              "id": "5a67a049b750ff4455000007_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Adverse reactions associated with echinacea: the Australian experience. BACKGROUND: Fifty percent of Australians use complementary and alternative medicines (other than vitamins) in any 12-month period, of which echinacea-containing products are increasingly popular. Recent reports have highlighted the risk of allergic reactions to complementary medicines in atopic patients. OBJECTIVE: To determine the characteristics of adverse reactions linked to use of the popular herbal remedy echinacea. METHODS: Five privately referred patients were evaluated by the authors in their office practice via skin prick testing (SPT) on the volar aspect of the forearm and radioallergosorbent test after adverse reactions to echinacea. As there was little published information on adverse reactions to echinacea, reports to the Australian Adverse Drug Reactions Advisory Committee were reviewed. Those suggestive of possible allergic reactions were evaluated in greater detail by anonymously surveying the healthcare professionals who had reported the cases and from one unreported case. Serum was collected for further analysis where possible. RESULTS: Five cases of adverse reactions to echinacea were personally evaluated by the authors. Two patients suffered anaphylaxis and a third had an acute asthma attack 10 minutes after their first ever dose of echinacea. The fourth patient suffered recurrent episodes of mild asthma each time echinacea was ingested, and the fifth developed a maculopapular rash within 2 days of ingestion which recurred when rechallenged. Three of the patients had positive SPT results. Three reported repeated spontaneous \"challenges\" and symptoms after further ingestion of echinacea. Fifty-one Australian adverse drug reports implicating echinacea were also reviewed. There were 26 cases suggestive of possible immunoglobulin E-mediated hypersensitivity (4 anaphylaxis, 12 acute asthma, 10 urticaria/angioedema). Of these 26 patients, age ranged from 2 to 58 years, 78% were female and >50% were known to be atopic. Four were hospitalized, 4 reacted after their first known exposure, and 1 patient suffered multiple progressive systemic reactions. Twenty percent of 100 atopic subjects who had never taken echinacea also had positive SPT results to this substance when tested by one of the authors in his office practice. CONCLUSION: Some atopic subjects have positive SPT results to echinacea in the absence of known exposure. Atopic subjects are also overrepresented in those experiencing reactions to echinacea. The possibility that cross-reactivity between echinacea and other environmental allergens may trigger allergic reactions in \"echinacea-na\u00efve\" subjects is supported by the Australian data. Given its widespread (and largely unsupervised) community use, even rare adverse events become inevitable. Atopic patients should be cautioned appropriately.", 
+          "qas": [
+            {
+              "question": "Does echinacea increase anaphylaxis risk?", 
+              "id": "5a67a049b750ff4455000007_003"
+            }
+          ]
+        }, 
+        {
+          "context": "The octopus genome and the evolution of cephalopod neural and morphological novelties. Coleoid cephalopods (octopus, squid and cuttlefish) are active, resourceful predators with a rich behavioural repertoire. They have the largest nervous systems among the invertebrates and present other striking morphological innovations including camera-like eyes, prehensile arms, a highly derived early embryogenesis and a remarkably sophisticated adaptive colouration system. To investigate the molecular bases of cephalopod brain and body innovations, we sequenced the genome and multiple transcriptomes of the California two-spot octopus, Octopus bimaculoides. We found no evidence for hypothesized whole-genome duplications in the octopus lineage. The core developmental and neuronal gene repertoire of the octopus is broadly similar to that found across invertebrate bilaterians, except for massive expansions in two gene families previously thought to be uniquely enlarged in vertebrates: the protocadherins, which regulate neuronal development, and the C2H2 superfamily of zinc-finger transcription factors. Extensive messenger RNA editing generates transcript and protein diversity in genes involved in neural excitability, as previously described, as well as in genes participating in a broad range of other cellular functions. We identified hundreds of cephalopod-specific genes, many of which showed elevated expression levels in such specialized structures as the skin, the suckers and the nervous system. Finally, we found evidence for large-scale genomic rearrangements that are closely associated with transposable element expansions. Our analysis suggests that substantial expansion of a handful of gene families, along with extensive remodelling of genome linkage and repetitive content, played a critical role in the evolution of cephalopod morphological innovations, including their large and complex nervous systems.", 
+          "qas": [
+            {
+              "question": "Do cephalopods use RNA editing less frequently than other species?", 
+              "id": "58e8a2fc3e8b6dc87c00000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Trial design and rationale for APOLLO, a Phase 3, placebo-controlled study of patisiran in patients with hereditary ATTR amyloidosis with polyneuropathy. BACKGROUND: Patisiran is an investigational RNA interference (RNAi) therapeutic in development for the treatment of hereditary ATTR (hATTR) amyloidosis, a progressive disease associated with significant disability, morbidity, and mortality. METHODS: Here we describe the rationale and design of the Phase 3 APOLLO study, a randomized, double-blind, placebo-controlled, global study to evaluate the efficacy and safety of patisiran in patients with hATTR amyloidosis with polyneuropathy. Eligible patients are 18-85\u00a0years old with hATTR amyloidosis, investigator-estimated survival of > 2\u00a0years, Neuropathy Impairment Score (NIS) of 5-130, and polyneuropathy disability score\u00a0 < IIIb. Patients are randomized 2:1 to receive either intravenous patisiran 0.3\u00a0mg/kg or placebo once every 3\u00a0weeks. The primary objective is to determine the efficacy of patisiran at 18\u00a0months based on the difference in the change in modified NIS+7 (a composite measure of motor strength, sensation, reflexes, nerve conduction, and autonomic function) between the patisiran and placebo groups. Secondary objectives are to evaluate the effect of patisiran on Norfolk-Diabetic Neuropathy quality of life questionnaire score, nutritional status (as evaluated by modified body mass index), motor function (as measured by NIS-weakness and timed 10-m walk test), and autonomic symptoms (as measured by the Composite Autonomic Symptom Score-31 questionnaire). Exploratory objectives include assessment of cardiac function and pathologic evaluation to assess nerve fiber innervation and amyloid burden. Safety of patisiran will be assessed throughout the study. DISCUSSION: APOLLO represents the largest randomized, Phase 3 study to date in patients with hATTR amyloidosis, with endpoints that capture the multisystemic nature of this disease. TRIAL REGISTRATION: This trial is registered at clinicaltrials.gov ( NCT01960348 ); October 9, 2013.", 
+          "qas": [
+            {
+              "question": "Is there an RNAi drug being developed to treat amyloidosis?", 
+              "id": "5a7357e63b9d13c708000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Surgical management of left-sided carcinoid heart disease. BACKGROUND: Carcinoid involvement of left-sided heart valves has been reported in patients with a patent foramen ovale, carcinoid tumor of the lung, and active carcinoid syndrome with high levels of serotonin. The present study details the clinical features and surgical management of patients with carcinoid heart disease affecting both left- and right-sided valves. METHODS AND RESULTS: Eleven patients (7 men, 4 women) with symptomatic carcinoid heart disease underwent surgery for left- and right-sided valve disease between 1989 and 1999. Mean age was 57+/-9 years, and median preoperative NYHA class was 3. All patients had metastatic carcinoid tumors and were on somatostatin analog. Of 11 patients, 5 (45%) had a patent foramen ovale; 1 of these also had a primary lung carcinoid tumor. Surgery included tricuspid valve replacement in all patients, pulmonary valve replacement in 3 and valvectomy in 7, mitral valve replacement in 6 and repair in 1, aortic valve replacement in 4 and repair in 2, CABG in 2, and patent foramen ovale closure in 5. One myocardial metastatic carcinoid tumor was removed. There were 2 perioperative deaths. At a mean follow-up of 41 months, 4 additional patients were dead. All but 1 surgical survivor initially improved >/=1 functional class. No patient required reoperation. CONCLUSIONS: Carcinoid heart disease may affect left- and right-sided valves and occurred without intracardiac shunting in 55% of this surgical series. Despite metastatic disease that limits longevity, operative survivors had improvement in functional capacity. Cardiac surgery should be considered for select patients with carcinoid heart disease affecting left- and right-sided valves.", 
+          "qas": [
+            {
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?", 
+              "id": "5a67a550b750ff4455000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Changes in the heart in the carcinoid syndrome]. An observation of carcinoid syndrome in a woman of 47 suffering from malignant carcinoid of the ileum with metastases into the liver and right ovary is described. The clinical picture included diarrhea, heat waves, bronchospasms, hypertension, hyperserotoninemia, affection of the mitral valve and left atrium. \"Carcinoid plaques\" in the endocardium formed due to excessive proliferation under the influence of serotonin and kinins of polypotent subendothelial cells followed by their differentiation into fibroblast-like and smooth-muscle elements and production of basophilic interstitial substance. The receding rheumatic affection of the mitral valve may be the cause of the predominant involvement of the left part of the heart.", 
+          "qas": [
+            {
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?", 
+              "id": "5a67a550b750ff4455000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "[Carcinoid heart disease. Report of a case with triple valvular lesion (author's transl)]. A case of carcinoid syndrome, stemming from a tumor of the large intestine with hepatic metastases, is reported. Clinical features included cardiac disease with triple valvular lesion: tricuspid insufficiency with stenosis, pulmonary artery stenosis and mitral insufficiency. More recent views about the pathogenesis of the cardiac involvement in the carcinoid syndrome are reported, and the cardiac therapy is discussed.", 
+          "qas": [
+            {
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?", 
+              "id": "5a67a550b750ff4455000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Early and Late Outcomes of Surgical Treatment in Carcinoid Heart Disease. BACKGROUND: Symptoms and survival of patients with carcinoid syndrome have improved, but development of carcinoid heart disease (CaHD) continues to decrease survival. OBJECTIVES: This study aimed to analyze patient outcomes after valve surgery for CaHD during a 27-year period at 1\u00a0institution to determine early and late outcomes and opportunities for improved patient care. METHODS: We retrospectively studied the short-term and long-term outcomes of all consecutive patients with CaHD who underwent valve replacement at our institution between 1985 and\u00a02012. RESULTS: The records of 195 patients with CaHD were analyzed. Pre-operative New York Heart Association class was III\u00a0or IV in 125 of 178 patients (70%). All had tricuspid valve replacement (159 bioprostheses, 36 mechanical), and 157\u00a0underwent a pulmonary valve operation. Other concomitant operations included mitral valve procedure (11%), aortic valve procedure (9%), patent foramen ovale or atrial septal defect closure (23%), cardiac metastasectomies or biopsy (4%), and simultaneous coronary artery bypass (11%). There were 20 perioperative deaths (10%); after 2000, perioperative mortality was 6%. Survival rates (95% confidence intervals) at 1, 5, and 10 years were 69% (63% to 76%), 35%\u00a0(28% to 43%), and 24% (18% to 32%), respectively. Overall mortality was associated with older age, cytotoxic chemotherapy, and tobacco use; 75% of survivors had symptomatic improvement at follow-up. Presymptomatic valve operation was not associated with late survival benefit. CONCLUSIONS: Operative mortality associated with valve replacement surgery for CaHD has decreased. Symptomatic and survival benefit is noted in most patients when CaHD is managed by an experienced multidisciplinary team.", 
+          "qas": [
+            {
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?", 
+              "id": "5a67a550b750ff4455000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Carcinoid heart disease: two cases of left heart involvement diagnosed by transthoracic and transoesophageal echocardiography. We report two observations of significant left heart involvement in patients with the carcinoid syndrome assessed by transthoracic and transoesophageal echocardiography. Echocardiographic lesions of this kind have only been reported twice. In the present cases, there was mitral involvement with mitral regurgitation in one case and a mitro-aortic involvement with mitral and aortic regurgitation in the other. The mechanism of left heart lesions is unclear since in both cases no right-to-left cardiac shunt was present, as attested by colour Doppler and saline contrast transoesophageal echocardiography. The location of the primary tumour was unknown in one case and ileal in the other; no pulmonary metastasis was detected. The use of transoesophageal echocardiography might make it possible to detect left-sided cardiac lesions more frequently since they were found in anatomical series, in 30% of patients with carcinoid syndrome.", 
+          "qas": [
+            {
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?", 
+              "id": "5a67a550b750ff4455000009_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Signaling pathways in mitral valve degeneration. Heart valves exhibit a highly-conserved stratified structure exquisitely designed to counter biomechanical forces delivered over a lifetime. Heart valve structure and competence is maintained by heart valve cells through a process of continuous turnover extracellular matrix (ECM). Degenerative (myxomatous) mitral valve disease (DMVD) is an important disease associated with aging in both dogs and humans. DMVD is increasingly regarded as a disease with identifiable signaling mechanisms that control key genes associated with regulation and dysregulation of ECM homeostasis. Initiating stimuli for these signaling pathways have not been fully elucidated but likely include both mechanical and chemical stimuli. Signaling pathways implicated in DMVD include serotonin, transforming growth factor \u03b2 (TGF\u03b2), and heart valve developmental pathways. High circulating serotonin (carcinoid syndrome) and serotoninergic drugs are known to cause valvulopathy that shares pathologic features with DMVD. Recent evidence supports a local serotonin signaling mechanism, possibly triggered by high tensile loading on heart valves. Serotonin initiates TGF\u03b2 signaling, which in turn has been strongly implicated in canine DMVD. Recent evidence suggests that degenerative aortic and mitral valve disease may involve pathologic processes that mimic osteogenesis and chondrogenesis, respectively. These processes may be mediated by developmental pathways shared by heart valves, bone, and cartilage. These pathways include bone morphogenic protein (BMP) and Wnt signaling. Other signaling pathways implicated in heart valve disease include Notch, nitric oxide, and angiotensin II. Ultimately, increased understanding of signaling mechanisms could point to therapeutic strategies aimed at slowing or halting disease progression.", 
+          "qas": [
+            {
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?", 
+              "id": "5a67a550b750ff4455000009_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Dissecting the dynamic changes of 5-hydroxymethylcytosine in T-cell development and differentiation. The discovery of Ten Eleven Translocation proteins, enzymes that oxidize 5-methylcytosine (5mC) in DNA, has revealed novel mechanisms for the regulation of DNA methylation. We have mapped 5-hydroxymethylcytosine (5hmC) at different stages of T-cell development in the thymus and T-cell differentiation in the periphery. We show that 5hmC is enriched in the gene body of highly expressed genes at all developmental stages and that its presence correlates positively with gene expression. Further emphasizing the connection with gene expression, we find that 5hmC is enriched in active thymus-specific enhancers and that genes encoding key transcriptional regulators display high intragenic 5hmC levels in precursor cells at those developmental stages where they exert a positive effect. Our data constitute a valuable resource that will facilitate detailed analysis of the role of 5hmC in T-cell development and differentiation.", 
+          "qas": [
+            {
+              "question": "Is there any role of 5hmC in T-cell development and differentiation?", 
+              "id": "5a6d0727b750ff445500002b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Targeted fibrillar nanocarbon RNAi treatment of acute kidney injury. RNA interference has tremendous yet unrealized potential to treat a wide range of illnesses. Innovative solutions are needed to protect and selectively deliver small interfering RNA (siRNA) cargo to and within a target cell to fully exploit siRNA as a therapeutic tool in vivo. Herein, we describe ammonium-functionalized carbon nanotube (fCNT)-mediated transport of siRNA selectively and with high efficiency to renal proximal tubule cells in animal models of acute kidney injury (AKI). fCNT enhanced siRNA delivery to tubule cells compared to siRNA alone and effectively knocked down the expression of several target genes, includingTrp53,Mep1b,Ctr1, andEGFP A clinically relevant cisplatin-induced murine model of AKI was used to evaluate the therapeutic potential of fCNT-targeted siRNA to effectively halt the pathogenesis of renal injury. Prophylactic treatment with a combination of fCNT/siMep1band fCNT/siTrp53significantly improved progression-free survival compared to controls via a mechanism that required concurrent reduction of meprin-1\u03b2 and p53 expression. The fCNT/siRNA was well tolerated, and no toxicological consequences were observed in murine models. Toward clinical application of this platform, fCNTs were evaluated for the first time in nonhuman primates. The rapid and kidney-specific pharmacokinetic profile of fCNT in primates was comparable to what was observed in mice and suggests that this approach is amenable for use in humans. The nanocarbon-mediated delivery of siRNA provides a therapeutic means for the prevention of AKI to safely overcome the persistent barrier of nephrotoxicity during medical intervention.", 
+          "qas": [
+            {
+              "question": "Are there RNAi approaches considered for the treatment of kidney injury?", 
+              "id": "5a74a4be0384be9551000004_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression of \u03b2-Adrenergic Receptor Subtypes in Proliferative, Involuted, and Propranolol-Responsive Infantile Hemangiomas. Importance: Propranolol hydrochloride has become the primary medical treatment for problematic infantile hemangioma; however, the expression of propranolol's target receptors during growth, involution, and treatment of hemangioma remains unclear. Objective: To measure and compare the expression of \u03b21-, \u03b22-, and \u03b23-adrenergic receptors (ADBR1, ADBR2, and ADBR3, respectively) in proliferative (n = 10), involuted (n = 11), and propranolol-responsive (n = 12) hemangioma tissue. Design, Setting, and Participants: Infantile hemangioma specimens were harvested for molecular investigation. Messenger RNA (mRNA) expression of the ADBR1, ADBR2, and ADBR3 genes was detected by real-time polymerase chain reaction. Protein level expression was measured by Western blot and standardized with densitometry. A total of 33 specimens were collected from patients in a tertiary pediatric hospital who underwent excision of problematic hemangiomas. This study was conducted from January 18, 2011, to September 24, 2013, and data analysis was performed from February 25, 2015, to June 25, 2016. Results: Of the 33 patients included, 21 were female (64%). The mean (SD) patient age at the time of excision was 7 (2.5) months for the proliferative group lesions, 23.5 (10) months for the involuted group, and 16 (10) months for the propranolol group. The mean level of ADBR1 mRNA expression was significantly higher in proliferative hemangioma than in propranolol-responsive hemangioma (1.05 [0.56] vs 0.52 [0.36]; P = .01; 95% CI, 0.12-0.94). There was no difference in ADBR2 expression among the groups. Protein expression of ADBR3 was significantly higher in involuted (0.64 [0.12] vs 0.26 [0.04]; P < .01; 95% CI, 0.26-0.49) and propranolol-responsive hemangioma (0.66 [0.31] vs 0.26 [0.04]; P = .01; 95% CI, 0.16-0.68) compared with proliferative hemangioma. Conclusions and Relevance: These data demonstrate the variable expression of ADBR subtypes among infantile hemangiomas during growth, involution, and response to treatment. These findings may have clinical implications regarding the use of selective vs nonselective \u03b2-blockade. Level of Evidence: 2.", 
+          "qas": [
+            {
+              "question": "Is propranolol used for treatment of infantile hemangioma?", 
+              "id": "5a67a72fb750ff445500000a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Low-dose propranolol for infantile hemangioma of the head and neck: Analysis of 23 consecutive patients. BACKGROUND: More and more infantile hemangiomas (IH) are being treated with propranolol, but the effectiveness, dosage, and treatment course are still in dispute. The aim of this observational study was to describe the therapeutic response, tolerance, and safety of low-dose propranolol in 23 children with IH of the head and neck. METHODS: Data were collected from the medical charts of patients treated with low-dose propranolol from December 2009 through November 2011. Oral dose was 1-1.5 mg/kg once per day. Blood pressure and heart rate were monitored during the first 24 h of treatment. In the absence of side-effects, treatment was continued at home and the child was re-evaluated every month. RESULTS: All patients had a good response, even if treated with corticosteroid previously. Color and growth changes within 1 week were noted. Treatment continued for a mean total duration of 6 months until the IH had totally disappeared or stabilized. There were no severe adverse reactions. Side-effects were limited and mild, including blood pressure decrease, somnolence, and nausea. No relapse was noted. CONCLUSIONS: Low-dose propranolol appears to be effective and safe for IH, especially for those patients previously treated with corticosteroid and who had no response or severe side-effects.", 
+          "qas": [
+            {
+              "question": "Is propranolol used for treatment of infantile hemangioma?", 
+              "id": "5a67a72fb750ff445500000a_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Cardiovascular Profile of Propranolol after Multiple Dosing in Infantile Hemangioma. Propranolol is becoming the treatment of choice for complicated infantile hemangioma. We report here data on peripheral blood flow, O2-saturation, electrocardiographic PR-interval, left ventricular function, blood pressure and heart rate that were assessed before and during treatment for > 4 weeks with propranolol 2 mg/kg of body weight daily in 67 infants <12 months of age in normal sinus rhythm and with structurally normal hearts. Management with propranolol was well tolerated in all and did not modify peripheral blood flow, O2-saturation, electrocardiographic PR-interval and left ventricular fractional shortening or ejection fraction. Absolute blood pressure levels were similar without and with propranolol. However, age-adjusted centile levels for both systolic and diastolic levels were significantly lower while on propranolol. The heart rate was significantly lower both when expressed as absolute value and when expressed as age-adjusted centile on treatment with propranolol. In conclusion, propranolol 2 mg/kg of body weight daily causes a statistically though not clinically relevant decrease in blood pressure and heart rate in cardially healthy infants affected by infantile hemangioma. Temporary discontinuation during acute febrile illnesses and during diarrheal diseases should be considered to prevent excessive hypotension.", 
+          "qas": [
+            {
+              "question": "Is propranolol used for treatment of infantile hemangioma?", 
+              "id": "5a67a72fb750ff445500000a_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Ultrasonography as an objective tool for assessment of infantile hemangioma treatment with propranolol. BACKGROUND: Infantile hemangiomas (IHs) are the most common benign vascular tumors of childhood. Propranolol is an effective drug in treating IH. A reliable and complementary instrument is necessary to evaluate IH response to propranolol in addition to clinical and photographic assessments. Ultrasonography is a simple and non-invasive technique that enables precise measurements of tumor size and contributes to objective follow-up. OBJECTIVE: To demonstrate the use of serial ultrasonography as an adjunctive tool for assessment of IH treatment with propranolol. PATIENTS AND METHODS: A retrospective study of 19 patients with IH treated with propranolol was conducted from January 2009 to March 2014. Data of individual IH volume at the beginning and at least 6 months after the onset of treatment and overall volume reduction by ultrasonographic measurement were obtained. RESULTS: We observed a statistically significant IH volume reduction of approximately 0.51 cm . This volume corresponds to an average reduction of 47% in the final volume compared with the initial volume. CONCLUSION: Ultrasonographic measurements contribute to demonstrate tumor regression and IH response to propranolol. Thus, ultrasonography is an important instrument to guide therapeutic strategies.", 
+          "qas": [
+            {
+              "question": "Is propranolol used for treatment of infantile hemangioma?", 
+              "id": "5a67a72fb750ff445500000a_003"
+            }
+          ]
+        }, 
+        {
+          "context": "CRISPR/Cas9-Mediated Genome Editing as a Therapeutic Approach for Leber Congenital Amaurosis 10. As the most common subtype of Leber congenital amaurosis (LCA), LCA10 is a severe retinal dystrophy caused by mutations in the CEP290 gene. The most frequent mutation found in patients with LCA10 is a deep intronic mutation in CEP290 that generates a cryptic splice donor site. The large size of the CEP290 gene prevents its use in adeno-associated virus (AAV)-mediated gene augmentation therapy. Here, we show that targeted genomic deletion using the clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 system represents a promising therapeutic approach for the treatment of patients with LCA10 bearing the CEP290 splice mutation. We generated a cellular model of LCA10 by introducing the CEP290 splice mutation into 293FT cells and we showed that guide RNA pairs coupled with SpCas9 were highly efficient at removing the intronic splice mutation and restoring the expression of wild-type CEP290. In addition, we demonstrated that a dual AAV system could effectively delete an intronic fragment of the Cep290 gene in the mouse retina. To minimize the immune response to prolonged expression of SpCas9, we developed a self-limiting CRISPR/Cas9 system that minimizes the duration of SpCas9 expression. These results support further studies to determine the therapeutic potential of CRISPR/Cas9-based strategies for the treatment of patients with LCA10.", 
+          "qas": [
+            {
+              "question": "Can the CEP290 gene mutations be targeted by AAV-mediated gene therapy?", 
+              "id": "5a75fec383b0d9ea6600000b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Aberrant expression of synaptic plasticity-related genes in the NF1+/- mouse hippocampus. Neurofibromatosis 1 (NF1) is a common single-gene disorder that causes learning impairments in patients. Neurofibromin encoded by the NF1 causal gene regulates Ras/MAPK and cAMP signaling pathways. These signaling pathways play critical roles in controlling gene transcription during synaptic plasticity and memory formation. We hypothesized that NF1 mutations disturb the expression of genes important for memory formation. To test this hypothesis, we performed DNA microarray analysis on the hippocampus of NF1(+/-) mice, the mouse model for NF1 learning disabilities. Our results indicated that genes involved in a wide spectrum of biological processes are dysregulated in the NF1(+/-) hippocampus. Many of the NF1-affected genes play critical roles in synaptic plasticity, such as Rabs, synaptotagmins, NMDAR1, CaMKII, and CREB1. Because NF1-associated learning disabilities can be reversed by lovastatin, we also determined the effect of lovastatin treatment on genome-wide expression patterns of the NF1(+/-) hippocampus. We found that lovastatin altered the expression of a large number of genes, including those disturbed by NF1 mutations. Our results reveal a genome-wide overview of the molecular abnormalities in the NF1(+/-) hippocampus and should be useful for further identifying the novel molecular pathways that cause NF1 learning deficits.", 
+          "qas": [
+            {
+              "question": "Are mutations in the nf1 gene associated with memory?", 
+              "id": "5a87efa961bb38fb2400000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Distinct functional domains of neurofibromatosis type 1 regulate immediate versus long-term memory formation. Neurofibromatosis type 1 (NF1) is a dominant genetic disorder that causes tumors of the peripheral nervous system. In addition, >40% of afflicted children have learning difficulties. The NF1 protein contains a highly conserved GTPase-activating protein domain that inhibits Ras activity, and the C-terminal region regulates cAMP levels via G-protein-dependent activation of adenylyl cyclase. Behavioral analysis indicates that learning is disrupted in both Drosophila and mouse NF1 models. Our previous work has shown that defective cAMP signaling leads to the learning phenotype in Drosophila Nf1 mutants. In the present report, our experiments showed that in addition to learning, long-term memory was also abolished in Nf1 mutants. However, altered NF1-regulated Ras activity is responsible for this defect rather than altered cAMP levels. Furthermore, by expressing clinically relevant human NF1 mutations and deletions in Drosophila Nf1-null mutants, we demonstrated that the GAP-related domain of NF1 was necessary and sufficient for long-term memory, whereas the C-terminal domain of NF1 was essential for immediate memory. Thus, we show that two separate functional domains of the same protein can participate independently in the formation of two distinct memory components.", 
+          "qas": [
+            {
+              "question": "Are mutations in the nf1 gene associated with memory?", 
+              "id": "5a87efa961bb38fb2400000e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Promotive effect of topical ketoconazole, minoxidil, and minoxidil with tretinoin on hair growth in male mice. Recently topical use of 2% Ketoconazole solution has been reported to have a therapeutic effect on androgenic alopecia. Minoxidil is a vasodilatory medication used primarily as antihypertensive drug. It was discovered to have the side effect of hair growth and reversing baldness. Tretinoin is commonly used topically for acne treatment and in the treatment of photoaging. It is used by some as hair loss treatment. Objective. To compare the stimulatory effect of Ketoconazole, Minoxidil, and Minoxidil with Tretinoin on hair growth in a mouse model. Materials and Methods. Coat hairs on the dorsal skin of seven weeks old male mice were gently clipped and then stained by using commercial dye. These mice were divided into four groups each of five treated with topical application of ethanol 95%, Ketoconazole solution 2%, Minoxidil solution 5%, and Minoxidil with Tretinoin solution 0.1%, respectively. The drugs were applied once daily for three weeks, the clipped area was photographed, and the ratio of regrown coat area was calculated. Results. The results demonstrated that Ketoconazole, Minoxidil, and Minoxidil with Tretinoin had a significant stimulatory effect on hair growth compared with the control group and Minoxidil was the most effective drug among them.", 
+          "qas": [
+            {
+              "question": "Is tretinoin effective for photoaging?", 
+              "id": "5a68f2bab750ff4455000017_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Combination Superficial Peels With Salicylic Acid and Post-Peel Retinoids. BACKGROUND: Salicylic acid (SA) and retinoids, tretinoin (all-trans retinoic acid [ATRA]), and retinol (all-trans retinol) are widely used as topical agents for the improvement of photodamage and acne vulgaris. They can be used in daily take-home products or as part of an in-office procedure, combining the benefits of a keratolytic (SA) and a retinoid. OBJECTIVE: The objective of this research was to compare the efficacy for ameliorating photodamage of topical tretinoin (0.25%) and retinol (0.25%) to baseline and with each other when applied after a 30% salicylic acid peel on human facial skin. METHODS: Twenty female subjects received a full face 30% SA peel followed by the overnight application of tretinoin to a 1 randomized half-face and retinol to the opposite side (split-face study). The identical procedure was repeated at week 2. Double-blinded subject and investigator assessments of the results were captured at weeks 2 and 4. RESULTS: By investigator evaluation, both peeling regimens were effective in improving photodamage parameters compared to baseline. (ATRA P-values at week 4 were: P=.00008 texture, P=.00013 roughness, P=.00221 pores, P=.00098 dryness, P=.02770 erythema, and P=.00008 overall appearance. Retinol P-values at week 4 were: P=.00019 texture, P=.00053 roughness, P=.00221 pores, P=.00147 dryness, P=.02770 erythema, and P=.0043 overall appearance.) By subject self-assessment compared with baseline, both tretinoin and retinol were effective in improving overall appearance (ATRA P=.0229 and retinol P=.0190). By investigator evaluation comparing tretinoin with retinol, tretinoin was slightly better than retinol at week 4 in improving texture P=.00506, roughness P=.01171, and overall appearance P=.00506. By subject self-assessment comparing tretinoin with retinol, there was no difference in overall appearance (ATRA P=.2367 and retinol P=.3613). CONCLUSION: Either topical tretinoin (0.25%) or retinol (0.25%) can be used safely and effectively when applied in office immediately after SA peeling to ameliorate signs of photoaging.", 
+          "qas": [
+            {
+              "question": "Is tretinoin effective for photoaging?", 
+              "id": "5a68f2bab750ff4455000017_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A double-blind randomized study comparing the association of Retinol and LR2412 with tretinoin 0.025% in photoaged skin. INTRODUCTION: Topical tretinoin is considered the gold standard to treat photoaged skin, but it is associated with side effects and only available upon prescription. AIM OF THE STUDY: To compare the efficacy, tolerance, and perception of a fixed proprietary combination (Retinol 0.2%/LR2412 2%) vs. tretinoin 0.025% cream in women with photoaged skin. MATERIAL/METHODS: In this randomized, parallel, double-blind, controlled clinical study, women applied to the entire face for 3\u00a0months in the morning a SPF 50 sunscreen and in the evening either the association of Retinol 0.2%/LR2412 2% or tretinoin 0.025%. Clinical and instrumental parameters were assessed at days 0, 28, 56, and 84. Subject perception of the efficacy, tolerance and cosmeticity of the tested products were assessed at days 28, 56, and 84. RESULTS: A total of 120 women (60 to Retinol 0.2%/LR2412 2% cream and 60 to tretinoin 0.025% cream) were included in the study. Both products improved considerably wrinkles, mottled pigmentation, pores, and global photodamage. No statistically significant differences were noted between Retinol 0.2%/LR2412 2% cream and tretinoin 0.025% cream. Adverse effects were mostly graded mild. Overall, Retinol 0.2%/LR2412 2% cream was better tolerated than tretinoin 0.025% cream. At all visits, subject perception of the association of Retinol 0.2%/LR2412 2% was either comparable to or better than tretinoin 0.025% cream. CONCLUSION: The treatment outcome of Retinol 0.2%/LR2412 2% cream does not differ from the one of tretinoin 0.025% cream. Clinical results were not statistically different. Furthermore, Retinol 0.2%/LR2412 2% cream is better tolerated and better perceived by women used to rejuvenation procedures.", 
+          "qas": [
+            {
+              "question": "Is tretinoin effective for photoaging?", 
+              "id": "5a68f2bab750ff4455000017_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Superior Efficacy of an Herbal-based Cosmeceutical Compared With Common Prescription and Cosmetic Antiaging Therapies. INTRODUCTION: Research has shown that a disrupted stratum corneum permeability barrier coupled with chronic inflammation induce signs of extrinsic aging (photoaging). An novel herbal-based three product cosmeceutical regimen used to reverse these two anomalies that does not contain retinol, soy, niacinamide, tea, L-ascorbic acid or esters, hydroxy acids, tocopherol, or growth factors was tested in six human clinical trials to determine effectiveness and safety in reversing photoaging. MATERIALS AND METHODS: Six randomized split face, double blind, prospective, controlled clinical trials involving a total of 110 subjects compared a cosmeceutical blend of novel herbs in regimens consisting of one to three products to several common antiaging topical treatments. These comparative products include prescription tretinoin, physician strength idebenone, kinetin, polyhydroxy, lactic and glycolic acids in reversing signs of photoaging. RESULTS: The novel cosmeceutical blend regimen showed superior efficacy and safety in all six trials. DISCUSSION: These trials substantiate that herbs not used in common antiaging products effectively and safely mitigate and reverse photoaging signs and symptoms. The novel concept of treating photoaging and preventing its progression by repairing and optimizing the stratum corneum barrier, while reversing and inhibiting chronic cutaneous inflammation, has now been proven.", 
+          "qas": [
+            {
+              "question": "Is tretinoin effective for photoaging?", 
+              "id": "5a68f2bab750ff4455000017_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficacy and tolerability of a double-conjugated retinoid cream vs 1.0% retinol cream or 0.025% tretinoin cream in subjects with mild to severe photoaging. BACKGROUND: Topical retinoids are used to treat the visible signs of photoaging. While efficacious, they are irritating. OBJECTIVE: Evaluate the effectiveness and tolerability of a double-conjugate retinoid cream (AlphaRet Overnight Cream; AHA-Ret) in improving visible signs of photoaging vs 1.0% retinol or 0.025% tretinoin. METHODS: A 12-week, split-face, randomized trial was conducted in 48 female subjects, aged 30-65\u00a0years with mild to severe photodamage. AHA-Ret was applied to one side of the face and either retinol (n=24) or tretinoin (n=24) to the other side (PM). Expert blinded evaluation of images and Nova measurements occurred at 4, 8, and 12\u00a0weeks. Tolerability was assessed throughout the study. RESULTS: Forty-seven subjects completed the study. AHA-Ret demonstrated significant reductions in average severity from baseline: Fine Lines/Wrinkles (P<.001; all time points); Erythema (P=.004, P<.0001; 8 and 12\u00a0weeks, respectively); Dyschromia (P<.0001; all time points); Skin Tone (P<.0001; all time points), and Pore Size (P=.035, P<.0001; 8 and 12\u00a0weeks, respectively). AHA-Ret induced less Erythema vs retinol at 8 (P=.008) and 12 (P<.02) weeks. AHA-Ret was noninferior to prescription tretinoin in all categories at 4 and 8\u00a0weeks, and for Fine Lines/Wrinkles, Erythema, Dyschromia, and Skin Tone at 12\u00a0weeks. Improvements in Hydration occurred at every time point with AHA-Ret only (P<.04, P<.03, P<.01). Less irritation was reported with AHA-Ret vs retinol or tretinoin. CONCLUSIONS: Treatment with a double-conjugate retinoid cream demonstrated early reductions in photodamage and improvements in Hydration. AHA-Ret induced less Erythema vs retinol and was more tolerable vs retinol and tretinoin.", 
+          "qas": [
+            {
+              "question": "Is tretinoin effective for photoaging?", 
+              "id": "5a68f2bab750ff4455000017_004"
+            }
+          ]
+        }, 
+        {
+          "context": "The Effectiveness of a 5% Retinoic Acid Peel Combined with Microdermabrasion for Facial Photoaging: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Background. Tretinoin has been shown to improve photoaged skin. This study was designed to evaluate the efficacy and tolerability of a 5% retinoic acid peel combined with microdermabrasion for facial photoaging. Materials and Methods. Forty-five patients, aged 35-70, affected by moderate-to-severe photodamage were enrolled in this trial. All patients received 3 sessions of full facial microdermabrasion and 3 sessions of either 5% retinoic acid peel or placebo after the microdermabrasion. Efficacy was measured using the Glogau scale. Patients were assessed at 2 weeks and 1, 2, and 6 months after treatment initiation. Results. The mean \u00b1 SD age of participants was 49.55 \u00b1 11.61 years, and the majorities (73.3%) were female. Between 1 month and 2 months, participants reported slight but statistically significant improvements for all parameters (P < 0.001). In terms of adverse effects, there were statistically significant differences reported between the 5% retinoic acid peel groups and the control group (P < 0.001). The majority of adverse effects reported in the study were described as mild and transient. Conclusion. This study demonstrated that 5% retinoic acid peel cream combined with microdermabrasion was safe and effective in the treatment of photoaging in the Iranian population. This trial is registered with IRCT2015121112782N8.", 
+          "qas": [
+            {
+              "question": "Is tretinoin effective for photoaging?", 
+              "id": "5a68f2bab750ff4455000017_005"
+            }
+          ]
+        }, 
+        {
+          "context": "The systematic analysis of ultraconserved genomic regions in the budding yeast. Motivation: In the evolution of species, a kind of special sequences, termed ultraconserved sequences (UCSs), have been inherited without any change, which strongly suggests those sequences should be crucial for the species to survive or adapt to the environment. However, the UCSs are still regarded as mysterious genetic sequences so far. Here, we present a systematic study of ultraconserved genomic regions in the budding yeast based on the publicly available genome sequences, in order to reveal their relationship with the adaptability or fitness advantages of the budding yeast. Results: Our results indicate that, in addition to some fundamental biological functions, the UCSs play an important role in the adaptation of Saccharomyces cerevisiae to the acidic environment, which is backed up by the previous observation. Besides that, we also find the highly unchanged genes are enriched in some other pathways, such as the nutrient-sensitive signaling pathway. To facilitate the investigation of unique UCSs, the UCSC Genome Browser was utilized to visualize the chromosomal position and related annotations of UCSs in S.cerevisiae genome. Availability and implementation: For more details on UCSs, please refer to the Supplementary information online, and the custom code is available on request. Contact: fgao@tju.edu.cn. Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Are there ultraconserved genomic regions in the budding yeast?", 
+              "id": "5a6d217eb750ff4455000034_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Clock Genes, Metabolism, and Cardiovascular Risk. The molecular clockwork drives rhythmic oscillations of signaling pathways managing intermediate metabolism; the circadian timing system synchronizes behavioral cycles and anabolic/catabolic processes with environmental cues, mainly represented by light/darkness alternation. Metabolic pathways, bile acid synthesis, and autophagic and immune/inflammatory processes are driven by the biological clock. Proper timing of hormone secretion, metabolism, bile acid turnover, autophagy, and inflammation with behavioral cycles is necessary to avoid dysmetabolism. Disruption of the biological clock and mistiming of body rhythmicity with respect to environmental cues provoke loss of internal synchronization and metabolic derangements, causing liver steatosis, obesity, metabolic syndrome, and diabetes mellitus.", 
+          "qas": [
+            {
+              "question": "Is autophagy modulated in a circadian fashion?", 
+              "id": "5a87fd0561bb38fb24000010_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The circadian clock regulates autophagy directly through the nuclear hormone receptor Nr1d1/Rev-erb\u03b1 and indirectly via Cebpb/(C/ebp\u03b2) in zebrafish. Autophagy is a highly conserved intracellular degradation system, and recently was shown to display circadian rhythms in mice. The mechanisms underlying circadian regulation of autophagy, however, are still unclear. Here, we observed that numbers of autophagosomes and autolysosomes exhibit daily rhythms in the zebrafish liver, and cebpb/(c/ebp\u03b2) and various autophagy genes are rhythmically expressed in zebrafish larvae but significantly upregulated in per1b and TALEN-generated nr1d1/rev-erb\u03b1 mutant fish, indicating that both Per1b and Nr1d1 play critical roles in autophagy rhythms. Luciferase reporter and ChIP assays show that the circadian clock directly regulates autophagy genes through Nr1d1, and also regulates transcription of cebpb through Per1b. We also found that fasting leads to altered expression of both circadian clock genes and autophagy genes in zebrafish adult peripheral organs. Further, transcriptome analysis reveals multiple functions of Nr1d1 in zebrafish. Taken together, these findings provide evidence for how the circadian clock regulates autophagy, imply that nutritional signaling affects both circadian regulation and autophagy activities in peripheral organs, and shed light on how circadian gene mutations act through autophagy to contribute to common metabolic diseases such as obesity.", 
+          "qas": [
+            {
+              "question": "Is autophagy modulated in a circadian fashion?", 
+              "id": "5a87fd0561bb38fb24000010_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Moving to the Rhythm with Clock (Circadian) Genes, Autophagy, mTOR, and SIRT1 in Degenerative Disease and Cancer. BACKGROUND: The mammalian circadian clock and its associated clock genes are increasingly been recognized as critical components for a number of physiological and disease processes that extend beyond hormone release, thermal regulation, and sleep-wake cycles. New evidence suggests that clinical behavior disruptions that involve prolonged shift work and even space travel may negatively impact circadian rhythm and lead to multi-system disease. METHODS: In light of the significant role circadian rhythm can hold over the body's normal physiology as well as disease processes, we examined and discussed the impact circadian rhythm and clock genes hold over lifespan, neurodegenerative disorders, and tumorigenesis. RESULTS: In experimental models, lifespan is significantly reduced with the introduction of arrhythmic mutants and leads to an increase in oxidative stress exposure. Interestingly, patients with Alzheimer's disease and Parkinson's disease may suffer disease onset or progression as a result of alterations in the DNA methylation of clock genes as well as prolonged pharmacological treatment for these disorders that may lead to impairment of circadian rhythm function. Tumorigenesis also can occur with the loss of a maintained circadian rhythm and lead to an increased risk for nasopharyngeal carcinoma, breast cancer, and metastatic colorectal cancer. Interestingly, the circadian clock system relies upon the regulation of the critical pathways of autophagy, the mechanistic target of rapamycin (mTOR), AMP activated protein kinase (AMPK), and silent mating type information regulation 2 homolog 1 (Saccharomyces cerevisiae) (SIRT1) as well as proliferative mechanisms that involve the wingless pathway of Wnt/\u03b2-catenin pathway to foster cell survival during injury and block tumor cell growth. CONCLUSION: Future targeting of the pathways of autophagy, mTOR, SIRT1, and Wnt that control mammalian circadian rhythm may hold the key for the development of novel and effective therapies against aging- related disorders, neurodegenerative disease, and tumorigenesis.", 
+          "qas": [
+            {
+              "question": "Is autophagy modulated in a circadian fashion?", 
+              "id": "5a87fd0561bb38fb24000010_002"
+            }
+          ]
+        }, 
+        {
+          "context": "TOR signaling pathway and autophagy are involved in the regulation of circadian rhythms in behavior and plasticity of L2 interneurons in the brain of Drosophila melanogaster. Drosophila melanogaster is a common model used to study circadian rhythms in behavior and circadian clocks. However, numerous circadian rhythms have also been detected in non-clock neurons, especially in the first optic neuropil (lamina) of the fly's visual system. Such rhythms have been observed in the number of synapses and in the structure of interneurons, which exhibit changes in size and shape in a circadian manner. Although the patterns of these changes are known, the mechanism remains unclear. In the present study, we investigated the role of the TOR signaling pathway and autophagy in regulating circadian rhythms based on the behavior and structural plasticity of the lamina L2 monopolar cell dendritic trees. In addition, we examined the cyclic expression of the TOR signaling pathway (Tor, Pi3K class 1, Akt1) and autophagy (Atg5 and Atg7) genes in the fly's brain. We observed that Tor, Atg5 and Atg7 exhibit rhythmic expressions in the brain of wild-type flies in day/night conditions (LD 12:12) that are abolished in per01 clock mutants. The silencing of Tor in per expressing cells shortens a period of the locomotor activity rhythm of flies. In addition, silencing of the Tor and Atg5 genes in L2 cells disrupts the circadian plasticity of the L2 cell dendritic trees measured in the distal lamina. In turn, silencing of the Atg7 gene in L2 cells changes the pattern of this rhythm. Our results indicate that the TOR signaling pathway and autophagy are involved in the regulation of circadian rhythms in the behavior and plasticity of neurons in the brain of adult flies.", 
+          "qas": [
+            {
+              "question": "Is autophagy modulated in a circadian fashion?", 
+              "id": "5a87fd0561bb38fb24000010_003"
+            }
+          ]
+        }, 
+        {
+          "context": "The clock gene, brain and muscle Arnt-like 1, regulates autophagy in high glucose-induced cardiomyocyte injury. High-glucose-induced cardiomyocyte injury is the major cause of diabetic cardiomyopathy, but its regulatory mechanisms are not fully understood. Here, we report that a circadian clock gene, brain and muscle Arnt-like 1 (Bmal1), increases autophagy in high-glucose-induced cardiomyocyte injury. We constructed a hyperglycemia model with cultured cardiomyocytes from neonatal rats. High-glucose-induced inhibition of autophagy and cardiomyocyte injury were attenuated by Bmal1 overexpression and aggravated by its knockdown. Furthermore, autophagy stabilization by 3-methyladenine or rapamycin partially suppressed the effects of altered Bmal1 expression on cardiomyocyte survival. Mechanistically, Bmal1 mediated resistance to high-glucose-induced inhibition of autophagy at least partly by inhibiting mTOR signaling activity. Collectively, our findings suggest that the clock gene Bmal1 is a positive regulator of autophagy through the mTOR signaling pathway and protects cardiomyocytes against high-glucose toxicity.", 
+          "qas": [
+            {
+              "question": "Is autophagy modulated in a circadian fashion?", 
+              "id": "5a87fd0561bb38fb24000010_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Active chromatin and transcription play a key role in chromosome partitioning into topologically associating domains. Recent advances enabled by the Hi-C technique have unraveled many principles of chromosomal folding that were subsequently linked to disease and gene regulation. In particular, Hi-C revealed that chromosomes of animals are organized into topologically associating domains (TADs), evolutionary conserved compact chromatin domains that influence gene expression. Mechanisms that underlie partitioning of the genome into TADs remain poorly understood. To explore principles of TAD folding in Drosophila melanogaster, we performed Hi-C and poly(A)(+) RNA-seq in four cell lines of various origins (S2, Kc167, DmBG3-c2, and OSC). Contrary to previous studies, we find that regions between TADs (i.e., the inter-TADs and TAD boundaries) in Drosophila are only weakly enriched with the insulator protein dCTCF, while another insulator protein Su(Hw) is preferentially present within TADs. However, Drosophila inter-TADs harbor active chromatin and constitutively transcribed (housekeeping) genes. Accordingly, we find that binding of insulator proteins dCTCF and Su(Hw) predicts TAD boundaries much worse than active chromatin marks do. Interestingly, inter-TADs correspond to decompacted inter-bands of polytene chromosomes, whereas TADs mostly correspond to densely packed bands. Collectively, our results suggest that TADs are condensed chromatin domains depleted in active chromatin marks, separated by regions of active chromatin. We propose the mechanism of TAD self-assembly based on the ability of nucleosomes from inactive chromatin to aggregate, and lack of this ability in acetylated nucleosomal arrays. Finally, we test this hypothesis by polymer simulations and find that TAD partitioning may be explained by different modes of inter-nucleosomal interactions for active and inactive chromatin.", 
+          "qas": [
+            {
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?", 
+              "id": "58ee1cafeda5a57672000014_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Genome-wide analysis of local chromatin packing in Arabidopsis thaliana. The spatial arrangement of interphase chromosomes in the nucleus is important for gene expression and genome function in animals and in plants. The recently developed Hi-C technology is an efficacious method to investigate genome packing. Here we present a detailed Hi-C map of the three-dimensional genome organization of the plant Arabidopsis thaliana. We find that local chromatin packing differs from the patterns seen in animals, with kilobasepair-sized segments that have much higher intrachromosome interaction rates than neighboring regions, representing a dominant local structural feature of genome conformation in A. thaliana. These regions, which appear as positive strips on two-dimensional representations of chromatin interaction, are enriched in epigenetic marks H3K27me3, H3.1, and H3.3. We also identify more than 400 insulator-like regions. Furthermore, although topologically associating domains (TADs), which are prominent in animals, are not an obvious feature of A. thaliana genome packing, we found more than 1000 regions that have properties of TAD boundaries, and a similar number of regions analogous to the interior of TADs. The insulator-like, TAD-boundary-like, and TAD-interior-like regions are each enriched for distinct epigenetic marks and are each correlated with different gene expression levels. We conclude that epigenetic modifications, gene density, and transcriptional activity combine to shape the local packing of the A. thaliana nuclear genome.", 
+          "qas": [
+            {
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?", 
+              "id": "58ee1cafeda5a57672000014_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Disruptions of topological chromatin domains cause pathogenic rewiring of gene-enhancer interactions. Mammalian genomes are organized into megabase-scale topologically associated domains (TADs). We demonstrate that disruption of TADs can rewire long-range regulatory architecture and result in pathogenic phenotypes. We show that distinct human limb malformations are caused by deletions, inversions, or duplications altering the structure of the TAD-spanning WNT6/IHH/EPHA4/PAX3 locus. Using CRISPR/Cas genome editing, we generated mice with corresponding rearrangements. Both in mouse limb tissue and patient-derived fibroblasts, disease-relevant structural changes cause ectopic interactions between promoters and non-coding DNA, and a cluster of limb enhancers normally associated with Epha4 is misplaced relative to TAD boundaries and drives ectopic limb expression of another gene in the locus. This rewiring occurred only if the variant disrupted a CTCF-associated boundary domain. Our results demonstrate the functional importance of TADs for orchestrating gene expression via genome architecture and indicate criteria for predicting the pathogenicity of human structural variants, particularly in non-coding regions of the human genome.", 
+          "qas": [
+            {
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?", 
+              "id": "58ee1cafeda5a57672000014_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Condensin-driven remodelling of X chromosome topology during dosage compensation. The three-dimensional organization of a genome plays a critical role in regulating gene expression, yet little is known about the machinery and mechanisms that determine higher-order chromosome structure. Here we perform genome-wide chromosome conformation capture analysis, fluorescent in situ hybridization (FISH), and RNA-seq to obtain comprehensive three-dimensional (3D) maps of the Caenorhabditis elegans genome and to dissect X chromosome dosage compensation, which balances gene expression between XX hermaphrodites and XO males. The dosage compensation complex (DCC), a condensin complex, binds to both hermaphrodite X chromosomes via sequence-specific recruitment elements on X (rex sites) to reduce chromosome-wide gene expression by half. Most DCC condensin subunits also act in other condensin complexes to control the compaction and resolution of all mitotic and meiotic chromosomes. By comparing chromosome structure in wild-type and DCC-defective embryos, we show that the DCC remodels hermaphrodite X chromosomes into a sex-specific spatial conformation distinct from autosomes. Dosage-compensated X chromosomes consist of self-interacting domains (\u223c1 Mb) resembling mammalian topologically associating domains (TADs). TADs on X chromosomes have stronger boundaries and more regular spacing than on autosomes. Many TAD boundaries on X chromosomes coincide with the highest-affinity rex sites and become diminished or lost in DCC-defective mutants, thereby converting the topology of X to a conformation resembling autosomes. rex sites engage in DCC-dependent long-range interactions, with the most frequent interactions occurring between rex sites at DCC-dependent TAD boundaries. These results imply that the DCC reshapes the topology of X chromosomes by forming new TAD boundaries and reinforcing weak boundaries through interactions between its highest-affinity binding sites. As this model predicts, deletion of an endogenous rex site at a DCC-dependent TAD boundary using CRISPR/Cas9 greatly diminished the boundary. Thus, the DCC imposes a distinct higher-order structure onto X chromosomes while regulating gene expression chromosome-wide.", 
+          "qas": [
+            {
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?", 
+              "id": "58ee1cafeda5a57672000014_003"
+            }
+          ]
+        }, 
+        {
+          "context": "High-Affinity Sites Form an Interaction Network to Facilitate Spreading of the MSL Complex across the X Chromosome in Drosophila. Dosage compensation mechanisms provide a paradigm to study the contribution of chromosomal conformation toward targeting and spreading of epigenetic regulators over a specific chromosome. By using Hi-C and 4C analyses, we show that high-affinity sites (HAS), landing platforms of the male-specific lethal (MSL) complex, are enriched around topologically associating domain (TAD) boundaries on the X chromosome and harbor more long-range contacts in a sex-independent manner. Ectopically expressed roX1 and roX2 RNAs target HAS on the X chromosome in trans and, via spatial proximity, induce spreading of the MSL complex in cis, leading to increased expression of neighboring autosomal genes. We show that the MSL complex regulates nucleosome positioning at HAS, therefore acting locally rather than influencing the overall chromosomal architecture. We propose that the sex-independent, three-dimensional conformation of the X chromosome poises it for exploitation by the MSL complex, thereby facilitating spreading in males.", 
+          "qas": [
+            {
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?", 
+              "id": "58ee1cafeda5a57672000014_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Invariant TAD Boundaries Constrain Cell-Type-Specific Looping Interactions between Promoters and Distal Elements around the CFTR Locus. Three-dimensional genome structure plays an important role in gene regulation. Globally, chromosomes are organized into active and inactive compartments while, at the gene level, looping interactions connect promoters to regulatory elements. Topologically associating domains (TADs), typically several hundred kilobases in size, form an intermediate level of organization. Major questions include how TADs are formed and how they are related to looping interactions between genes and regulatory elements. Here we performed a focused 5C analysis of a 2.8 Mb chromosome 7 region surrounding CFTR in a panel of cell types. We find that the same TAD boundaries are present in all cell types, indicating that TADs represent a universal chromosome architecture. Furthermore, we find that these TAD boundaries are present irrespective of the expression and looping of genes located between them. In contrast, looping interactions between promoters and regulatory elements are cell-type specific and occur mostly within TADs. This is exemplified by the CFTR promoter that in different cell types interacts with distinct sets of distal cell-type-specific regulatory elements that are all located within the same TAD. Finally, we find that long-range associations between loci located in different TADs are also detected, but these display much lower interaction frequencies than looping interactions within TADs. Interestingly, interactions between TADs are also highly cell-type-specific and often involve loci clustered around TAD boundaries. These data point to key roles of invariant TAD boundaries in constraining as well as mediating cell-type-specific long-range interactions and gene regulation.", 
+          "qas": [
+            {
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?", 
+              "id": "58ee1cafeda5a57672000014_005"
+            }
+          ]
+        }, 
+        {
+          "context": "TUC.338 promotes invasion and metastasis in colorectal cancer. Ultraconserved regions (UCRs) are non-protein coding gene sequences that are strictly conserved across among different species. Emerging evidence demonstrates that transcribed ultraconserved regions (TUCRs) encoding noncoding RNAs serve as regulators of gene expression. In recent decades, increasing evidence implicates the involvement of UCRs in carcinogenesis. The role of TUC.338 in cervical cancers was an oncogene in previous studies. Until now, the role of TUC.338 in colorectal cancers remains undefined. This study revealed that TUC.338 is significantly up-regulated in colorectal cancers (CRC) tissue and CRC cell lines, and the up-regulated TUC.338 is associated with lymph node metastasis. Transfection with small interfering RNA (siRNA) markedly inhibited cell migration and invasion in SW480 and HCT116 colorectal cancer cell lines. TIMP-1 was demonstrated to be negatively regulated by TUC.338 at the posttranscriptional level, via a specific target site within the 3' untranslated region by dual-luciferase reporter assay. The expression of TIMP-1 was also observed to inversely correlate with TUC.338 expression in CRC tissues. Over-expression of TIMP-1 with migRI-TIMP-1-GFP inhibited CRC cell migration and invasion and down-regulates MMP9, resembling that of TUC.338-siRNA. Thus, these findings suggested that TUC.338 acts as a novel oncogene by targeting the TIMP-1 gene thus promoting colorectal cancer cell migration and invasion.", 
+          "qas": [
+            {
+              "question": "Does TUC.338 inhibit colorectal cancer?", 
+              "id": "5a6d23ccb750ff4455000035_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Underlying mechanisms of the JAK2V617F mutation in the pathogenesis of myeloproliferative neoplasms. Chronic myeloproliferative neoplasms (MPN) comprise a\u00a0spectrum of clonal neoplastic disorders characterized by overproduction of terminally differentiated cells of the myeloid lineage. A\u00a0common genetic basis for the BCR-ABL-negative MPN disorders was elucidated in 2005 with the identification of the JAK2V617F mutation in the majority of MPN patients. The discovery of JAK2V617F had a\u00a0dramatic impact on the diagnosis and treatment of MPN. Testing for JAK2 mutations is now included in the World Health Organization (WHO) criteria for the diagnosis of MPN, and in 2011 the oral JAK2 kinase inhibitor ruxolitinib became the first Food and Drug Administration (FDA)-approved drug for the treatment of myelofibrosis. The drug is now also approved in Europe and Canada.", 
+          "qas": [
+            {
+              "question": "Has ruxolitinib received FDA approval?", 
+              "id": "5a7626989e632bc066000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Pregnancy and traveling]. The second trimester is the safest time for travelling, because the pregnant woman feels generally most at ease and the risk of spontaneous abortion and pre-term labour is very low. Possible risks must be discussed with the obstetrician before travelling. If the pregnancy is uncomplicated most airlines allow flying up to the 36th (domestic flights) and 35th (international flights) week of gestation. Unless the fetal oxygen supply is already impaired at ground level due to an underlying disease, flying does not pose a risk of fetal hypoxia. Radiation exposure during a long distant flight is low compared to the average annual exposure dosage, but the risk of thrombosis is increased. Altitudes up to 2,500 m pose no problem. Sufficient time to acclimatize must be taken when travelling to high altitudes and exercise kept to a minimum. Scuba diving is contraindicated. Since only a few drugs are completely safe during pregnancy a thorough risk/benefit evaluation is mandatory. Treatment of infections can be considerably complicated, but any necessary treatment should not be withheld because of the fear of potential fetal injury. Good knowledge of local medical resources is essential before travelling. Several personal protective measures minimize the risk of infection: food and water precautions, protection from insect bites and avoidance of crowds, unsafe sex and, if need be, freshwater. Many vaccinations are recommended for travellers. However, live vaccines are contraindicated in pregnant women because of theoretical considerations. Exceptionally a yellow fever vaccination may be given after the first trimester. Killed, inactivated or polysaccharide vaccines can be given after the first trimester after a thorough risk/benefit evaluation. Because of the potentially devastating effect of malaria to the mother and the child, travelling to endemic malaria regions should be avoided. If the risk of infection is high chemoprophylaxis with mefloquine is indicated. In low-risk countries mefloquine, in South-East-Asia artemisinin derivatives should be given as stand-by treatment.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_000"
+            }
+          ]
+        }, 
+        {
+          "context": "ACOG Committee opinion. Number 267, January 2002: exercise during pregnancy and the postpartum period. The physiologic and morphologic changes of pregnancy may interfere with the ability to engage safely in some forms of physical activity. A woman's overall health, including obstetric and medical risks, should be evaluated before prescribing an exercise program. Generally, participation in a wide range of recreational activities appears to be safe during pregnancy; however, each sport should be reviewed individually for its potential risk, and activities with a high risk of abdominal trauma should be avoided during pregnancy. Scuba diving also should be avoided throughout pregnancy because the fetus is at an increased risk for decompression sickness during this activity. In the absence of either medical or obstetric complications, 30 minutes or more of moderate exercise a day on most, if not all, days of the week is recommended for pregnant women.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Exercise during pregnancy and the postpartum period. The physiologic and morphologic changes of pregnancy may interfere with the ability to engage safely in some forms of physical activity. A woman's overall health, including obstetric and medical risks, should be evaluated before prescribing an exercise program. Generally, participation in a wide range of recreational activities appears to be safe during pregnancy; however, each sport should be reviewed individually for its potential risk, and activities with a high risk of falling or those with a high risk of abdominal trauma should be avoided during pregnancy. Scuba diving also should be avoided throughout pregnancy because the fetus is at an increased risk for decompression sickness during this activity. In the absence of either medical or obstetric complications, 30 minutes or more of moderate exercise a day on most, if not all, days of the week is recommended for pregnant women.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[Medical aspects of diving--a sport for both women and men]. As interest in scuba diving is increasing in both sexes, doctors need to be aware of the risks encountered when diving and about gender-related differences in these risks. Individuals prone to panic attacks, claustrophobia or reckless risk-taking should avoid diving. In tolerating cold, muscle mass is more important than the amount of subcutaneous fat. The risk of decompression disease seems to be slightly greater among women, probably due to their fat distribution. Pregnant women are recommended not to dive, because the risk of birth defects seems to be greater among those who do, and there is a serious risk of fetal decompression disease. All participants in the sport must be responsible for their own diving safety.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[Pregnancy and scuba diving: what precautions?]. Scuba diving is a leisure activity increasingly popular amongst women. Many women are concerned about the risks associated with diving and a known or planned pregnancy. In order to advise these young women, we have reviewed the literature concerning women and diving as well as animal studies on the subject. The different international federations and the Undersea and Hyperbaric Medical Society advise against scuba diving for pregnant women or those planning a pregnancy, but no randomized trials or trials provide a solid scientific basis. The fetal circulation is characterized by the exclusion of the pulmonary circulation by 2 right to left shunts. As the lung appears to act as a filter against the progression of micro-bubbles to the main circulation, the fetus may be therefore particularly exposed to gas emboli. However, the placenta could play this role in certain animal species. Nitrox diving appears to be particularly promising, but studies on the subject are still insufficient to recommend it for pregnant women.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Scuba diving and pregnancy: can we determine safe limits? No human data, investigating the effects on the fetus of diving, have been published since 1989. We investigated any potential link between diving while pregnant and fetal abnormalities by evaluating field data from retrospective study No.1 (1990/2) and prospective study No.2 (1996/2000). Some 129 women reported 157 pregnancies over 1,465 dives. Latest gestational age reported while diving was 35 weeks. One respondent reported 92 dives during a single pregnancy, with two dives to 65 m in the 1st trimester. In study No.2 >90% of women ceased diving in the 1st trimester, compared with 65% in the earlier study. Overall, the women did not conduct enough dives per pregnancy, therefore no significant correlation between diving and fetal abnormalities could be established. These data indicate women are increasingly observing the diving industry recommendation and refraining from diving while pregnant. Field studies are not likely to be useful, or the way forward, for future diving and pregnancy research. Differences in placental circulation between humans and other animals limit the applicability of animal research for pregnancy and diving studies. It is unlikely that the effect of scuba diving on the unborn human fetus will be established.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_005"
+            }
+          ]
+        }, 
+        {
+          "context": "ACOG committee opinion. Exercise during pregnancy and the postpartum period. Number 267, January 2002. American College of Obstetricians and Gynecologists. The physiologic and morphologic changes of pregnancy may interfere with the ability to engage safely in some forms of physical activity. A woman's overall health, including obstetric and medical risks, should be evaluated before prescribing an exercise program. Generally, participation in a wide range of recreational activities appears to be safe during pregnancy; however, each sport should be reviewed individually for its potential risk, and activities with a high risk of abdominal trauma should be avoided during pregnancy. Scuba diving also should be avoided throughout pregnancy because the fetus is at an increased risk for decompression sickness during this activity. In the absence of either medical or obstetric complications, 30 minutes or more of moderate exercise a day on most, if not all, days of the week is recommended for pregnant women.", 
+          "qas": [
+            {
+              "question": "Is scuba diving safe during pregnancy?", 
+              "id": "5a70de5199e2c3af26000005_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Corticosteroid effects on blood gene expression in Duchenne muscular dystrophy. Though Deflazacort and prednisone improve clinical endpoints in Duchenne muscular dystrophy (DMD) patients, Deflazacort produces fewer side effects. As mechanisms of improvement and side effect differences remain unknown, we evaluated effects of corticosteroid administration on gene expression in blood of DMD patients. Whole blood was obtained from 14 children and adolescents with DMD treated with corticosteroids (DMD-STEROID) and 20 DMD children and adolescents na\u00efve to corticosteroids (DMD). The DMD-STEROID group was further subdivided into Deflazacort and prednisone groups. Affymetrix U133 Plus 2.0 expression microarrays were used to evaluate mRNA expression. Expression of 524 probes changed with corticosteroids, including genes in iron trafficking and the chondroitin sulfate biosynthesis pathway. Deflazacort compared with prednisone yielded 508 regulated probes, including many involved in adipose metabolism. These genes and pathways help explain mechanisms of efficacy and side effects of corticosteroids, and could provide new treatment targets for DMD and other neuromuscular disorders.", 
+          "qas": [
+            {
+              "question": "Does deflazacort have more side effects than prednisone?", 
+              "id": "5a7726989e632bc06600000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Differential role of GABA receptors and neuroligin 2 for perisomatic GABAergic synapse formation in the hippocampus. Perisomatic GABAergic synapses onto hippocampal pyramidal cells arise from two populations of basket cells with different neurochemical and functional properties. The presence of the dystrophin-glycoprotein complex in their postsynaptic density (PSD) distinguishes perisomatic synapses from GABAergic synapses on dendrites and the axon-initial segment. Targeted deletion of neuroligin 2 (NL2), a transmembrane protein interacting with presynaptic neurexin, has been reported to disrupt postsynaptic clustering of GABA receptors (GABAR) and their anchoring protein, gephyrin, at perisomatic synapses. In contrast, targeted deletion of Gabra2 disrupts perisomatic clustering of gephyrin, but not of \u03b11-GABAR, NL2, or dystrophin/dystroglycan. Unexpectedly, conditional deletion of Dag1, encoding dystroglycan, selectively prevents the formation of perisomatic GABAergic synapses from basket cells expressing cholecystokinin. Collectively, these observations suggest that multiple mechanisms regulate formation and molecular composition of the GABAergic PSD at perisomatic synapses. Here, we further explored this issue by investigating the effect of targeted deletion of Gabra1 and NL2 on the dystrophin-glycoprotein complex and on perisomatic synapse formation, using immunofluorescence analysis with a battery of GABAergic pre- and postsynaptic markers. We show that the absence of \u03b11-GABAR increases GABAergic synapses containing the \u03b12 subunit, without affecting the clustering of dystrophin and NL2; in contrast, the absence of NL2 produces highly variable effects postsynaptically, not restricted to perisomatic synapses and being more severe for the GABAR subunits and gephyrin than dystrophin. Altogether, the results confirm the importance of NL2 as organizer of the GABAergic PSD and unravel distinct roles for \u03b11- and \u03b12-GABARs in the formation of GABAergic circuits in close interaction with the dystrophin-glycoprotein complex.", 
+          "qas": [
+            {
+              "question": "Are neurexins localized at pre-synapses?", 
+              "id": "5a8866958cb19eca6b000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Functions of synapse adhesion molecules neurexin/neuroligins and neurodevelopmental disorders. Neurexins and neuroligins are two distinct families of single-pass transmembrane proteins localized at pre- and postsynapses, respectively. They trans-synaptically interact with each other and induce synapse formation and maturation. Common variants and rare mutations, including copy number variations, short deletions, and single or small nucleotide changes in neurexin and neuroligin genes have been linked to the neurodevelopmental disorders, such as autism spectrum disorders (ASDs). In this review, we summarize the structure and basic synaptic function of neurexins and neuroligins, followed by behaviors and synaptic phenotypes of knock-in and knock-out mouse of these family genes. From the studies of these mice, it turns out that the effects of neurexins and neuroligins are amazingly neural circuit dependent, even within the same brain region. In addition, neurexins and neuroligins are commonly involved in the endocannabinoid signaling. These finding may provide not only insight into understanding the pathophysiology, but also the concept for strategy of therapeutic intervention for ASDs.", 
+          "qas": [
+            {
+              "question": "Are neurexins localized at pre-synapses?", 
+              "id": "5a8866958cb19eca6b000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Carbonic anhydrase-related protein CA10 is an evolutionarily conserved pan-neurexin ligand. Establishment, specification, and validation of synaptic connections are thought to be mediated by interactions between pre- and postsynaptic cell-adhesion molecules. Arguably, the best-characterized transsynaptic interactions are formed by presynaptic neurexins, which bind to diverse postsynaptic ligands. In a proteomic screen of neurexin-1 (Nrxn1) complexes immunoisolated from mouse brain, we identified carbonic anhydrase-related proteins CA10 and CA11, two homologous, secreted glycoproteins of unknown function that are predominantly expressed in brain. We found that CA10 directly binds in a cis configuration to a conserved membrane-proximal, extracellular sequence of \u03b1- and \u03b2-neurexins. The CA10-neurexin complex is stable and stoichiometric, and results in formation of intermolecular disulfide bonds between conserved cysteine residues in neurexins and CA10. CA10 promotes surface expression of \u03b1- and \u03b2-neurexins, suggesting that CA10 may form a complex with neurexins in the secretory pathway that facilitates surface transport of neurexins. Moreover, we observed that the Nrxn1 gene expresses from an internal 3' promoter a third isoform, Nrxn1\u03b3, that lacks all Nrxn1 extracellular domains except for the membrane-proximal sequences and that also tightly binds to CA10. Our data expand the understanding of neurexin-based transsynaptic interaction networks by providing further insight into the interactions nucleated by neurexins at the synapse.", 
+          "qas": [
+            {
+              "question": "Are neurexins localized at pre-synapses?", 
+              "id": "5a8866958cb19eca6b000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Developmental plasticity shapes synaptic phenotypes of autism-associated neuroligin-3 mutations in the calyx of Held. Neuroligins are postsynaptic cell-adhesion molecules that bind to presynaptic neurexins. Mutations in neuroligin-3 predispose to autism, but how such mutations affect synaptic function remains incompletely understood. Here we systematically examined the effect of three autism-associated mutations, the neuroligin-3 knockout, the R451C knockin, and the R704C knockin, on synaptic transmission in the calyx of Held, a central synapse ideally suited for high-resolution analyses of synaptic transmission. Surprisingly, germline knockout of neuroligin-3 did not alter synaptic transmission, whereas the neuroligin-3 R451C and R704C knockins decreased and increased, respectively, synaptic transmission. These puzzling results prompted us to ask whether neuroligin-3 mutant phenotypes may be reshaped by developmental plasticity. Indeed, conditional knockout of neuroligin-3 during late development produced a marked synaptic phenotype, whereas conditional knockout of neuroligin-3 during early development caused no detectable effect, mimicking the germline knockout. In canvassing potentially redundant candidate genes, we identified developmentally early expression of another synaptic neurexin ligand, cerebellin-1. Strikingly, developmentally early conditional knockout of cerebellin-1 only modestly impaired synaptic transmission, whereas in contrast to the individual single knockouts, developmentally early conditional double knockout of both cerebellin-1 and neuroligin-3 severely decreased synaptic transmission. Our data suggest an unanticipated mechanism of developmental compensation whereby cerebellin-1 and neuroligin-3 functionally occlude each other during development of calyx synapses. Thus, although acute manipulations more likely reveal basic gene functions, developmental plasticity can be a major factor in shaping the overall phenotypes of genetic neuropsychiatric disorders.", 
+          "qas": [
+            {
+              "question": "Are neurexins localized at pre-synapses?", 
+              "id": "5a8866958cb19eca6b000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "DDX54 regulates transcriptome dynamics during DNA damage response. The cellular response to genotoxic stress is mediated by a well-characterized network of DNA surveillance pathways. The contribution of post-transcriptional gene regulatory networks to the DNA damage response (DDR) has not been extensively studied. Here, we systematically identified RNA-binding proteins differentially interacting with polyadenylated transcripts upon exposure of human breast carcinoma cells to ionizing radiation (IR). Interestingly, more than 260 proteins, including many nucleolar proteins, showed increased binding to poly(A) RNA in IR-exposed cells. The functional analysis of DDX54, a candidate genotoxic stress responsive RNA helicase, revealed that this protein is an immediate-to-early DDR regulator required for the splicing efficacy of its target IR-induced pre-mRNAs. Upon IR exposure, DDX54 acts by increased interaction with a well-defined class of pre-mRNAs that harbor introns with weak acceptor splice sites, as well as by protein-protein contacts within components of U2 snRNP and spliceosomal B complex, resulting in lower intron retention and higher processing rates of its target transcripts. Because DDX54 promotes survival after exposure to IR, its expression and/or mutation rate may impact DDR-related pathologies. Our work indicates the relevance of many uncharacterized RBPs potentially involved in the DDR.", 
+          "qas": [
+            {
+              "question": "Does DDX54 play a role in DNA damage response?", 
+              "id": "5a76056983b0d9ea66000012_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Critical appraisal of the role of davunetide in the treatment of progressive supranuclear palsy. Progressive supranuclear palsy (PSP) is a rare neurodegenerative disease characterized by the accumulation of tau protein aggregates in the basal ganglia, brainstem and cerebral cortex leading to rapid disease progression and death. The neurofibrillary tangles that define the neuropathology of PSP are comprised of aggregated 4R tau and show a well-defined distribution. Classically, PSP is diagnosed by symptoms that include progressive gait disturbance, early falls, vertical ophthalmoparesis, akinetic-rigid features, prominent bulbar dysfunction and fronto-subcortical dementia. There are currently no effective therapies for the treatment of this rapidly degenerating and debilitating disease. Davunetide is a novel neuroprotective peptide that is thought to impact neuronal integrity and cell survival through the stabilization of microtubules. Preclinical activity in models of tauopathy has been translated to clinical studies, demonstrating pharmacologic activity that has supported further development. Davunetide's efficacy and tolerability are being tested in a placebo-controlled study in PSP patients, making it the most advanced drug candidate in this indication. This review examines the disease characteristics of PSP, the rationale for treating PSP with davunetide and assesses some of the challenges of clinical trials in this patient population.", 
+          "qas": [
+            {
+              "question": "Is davunetide being considered for the treatment of progressive supranuclear palsy?", 
+              "id": "5a7d5033faa1ab7d2e000015_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Drk-mediated signaling to Rho kinase is required for anesthesia-resistant memory in Drosophila. Anesthesia-resistant memory (ARM) was described decades ago, but the mechanisms that underlie this protein synthesis-independent form of consolidated memory in Drosophila remain poorly understood. Whether the several signaling molecules, receptors, and synaptic proteins currently implicated in ARM operate in one or more pathways and how they function in the process remain unclear. We present evidence that Drk, the Drosophila ortholog of the adaptor protein Grb2, is essential for ARM within adult mushroom body neurons. Significantly, Drk signals engage the Rho kinase Drok, implicating dynamic cytoskeletal changes in ARM, and this is supported by reduced F-actin in the mutants and after pharmacological inhibition of Drok. Interestingly, Drk-Drok signaling appears independent of the function of Radish (Rsh), a protein long implicated in ARM, suggesting that the process involves at least two distinct molecular pathways. Based on these results, we propose that signaling pathways involved in structural plasticity likely underlie this form of translation-independent memory.", 
+          "qas": [
+            {
+              "question": "Is Drk essential for anesthesia-resistant memory (ARM) in Drosophila?", 
+              "id": "5a7607f683b0d9ea66000014_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Tau-based therapeutics for Alzheimer's disease: active and passive immunotherapy. Pharmacological manipulation of tau protein in Alzheimer's disease included microtubule-stabilizing agents, tau protein kinase inhibitors, tau aggregation inhibitors, active and passive immunotherapies and, more recently, inhibitors of tau acetylation. Animal studies have shown that both active and passive approaches can remove tau pathology and, in some cases, improve cognitive function. Two active vaccines targeting either nonphosphorylated (AAD-vac1) and phosphorylated tau (ACI-35) have entered Phase I testing. Notwithstanding, the recent discontinuation of the monoclonal antibody RG7345 for Alzheimer's disease, two other antitau antibodies, BMS-986168 and C2N-8E12, are also currently in Phase I testing for progressive supranuclear palsy. After the recent impressive results in animal studies obtained by salsalate, the dimer of salicylic acid, inhibitors of tau acetylation are being actively pursued.", 
+          "qas": [
+            {
+              "question": "Is ACI-35 a passive vaccine?", 
+              "id": "5a7d50d0faa1ab7d2e000016_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Effectiveness of antiangiogenic drugs in glioblastoma patients: A systematic review and meta-analysis of randomized clinical trials. BACKGROUND: glioblastomas are highly vascularized tumors and various antiangiogenic drugs have been investigated in clinical trials showing unclear results. We performed a systematic review and a meta-analysis to clarify and evaluate their effectiveness in glioblastoma patients. PATIENTS AND METHODS: we searched relevant published and unpublished randomized clinical trials analyzing antiangiogenic drugs versus chemotherapy in glioblastoma patients from January 2006 to January 2016 in MEDLINE, WEB of SCIENCE, ASCO, ESMO and SNO databases. RESULTS: fourteen randomized clinical trials were identified (7 with bevacizumab, 2 cilengitide, 1 enzastaurin, 1 dasatinib, 1 vandetanib, 1 temsirolimus, 1 cediranib) including 4330 patients. Antiangiogenic drugs showed no improvement in overall survival with a pooled HR of 1.00, a trend for an inferior outcome, in terms of overall survival, was observed in the group of patients receiving antiangiogenic drug alone compared to cytotoxic drug alone (HR=1.24, p=0.056). Bevacizumab did not improve overall survival. Twelve trials (4113 patients) were analyzed for progression-free survival. Among antiangiogenic drugs, only bevacizumab demonstrated an improvement of progression-free survival (HR=0.63, p<0.001), both alone (HR=0.60, p=0.003) or in combination to chemotherapy (HR=0.63; p<0.001), both as first-line treatment (HR=0.70, p<0.001) or in recurrent disease (HR=0.52, p<0.001). CONCLUSIONS: antiangiogenic drugs did not improve overall survival in glioblastoma patients, either as first or second-line treatment, and either as single agent or in combination with chemotherapy. Among antiangiogenic drugs, only bevacizumab improved progression-free survival regardless of treatment line, both as single agent or in combination with chemotherapy.", 
+          "qas": [
+            {
+              "question": "Is dasatinib effective for treatment of glioblastoma?", 
+              "id": "5a760ed883b0d9ea66000019_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase 2 trial of dasatinib in target-selected patients with recurrent glioblastoma (RTOG 0627). BACKGROUND: We conducted a phase II trial to evaluate the efficacy of dasatinib, a multitargeted tyrosine kinase inhibitor, for adults with recurrent glioblastoma (GBM). METHODS: Eligibility requirements were Karnofsky performance status > 60%; no concurrent hepatic enzyme-inducing anticonvulsants; prior treatment with surgery, radiotherapy, and temozolomide exclusively; and activation or overexpression of > 2 putative dasatinib targets in GBM (ie, SRC, c-KIT, EPHA2, and PDGFR). Using a 2-stage design, 77 eligible participants (27 in stage 1, if favorable, and then 50 in stage 2) were needed to detect an absolute improvement in the proportion of patients either alive and progression-free patients at 6 months (6mPFS) or responding (any duration) from a historical 11% to 25%. RESULTS: A high rate of ineligibility (27%) to stage 1 precluded a powered assessment of efficacy, but there was also infrequent treatment-related toxicity at 100 mg twice daily. Therefore, the study was redesigned to allow intrapatient escalation by 50 mg daily every cycle as tolerated (stage 1B) before determining whether to proceed to stage 2. Escalation was tolerable in 10 of 17 (59%) participants evaluable for that endpoint; however, among all eligible patients (stages 1 and 1B, n = 50), there were no radiographic responses, median overall survival was 7.9 months, median PFS was 1.7 months, and the 6mPFS rate was 6%. The clinical benefit was insufficient to correlate tested biomarkers with efficacy. The trial was closed without proceeding to stage 2. CONCLUSIONS: Intraparticipant dose escalation was feasible, but dasatinib was ineffective in recurrent GBM. Clinical trials.gov identified. NCT00423735 (available at http://clinicaltrials.gov/ct2/show/NCT00423735).", 
+          "qas": [
+            {
+              "question": "Is dasatinib effective for treatment of glioblastoma?", 
+              "id": "5a760ed883b0d9ea66000019_001"
+            }
+          ]
+        }, 
+        {
+          "context": "EORTC 26083 phase I/II trial of dasatinib in combination with CCNU in patients with recurrent glioblastoma. The treatment of patients with recurrent glioblastoma remains a major oncologic problem, with median survival after progression of 7-9 months. To determine the maximum tolerated dose and dose-limiting toxicity (DLT), the combination of dasatinib and cyclonexyl-chloroethyl-nitrosourea (CCNU) was investigated in this setting. The study was designed as multicenter, randomized phase II trial, preceded by a lead-in safety phase. The safety component reported here, which also investigated pharmacokinetics and preliminary clinical activity, required expansion and is therefore considered a phase I part to establish a recommended dosing regimen of the combination of CCNU (90-110 mg/m(2)) and dasatinib (100-200 mg daily). Overall, 28 patients were screened, and 26 patients were enrolled. Five dose levels were explored. DLTs, mainly myelosuppression, occurred in 10 patients. Grade 3 or 4 neutropenia was recorded in 7 patients (26.9%) and thrombocytopenia in 11 patients (42.3%). No significant effect of CCNU coadministration on dasatinib pharmacokinetics was found. Median progression-free survival (PFS) was 1.35 months (95% confidence interval: 1.2-1.4) and 6-month PFS was 7.7%. In this phase I study of recurrent glioblastoma patients, the combination of CCNU and dasatinib showed significant hematological toxicities and led to suboptimal exposure to both agents.", 
+          "qas": [
+            {
+              "question": "Is dasatinib effective for treatment of glioblastoma?", 
+              "id": "5a760ed883b0d9ea66000019_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Retrospective study of dasatinib for recurrent glioblastoma after bevacizumab failure. There is no effective treatment for recurrent glioblastoma (GBM) after bevacizumab failure. Putative mechanisms of resistance to bevacizumab include increased pericyte coverage, mediated partly by platelet-derived growth factor receptor (PDGFR) signaling, and an infiltrative tumor growth pattern potentially dependent on SRC. We explored the efficacy of dasatinib, a SRC, BCR-ABL, c-KIT, EPHA2, and PDGFR\u03b2 inhibitor, in patients with recurrent GBM after bevacizumab failure. Adult patients with histologically confirmed GBM who failed bevacizumab therapy were treated with dasatinib 70-100 mg twice daily in combination with bevacizumab (n = 14), until tumor progression or unacceptable toxicity. Fourteen patients were treated. Median age was 55 years (range 32-66) and median KPS was 80 (range 50-90). All patients (100%) had glioblastomas. The median number of prior regimens was 4 (range from 2 to 6). Of the thirteen evaluable patients, none had a complete or partial response. Only one patient had stable disease after an 8 week interval. Median progression-free survival (PFS) was 28 days (95% confidence interval [CI] 26-35 days). Six month progression-free survival (PFS6) was 0%. Median overall survival (OS) was 78 days (95% CI 41-137 days). Treatment was moderately well-tolerated, although one patient sustained a grade 4 intracerebral hemorrhage. Dasatinib in conjunction with bevacizumab does not appear to have activity in patients with recurrent, heavily pretreated GBM.", 
+          "qas": [
+            {
+              "question": "Is dasatinib effective for treatment of glioblastoma?", 
+              "id": "5a760ed883b0d9ea66000019_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Evidence of reduced recombination rate in human regulatory domains. BACKGROUND: Recombination rate is non-uniformly distributed across the human genome. The variation of recombination rate at both fine and large scales cannot be fully explained by DNA sequences alone. Epigenetic factors, particularly DNA methylation, have recently been proposed to influence the variation in recombination rate. RESULTS: We study the relationship between recombination rate and gene regulatory domains, defined by a gene and its linked control elements. We define these links using expression quantitative trait loci (eQTLs), methylation quantitative trait loci (meQTLs), chromatin conformation from publicly available datasets\u00a0(Hi-C and ChIA-PET), and correlated activity links that we infer across cell types. Each link type shows a \"recombination rate\u00a0valley\" of significantly reduced recombination rate compared to matched control regions. This recombination rate\u00a0valley is most pronounced for gene regulatory domains of early embryonic development genes, housekeeping genes, and constitutive regulatory elements, which are known to show increased evolutionary constraint across species. Recombination rate\u00a0valleys show increased DNA methylation, reduced doublestranded break initiation, and increased repair efficiency, specifically in the lineage leading to the germ line. Moreover, by using only the overlap of functional links and DNA methylation in germ cells, we are able to predict the recombination rate with high accuracy. CONCLUSIONS: Our results suggest the existence of a recombination rate valley at regulatory domains and provide a potential molecular mechanism to interpret the interplay between genetic and epigenetic variations.", 
+          "qas": [
+            {
+              "question": "Is there increased recombination rate in human regulatory domains?", 
+              "id": "5a774ce1faa1ab7d2e000006_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Clinical trials of intravenous immunoglobulin for Alzheimer's disease. The human polyclonal IgG antibody preparation known as Intravenous Immunoglobulin (IVIG) has been under study as a potential treatment for Alzheimer's disease (AD) since 2002. Preclinical and clinical studies have shown that IVIG has anti-amyloid and immune modulatory properties relevant to treating neurodegenerative disorders. In early stage AD clinical trials, IVIG was found to reduce cognitive decline and increase brain glucose metabolism. Unfortunately, IVIG failed to meet primary outcome objectives in the North American Phase 3 clinical trial in mild to moderate AD. However, positive cognitive signals were observed in pre-planned subgroup analyses among APOE-\u03b54 carriers and moderately impaired AD patients. Biomarker studies revealed dose dependent increases in plasma and CSF immunoglobulins and decreases in beta amyloid-42 levels. In addition, IVIG treatment was generally safe and well-tolerated. These findings suggest that naturally occurring human anti-amyloid antibodies may play a physiologic role in the clearance of aggregated amyloid proteins. While the results of clinical trials to date do not provide support for the use of IVIG to treat AD at the doses tested, additional studies of IVIG's mechanisms are warranted and may guide the development of more effective therapies for AD in the future.", 
+          "qas": [
+            {
+              "question": "Has IVIG been tested in clinical trials for the treatment of Alzheimer's disease?", 
+              "id": "5a7d54adfaa1ab7d2e000019_000"
+            }
+          ]
+        }, 
+        {
+          "context": "CYLD and the NEMO Zinc Finger Regulate Tumor Necrosis Factor Signaling and Early Embryogenesis. NF-\u03baB essential modulator (NEMO) and cylindromatosis protein (CYLD) are intracellular proteins that regulate the NF-\u03baB signaling pathway. Although mice with either CYLD deficiency or an alteration in the zinc finger domain of NEMO (K392R) are born healthy, we found that the combination of these two gene defects in double mutant (DM) mice is early embryonic lethal but can be rescued by the absence of TNF receptor 1 (TNFR1). Notably, NEMO was not recruited into the TNFR1 complex of DM cells, and consequently NF-\u03baB induction by TNF was severely impaired and DM cells were sensitized to TNF-induced cell death. Interestingly, the TNF signaling defects can be fully rescued by reconstitution of DM cells with CYLD lacking ubiquitin hydrolase activity but not with CYLD mutated in TNF receptor-associated factor 2 (TRAF2) or NEMO binding sites. Therefore, our data demonstrate an unexpected non-catalytic function for CYLD as an adapter protein between TRAF2 and the NEMO zinc finger that is important for TNF-induced NF-\u03baB signaling during embryogenesis.", 
+          "qas": [
+            {
+              "question": "Is NEMO a zinc finger protein?", 
+              "id": "5a8a9f18fcd1d6a10c00001a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "NF-\u03baB essential modulator (NEMO) interaction with linear and lys-63 ubiquitin chains contributes to NF-\u03baB activation. The I\u03baB kinase (IKK) complex acts as a gatekeeper of canonical NF-\u03baB signaling in response to upstream stimulation. IKK activation requires sensing of ubiquitin chains by the essential IKK regulatory subunit IKK\u03b3/NEMO. However, it has remained enigmatic whether NEMO binding to Lys-63-linked or linear ubiquitin chains is critical for triggering IKK activation. We show here that the NEMO C terminus, comprising the ubiquitin binding region and a zinc finger, has a high preference for binding to linear ubiquitin chains. However, immobilization of NEMO, which may be reminiscent of cellular oligomerization, facilitates the interaction with Lys-63 ubiquitin chains. Moreover, selective mutations in NEMO that abolish association with linear ubiquitin but do not affect binding to Lys-63 ubiquitin are only partially compromising NF-\u03baB signaling in response to TNF\u03b1 stimulation in fibroblasts and T cells. In line with this, TNF\u03b1-triggered expression of NF-\u03baB target genes and induction of apoptosis was partially compromised by NEMO mutations that selectively impair the binding to linear ubiquitin chains. Thus, in vivo NEMO interaction with linear and Lys-63 ubiquitin chains is required for optimal IKK activation, suggesting that both type of chains are cooperating in triggering canonical NF-\u03baB signaling.", 
+          "qas": [
+            {
+              "question": "Is NEMO a zinc finger protein?", 
+              "id": "5a8a9f18fcd1d6a10c00001a_001"
+            }
+          ]
+        }, 
+        {
+          "context": "All-atom molecular dynamics comparison of disease-associated zinc fingers. An important regulatory domain of NF-[Formula: see text]B Essential Modulator (NEMO) is a ubiquitin-binding zinc finger, with a tetrahedral CYS3HIS1 zinc-coordinating binding site. Two variations of NEMO's zinc finger are implicated in various disease states including ectodermal dysplasia and adult-onset glaucoma. To discern structural and dynamical differences between these disease states, we present results of 48-[Formula: see text]s of molecular dynamics simulations for three zinc finger systems each in two states, with and without zinc-bound and correspondingly appropriate cysteine thiol/thiolate configurations. The wild-type protein, often studied for its role in cancer, maintains the most rigid and conformationally stable zinc-bound configuration compared with the diseased counterparts. The glaucoma-related protein has persistent loss of secondary structure except within the dominant conformation. Conformational overlap between wild-type and glaucoma isoforms indicate a competitive binding mechanism may be substantial in the malfunctioning configuration, while the alpha-helical disruption of the ectodermal dysplasia suggests a loss of binding selectivity is responsible for aberrant function.", 
+          "qas": [
+            {
+              "question": "Is NEMO a zinc finger protein?", 
+              "id": "5a8a9f18fcd1d6a10c00001a_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Importance of long-time simulations for rare event sampling in zinc finger proteins. Molecular dynamics (MD) simulation methods have seen significant improvement since their inception in the late 1950s. Constraints of simulation size and duration that once impeded the field have lessened with the advent of better algorithms, faster processors, and parallel computing. With newer techniques and hardware available, MD simulations of more biologically relevant timescales can now sample a broader range of conformational and dynamical changes including rare events. One concern in the literature has been under which circumstances it is sufficient to perform many shorter timescale simulations and under which circumstances fewer longer simulations are necessary. Herein, our simulations of the zinc finger NEMO (2JVX) using multiple simulations of length 15, 30, 1000, and 3000 ns are analyzed to provide clarity on this point.", 
+          "qas": [
+            {
+              "question": "Is NEMO a zinc finger protein?", 
+              "id": "5a8a9f18fcd1d6a10c00001a_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Binding Site Configurations Probe the Structure and Dynamics of the Zinc Finger of NEMO (NF-\u03baB Essential Modulator). Zinc-finger proteins are regulators of critical signaling pathways for various cellular functions, including apoptosis and oncogenesis. Here, we investigate how binding site protonation states and zinc coordination influence protein structure, dynamics, and ultimately function, as these pivotal regulatory proteins are increasingly important for protein engineering and therapeutic discovery. To better understand the thermodynamics and dynamics of the zinc finger of NEMO (NF-\u03baB essential modulator), as well as the role of zinc, we present results of 20 \u03bcs molecular dynamics trajectories, 5 \u03bcs for each of four active site configurations. Consistent with experimental evidence, the zinc ion is essential for mechanical stabilization of the functional, folded conformation. Hydrogen bond motifs are unique for deprotonated configurations yet overlap in protonated cases. Correlated motions and principal component analysis corroborate the similarity of the protonated configurations and highlight unique relationships of the zinc-bound configuration. We hypothesize a potential mechanism for zinc binding from results of the thiol configurations. The deprotonated, zinc-bound configuration alone predominantly maintains its tertiary structure throughout all 5 \u03bcs and alludes rare conformations potentially important for (im)proper zinc-finger-related protein-protein or protein-DNA interactions.", 
+          "qas": [
+            {
+              "question": "Is NEMO a zinc finger protein?", 
+              "id": "5a8a9f18fcd1d6a10c00001a_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Two-sided ubiquitin binding of NF-\u03baB essential modulator (NEMO) zinc finger unveiled by a mutation associated with anhidrotic ectodermal dysplasia with immunodeficiency syndrome. Hypomorphic mutations in the X-linked human NEMO gene result in various forms of anhidrotic ectodermal dysplasia with immunodeficiency. NEMO function is mediated by two distal ubiquitin binding domains located in the regulatory C-terminal domain of the protein: the coiled-coil 2-leucine zipper (CC2-LZ) domain and the zinc finger (ZF) domain. Here, we investigated the effect of the D406V mutation found in the NEMO ZF of an ectodermal dysplasia with immunodeficiency patients. This point mutation does not impair the folding of NEMO ZF or mono-ubiquitin binding but is sufficient to alter NEMO function, as NEMO-deficient fibroblasts and Jurkat T lymphocytes reconstituted with full-length D406V NEMO lead to partial and strong defects in NF-\u03baB activation, respectively. To further characterize the ubiquitin binding properties of NEMO ZF, we employed di-ubiquitin (di-Ub) chains composed of several different linkages (Lys-48, Lys-63, and linear (Met-1-linked)). We showed that the pathogenic mutation preferentially impairs the interaction with Lys-63 and Met-1-linked di-Ub, which correlates with its ubiquitin binding defect in vivo. Furthermore, sedimentation velocity and gel filtration showed that NEMO ZF, like other NEMO related-ZFs, binds mono-Ub and di-Ub with distinct stoichiometries, indicating the presence of a new Ub site within the NEMO ZF. Extensive mutagenesis was then performed on NEMO ZF and characterization of mutants allowed the proposal of a structural model of NEMO ZF in interaction with a Lys-63 di-Ub chain.", 
+          "qas": [
+            {
+              "question": "Is NEMO a zinc finger protein?", 
+              "id": "5a8a9f18fcd1d6a10c00001a_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Pharmacotherapies for the treatment of glioblastoma - current evidence and perspectives. INTRODUCTION: Glioblastoma, the most common malignant brain tumor, exhibits a poor prognosis with little therapeutic progress in the last decade. Novel treatment strategies beyond the established standard of care with temozolomide-based radiotherapy are urgently needed. AREAS COVERED: We reviewed the literature on glioblastoma with a focus on phase III trials for pharmacotherapies and/or innovative concepts until December 2015. EXPERT OPINION: In the last decade, phase III trials on novel compounds largely failed to introduce efficacious pharmacotherapies beyond temozolomide in glioblastoma. So far, inhibition of angiogenesis by compounds such as bevacizumab, cediranib, enzastaurin or cilengitide as well as alternative dosing schedules of temozolomide did not prolong survival, neither at primary diagnosis nor at recurrent disease. Promising strategies of pharmacotherapy currently under evaluation represent targeting epidermal growth factor receptor (EGFR) with biomarker-stratified patient populations and immunotherapeutic concepts including checkpoint inhibition and vaccination. The clinical role of the medical device delivering 'tumor-treating fields' in newly diagnosed glioblastoma which prolonged overall survival in a phase III study has remained controversial. After failure of several phase III trials with previously promising agents, improvement of concepts and novel compounds are urgently needed to expand the still limited therapeutic options for the treatment of glioblastoma.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Enzastaurin before and concomitant with radiation therapy, followed by enzastaurin maintenance therapy, in patients with newly diagnosed glioblastoma without MGMT promoter hypermethylation. BACKGROUND: This study's primary objective was evaluation of the progression-free survival rate at 6 months (PFS-6) in patients with newly diagnosed glioblastoma without O(6)-methylguanine-DNA-methyltransferase (MGMT) promoter hypermethylation postsurgically treated with enzastaurin before and concomitantly with radiation therapy, followed by enzastaurin maintenance therapy. PFS-6 of at least 55% was set to be relevant compared with the data of the EORTC 26981/22981 NCIC CE.3 trial. METHODS: Adult patients with a life expectancy of at least 12 weeks who were newly diagnosed with a histologically proven supratentorial glioblastoma without MGMT promoter hypermethylation were eligible. Patients were treated with enzastaurin prior to, concomitantly with, and after standard partial brain radiotherapy. Here we report on a multicenter, open-label, uncontrolled phase II study of patients with newly diagnosed glioblastoma without MGMT promoter hypermethylation treated with enzastaurin and radiation therapy within 4 study periods. RESULTS: PFS-6 was 53.6% (95% confidence interval [CI]: 39.8-65.6). The median overall survival was 15.0 months (95% CI: 11.9-17.9) for all patients, 3.9 months (95% CI: 0.8-9.0) for patients with biopsy, 15.4 months (95% CI: 10.1-17.9) for patients with partial resection, and 18.9 months (95% CI: 13.9-28.5) for patients with complete resection. The safety profile in this study was as expected from previous trials, and the therapy was well tolerated. CONCLUSIONS: PFS-6 missed the primary planned outcome of 55%. The secondary exploratory analysis according to resection status of the different subgroups of patients with biopsies, partial resection, and complete resection demonstrates the strong prognostic influence of resection on overall survival.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Effectiveness of antiangiogenic drugs in glioblastoma patients: A systematic review and meta-analysis of randomized clinical trials. BACKGROUND: glioblastomas are highly vascularized tumors and various antiangiogenic drugs have been investigated in clinical trials showing unclear results. We performed a systematic review and a meta-analysis to clarify and evaluate their effectiveness in glioblastoma patients. PATIENTS AND METHODS: we searched relevant published and unpublished randomized clinical trials analyzing antiangiogenic drugs versus chemotherapy in glioblastoma patients from January 2006 to January 2016 in MEDLINE, WEB of SCIENCE, ASCO, ESMO and SNO databases. RESULTS: fourteen randomized clinical trials were identified (7 with bevacizumab, 2 cilengitide, 1 enzastaurin, 1 dasatinib, 1 vandetanib, 1 temsirolimus, 1 cediranib) including 4330 patients. Antiangiogenic drugs showed no improvement in overall survival with a pooled HR of 1.00, a trend for an inferior outcome, in terms of overall survival, was observed in the group of patients receiving antiangiogenic drug alone compared to cytotoxic drug alone (HR=1.24, p=0.056). Bevacizumab did not improve overall survival. Twelve trials (4113 patients) were analyzed for progression-free survival. Among antiangiogenic drugs, only bevacizumab demonstrated an improvement of progression-free survival (HR=0.63, p<0.001), both alone (HR=0.60, p=0.003) or in combination to chemotherapy (HR=0.63; p<0.001), both as first-line treatment (HR=0.70, p<0.001) or in recurrent disease (HR=0.52, p<0.001). CONCLUSIONS: antiangiogenic drugs did not improve overall survival in glioblastoma patients, either as first or second-line treatment, and either as single agent or in combination with chemotherapy. Among antiangiogenic drugs, only bevacizumab improved progression-free survival regardless of treatment line, both as single agent or in combination with chemotherapy.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "A phase II trial of enzastaurin (LY317615) in combination with bevacizumab in adults with recurrent malignant gliomas. We evaluated the efficacy of combination enzastaurin (LY317615) and bevacizumab for recurrent malignant gliomas and explored serologic correlates. We enrolled 81 patients with glioblastomas (GBM, n\u00a0=\u00a040) and anaplastic gliomas (AG, n\u00a0=\u00a041). Patients received enzastaurin as a loading dose of 1125\u00a0mg, followed by 500 or 875\u00a0mg daily for patients on non-enzyme-inducing or enzyme-inducing antiepileptics, respectively. Patients received bevacizumab 10\u00a0mg/kg intravenously biweekly. Clinical evaluations were repeated every 4\u00a0weeks. Magnetic resonance imaging was obtained at baseline and every 8\u00a0weeks from treatment onset. Phosphorylated glycogen synthase kinase (GSK)-3 levels from peripheral blood mononuclear cells (PBMCs) were checked with each MRI. Median overall survival was 7.5 and 12.4\u00a0months for glioblastomas and anaplastic glioma cohorts, with median progression-free survivals of 2.0 and 4.4\u00a0months, respectively. Of GBM patients, 3/40 (7.5\u00a0%) were not evaluable, while 8/37 (22\u00a0%) had partial or complete response and 20/37 (54\u00a0%) had stable disease for 2+ months. Of the 39 evaluable AG patients, 18 (46\u00a0%) had an objective response, and 16 (41\u00a0%) had stable disease for 2+ months. The most common grade 3+ toxicities were lymphopenia (15\u00a0%), hypophosphatemia (8.8\u00a0%) and thrombotic events (7.5\u00a0%). Two (2.5\u00a0%) GBM patients died suddenly; another death (1.3\u00a0%) occurred from intractable seizures. Phosphorylated GSK-3 levels from PBMCs did not correlate with treatment response. A minimally important improvement in health-related quality of life was self-reported in 7-9/24 (29.2-37.5\u00a0%). Early response based on Levin criteria was significantly associated with significantly longer progression free survival for glioblastomas. Enzastaurin (LY317615) in combination with bevacizumab for recurrent malignant gliomas is well-tolerated, with response and progression-free survival similar to bevacizumab monotherapy.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Chemotherapy for glioblastoma: current treatment and future perspectives for cytotoxic and targeted agents. Glioblastoma is the most frequent and devastating primary malignant brain tumor in adults. Surgery followed by standard radiotherapy with concomitant and adjuvant chemotherapy with temozolomide is the standard of care in patients with glioblastoma, however the prognosis remains poor with a median survival in the range of 12-15 months. Common genetic abnormalities in glioblastoma are associated with aberrant activation or suppression of cellular signal transduction pathways and resistance to radiation and chemotherapy. Special attention has been focused on targets such as epidermal growth factor receptor, vascular endothelial growth factor receptor, platelet-derived growth factor receptor, and on pathways such as the phosphatidylinositol-3kinase/Akt/mammalian target of rapamycin and Ras/Raf/mitogen-activated protein-kinase pathways. Several signal transduction inhibitors have been examined in preclinical and clinical malignant glioma trials, including antiangiogenic agents (bevacizumab, enzastaurin), and inhibitors of epidermal growth factor receptor tyrosine kinase (gefitinib and erlotinib), mammalian target of rapamycin (temsirolimus, everolimus) and integrin (cilengitide). Although preliminary clinical results of the use of targeted agents have not translated into significantly better survival, more recent phase II trials are exploring the combination of multitargeted drugs with cytotoxic chemotherapy and radiotherapy in order to overcome the resistance of tumors to single-agent targeted therapies. This review summarizes the current results with cytotoxic and targeted molecular agents in glioblastoma and the development of new chemoradiation strategies under evaluation to increase their effectiveness.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Phase II and pharmacogenomics study of enzastaurin plus temozolomide during and following radiation therapy in patients with newly diagnosed glioblastoma multiforme and gliosarcoma. This open-label, single-arm, phase II study combined enzastaurin with temozolomide plus radiation therapy (RT) to treat glioblastoma multiforme (GBM) and gliosarcoma. Adults with newly diagnosed disease and Karnofsky performance status (KPS) > 60 were enrolled. Treatment was started within 5 weeks after surgical diagnosis. RT consisted of 60 Gy over 6 weeks. Temozolomide was given at 75 mg/m(2) daily during RT and then adjuvantly at 200 mg/m(2) daily for 5 days, followed by a 23-day break. Enzastaurin was given once daily during RT and in the adjuvant period at 250 mg/day. Cycles were 28 days. The primary end point was overall survival (OS). Progression-free survival (PFS), toxicity, and correlations between efficacy and molecular markers analyzed from tumor tissue samples were also evaluated. A prospectively planned analysis compared OS and PFS of the current trial with outcomes from 3 historical phase II trials that combined novel agents with temozolomide plus RT in patients with GBM or gliosarcoma. Sixty-six patients were enrolled. The treatment regimen was well tolerated. OS (median, 74 weeks) and PFS (median, 36 weeks) results from the current trial were comparable to those from a prior phase II study using erlotinib and were significantly better than those from 2 other previous studies that used thalidomide or cis-retinoic acid, all in combination with temozolomide plus RT. A positive correlation between O-6-methylguanine-DNA methyltransferase promoter methylation and OS was observed. Adjusting for age and KPS, no other biomarker was associated with survival outcome. Correlation of relevant biomarkers with OS may be useful in future trials.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_005"
+            }
+          ]
+        }, 
+        {
+          "context": "[Chemotherapy and targeted treatments in glioblastomas]. BACKGROUND AND PURPOSE: We review the indications and limitations of chemotherapy in glioblastoma multiform (GBM), including the role played by alkylating and other cytotoxic agents and the increased input of clinical research on targeted agents in GBM management. METHODS: In 2005, a phase III study clearly concluded in the benefit of adding temozolomide during and after radiotherapy treatment in GBM and thus defined the new standard of treatment in this devastating disease. This schedule increased the median survival from 12.1 to 14 months and the two- and five-year survival rates from 8 to 26%, and 3 to 10%, respectively, with a good tolerance profile. Moreover, methylation of the promoter of the O6 methylguanine DNA transferase (MGMT) gene exhibits a prognostic impact independently of therapeutic schedule but may also predict the benefit of adding temozolomide to radiotherapy. However, pitfalls in MGMT determination and lack of prospective validation have to be solved before considering MGMT as a decisional marker. More recently, antiangiogenic agents including enzastaurin, cediranib, bevacizumab, and others that target mainly the VEGF pathway, have been evaluated in this highly angiogenic disease. Among them, only bevacizumab has been associated with clear anti-tumor activity, although the lack of control studies limits the impact of the results to date. CONCLUSIONS: Recent studies conducted in GBM, both in the adjuvant and recurrent setting, have changed the natural course of the disease and opened a new area of clinical research, including imaging and response evaluation, predictive markers, and other targeted therapies.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_006"
+            }
+          ]
+        }, 
+        {
+          "context": "A phase I/II trial of enzastaurin in patients with recurrent high-grade gliomas. Enzastaurin, a potent inhibitor of protein kinase C-beta, inhibits angiogenesis and has direct cytotoxic activity against glioma cells in preclinical studies. Patients with recurrent high-grade gliomas were stratified by histology and use of enzyme-inducing antiepileptic drugs (EIAEDs). Patients on EIAED were treated on the phase I dose-escalation portion of the trial with evaluation of serum pharmacokinetics as the primary endpoint. Patients not on EIAED were treated on the phase II portion of the trial with radiographic response and progression-free survival (PFS) as primary objectives. Patients in phase I received enzastaurin 525-900 mg/d. Phase II patients received 500 or 525 mg/d. One hundred and eighteen patients were accrued to this trial. Therapy was well tolerated with thrombosis, thrombocytopenia, hemorrhage, and elevated alanine aminotransferase as the most commonly observed drug-associated grade 3 or higher toxicities. Patients on EIAED had serum enzastaurin exposure levels approximately 80% lower than those not on EIAED. Dose escalations up to 900 mg/d did not substantially increase serum exposure levels and a maximally tolerated dose was never reached. Twenty-one of 84 evaluable patients (25%) experienced an objective radiographic response. The 6-month PFS was 7% for patients with glioblastoma and 16% for patients with anaplastic glioma. Phosphorylation of glycogen synthase kinase-3 in peripheral blood mononuclear cells was identified as a potential biomarker of drug activity. Enzastaurin has anti-glioma activity in patients with recurrent high-grade glioma, but does not appear to have enough single-agent activity to be useful as monotherapy.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Lessons learned in the development of targeted therapy for malignant gliomas. The prognosis of patients with glioblastoma, anaplastic astrocytoma, and anaplastic oligodendroglioma remains poor despite standard treatment with radiotherapy and temozolomide. Molecular targeted therapy holds the promise of providing new, more effective treatment options with minimal toxicity. However, the development of targeted therapy for gliomas has been particularly challenging. The oncogenetic process in such tumors is driven by several signaling pathways that are differentially activated or silenced with both parallel and converging complex interactions. Therefore, it has been difficult to identify prevalent targets that act as key promoters of oncogenesis and that can be successfully addressed by novel agents. Several drugs have been tested, including epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (gefitinib and erlotinib), mammalian target of rapamycin (mTOR) inhibitors (temsirolimus and everolimus), and vascular endothelial growth factor receptor (VEGFR), protein kinase C-beta, and other angiogenesis pathways inhibitors (vatalanib, bevacizumab, and enzastaurin). Although preliminary efficacy results of most trials in recurrent disease have fallen short on expectations, substantial advances have been achieved by associated translational research. In this article, we seek to recapitulate the lessons learned in the development of targeted therapy for gliomas, including challenges and pitfalls in the interpretation of preclinical data, specific issues in glioma trial design, insights provided by translational research, changes in paradigms, and future perspectives.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Antiangiogenic therapy for glioblastoma: current status and future prospects. Glioblastoma is characterized by high expression levels of proangiogenic cytokines and microvascular proliferation, highlighting the potential value of treatments targeting angiogenesis. Antiangiogenic treatment likely achieves a beneficial impact through multiple mechanisms of action. Ultimately, however, alternative proangiogenic signal transduction pathways are activated, leading to the development of resistance, even in tumors that initially respond. The identification of biomarkers or imaging parameters to predict response and to herald resistance is of high priority. Despite promising phase II clinical trial results and patient benefit in terms of clinical improvement and longer progression-free survival, an overall survival benefit has not been demonstrated in four randomized phase III trials of bevacizumab or cilengitide in newly diagnosed glioblastoma or cediranib or enzastaurin in recurrent glioblastoma. However, future studies are warranted. Predictive markers may allow appropriate patient enrichment, combination with chemotherapy may ultimately prove successful in improving overall survival, and novel agents targeting multiple proangiogenic pathways may prove effective.", 
+          "qas": [
+            {
+              "question": "Is enzastaurin effective treatment of glioblastoma?", 
+              "id": "5a7612b483b0d9ea6600001d_009"
+            }
+          ]
+        }, 
+        {
+          "context": "Structured Preoperative Phone Counseling by Junior Medical Staff for Improving the Consent Process for Tonsillectomy. OBJECTIVE: To assess the effectiveness of preoperative phone counseling by junior medical staff for improving the standard of informed consent for tonsillectomy. STUDY DESIGN: Prospective randomized controlled trial. SETTING: District general hospital. SUBJECTS AND METHODS: A total of 43 patients undergoing tonsillectomy were randomly allocated to 2 groups. Group A (n = 25) underwent the conventional consent process by the consultant ear, nose, and throat surgeon at the time of assessment (which generally takes place 6 to 12 months prior to surgery due to wait-list times). Group B (n = 18) underwent this same consent process but received a structured preoperative phone call 2 to 3 weeks prior to the day of surgery. A preoperative questionnaire assessing the knowledge of tonsillectomy, perioperative course, and risks was completed on the day of surgery. RESULTS: Group B had a better recall of the risks of tonsillectomy, recalling 7.1 of the 10 most significant risks, as compared with 4.6 for group A (P = .017). Group B had a better awareness of tooth damage (78% vs 30% of patients, P < .001), voice change (61 vs 19%, P = .005), and burns to lips and mouth (44% vs 8%, P = .005). Finally, 35% more patients from group B rated their understanding of tonsillectomy as good or very good (P = .017). CONCLUSION: Preoperative phone counseling by junior medical staff closer to the time of surgery reinforces and clarifies the information previously provided by senior consultants at the time of initial consent for tonsillectomy.", 
+          "qas": [
+            {
+              "question": "Does a tonsillectomy affect the patient's voice?", 
+              "id": "59bf823b542ba3824b000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Effectiveness of postoperative follow-up telephone interviews for patients who underwent adenotonsillectomy: a retrospective study. OBJECTIVE: To evaluate the effectiveness of follow-up telephone interviews and questionnaires after tonsillectomy and adenoidectomy. DESIGN: Cohort study and retrospective review of the outcomes of patients whose follow-ups were conducted by telephone interview. Patients were contacted 2 to 4 weeks after surgery; responses were recorded on a standardized postoperative questionnaire. SETTING: Tertiary pediatric hospital. PATIENTS: A total of 2554 consecutive patients who had undergone tonsillectomy, adenoidectomy, or both procedures and completed a follow-up telephone interview during the period of January 8, 2000, to September 23, 2004. MAIN OUTCOME MEASURES: Time to return to normal diet and activities, postoperative complications, pain management, postoperative visits, and caregiver's evaluation of the follow-up telephone survey. RESULTS: A total of 2554 patient outcomes were reviewed. The mean patient age was 5.9 years. Follow-up contact occurred a mean of 24.1 days after surgery. Of the surgical procedures performed, there were 1957 adenotonsillectomies, 235 adenoidectomies, and 362 tonsillectomies. At the time of follow-up, 2.7% of the patients had undergone an additional surgical procedure to treat postoperative bleeding, 96.9% had resumed eating a normal diet, and 96.2% had resumed normal activities. Bleeding from the nose or mouth was reported to have occurred at some point during the recovery period in 12.8%. On a pain scale of 1 to 10, a mean pain peak of 6.7 was reported. For most patients, pain was highest on the second day after surgery. The percentage of patients who had temporary voice change was 62.7%, and 15.4% had a follow-up clinic visit. Regarding caregivers, 99.5% reported being given instructions for postoperative care, and 98.8% reported that they felt well prepared to care for their child at home. There were no adverse events reported from surgical intervention. CONCLUSIONS: Compared with our previous experience with scheduled postsurgical clinic follow-ups, telephone interviews and standardized postoperative questionnaires pose no additional risk to patients. Considerable cost reduction and patient convenience were realized with a reduction of patient visits.", 
+          "qas": [
+            {
+              "question": "Does a tonsillectomy affect the patient's voice?", 
+              "id": "59bf823b542ba3824b000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "There is no dose-escalation response to dexamethasone (0.0625-1.0 mg/kg) in pediatric tonsillectomy or adenotonsillectomy patients for preventing vomiting, reducing pain, shortening time to first liquid intake, or the incidence of voice change. BACKGROUND: Tonsillectomy is associated with postoperative nausea and vomiting (PONV) if no prophylaxis is administered. Previous studies have shown that a single dose of dexamethasone decreases the incidence of PONV. The most effective dose of dexamethasone to affect clinical outcome is yet to be defined. METHODS: One-hundred-twenty-five children were enrolled in a double-blind, prospective, randomized, dose-escalating study of dexamethasone: 0.0625, 0.125, 0.25, 0.5, or 1 mg/kg, maximum dose 24 mg. Nonparametric ANOVA was used to analyze the incidence of vomiting by treatment group for 0 to < or =5 h, >5 to 24 h. The Cox Proportional Likelihood Ratio Test was used to compare the time of first vomit and time to first pain medication across treatment groups. RESULTS: There was no difference in the incidence of vomiting for the five escalating doses of dexamethasone in the time period. There were no differences in secondary outcomes (analgesic requirements, time to first liquid, and change in voice) across treatment groups. CONCLUSION: We conclude that the lowest dose of dexamethasone (0.0625 mg/kg) was as effective as the highest dose of dexamethasone (1.0 mg/kg) for preventing PONV or reducing the incidence of other secondary outcomes following tonsillectomy or adenotonsillectomy. There is no justification for the use of high-dose dexamethasone for the prevention of PONV in this cohort of children.", 
+          "qas": [
+            {
+              "question": "Does a tonsillectomy affect the patient's voice?", 
+              "id": "59bf823b542ba3824b000001_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficacy of postoperative follow-up telephone calls for patients who underwent adenotonsillectomy. OBJECTIVE: To evaluate the efficacy and cost-effectiveness of postoperative follow-up telephone calls among pediatric patients who underwent adenotonsillectomy. DESIGN: Prospective study with a follow-up questionnaire administered by telephone. SETTING: Tertiary-care children's hospital. PATIENTS: One hundred thirty-four children between the ages of 4 and 18 years who underwent adenotonsillectomy between December 1997 and June 1998 and did not have associated cardiac, pulmonary, bleeding, or syndromic disorders were included in this pilot study. INTERVENTION: Parents of these patients were given the opportunity to participate in our study, and it was emphasized that, at any time during the child's care, if the parent desired a follow-up visit or if the child experienced any symptoms that caused concern, the parent should contact the clinic for a follow-up appointment. A telephone call was placed 3 to 4 weeks postoperatively by an otolaryngology nurse, and a questionnaire was filled out using the parents' responses. MAIN OUTCOME MEASURES: The incidence rates of voice change, velopharyngeal insufficiency, bleeding, constipation, dehydration, and pain were measured. Parent satisfaction, patient safety, and cost-benefit were also evaluated. RESULTS: Less than 5% of patients reported temporary velopharyngeal insufficiency, while 2% of patients required operative intervention for bleeding episodes and 1% required hospitalization. Voice change, reported by approximately 70% of all patients, was the most common complaint, but it resolved in all instances. Pain was reported to be most severe on postoperative day 1. Ninety-six percent of parents requested no further follow-up visit. CONCLUSIONS: Our pilot study revealed that a follow-up telephone call is a safe and cost-effective method of postoperative management for pediatric patients who have undergone adenotonsillectomy and that this method of follow-up is also desirable to parents.", 
+          "qas": [
+            {
+              "question": "Does a tonsillectomy affect the patient's voice?", 
+              "id": "59bf823b542ba3824b000001_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[Long term observation of the effectiveness after tonsillectomy]. OBJECTIVE: To observe the long-term effect of tonsillectomy and provide clinical evidence for tonsillectomy. METHOD: One hundred and one patients undergoing tonsillectomy in our department were included. Their satisfaction and symptom change were followed up by telephone. RESULT: 73.3% patients were satisfied with their surgery. Chief complaints such as pharyngalgia, fever, snoring were significantly decreased after surgery, while foreign body sensation still existed. Some patients complaint for dry throat, foreign body sensation or voice change after tonsillectomy. CONCLUSION: Most patients were satisfied with the tonsillectomy. While few of them had new complaints after tonsillectomy.", 
+          "qas": [
+            {
+              "question": "Does a tonsillectomy affect the patient's voice?", 
+              "id": "59bf823b542ba3824b000001_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Efficient and rapid nucleosome traversal by RNA polymerase II depends on a combination of transcript elongation factors. The nucleosome is generally found to be a strong barrier to transcript elongation by RNA polymerase II (pol II) in vitro. The elongation factors TFIIF and TFIIS have been shown to cooperate in maintaining pol II in the catalytically competent state on pure DNA templates. We now show that although TFIIF or TFIIS alone is modestly stimulatory for nucleosome traversal, both factors together increase transcription through nucleosomes in a synergistic manner. We also studied the effect of TFIIF and TFIIS on transcription of nucleosomes containing a Sin mutant histone. The Sin point mutations reduce critical histone-DNA contacts near the center of the nucleosome. Significantly, we found that nucleosomes with a Sin mutant histone are traversed to the same extent and at nearly the same rate as equivalent pure DNA templates if both TFIIS and TFIIF are present. Thus, the nucleosome is not necessarily an insurmountable barrier to transcript elongation by pol II. If unfolding of template DNA from the nucleosome surface is facilitated and the tendency of pol II to retreat from barriers is countered, transcription of nucleosomal templates can be rapid and efficient.", 
+          "qas": [
+            {
+              "question": "Does TFIIS affect nucleosome positioning?", 
+              "id": "5a3566bb966455904c000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Nature of the nucleosomal barrier to RNA polymerase II. In the cell, RNA polymerase II (pol II) efficiently transcribes DNA packaged into nucleosomes, but in vitro encounters with the nucleosomes induce catalytic inactivation (arrest) of the pol II core enzyme. To determine potential mechanisms making nucleosomes transparent to transcription in vivo, we analyzed the nature of the nucleosome-induced arrest. We found that the arrests have been detected mostly at positions of strong intrinsic pause sites of DNA. The transient pausing makes pol II vulnerable to arrest, which involves backtracking of the elongation complex for a considerable distance on DNA. The histone-DNA contacts reestablished in front of pol II stabilize backtracked conformation of the polymerase. In agreement with this mechanism, blocking of backtracking prevents nucleosome-induced arrest. Transcript cleavage factor TFIIS reactivates the backtracked complexes and promotes pol II transcription through the nucleosome. Our findings establish the crucial role of elongation factors that suppress pol II pausing and backtracking for transcription in the context of chromatin.", 
+          "qas": [
+            {
+              "question": "Does TFIIS affect nucleosome positioning?", 
+              "id": "5a3566bb966455904c000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Nucleosomes can form a polar barrier to transcript elongation by RNA polymerase II. Nucleosomes uniquely positioned on high-affinity DNA sequences present a polar barrier to transcription by human and yeast RNA polymerase II (Pol II). In one transcriptional orientation, these nucleosomes provide a strong, factor- and salt-insensitive barrier at the entry into the H3/H4 tetramer that can be recapitulated without H2A/H2B dimers. The same nucleosomes transcribed in the opposite orientation form a weaker, more diffuse barrier that is largely relieved by higher salt, TFIIS, or FACT. Barrier properties are therefore dictated by both the local nucleosome structure (influenced by the strength of the histone-DNA interactions) and the location of the high-affinity DNA region within the nucleosome. Pol II transcribes DNA sequences at the entry into the tetramer much less efficiently than the same sequences located distal to the nucleosome dyad. Thus, entry into the tetramer by Pol II facilitates further transcription, perhaps due to partial unfolding of the tetramer from DNA.", 
+          "qas": [
+            {
+              "question": "Does TFIIS affect nucleosome positioning?", 
+              "id": "5a3566bb966455904c000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Nucleosomal Barrier to Transcription: Structural Determinants and Changes in Chromatin Structure. Packaging of DNA into chromatin affects all processes on DNA. Nucleosomes present a strong barrier to transcription, raising important questions about the nature and the mechanisms of overcoming the barrier. Recently it was shown that DNA sequence, DNA-histone interactions and backtracking by RNA polymerase II (Pol II) all contribute to formation of the barrier. After partial uncoiling of nucleosomal DNA from histone octamer by Pol II and backtracking of the enzyme, nucleosomal DNA recoils on the octamer, locking Pol II in the arrested state. Histone chaperones and transcription factors TFIIS, TFIIF and FACT facilitate transcription through chromatin using different molecular mechanisms.", 
+          "qas": [
+            {
+              "question": "Does TFIIS affect nucleosome positioning?", 
+              "id": "5a3566bb966455904c000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Transcription of in vitro assembled chromatin templates in a highly purified RNA polymerase II system. In mammalian cells RNA polymerase II efficiently transcribes nucleosome-packaged DNA. In this regard, a fundamental question concerns the nature and mechanism of action of the accessory factors that are necessary and sufficient for, or enhance, transcription through nucleosomal arrays by RNA polymerase II. Here we describe a highly purified system that allows for efficient activator-dependent transcription by RNA polymerase II from the promoter through several contiguous nucleosomes on defined chromatin templates. The system contains natural or recombinant histones, chromatin assembly factors, the histone-acetyltransferase p300, all components of the general transcription machinery, general coactivators and the elongation factor SII (TFIIS). As examples of the applicability of this system for mechanistic analyses of these and other factors, representative experiments show (i) that activated transcription from chromatin templates is concomitantly dependent on the activator, p300-mediated histone acetylation and elongation factor SII/TFIIS. (ii) that SII/TFIIS acts in a highly synergistic manner with p300 (and histone acetylation) at a step subsequent to preinitiation complex (PIC) formation and (iii) that SII/TFIIS works directly at the elongation step of chromatin transcription. Here we describe purification methods for the different factors employed and the specific transcriptional assays that led to the above-mentioned conclusions. This purified system will be very useful as an assay system for the discovery of new factors or the mechanistic analysis of known or candidate factors involved in transcription initiation or elongation on chromatin templates, including factors that effect specific histone modifications or nucleosomal remodeling.", 
+          "qas": [
+            {
+              "question": "Does TFIIS affect nucleosome positioning?", 
+              "id": "5a3566bb966455904c000003_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Nucleosome repositioning links DNA (de)methylation and differential CTCF binding during stem cell development. During differentiation of embryonic stem cells, chromatin reorganizes to establish cell type-specific expression programs. Here, we have dissected the linkages between DNA methylation (5mC), hydroxymethylation (5hmC), nucleosome repositioning, and binding of the transcription factor CTCF during this process. By integrating MNase-seq and ChIP-seq experiments in mouse embryonic stem cells (ESC) and their differentiated counterparts with biophysical modeling, we found that the interplay between these factors depends on their genomic context. The mostly unmethylated CpG islands have reduced nucleosome occupancy and are enriched in cell type-independent binding sites for CTCF. The few remaining methylated CpG dinucleotides are preferentially associated with nucleosomes. In contrast, outside of CpG islands most CpGs are methylated, and the average methylation density oscillates so that it is highest in the linker region between nucleosomes. Outside CpG islands, binding of TET1, an enzyme that converts 5mC to 5hmC, is associated with labile, MNase-sensitive nucleosomes. Such nucleosomes are poised for eviction in ESCs and become stably bound in differentiated cells where the TET1 and 5hmC levels go down. This process regulates a class of CTCF binding sites outside CpG islands that are occupied by CTCF in ESCs but lose the protein during differentiation. We rationalize this cell type-dependent targeting of CTCF with a quantitative biophysical model of competitive binding with the histone octamer, depending on the TET1, 5hmC, and 5mC state.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Genome-wide nucleosome occupancy and DNA methylation profiling of four human cell lines. DNA methylation and nucleosome positioning are two key mechanisms that contribute to the epigenetic control of gene expression. During carcinogenesis, the expression of many genes is altered alongside extensive changes in the epigenome, with repressed genes often being associated with local DNA hypermethylation and gain of nucleosomes at their promoters. However the spectrum of alterations that occur at distal regulatory regions has not been extensively studied. To address this we used Nucleosome Occupancy and Methylation sequencing (NOMe-seq) to compare the genome-wide DNA methylation and nucleosome occupancy profiles between normal and cancer cell line models of the breast and prostate. Here we describe the bioinformatic pipeline and methods that we developed for the processing and analysis of the NOMe-seq data published by (Taberlay et al., 2014 [1]) and deposited in the Gene Expression Omnibus with accession GSE57498.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "DNA methylation directly silences genes with non-CpG island promoters and establishes a nucleosome occupied promoter. Despite the fact that 45% of all human gene promoters do not contain CpG islands, the role of DNA methylation in control of non-CpG island promoters is controversial and its relevance in normal and pathological processes is poorly understood. Among the few studies which investigate the correlation between DNA methylation and expression of genes with non-CpG island promoters, the majority do not support the view that DNA methylation directly leads to transcription silencing of these genes. Our reporter assays and gene reactivation by 5-aza-2'-deoxycytidine, a DNA demethylating agent, show that DNA methylation occurring at CpG poor LAMB3 promoter and RUNX3 promoter 1(RUNX3 P1) can directly lead to transcriptional silencing in cells competent to express these genes in vitro. Using Nucleosome Occupancy Methylome- Sequencing, NOMe-Seq, a single-molecule, high-resolution nucleosome positioning assay, we demonstrate that active, but not inactive, non-CpG island promoters display a nucleosome-depleted region (NDR) immediately upstream of the transcription start site (TSS). Furthermore, using NOMe-Seq and clonal analysis, we show that in RUNX3 expressing 623 melanoma cells, RUNX3 P1 has two distinct chromatin configurations: one is unmethylated with an NDR upstream of the TSS; another is methylated and nucleosome occupied, indicating that RUNX3 P1 is monoallelically methylated. Together, these results demonstrate that the epigenetic signatures comprising DNA methylation, histone marks and nucleosome occupancy of non-CpG island promoters are almost identical to CpG island promoters, suggesting that aberrant methylation patterns of non-CpG island promoters may also contribute to tumorigenesis and should therefore be included in analyses of cancer epigenetics.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "DNA-methylation effect on cotranscriptional splicing is dependent on GC architecture of the exon-intron structure. DNA methylation is known to regulate transcription and was recently found to be involved in exon recognition via cotranscriptional splicing. We recently observed that exon-intron architectures can be grouped into two classes: one with higher GC content in exons compared to the flanking introns, and the other with similar GC content in exons and introns. The first group has higher nucleosome occupancy on exons than introns, whereas the second group exhibits weak nucleosome marking of exons, suggesting another type of epigenetic marker distinguishes exons from introns when GC content is similar. We find different and specific patterns of DNA methylation in each of the GC architectures; yet in both groups, DNA methylation clearly marks the exons. Exons of the leveled GC architecture exhibit a significantly stronger DNA methylation signal in relation to their flanking introns compared to exons of the differential GC architecture. This is accentuated by a reduction of the DNA methylation level in the intronic sequences in proximity to the splice sites and shows that different epigenetic modifications mark the location of exons already at the DNA level. Also, lower levels of methylated CpGs on alternative exons can successfully distinguish alternative exons from constitutive ones. Three positions at the splice sites show high CpG abundance and accompany elevated nucleosome occupancy in a leveled GC architecture. Overall, these results suggest that DNA methylation affects exon recognition and is influenced by the GC architecture of the exon and flanking introns.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Fundamental diversity of human CpG islands at multiple biological levels. CpG islands (CGIs) are commonly used as genomic markers to study the patterns and regulatory consequences of DNA methylation. Interestingly, recent studies reveal a substantial diversity among CGIs: long and short CGIs, for example, exhibit contrasting patterns of gene expression complexity and nucleosome occupancy. Evolutionary origins of CGIs are also highly heterogeneous. In order to systematically evaluate potential diversities among CGIs and ultimately to illuminate the link between diversity of CGIs and their epigenetic variation, we analyzed the nucleotide-resolution DNA methylation maps (methylomes) of multiple cellular origins. We discover novel 'clusters' of CGIs according to their patterns of DNA methylation; the stably hypomethylated CGI cluster (cluster I), sperm-hypomethylated CGI cluster (cluster II), and variably methylated CGI cluster (cluster III). These epigenomic CGI clusters are strikingly distinct at multiple biological features including genomic, evolutionary, and functional characteristics. At the genomic level, the stably hypomethylated CGI cluster tends to be longer and harbors many more CpG dinucleotides than those in other clusters. They are also frequently associated with promoters, while CGI clusters II and III mostly reside in intragenic or intergenic regions and exhibit highly tissue-specific DNA methylation. Functional ontology terms and transcriptional profiles co-vary with CGI clusters, indicating that the regulatory functions of CGIs are tightly linked to their heterogeneity. Finally, CGIs associated with distinctive biological processes, such as diseases, aging, and imprinting, occur disproportionately across CGI clusters. These new findings provide an effective means to combine existing knowledge on CGIs into a genomic context while bringing new insights that elucidate the significance of DNA methylation across different biological conditions and demography.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Nucleosome Organization in Human Embryonic Stem Cells. The fundamental repeating unit of eukaryotic chromatin is the nucleosome. Besides being involved in packaging DNA, nucleosome organization plays an important role in transcriptional regulation and cellular identity. Currently, there is much debate about the major determinants of the nucleosome architecture of a genome and its significance with little being known about its role in stem cells. To address these questions, we performed ultra-deep sequencing of nucleosomal DNA in two human embryonic stem cell lines and integrated our data with numerous epigenomic maps. Our analyses have revealed that the genome is a determinant of nucleosome organization with transcriptionally inactive regions characterized by a \"ground state\" of nucleosome profiles driven by underlying DNA sequences. DNA sequence preferences are associated with heterogeneous chromatin organization around transcription start sites. Transcription, histone modifications, and DNA methylation alter this \"ground state\" by having distinct effects on both nucleosome positioning and occupancy. As the transcriptional rate increases, nucleosomes become better positioned. Exons transcribed and included in the final spliced mRNA have distinct nucleosome profiles in comparison to exons not included at exon-exon junctions. Genes marked by the active modification H3K4m3 are characterized by lower nucleosome occupancy before the transcription start site compared to genes marked by the inactive modification H3K27m3, while bivalent domains, genes associated with both marks, lie exactly in the middle. Combinatorial patterns of epigenetic marks (chromatin states) are associated with unique nucleosome profiles. Nucleosome organization varies around transcription factor binding in enhancers versus promoters. DNA methylation is associated with increasing nucleosome occupancy and different types of methylations have distinct location preferences within the nucleosome core particle. Finally, computational analysis of nucleosome organization alone is sufficient to elucidate much of the circuitry of pluripotency. Our results, suggest that nucleosome organization is associated with numerous genomic and epigenomic processes and can be used to elucidate cellular identity.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Reconfiguration of nucleosome-depleted regions at distal regulatory elements accompanies DNA methylation of enhancers and insulators in cancer. It is well established that cancer-associated epigenetic repression occurs concomitant with CpG island hypermethylation and loss of nucleosomes at promoters, but the role of nucleosome occupancy and epigenetic reprogramming at distal regulatory elements in cancer is still poorly understood. Here, we evaluate the scope of global epigenetic alterations at enhancers and insulator elements in prostate and breast cancer cells using simultaneous genome-wide mapping of DNA methylation and nucleosome occupancy (NOMe-seq). We find that the genomic location of nucleosome-depleted regions (NDRs) is mostly cell type specific and preferentially found at enhancers in normal cells. In cancer cells, however, we observe a global reconfiguration of NDRs at distal regulatory elements coupled with a substantial reorganization of the cancer methylome. Aberrant acquisition of nucleosomes at enhancer-associated NDRs is associated with hypermethylation and epigenetic silencing marks, and conversely, loss of nucleosomes with demethylation and epigenetic activation. Remarkably, we show that nucleosomes remain strongly organized and phased at many facultative distal regulatory elements, even in the absence of a NDR as an anchor. Finally, we find that key transcription factor (TF) binding sites also show extensive peripheral nucleosome phasing, suggesting the potential for TFs to organize NDRs genome-wide and contribute to deregulation of cancer epigenomes. Together, our findings suggest that \"decommissioning\" of NDRs and TFs at distal regulatory elements in cancer cells is accompanied by DNA hypermethylation susceptibility of enhancers and insulator elements, which in turn may contribute to an altered genome-wide architecture and epigenetic deregulation in malignancy.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Functional DNA demethylation is accompanied by chromatin accessibility. DNA methylation inhibitors such as 5-aza-2'-deoxycytidine (5-Aza-CdR) are currently used for the treatment of myelodysplastic syndrome. Although global DNA demethylation has been observed after treatment, it is unclear to what extent demethylation induces changes in nucleosome occupancy, a key determinant of gene expression. We use the colorectal cancer cell line HCT116 as a model to address this question and determine that <2% of regions demethylated by 5-Aza-CdR treatment assume an open configuration. Consolidating our findings, we detect nucleosome retention at sites of global DNA methylation loss in DKO1, an HCT116-derived non-tumorigenic cell-line engineered for DNA methyltransferase disruption. Notably, regions that are open in both HCT116 cells after treatment and in DKO1 cells include promoters belonging to tumor suppressors and genes under-expressed in colorectal cancers. Our results indicate that only a minority of demethylated promoters are associated with nucleosome remodeling, and these could potentially be the epigenetic drivers causing the loss of tumorigenicity. Furthermore, we show that the chromatin opening induced by the histone deacetylase inhibitor suberoylanilide hydroxamic acid has strikingly distinct targets compared with those of 5-Aza-CdR, providing a mechanistic explanation for the importance of combinatorial therapy in eliciting maximal de-repression of the cancer epigenome.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_007"
+            }
+          ]
+        }, 
+        {
+          "context": "CTCF-promoted RNA polymerase II pausing links DNA methylation to splicing. Alternative splicing of pre-messenger RNA is a key feature of transcriptome expansion in eukaryotic cells, yet its regulation is poorly understood. Spliceosome assembly occurs co-transcriptionally, raising the possibility that DNA structure may directly influence alternative splicing. Supporting such an association, recent reports have identified distinct histone methylation patterns, elevated nucleosome occupancy and enriched DNA methylation at exons relative to introns. Moreover, the rate of transcription elongation has been linked to alternative splicing. Here we provide the first evidence that a DNA-binding protein, CCCTC-binding factor (CTCF), can promote inclusion of weak upstream exons by mediating local RNA polymerase II pausing both in a mammalian model system for alternative splicing, CD45, and genome-wide. We further show that CTCF binding to CD45 exon 5 is inhibited by DNA methylation, leading to reciprocal effects on exon 5 inclusion. These findings provide a mechanistic basis for developmental regulation of splicing outcome through heritable epigenetic marks.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Contrasting chromatin organization of CpG islands and exons in the human genome. BACKGROUND: CpG islands and nucleosome-free regions are both found in promoters. However, their association has never been studied. On the other hand, DNA methylation is absent in promoters but is enriched in gene bodies. Intragenic nucleosomes and their modifications have been recently associated with RNA splicing. Because the function of intragenic DNA methylation remains unclear, I explored the possibility of its involvement in splicing regulation. RESULTS: Here I show that CpG islands were associated not only with methylation-free promoters but also with nucleosome-free promoters. Nucleosome-free regions were observed only in promoters containing a CpG island. However, the DNA sequences of CpG islands predicted the opposite pattern, implying a limitation of sequence programs for the determination of nucleosome occupancy. In contrast to the methylation-and nucleosome-free states of CpG-island promoters, exons were densely methylated at CpGs and packaged into nucleosomes. Exon-enrichment of DNA methylation was specifically found in spliced exons and in exons with weak splice sites. The enrichment patterns were less pronounced in initial exons and in non-coding exons, potentially reflecting a lower need for their splicing. I also found that nucleosomes, DNA methylation, and H3K36me3 marked the exons of transcripts with low, medium, and high gene expression levels, respectively. CONCLUSIONS: Human promoters containing a CpG island tend to remain nucleosome-free as well as methylation-free. In contrast, exons demonstrate a high degree of methylation and nucleosome occupancy. Exonic DNA methylation seems to function together with exonic nucleosomes and H3K36me3 for the proper splicing of transcripts with different expression levels.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_009"
+            }
+          ]
+        }, 
+        {
+          "context": "DNA methylation determines nucleosome occupancy in the 5'-CpG islands of tumor suppressor genes. Promoter CpG island hypermethylation of tumor suppressor genes is an epigenetic hallmark of human cancer commonly associated with nucleosome occupancy and the transcriptional silencing of the neighboring gene. Nucleosomes can determine the underlying DNA methylation status. Herein, we show that the opposite is also true: DNA methylation can determine nucleosome positioning. Using a cancer model and digital nucleosome positioning techniques, we demonstrate that the induction of DNA hypomethylation events by genetic (DNMT1/DNMT3B deficient cells) or drug (a DNA demethylating agent) approaches is associated with the eviction of nucleosomes from previously hypermethylated CpG islands of tumor suppressor genes. Most importantly, the establishment of a stable cell line that restores DNMT1/DNMT3B deficiency shows that nucleosomes reoccupy their positions in de novo methylated CpG islands. Finally, we extend these results to the genomic level, combining a DNA methylation microarray and the nucleosome positioning technique. Using this global approach, we observe the dependency of nucleosome occupancy upon the DNA methylation status. Thus, our results suggest that there is a close association between hypermethylated CpG islands and the presence of nucleosomes, such that each of these epigenetic mechanisms can determine the recruitment of the other.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_010"
+            }
+          ]
+        }, 
+        {
+          "context": "Genome-wide mapping of nucleosome positioning and DNA methylation within individual DNA molecules. DNA methylation and nucleosome positioning work together to generate chromatin structures that regulate gene expression. Nucleosomes are typically mapped using nuclease digestion requiring significant amounts of material and varying enzyme concentrations. We have developed a method (NOMe-seq) that uses a GpC methyltransferase (M.CviPI) and next generation sequencing to generate a high resolution footprint of nucleosome positioning genome-wide using less than 1 million cells while retaining endogenous DNA methylation information from the same DNA strand. Using a novel bioinformatics pipeline, we show a striking anti-correlation between nucleosome occupancy and DNA methylation at CTCF regions that is not present at promoters. We further show that the extent of nucleosome depletion at promoters is directly correlated to expression level and can accommodate multiple nucleosomes and provide genome-wide evidence that expressed non-CpG island promoters are nucleosome-depleted. Importantly, NOMe-seq obtains DNA methylation and nucleosome positioning information from the same DNA molecule, giving the first genome-wide DNA methylation and nucleosome positioning correlation at the single molecule, and thus, single cell level, that can be used to monitor disease progression and response to therapy.", 
+          "qas": [
+            {
+              "question": "Is DNA methylation correlated with nucleosome occupancy?", 
+              "id": "5a43a214966455904c000009_011"
+            }
+          ]
+        }, 
+        {
+          "context": "The transcription factor TFIIS zinc ribbon dipeptide Asp-Glu is critical for stimulation of elongation and RNA cleavage by RNA polymerase II. The eukaryotic transcription factor TFIIS enhances elongation and nascent transcript cleavage activities of RNA polymerase II in a stalled elongation complex. By site-directed mutagenesis, we have demonstrated that invariant residues Asp-261 and Glu-262 of the nucleic acid-binding TFIIS Zn ribbon are critical for stimulation of both elongation and RNA cleavage activities of RNA polymerase II. Substitution of either of these residues inactivates both TFIIS functions, suggesting a related role in both activities. These acidic residues may participate in phosphoryl transfer reactions by a two-metal-ion mechanism in a manner analogous to Klenow fragment. The RNA polymerase II itself may contain a Zn ribbon, in as much as the polymerase's 15-kDa subunit contains a sequence that aligns well with the TFIIS Zn ribbon sequence, including a similarly placed pair of acidic residues.", 
+          "qas": [
+            {
+              "question": "Does RNA polymerase II have RNA cleavage activity?", 
+              "id": "5a468785966455904c00000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Complexes of yeast RNA polymerase II and RNA are substrates for TFIIS-induced RNA cleavage. In the absence of DNA, purified yeast RNA polymerase II can bind RNA to form a binary complex. RNA in such RNA-RNA polymerase complexes undergoes reactions previously thought to be unique to nascent RNA in ternary complexes with DNA, including TFIIS-dependent cleavage and elongation by 3'-terminal addition of NMP from NTP. Both of these reactions are inhibited by alpha-amanitin. Hence, by several criteria the RNA in binary complexes is bound to the polymerase in a manner quite similar to that in ternary complexes in which the catalytic site for nucleotide addition is positioned at or near the 3'-OH terminus of the RNA. These findings are consistent with a model for the RNA polymerase ternary complex in which the RNA is bound at the 3' terminus through two protein-binding sites located up to 10 nt apart.", 
+          "qas": [
+            {
+              "question": "Does RNA polymerase II have RNA cleavage activity?", 
+              "id": "5a468785966455904c00000d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Activation and reactivation of the RNA polymerase II trigger loop for intrinsic RNA cleavage and catalysis. In addition to RNA synthesis, multisubunit RNA polymerases (msRNAPs) support enzymatic reactions such as intrinsic transcript cleavage. msRNAP active sites from different species appear to exhibit differential intrinsic transcript cleavage efficiency and have likely evolved to allow fine-tuning of the transcription process. Here we show that a single amino-acid substitution in the trigger loop (TL) of Saccharomyces RNAP II, Rpb1 H1085Y, engenders a gain of intrinsic cleavage activity where the substituted tyrosine appears to participate in acid-base chemistry at alkaline pH for both intrinsic cleavage and nucleotidyl transfer. We extensively characterize this TL substitution for each of these reactions by examining the responses RNAP II enzymes to catalytic metals, altered pH, and factor inputs. We demonstrate that TFIIF stimulation of the first phosphodiester bond formation by RNAP II requires wild type TL function and that H1085Y substitution within the TL compromises or alters RNAP II responsiveness to both TFIIB and TFIIF. Finally, Mn(2+) stimulation of H1085Y RNAP II reveals possible allosteric effects of TFIIB on the active center and cooperation between TFIIB and TFIIF.", 
+          "qas": [
+            {
+              "question": "Does RNA polymerase II have RNA cleavage activity?", 
+              "id": "5a468785966455904c00000d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Nascent RNA cleavage by arrested RNA polymerase II does not require upstream translocation of the elongation complex on DNA. Obstacles incurred by RNA polymerase II during primary transcript synthesis have been identified in vivo and in vitro. Transcription past these impediments requires SII, an RNA polymerase II-binding protein. SII also activates a nuclease in arrested elongation complexes and this nascent RNA shortening precedes transcriptional readthrough. Here we show that in the presence of SII and nucleotides, transcript cleavage is detected during SII-dependent elongation but not during SII-independent transcription. Thus, under typical transcription conditions, SII is necessary but insufficient to activate RNA cleavage. RNA cleavage could serve to move RNA polymerase II away from the transcriptional impediment and/or permit RNA polymerase II multiple attempts at RNA elongation. By mapping the positions of the 3'-ends of RNAs and the elongation complex on DNA, we demonstrate that upstream movement of RNA polymerase II is not required for limited RNA shortening (seven to nine nucleotides) and reactivation of an arrested complex. Arrested complexes become elongation competent after removal of no more than nine nucleotides from the nascent RNA's 3'-end. Further cleavage of nascent RNA, however, does result in \"backward\" translocation of the enzyme. We also show that one round of RNA cleavage is insufficient for full readthrough at an arrest site, consistent with a previously suggested mechanism of SII action.", 
+          "qas": [
+            {
+              "question": "Does RNA polymerase II have RNA cleavage activity?", 
+              "id": "5a468785966455904c00000d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "The RNA polymerase II elongation complex. Factor-dependent transcription elongation involves nascent RNA cleavage. Regulation of transcription elongation is an important mechanism in controlling eukaryotic gene expression. SII is an RNA polymerase II-binding protein that stimulates transcription elongation and also activates nascent transcript cleavage by RNA polymerase II in elongation complexes in vitro (Reines, D. (1992) J. Biol. Chem. 267, 3795-3800). Here we show that SII-dependent in vitro transcription through an arrest site in a human gene is preceded by nascent transcript cleavage. RNA cleavage appeared to be an obligatory step in the SII activation process. Recombinant SII activated cleavage while a truncated derivative lacking polymerase binding activity did not. Cleavage was not restricted to an elongation complex arrested at this particular site, showing that nascent RNA hydrolysis is a general property of RNA polymerase II elongation complexes. These data support a model whereby SII stimulates elongation via a ribonuclease activity of the elongation complex.", 
+          "qas": [
+            {
+              "question": "Does RNA polymerase II have RNA cleavage activity?", 
+              "id": "5a468785966455904c00000d_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Standardized collection of MNase-seq experiments enables unbiased dataset comparisons. BACKGROUND: The organization of eukaryotic DNA into chromatin has a strong influence on the accessibility and regulation of genetic information. The locations and occupancies of a principle component of chromatin, nucleosomes, are typically assayed through use of enzymatic digestion with micrococcal nuclease (MNase). MNase is an endo-exo nuclease that preferentially digests naked DNA and the DNA in linkers between nucleosomes, thus enriching for nucleosome-associated DNA. To determine nucleosome organization genome-wide, DNA remaining from MNase digestion is sequenced using high-throughput sequencing technologies (MNase-seq). Unfortunately, the results of MNase-seq can vary dramatically due to technical differences and this confounds comparisons between MNase-seq experiments, such as examining condition-dependent chromatin organizations. RESULTS: In this study we use MNase digestion simulations to demonstrate how MNase-seq signals can vary for different nucleosome configuration when experiments are performed with different extents of MNase digestion. Signal variation in these simulations reveals an important DNA sampling bias that results from a neighborhood effect of MNase digestion techniques. The presence of this neighborhood effect ultimately confounds comparisons between different MNase-seq experiments. To address this issue we present a standardized chromatin preparation which controls for technical variance between MNase-based chromatin preparations and enables the collection of similarly sampled (matched) chromatin populations. Standardized preparation of chromatin includes a normalization step for DNA input into MNase digestions and close matching of the extent of digestion between each chromatin preparation using gel densitometry analysis. The protocol also includes directions for successful pairing with multiplex sequencing reactions. CONCLUSIONS: We validated our method by comparing the experiment-to-experiment variation between biological replicates of chromatin preparations from S. cerevisiae. Results from our matched preparation consistently produced MNase-seq datasets that were more closely correlated than other unstandardized approaches. Additionally, we validated the ability of our approach at enabling accurate downstream comparisons of chromatin structures, by comparing the specificity of detecting Tup1-dependent chromatin remodeling events in comparisons between matched and un-matched wild-type and tup1\u0394 MNase-seq datasets. Our matched MNase-seq datasets demonstrated a significant reduction in non-specific (technical) differences between experiments and were able to maximize the detection of biologically-relevant (Tup1-dependent) changes in chromatin structure.", 
+          "qas": [
+            {
+              "question": "Is there a sequence bias in MNase digestion patterns?", 
+              "id": "5a4e1882966455904c00000f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Micrococcal nuclease does not substantially bias nucleosome mapping. We have mapped sequence-directed nucleosome positioning on genomic DNA molecules using high-throughput sequencing. Chromatins, prepared by reconstitution with either chicken or frog histones, were separately digested to mononucleosomes using either micrococcal nuclease (MNase) or caspase-activated DNase (CAD). Both enzymes preferentially cleave internucleosomal (linker) DNA, although they do so by markedly different mechanisms. MNase has hitherto been very widely used to map nucleosomes, although concerns have been raised over its potential to introduce bias. Having identified the locations and quantified the strength of both the chicken or frog histone octamer binding sites on each DNA, the results obtained with the two enzymes were compared using a variety of criteria. Both enzymes displayed sequence specificity in their preferred cleavage sites, although the nature of this selectivity was distinct for the two enzymes. In addition, nucleosomes produced by CAD nuclease are 8-10 bp longer than those produced with MNase, with the CAD cleavage sites tending to be 4-5 bp further out from the nucleosomal dyad than the corresponding MNase cleavage sites. Despite these notable differences in cleavage behaviour, the two nucleases identified essentially equivalent patterns of nucleosome positioning sites on each of the DNAs tested, an observation that was independent of the histone type. These results indicate that biases in nucleosome positioning data collected using MNase are, under our conditions, not significant.", 
+          "qas": [
+            {
+              "question": "Is there a sequence bias in MNase digestion patterns?", 
+              "id": "5a4e1882966455904c00000f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "MPE-seq, a new method for the genome-wide analysis of chromatin structure. The analysis of chromatin structure is essential for the understanding of transcriptional regulation in eukaryotes. Here we describe methidiumpropyl-EDTA sequencing (MPE-seq), a method for the genome-wide characterization of chromatin that involves the digestion of nuclei withMPE-Fe(II) followed by massively parallel sequencing. Like micrococcal nuclease (MNase), MPE-Fe(II) preferentially cleaves the linker DNA between nucleosomes. However, there are differences in the cleavage of nuclear chromatin by MPE-Fe(II) relative to MNase. Most notably, immediately upstream of the transcription start site of active promoters, we frequently observed nucleosome-sized (141-190 bp) and subnucleosome-sized (such as 101-140 bp) peaks of digested chromatin fragments with MPE-seq but not with MNase-seq. These peaks also correlate with the presence of core histones and could thus be due, at least in part, to noncanonical chromatin structures such as labile nucleosome-like particles that have been observed in other contexts. The subnucleosome-sized MPE-seq peaks exhibit a particularly distinct association with active promoters. In addition, unlike MNase, MPE-Fe(II) cleaves nuclear DNA with little sequence bias. In this regard, we found that DNA sequences at RNA splice sites are hypersensitive to digestion by MNase but not by MPE-Fe(II). This phenomenon may have affected the analysis of nucleosome occupancy over exons. These findings collectively indicate that MPE-seq provides a unique and straightforward means for the genome-wide analysis of chromatin structure with minimal DNA sequence bias. In particular, the combined use of MPE-seq and MNase-seq enables the identification of noncanonical chromatin structures that are likely to be important for the regulation of gene expression.", 
+          "qas": [
+            {
+              "question": "Is there a sequence bias in MNase digestion patterns?", 
+              "id": "5a4e1882966455904c00000f_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The effect of micrococcal nuclease digestion on nucleosome positioning data. Eukaryotic genomes are packed into chromatin, whose basic repeating unit is the nucleosome. Nucleosome positioning is a widely researched area. A common experimental procedure to determine nucleosome positions involves the use of micrococcal nuclease (MNase). Here, we show that the cutting preference of MNase in combination with size selection generates a sequence-dependent bias in the resulting fragments. This strongly affects nucleosome positioning data and especially sequence-dependent models for nucleosome positioning. As a consequence we see a need to re-evaluate whether the DNA sequence is a major determinant of nucleosome positioning in vivo. More generally, our results show that data generated after MNase digestion of chromatin requires a matched control experiment in order to determine nucleosome positions.", 
+          "qas": [
+            {
+              "question": "Is there a sequence bias in MNase digestion patterns?", 
+              "id": "5a4e1882966455904c00000f_003"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

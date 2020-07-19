@@ -1,0 +1,1657 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a885add61bb38fb24000017_001",
+              "question": "What is the H4S47C cleavage mapping method used for?"
+            }
+          ],
+          "context": "To identify nucleosomes with alternative structures genome-wide, we used H4S47C-anchored cleavage mapping, which revealed that 5% of budding yeast (Saccharomyces cerevisiae) nucleosome positions have asymmetric histone-DNA interactions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a885add61bb38fb24000017_002",
+              "question": "What is the H4S47C cleavage mapping method used for?"
+            }
+          ],
+          "context": "Micrococcal nuclease (MNase) sequence-based profiles of asymmetric nucleosome positions revealed a corresponding asymmetry in MNase protection near the dyad axis, suggesting that the loss of DNA contacts around H4S47 is accompanied by protection of the DNA from MNase. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a885add61bb38fb24000017_003",
+              "question": "What is the H4S47C cleavage mapping method used for?"
+            }
+          ],
+          "context": "To resolve this controversy, we have applied H4S47C-anchored cleavage mapping, which reveals the precise position of histone H4 in every nucleosome in the genome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a885add61bb38fb24000017_004",
+              "question": "What is the H4S47C cleavage mapping method used for?"
+            }
+          ],
+          "context": " To map fission yeast centromeres, we applied H4S47C-anchored cleavage mapping and native and cross-linked chromatin immunoprecipitation with paired-end sequencing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac725250340b9f058000006_001",
+              "question": "Which miRNA is associated with the circular RNA ciRS-7?"
+            }
+          ],
+          "context": "In addition, according to recent studies, circular RNA-7 (ciRS-7) acts as a sponge of miR-7 and thus inhibits its activity. Numerous evidences have confirmed expression of miR-7 is dysregulated in cancer tissues, however, whether ciRS-7 invovled in oncogenesis by acting as sponge of miR-7 remains unclear. Most recently, a study reported ciRS-7 acted as an oncogene in hepatocellular carcinoma through targeting miR-7 expression. This suggest ciRS-7/ miR-7 axis affects oncogenesis, and it provides a new perspective on the mechanisms of decreased miR-7 expression in cancer tissues. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac725250340b9f058000006_002",
+              "question": "Which miRNA is associated with the circular RNA ciRS-7?"
+            }
+          ],
+          "context": "This review summarizes the structure and function of circRNAs and provides evidence for the impact of ciRS-7 in promoting the development of cancer by acting as sponge of miR-7."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac08fe7d0c506ce46000003_001",
+              "question": "Of what origin is the MCF-7 cell line?"
+            }
+          ],
+          "context": " an ER+ breast cancer cell line (MCF-7)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac08fe7d0c506ce46000003_002",
+              "question": "Of what origin is the MCF-7 cell line?"
+            }
+          ],
+          "context": " Two different types of tumor cells, MCF-7 and MDA-MB-231, both from the same origin of breast carcinoma cells, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac08fe7d0c506ce46000003_003",
+              "question": "Of what origin is the MCF-7 cell line?"
+            }
+          ],
+          "context": "MCF7, and PC3 adenocarcinoma cell lines."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac08fe7d0c506ce46000003_004",
+              "question": "Of what origin is the MCF-7 cell line?"
+            }
+          ],
+          "context": "MCF7, Hs578t and MDA-MB-231 breast cancer cell lines"
+        },
+        {
+          "qas": [
+            {
+              "id": "589a247078275d0c4a000035_001",
+              "question": "Dinutuximab is used for treatment of which disease?"
+            }
+          ],
+          "context": "PURPOSE: Dinutuximab (Unituxin\u2122; ch14.18), a monoclonal antibody against disialoganglioside, improved survival as part of post-consolidation therapy for high-risk neuroblastoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "589a247078275d0c4a000035_002",
+              "question": "Dinutuximab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Dinutuximab: A Review in High-Risk Neuroblastoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "589a247078275d0c4a000035_003",
+              "question": "Dinutuximab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Dinutuximab (ch14.18; Unituxin\u2122) is a chimeric human-mouse monoclonal antibody that binds to the glycolipid antigen disialoganglioside, which is highly expressed on the surface of neuroblastoma cells. This intravenous drug is approved in the EU and USA as combination therapy with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin (IL)-2 and isotretinoin for the postconsolidation treatment of patients with high-risk neuroblastoma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "589a247078275d0c4a000035_004",
+              "question": "Dinutuximab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Dinutuximab administered in combination with GM-CSF, IL-2 and isotretinoin represents an important advance in the postconsolidation treatment of patients with high-risk neuroblastoma, with its benefits outweighing its risks in a patient population with a poor prognosis and limited therapeutic options."
+        },
+        {
+          "qas": [
+            {
+              "id": "589a247078275d0c4a000035_005",
+              "question": "Dinutuximab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Dinutuximab for the treatment of pediatric patients with high-risk neuroblastoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "589a247078275d0c4a000035_006",
+              "question": "Dinutuximab is used for treatment of which disease?"
+            }
+          ],
+          "context": "The combination of cytokines IL-2 and GM-CSF with the anti-GD2 MoAb ch14.18 (Dinutuximab) has shown a significant improvement in outcome for HR-NB. The FDA and EMA approved dinutuximab (Unituxin(R)) in 2015 for the treatment of patients with HR-NB who achieved at least a partial response after multimodality therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24c9495d0062724000002_001",
+              "question": "What is the ChIP-exo method used for?"
+            }
+          ],
+          "context": "ChIP-exo method for identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24c9495d0062724000002_002",
+              "question": "What is the ChIP-exo method used for?"
+            }
+          ],
+          "context": "ChIP-exo allows identification of a nearly complete set of the binding locations of DNA-binding proteins at near-single-nucleotide resolution with almost no background."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24c9495d0062724000002_003",
+              "question": "What is the ChIP-exo method used for?"
+            }
+          ],
+          "context": "Precise Identification of DNA-Binding Proteins Genomic Location by Exonuclease Coupled Chromatin Immunoprecipitation (ChIP-exo)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24c9495d0062724000002_004",
+              "question": "What is the ChIP-exo method used for?"
+            }
+          ],
+          "context": "A significant improvement of the ChIP-seq technique results from the addition of an exonuclease treatment during the immunoprecipitation step (ChIP-exo) that lowers background noise and more importantly increases the identification of binding sites to a level near to single-base resolution by effectively footprinting DNA-bound proteins. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24c9495d0062724000002_005",
+              "question": "What is the ChIP-exo method used for?"
+            }
+          ],
+          "context": "The ChIP-exo Method: Identifying Protein-DNA Interactions with Near Base Pair Precision."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24c9495d0062724000002_006",
+              "question": "What is the ChIP-exo method used for?"
+            }
+          ],
+          "context": "The key distinction of the ChIP-exo methodology is the incorporation of lambda exonuclease digestion in the library preparation workflow to effectively footprint the left and right 5' DNA borders of the protein-DNA crosslink site. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cc66fcf4565872000015_001",
+              "question": "Cytochrome p450 CYP3A is induced by rifampicin  and compounds used to treat what virus?"
+            }
+          ],
+          "context": "Four CYP3A inducers were used: rifampicin, rifabutin, carbamazepine, and efavirenz"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cc66fcf4565872000015_002",
+              "question": "Cytochrome p450 CYP3A is induced by rifampicin  and compounds used to treat what virus?"
+            }
+          ],
+          "context": "Etravirine is an effective and well-tolerated recently approved non-nucleoside reverse transcriptase inhibitor (NNRTI) for HIV type-1-infected patients with previous antiretroviral treatment experience. Considering the importance of combining antiretrovirals for their optimal use in treating HIV, a number of drug-drug interactions with etravirine and other antiretrovirals have been evaluated. Etravirine is a weak inducer of cytochrome P450 (CYP)3A"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace238e0340b9f05800000d_001",
+              "question": "Which human chromosome is the product of fusion?"
+            }
+          ],
+          "context": "The evolution of African great ape subtelomeric heterochromatin and the fusion of human chromosome 2."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace238e0340b9f05800000d_002",
+              "question": "Which human chromosome is the product of fusion?"
+            }
+          ],
+          "context": "We propose a model where an ancestral human-chimpanzee pericentric inversion and the ancestral chromosome 2 fusion both predisposed and protected the chimpanzee and human genomes, respectively, to the formation of subtelomeric heterochromatin. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace238e0340b9f05800000d_003",
+              "question": "Which human chromosome is the product of fusion?"
+            }
+          ],
+          "context": "It is known that human chromosome 2 originated from the fusion of two ancestral primate chromosomes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace238e0340b9f05800000d_004",
+              "question": "Which human chromosome is the product of fusion?"
+            }
+          ],
+          "context": "Origin of human chromosome 2: an ancestral telomere-telomere fusion."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace238e0340b9f05800000d_005",
+              "question": "Which human chromosome is the product of fusion?"
+            }
+          ],
+          "context": "We conclude that the locus cloned in cosmids c8.1 and c29B is the relic of an ancient telomere-telomere fusion and marks the point at which two ancestral ape chromosomes fused to give rise to human chromosome 2."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab90a79fcf456587200001b_001",
+              "question": "What drug treatment can cause a spinal epidural hematoma?"
+            }
+          ],
+          "context": "Spinal epidural hematomas are rare entity in neurosurgery practice. Most of them are spontaneous due to anticoagulant therapy and called spontaneous spinal epidural hematomas (SSEHs)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab90a79fcf456587200001b_002",
+              "question": "What drug treatment can cause a spinal epidural hematoma?"
+            }
+          ],
+          "context": "Spinal epidural hematoma (SEH) is a rare disease that causes cord compression and neurologic deficit. Spontaneous SEH is related to minor trauma, bleeding disorders, and anticoagulant medications."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab90a79fcf456587200001b_003",
+              "question": "What drug treatment can cause a spinal epidural hematoma?"
+            }
+          ],
+          "context": "Chronic Spinal Subdural Hematoma Associated with Antiplatelet Therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab90a79fcf456587200001b_004",
+              "question": "What drug treatment can cause a spinal epidural hematoma?"
+            }
+          ],
+          "context": "pinal subdural hematoma associated with antiplatelet therapy"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_001",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "The RPS19 mutation group was associated with higher requirement for chronic treatment for anemia than other DBA groups."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_002",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "Twenty-one cases of DBA admitted in our hospital from Dec 2008 to Aug 2012 were screened by PCR for mutations in the nine known genes associated with DBA: RPS19, RPS24, RPS17, RPL5, RPL11, RPS7, RPL35a, RPS10 and RPS26"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_003",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "The results found that 8 patients (38.1%) with DBA had mutations in the genes coding for ribosomal protein, in which RPS19 mutation was identified in 3 patients, RPS24, RPS7, RPL5, RPL11 and RPL35A mutations were identified respectively in 1 of the patient."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_004",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "The hypospadias can be observed in some patients with RPS19 mutation and some dactyl anomalies are associated with RPL11 and RPL5 mutations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_005",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "A transgenic mouse model demonstrates a dominant negative effect of a point mutation in the RPS19 gene associated with Diamond-Blackfan anemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_006",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "Mutations in the gene encoding ribosomal protein S19 (RPS19) have been identified in approximately 25% of DBA families."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_007",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "Diamond-Blackfan anemia (DBA) is a rare congenital red-cell aplasia characterized by anemia, bone-marrow erythroblastopenia, and congenital anomalies and is associated with heterozygous mutations in the ribosomal protein (RP) S19 gene (RPS19) in approximately 25% of probands."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_008",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "Ribosomal protein S19 (RPS19), currently the only gene associated with DBA, is mutated in 25% of DBA patients, but its role in erythropoiesis is unknown."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_009",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "Since a fraction of DBA patients have a deficiency in ribosomal protein S19 (RPS19), we constructed lentiviral vectors containing the RPS19 gene for overexpression in hematopoietic progenitors from RPS19-deficient DBA patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a896c26fcd1d6a10c000007_010",
+              "question": "In which syndrome is the RPS19 gene most frequently mutated?"
+            }
+          ],
+          "context": "DBA is a heterogeneous disorder, caused in about 25% of cases by heterozygous mutations in the RPS19 gene (DBA1)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf010fcf4565872000023_001",
+              "question": "What nerve is involved in carpal tunnel syndrome?"
+            }
+          ],
+          "context": "In this study, it was aimed to determine whether median nerve epineurectomy is beneficial in the surgical management of carpal tunnel syndrome"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf010fcf4565872000023_002",
+              "question": "What nerve is involved in carpal tunnel syndrome?"
+            }
+          ],
+          "context": "We believe that median nerve epineurectomy is unnecessary in the surgical management of primary CTS since it has no influence on the midterm"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf010fcf4565872000023_003",
+              "question": "What nerve is involved in carpal tunnel syndrome?"
+            }
+          ],
+          "context": "Carpal tunnel syndrome (CTS) is a focal compressive neuropathy of the median nerve at the level of the wrist."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf010fcf4565872000023_004",
+              "question": "What nerve is involved in carpal tunnel syndrome?"
+            }
+          ],
+          "context": " CTS, which may occur in as many as 25% of patients who undergo carpal tunnel release, most commonly results from an incomplete transverse carpal ligament release or an incorrect initial diagnosis. Patients with recurrent symptoms often have perineural fibrosis that tethers the median nerve."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf010fcf4565872000023_005",
+              "question": "What nerve is involved in carpal tunnel syndrome?"
+            }
+          ],
+          "context": " Ultrasound is an established method of viewing the median nerve in the carpal tunnel syndrome (CTS)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86e6fafaa1ab7d2e000036_001",
+              "question": "What is the nucleotide composition of the Lamin Associated Domains (LADs)?"
+            }
+          ],
+          "context": "Instead, cLADs are universally characterized by long stretches of DNA of high A/T content. Cell-type specific LADs also tend to adhere to this \"A/T rule\" in embryonic stem cells, but not in differentiated cells. This suggests that the A/T rule represents a default positioning mechanism that is locally overruled during lineage commitment. Analysis of paralogs suggests that during evolution changes in A/T content have driven the relocation of genes to and from the nuclear lamina, in tight association with changes in expression level"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a86e6fafaa1ab7d2e000036_002",
+              "question": "What is the nucleotide composition of the Lamin Associated Domains (LADs)?"
+            }
+          ],
+          "context": "Constitutive nuclear lamina-genome interactions are highly conserved and associated with A/T-rich sequence."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac716810340b9f058000003_001",
+              "question": "Name an lncRNA associated with dilated cardiomyopathy."
+            }
+          ],
+          "context": "In the previous study, we generated a rat model of dilated cardiomyopathy (DCM) induced by adriamycin and found that the expression of lncRNA H19 was significantly upregulated in myocardial tissue."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac716810340b9f058000003_002",
+              "question": "Name an lncRNA associated with dilated cardiomyopathy."
+            }
+          ],
+          "context": "The long non-coding RNA H19 promotes cardiomyocyte apoptosis in dilated cardiomyopathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad4dd93133db5eb78000008_001",
+              "question": "What is the clathrin triskelia structure?"
+            }
+          ],
+          "context": "Clathrin assembles into triskelia composed of three clathrin heavy chains and associated clathrin light chains (CLCs)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad4dd93133db5eb78000008_002",
+              "question": "What is the clathrin triskelia structure?"
+            }
+          ],
+          "context": "A principal component in the protein coats of certain post-golgi and endocytic vesicles is clathrin, which appears as a three-legged heteropolymer (known as a triskelion) that assembles into polyhedral cages principally made up of pentagonal and hexagonal faces. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad4dd93133db5eb78000008_003",
+              "question": "What is the clathrin triskelia structure?"
+            }
+          ],
+          "context": "The clathrin triskelion, which is a three-legged pinwheel-shaped heteropolymer, is a major component in the protein coats of certain post-Golgi and endocytic vesicles. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace37d50340b9f058000011_001",
+              "question": "Which is the main reason for the increase in the incidence of cryptococcal disease?"
+            }
+          ],
+          "context": "The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade. It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection. Currently, 4.0% patients with AIDS in the United Kingdom are known to have developed cryptococcosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8980d2fcd1d6a10c00000d_001",
+              "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?"
+            }
+          ],
+          "context": "Brown adipose tissue (BAT) mitochondria are distinct from their counterparts in other tissues in that ATP production is not their primary physiologic role. BAT mitochondria are equipped with a specialized protein known as uncoupling protein 1 (UCP1). UCP1 short-circuits the electron transport chain, allowing mitochondrial membrane potential to be transduced to heat, making BAT a tissue capable of altering energy expenditure and fuel metabolism in mammals without increasing physical activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8980d2fcd1d6a10c00000d_002",
+              "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?"
+            }
+          ],
+          "context": "Uncoupling protein 1 (UCP1) is the hallmark protein responsible for cold- and diet-induced thermogenesis in brown adipose tissue (BAT)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8980d2fcd1d6a10c00000d_003",
+              "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?"
+            }
+          ],
+          "context": "Thermogenesis is an important homeostatic mechanism essential for survival and normal physiological functions in mammals. Both brown adipose tissue (BAT) (i.e.uncoupling protein 1 (UCP1)-based)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8980d2fcd1d6a10c00000d_004",
+              "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?"
+            }
+          ],
+          "context": "UCP1's central role in non-shivering thermogenesis is acknowledged"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8980d2fcd1d6a10c00000d_005",
+              "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?"
+            }
+          ],
+          "context": "JAK2 promotes brown adipose tissue function and is required for diet- and cold-induced thermogenesis in mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8980d2fcd1d6a10c00000d_006",
+              "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?"
+            }
+          ],
+          "context": "Brown adipocytes (BAs) are specialized for adaptive thermogenesis and, upon sympathetic stimulation, activate mitochondrial uncoupling protein (UCP)-1 and oxidize fatty acids to generate heat"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac543bfcf4565872000004_001",
+              "question": "What biologic process in the body is associated with Mast cells?"
+            }
+          ],
+          "context": "Mast cells (MCs) may play an important role in plaque destabilization and atherosclerotic coronary complications."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac543bfcf4565872000004_002",
+              "question": "What biologic process in the body is associated with Mast cells?"
+            }
+          ],
+          "context": "Mast cells are significantly involved in IgE-mediated allergic reactions"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac543bfcf4565872000004_003",
+              "question": "What biologic process in the body is associated with Mast cells?"
+            }
+          ],
+          "context": " Mast cells (MCs) are innate immune cells that are a major source of costimulatory signals and inflammatory mediators in the intestinal mucosa"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac543bfcf4565872000004_004",
+              "question": "What biologic process in the body is associated with Mast cells?"
+            }
+          ],
+          "context": "Mast cells and basophils are innate immune cells with overlapping functions that contribute to anti-helminth immunity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0a82d19833b0d7b000003_001",
+              "question": "In what percentage of skeletal muscle fibers is dystrophin expression restored after PPMO- mediated exon skipping?"
+            }
+          ],
+          "context": "Biweekly intravenous (i.v.) administration of the PPMO restored the dystrophin expression in nearly 100% skeletal muscle fibers in all age groups. This was associated with the restoration of dystrophin-associated proteins including functional glycosylated dystroglycan and neuronal nitric synthase. However, therapeutic outcomes clearly depended on severity of the disease at the time the treatment started."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc9ecffcf4565872000021_001",
+              "question": "Where do mitochondrial DNA deletion breakpoints tend to occur?"
+            }
+          ],
+          "context": "n this work, we performed a computational analysis of the human mitochondrial genome using the \"Pattern Finder\" G-quadruplex (G4) predictor algorithm to assess whether G4-forming sequences reside in close proximity (within 20 base pairs) to known mitochondrial DNA deletion breakpoints."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc9ecffcf4565872000021_002",
+              "question": "Where do mitochondrial DNA deletion breakpoints tend to occur?"
+            }
+          ],
+          "context": "Circular dichroism and UV spectral analysis demonstrated that mitochondrial G-rich sequences near deletion breakpoints prevalent in human disease form G-quadruplex DNA structures."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc9ecffcf4565872000021_003",
+              "question": "Where do mitochondrial DNA deletion breakpoints tend to occur?"
+            }
+          ],
+          "context": "Direct repeat sequences are not required at the breakpoints of age-associated mitochondrial DNA deletions in rhesus monkeys."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc9ecffcf4565872000021_004",
+              "question": "Where do mitochondrial DNA deletion breakpoints tend to occur?"
+            }
+          ],
+          "context": "Most of the analyzed deletion breakpoints showed nucleotide repeats flanking the deletions. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab147edfcf4565872000013_001",
+              "question": "The Mantoux test detects what latent infection/disease?"
+            }
+          ],
+          "context": "screened for TB infection with a Mantoux tuberculin skin test "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab147edfcf4565872000013_002",
+              "question": "The Mantoux test detects what latent infection/disease?"
+            }
+          ],
+          "context": "The present study reports the results of a three-year TB surveillance among HCW in a large teaching hospital in Rome, using TST (by standard Mantoux technique)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab147edfcf4565872000013_003",
+              "question": "The Mantoux test detects what latent infection/disease?"
+            }
+          ],
+          "context": "Laboratory diagnostic testing of cellular immunity against pathogenic mycobacteria employs the tuberculin skin test (TST, Mantoux tuberculin test) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab147edfcf4565872000013_004",
+              "question": "The Mantoux test detects what latent infection/disease?"
+            }
+          ],
+          "context": "tuberculin skin test (TST) performed according to the Mantoux method. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac09a7b19833b0d7b000001_001",
+              "question": "Where is the EpCam protein mainly located?"
+            }
+          ],
+          "context": "The following cell-surface markers were immunohistochemically analyzed: E-cadherin, epithelial membrane antigen (EMA), human epidermal growth receptor type 2 (Her2/neu), carcinoembryonic antigen (CEA), \u03b1v\u03b26 integrin and epithelial cell adhesion molecule (EpCAM)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac09a7b19833b0d7b000001_002",
+              "question": "Where is the EpCam protein mainly located?"
+            }
+          ],
+          "context": "Tumor cells display increased EpCAM expression that often correlates with the loss of strict basolateral localization."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac09a7b19833b0d7b000001_003",
+              "question": "Where is the EpCam protein mainly located?"
+            }
+          ],
+          "context": "Papillary thyroid carcinoma shows loss of EpCAM membranous expression and increased cytoplasmic/nuclear accumulation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac09a7b19833b0d7b000001_004",
+              "question": "Where is the EpCam protein mainly located?"
+            }
+          ],
+          "context": "Epithelial cell adhesion molecule (EpCAM) (CD326) is a surface glycoprotein expressed by invasive carcinomas and some epithelia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac09a7b19833b0d7b000001_005",
+              "question": "Where is the EpCam protein mainly located?"
+            }
+          ],
+          "context": "Epithelial cell adhesion molecule (EpCAM) is a transmembrane glycoprotein, which is frequently and highly expressed on carcinomas, tumor-initiating cells, selected tissue progenitors, and embryonic and adult stem cells"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac09a7b19833b0d7b000001_006",
+              "question": "Where is the EpCam protein mainly located?"
+            }
+          ],
+          "context": "Epithelial cell adhesion molecule (EpCAM) is a type I transmembrane glycoprotein overexpressed in human epithelioma but with relatively low expression in normal epithelial tissues. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abbe429fcf456587200001c_001",
+              "question": "What is the drug target for Eliquis (Apixaban)?"
+            }
+          ],
+          "context": "The new oral anticoagulants (NOAC) include dabigatran etexilate (Pradaxa\u00ae), a direct thrombin inhibitor, and rivaroxaban (Xarelto\u00ae), Apixaban (Eliquis) and Edoxaban (Lixiana\u00ae), which are direct anti-Xa inhibitors"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0a36f19833b0d7b000002_001",
+              "question": "What is an exosome?"
+            }
+          ],
+          "context": "Exosomes are small extracellular membrane-based vesicles with a variety of cargoes that are involved in numerous physiological and pathological processes in the nervous system. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0a36f19833b0d7b000002_002",
+              "question": "What is an exosome?"
+            }
+          ],
+          "context": "Exosomes are a subset of extracellular vesicles (EVs) that have important roles in intercellular communication. They contain and carry bioactive molecules within their membranes which are delivered to target cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0a36f19833b0d7b000002_003",
+              "question": "What is an exosome?"
+            }
+          ],
+          "context": "Extracellular vesicles (EVs) are released by cells and can be found in cell culture supernatants and biofluids. EVs carry proteins, nucleic acids, and other cellular components and can deliver these to nearby or distant cells, making EVs of interest as both disease biomarkers and therapeutic targets"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0a36f19833b0d7b000002_004",
+              "question": "What is an exosome?"
+            }
+          ],
+          "context": "Exosomes are released by cells as self-contained vesicles with an intact lipid bilayer that encapsulates a small portion of the parent cell."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_001",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": " Recent comparative studies have begun to investigate the evolution of the sequence architecture within enhancers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_002",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": "A detailed analysis of the fast-evolving sparkling enhancer in Drosophila now identifies key compensatory mechanisms and 'grammar' elements that are critical for maintaining functional integrity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_003",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": "The trend is one of high divergence of cis-regulatory elements between species, possibly compensated by extensive creation and loss of regulatory elements and rewiring of their target genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_004",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": "However, existing models specifically designed for regulatory sequences consider the independent evolution of individual transcription factor (TF)-binding sites, ignoring that the function and evolution of a binding site depends on its context, typically the cis-regulatory module (CRM) in which the site is located"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_005",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": "We summarize recent case studies and genome-wide investigations that have uncovered diverse mechanisms though which new enhancers arise"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_006",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": "We report that rapid evolution of enhancers is a universal feature of mammalian genomes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac3699f0340b9f058000001_007",
+              "question": "Are human enhancers or promoters evolving faster?"
+            }
+          ],
+          "context": "Our data further reveal that recently evolved enhancers can be associated with genes under positive selection, demonstrating the power of this approach for annotating regulatory adaptations in genomic sequences."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abbfd97fcf456587200001d_001",
+              "question": "What is the Formalin test used for?"
+            }
+          ],
+          "context": "And persistent pain produced by peripheral tissue injury and inflammation was modeled by formalin test."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abbfd97fcf456587200001d_002",
+              "question": "What is the Formalin test used for?"
+            }
+          ],
+          "context": "The aim of the present study was to evaluate the antinoceptive interaction between the opioid analgesic, tapentadol, and the NSAID, ketorolac, in the mouse orofacial formalin test."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abbfd97fcf456587200001d_003",
+              "question": "What is the Formalin test used for?"
+            }
+          ],
+          "context": " experimental nociception using formalin test"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abbfd97fcf456587200001d_004",
+              "question": "What is the Formalin test used for?"
+            }
+          ],
+          "context": "In vivo antinociceptive activity (formalin test) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac37afc0340b9f058000002_001",
+              "question": "What type of sequences do enhancers evolve from?"
+            }
+          ],
+          "context": "The sequences of some gene regulatory elements diverge considerably, even between closely related species. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac37afc0340b9f058000002_002",
+              "question": "What type of sequences do enhancers evolve from?"
+            }
+          ],
+          "context": "The trend is one of high divergence of cis-regulatory elements between species, possibly compensated by extensive creation and loss of regulatory elements and rewiring of their target genes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac37afc0340b9f058000002_003",
+              "question": "What type of sequences do enhancers evolve from?"
+            }
+          ],
+          "context": "These studies have identified enhancers that were pivotal for morphological divergence and highlighted how novel genetic networks shaping form emerged from pre-existing ones."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac37afc0340b9f058000002_004",
+              "question": "What type of sequences do enhancers evolve from?"
+            }
+          ],
+          "context": "Most of the recently evolved enhancers arise from ancestral DNA exaptation, rather than lineage-specific expansions of repeat elements."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad243e30340b9f058000016_001",
+              "question": "What is the function of LOX proteins in the ECM?"
+            }
+          ],
+          "context": "Extracellular matrix (ECM) composition and stiffness are major driving forces for the development and persistence of fibrotic diseases. Lysyl oxidase (LOX) and LOX-like (LOXL) proteins play crucial roles in ECM remodeling due to their collagen crosslinking and intracellular functions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad243e30340b9f058000016_002",
+              "question": "What is the function of LOX proteins in the ECM?"
+            }
+          ],
+          "context": "collagen cross-linking enzyme, lysyl oxidase (LOX)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad243e30340b9f058000016_003",
+              "question": "What is the function of LOX proteins in the ECM?"
+            }
+          ],
+          "context": "A hallmark of heart failure (HF) is adverse extracellular matrix (ECM) remodeling, which is regulated by the collagen cross-linking enzyme, lysyl oxidase (LOX)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad243e30340b9f058000016_004",
+              "question": "What is the function of LOX proteins in the ECM?"
+            }
+          ],
+          "context": "Lysyl oxidase (LOX) is an extracellular matrix (ECM)-modifying enzyme that has been involved in cardiovascular remodeling."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad243e30340b9f058000016_005",
+              "question": "What is the function of LOX proteins in the ECM?"
+            }
+          ],
+          "context": "Lysyl oxidases (LOX) are copper-dependent enzymes that oxidize primary amine substrates to reactive aldehydes. The best-studied role of LOX enzymes is the remodeling of the extracellular matrix (ECM) in animals by cross-linking collagens and elastin, although intracellular functions have been reported as well. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad243e30340b9f058000016_006",
+              "question": "What is the function of LOX proteins in the ECM?"
+            }
+          ],
+          "context": "LOXL2 is proposed to function similarly to LOX in the extracellular matrix (ECM) by promoting crosslinking of collagen and elastin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace12be0340b9f058000007_001",
+              "question": "Which gene is responsible for proper speech development?"
+            }
+          ],
+          "context": "The Key Regulator for Language and Speech Development, FOXP2, is a Novel Substrate for SUMOylation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace12be0340b9f058000007_002",
+              "question": "Which gene is responsible for proper speech development?"
+            }
+          ],
+          "context": "Transcription factor forkhead box protein P2 (FOXP2) plays an essential role in the development of language and speech."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace12be0340b9f058000007_003",
+              "question": "Which gene is responsible for proper speech development?"
+            }
+          ],
+          "context": "Absence of a paternally inherited FOXP2 gene in developmental verbal dyspraxia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace12be0340b9f058000007_004",
+              "question": "Which gene is responsible for proper speech development?"
+            }
+          ],
+          "context": "Mutations in FOXP2 cause developmental verbal dyspraxia (DVD), but only a few cases have been described."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace12be0340b9f058000007_005",
+              "question": "Which gene is responsible for proper speech development?"
+            }
+          ],
+          "context": "Our results indicate that absence of paternal FOXP2 is the cause of DVD in patients with SRS with maternal UPD7. The data also point to a role for differential parent-of-origin expression of FOXP2 in human speech development."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace12be0340b9f058000007_006",
+              "question": "Which gene is responsible for proper speech development?"
+            }
+          ],
+          "context": "Despite similarities in motor planning and execution between speech development and oral feeding competence, there have been no reports to date linking deletions within the FOXP2 gene to oral feeding impairments in the newborn."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace17c30340b9f058000009_001",
+              "question": "Which olfactory gene senses androsterone?"
+            }
+          ],
+          "context": "any mammals can decipher these scent codes to discern the gender, age, endocrine status, social status, and genotype of conspecifics using dedicated sensory receptors in their olfactory system."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace17c30340b9f058000009_002",
+              "question": "Which olfactory gene senses androsterone?"
+            }
+          ],
+          "context": "A previously reported association between the olfactory receptor OR7D4 and the androstenone was not detected until we specifically typed this gene (P = 1.1 \u00d7 10(-4)). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace17c30340b9f058000009_003",
+              "question": "Which olfactory gene senses androsterone?"
+            }
+          ],
+          "context": "These findings suggest that 1) the perceived intensity of some but not all odorants is a heritable trait, 2) use of a current genome-wide marker panel did not detect a known olfactory genotype-phenotype association, and 3) person-to-person differences in androstenone perception are influenced by OR7D4 genotype and perhaps by variants of other genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd13e1fcf4565872000029_001",
+              "question": "Where in the body would the navicular bone be found?"
+            }
+          ],
+          "context": "The accessory navicular (AN) is an accessory ossicle anatomically located on the medial side of the foot, proximal to the navicular and continuous with the tibialis posterior tendon."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd13e1fcf4565872000029_002",
+              "question": "Where in the body would the navicular bone be found?"
+            }
+          ],
+          "context": "A 16-year-old boy developed left foot pain of unknown cause that was unresponsive to conservative treatment, associated with fever and difficulty walking. He was admitted to our hospital with osteomyelitis of the accessory and body of the navicular bone"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_001",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Variants of the melanocyte-stimulating hormone receptor gene are associated with red hair and fair skin in humans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_002",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Individuals with red hair have a predominance of phaeomelain in hair and skin and/or a reduced ability to produce eumelanin, which may explain why they fail to tan and are at risk from UVR. In mammals the relative proportions of phaeomelanin and eumelanin are regulated by melanocyte stimulating hormone (MSH), which acts via its receptor (MC1R), on melanocytes, to increase the synthesis of eumelanin and the product of the agouti locus which antagonises this action"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_003",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Our findings suggest that in humans, as in other mammals, the MC1R is a control point in the regulation of pigmentation phenotype and, more importantly, that variations in this protein are associated with a poor tanning response."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_004",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "In humans, melanocortin 1 receptor variants are associated with red hair and fair skin, and work in progress from our laboratory suggests that certain melanocortin 1 receptor variants may preferentially be associated with hair color rather than skin type. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_005",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Red hair in man is due to certain loss of function mutations of one of the peptide products of the pro-opiomelanocortin (POMC) gene, the melanocortin-1 receptor (MC1R, MIM 155555)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_006",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "This paper reviews the path of discovery of the MC1R in control of animal coat colour, the subsequent role of MC1R in human physiology and possibly wider role of MC1R in human skin carcinogenesis and human development through history."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_007",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Melanocortin-1 receptor gene variants determine the risk of nonmelanoma skin cancer independently of fair skin and red hair."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_008",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "A strong association between MC1R gene variants and fair skin and red hair was established, especially the variants Arg151Cys and Arg160Trp (P<.0001). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_009",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Melanocortin-1 receptor (MC1R) gene variants are associated with fair skin and red hair"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_010",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Sequence polymorphism in the human melanocortin 1 receptor gene as an indicator of the red hair phenotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_011",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "We describe a minisequencing protocol for screening DNA samples for the presence of 12 mutations in the human melanocortin 1 receptor gene (MC1R), eight of which are associated with the red hair phenotype"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_012",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "We report the frequencies of MC1R variants in the British red haired population."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_013",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "The melanocortin 1 receptor (MC1R): more than just red hair."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_014",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": " Loss-of-function mutations at the MC1R are associated with a switch from eumelanin to phaeomelanin production, resulting in a red or yellow coat colour. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_015",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "The majority of red-heads (red-haired persons) are compound heterozygotes or homozygotes for up to five frequent loss-of-function mutations. A minority of redheads are, however, only heterozygote. The MC1R is, therefore, a major determinant of sun sensitivity and a genetic risk factor for melanoma and non-melanoma skin cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_016",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Altered cell surface expression of human MC1R variant receptor alleles associated with red hair and skin cancer risk."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_017",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "The human melanocortin-1 receptor gene (MC1R) encodes a G-protein coupled receptor that is primarily expressed on melanocytes, where it plays a key role in pigmentation regulation. Variant alleles are associated with red hair colour and fair skin, known as the RHC phenotype, as well as skin cancer risk."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_018",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Red hair is the null phenotype of MC1R."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_019",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "The MC1R gene has many polymorphisms, some of which have been linked to variation in pigmentation phenotypes within human populations. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_020",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "The association signals at the MC1R gene locus from CDH were uniformly more significant than traditional GWA analyses (the most significant P for CDH\u200a=\u200a3.11\u00d710\u207b\u00b9\u2074\u00b2 vs. P for rs258322\u200a=\u200a1.33\u00d710\u207b\u2076\u2076). The CDH test will contribute towards finding rare LOF variants in GWAS and sequencing studies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_021",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "The MC1R gene plays a crucial role in pigmentation synthesis. Loss-of-function MC1R variants, which impair protein function, are associated with red hair color (RHC) phenotype and increased skin cancer risk."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace19420340b9f05800000a_022",
+              "question": "Which gene is responsible for red hair?"
+            }
+          ],
+          "context": "Genetic analysis of melanocortin 1 receptor red hair color variants in a Russian population of Eastern Siberia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd5a62fcf4565872000031_001",
+              "question": "Which bacteria was EcoRI, restriction endonuclease isolated from?"
+            }
+          ],
+          "context": ". Among hundreds of restriction endonucleases, the Eco R1 enzyme is the most useful and widely investigated enzyme. After sonication and ultracentrifugation, crude extracts of E. coli RY 13 "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_001",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "We find that the power to reject ancient admixture might be particularly low if the population size of Homo sapiens was comparable to the Neanderthal population size."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_002",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "Our results indicate that 3.6% of the Neanderthal genome is shared with roughly 65.4% of the average European gene pool, which clinally diminishes with distance from Europe."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_003",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "Here, we present evidence of Neanderthal introgression within the chromosome 3p21.31 region, occurring with a high frequency in East Asians (ranging from 49.4% to 66.5%) and at a low frequency in Europeans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_004",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "This introgression was under positive natural selection, reached a frequency of>50%, and introduced a homocysteine level- and pigmentation-associated allele (rs460879-T) into East Asians. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_005",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "Hybridization between humans and Neanderthals has resulted in a low level of Neanderthal ancestry scattered across the genomes of many modern-day humans. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_006",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "This work suggests that differences in effective population size may play a far more important role in shaping levels of introgression than previously thought."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace1a590340b9f05800000b_007",
+              "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?"
+            }
+          ],
+          "context": "Approximately 2-4% of genetic material in human populations outside Africa is derived from Neanderthals who interbred with anatomically modern humans. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da59c4e03427e73000005_001",
+              "question": "What is PNPPP?"
+            }
+          ],
+          "context": " To study the impact of genetic and lifestyle factors on protein biomarkers and develop personally normalized plasma protein profiles (PNPPP) controlling for non-disease-related variance."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74eaa50384be955100000b_001",
+              "question": "What part of the body is affected by mesotheliomia?"
+            }
+          ],
+          "context": "Malignant pleural mesothelioma (MPM) is a rare and aggressive malignant disease"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74eaa50384be955100000b_002",
+              "question": "What part of the body is affected by mesotheliomia?"
+            }
+          ],
+          "context": "Malignant pleural mesothelioma (MPM) is a hard to treat malignancy arising from the mesothelial surface of the pleura."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aae6499fcf456587200000c_001",
+              "question": "What is BORSA?"
+            }
+          ],
+          "context": "Borderline oxacillin-resistant Staphylococcus aureus (BORSA)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aae6499fcf456587200000c_002",
+              "question": "What is BORSA?"
+            }
+          ],
+          "context": "Borderline oxacillin-resistant Staphylococcus aureus (BORSA)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aae6499fcf456587200000c_003",
+              "question": "What is BORSA?"
+            }
+          ],
+          "context": "borderline oxacillin-resistant S. aureus (BORSA)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e202bde7cb99d40000002_001",
+              "question": "Which method is Proseek based on?"
+            }
+          ],
+          "context": "We used proximity extension immunoassay (PEA, Proseek Multiplex, Olink) to assess the serum levels of ninety-two inflammation-related proteins in Czech patients with SLE (n\u00a0=\u00a075) and age-matched healthy control subjects (n\u00a0=\u00a023)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e202bde7cb99d40000002_002",
+              "question": "Which method is Proseek based on?"
+            }
+          ],
+          "context": "Using highly-sensitive Proximity Extension ImmunoAssay on 92 cancer biomarkers (Proseek"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aafc37afcf4565872000010_001",
+              "question": "What is the function of HDAC  proteins?"
+            }
+          ],
+          "context": "Histone deacetylases (HDACs) prevent the relaxation of chromatin, and positively or negatively regulate transcription. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aafc37afcf4565872000010_002",
+              "question": "What is the function of HDAC  proteins?"
+            }
+          ],
+          "context": "Histone deacetylases (HDACs) influence diverse cellular processes and may contribute to tumor development and progression by multiple mechanisms"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacd487fcf4565872000007_001",
+              "question": "Which human gene encode for DNA polymerase \u03b8?"
+            }
+          ],
+          "context": "DNA polymerase theta (pol \u03b8) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacd487fcf4565872000007_002",
+              "question": "Which human gene encode for DNA polymerase \u03b8?"
+            }
+          ],
+          "context": "DNA polymerase theta (pol \u03b8) is encoded in the genomes of many eukaryotes, though not in fungi. Pol \u03b8 is encoded by the POLQ gene in mammalian cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd2ce0fcf456587200002a_001",
+              "question": "Which are the two main bacterial phyla in human gut?"
+            }
+          ],
+          "context": "Out of thousands of bacterial species-level phylotypes inhabiting the human gut, the majority belong to two dominant phyla, the Bacteroidetes and Firmicutes"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd2ce0fcf456587200002a_002",
+              "question": "Which are the two main bacterial phyla in human gut?"
+            }
+          ],
+          "context": "the prevalence of some representative viable bacteria from the four dominant phyla (Firmicutes, Bacteroidetes, Proteobacteria, Actinobacteria) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad6e431133db5eb7800000e_001",
+              "question": "Which test is used for the definition of colour-blindness?"
+            }
+          ],
+          "context": "12 patients had color blindness based on the Ishihara test"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad6e431133db5eb7800000e_002",
+              "question": "Which test is used for the definition of colour-blindness?"
+            }
+          ],
+          "context": "Basque students (174 males and 218 females), using the Ishihara test cards (1987)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad6e431133db5eb7800000e_003",
+              "question": "Which test is used for the definition of colour-blindness?"
+            }
+          ],
+          "context": "The results obtained from male individuals by 919 Ishihara-tests were only considered, categorized and graphically represented according to their age groups."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad6e431133db5eb7800000e_004",
+              "question": "Which test is used for the definition of colour-blindness?"
+            }
+          ],
+          "context": "A cross-sectional descriptive and analytical study was conducted among 633 TUMS Clinical Laboratory Sciences' Students and Hospitals' Clinical Laboratories' Employees to detect color-blindness problems by Ishihara Test."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab1483bfcf4565872000014_001",
+              "question": "The common house cat, Felis silvestris catus and the domestic dog, Canis familiaris both belong to what taxonomic order?"
+            }
+          ],
+          "context": "domestic dogs and cats can be interpreted in terms of their descent from members of the order Carnivora."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf0b0fcf4565872000024_001",
+              "question": "What causes leishmaniasis?"
+            }
+          ],
+          "context": "we will focus on the shape and form ofLeishmaniaspp., a group of very successful protozoan parasites that cause a range of diseases from self-healing cutaneous leishmaniasis to visceral leishmaniasis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac138aa95d0062724000001_001",
+              "question": "Which is the enzymatic activity of nardilysin?"
+            }
+          ],
+          "context": "Nardilysin (N-arginine dibasic convertase; Nrdc) is a metalloendopeptidase of the M16 family that promotes ectodomain shedding of the precursor forms of various growth factors and cytokines by enhancing the protease activities of a disintegrin and metalloproteinase (ADAM) proteins."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac138aa95d0062724000001_002",
+              "question": "Which is the enzymatic activity of nardilysin?"
+            }
+          ],
+          "context": " nardilysin (N-arginine dibasic convertase;"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_001",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "A total of 92 biomarkers were measured before a standardized meal as well as 30 and 120 minutes afterwards with the Proseek Multiplex CVD III kit"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_002",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": " PROSEEK Multiplex CVD and PROSEEK Multiplex INF "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_003",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "A multiplex proximity extension assay allowed us to measure 157 cardiovascular disease (CVD) and inflammatory disease-related biomarkers in patients from the international, multicenter, and randomized trial;"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_004",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "Plasma concentrations of MMP12 were measured at baseline in 3394 subjects with high-risk for cardiovascular disease (CVD) using the Olink ProSeek CVD I array. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_005",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "The samples were analyzed with a multiplex proximity extension assay in which 92 inflammation-related proteins were measured simultaneously (Proseek Multiplex Inflammation I; Olink Bioscience, Uppsala, Sweden)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_006",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": " A total of 92 biomarkers were measured before a standardized meal as well as 30 and 120\u00a0min afterward with the Proseek Multiplex Neurology\u00a0I kit."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_007",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "We used proximity extension immunoassay (PEA, Proseek Multiplex, Olink) to assess the serum levels of ninety-two inflammation-related proteins in Czech patients with SLE (n\u00a0=\u00a075) and age-matched healthy control subjects (n\u00a0=\u00a023)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_008",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "Using highly-sensitive Proximity Extension ImmunoAssay on 92 cancer biomarkers (Proseek Multiplex, Olink),"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_009",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "This new technology (Proseek\u00aeMultiplex Oncology Plates) can simultaneously measure the expression of 92 proteins in serum based on a proximity extension assay."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_010",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "Levels of 82 proteins were assessed in plasma by a proximity extension assay (Proseek Multiplex CVD,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_011",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "92 inflammatory proteins were analysed with a multiplex system (Proseek Multiplex Inflammation I, Olink Bioscience)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_012",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": "erum concentrations of 92 inflammation-associated proteins were measured in samples obtained from 80 aHSCT patients 14\u00a0days after transplantation and from 23 healthy control subjects by a novel sensitive proximity extension assay technology using Proseek Multiplex Inflammation I kit. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d99ac4e03427e73000002_013",
+              "question": "What is measured with the Proseek panels?"
+            }
+          ],
+          "context": " Laboratory analyses were performed by Proximity Extension Assay (Proseek Multiplex CVD I(96 \u00d7 96)), ELISAs and RT-PCR."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

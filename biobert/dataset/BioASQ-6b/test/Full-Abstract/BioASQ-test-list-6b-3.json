@@ -1,0 +1,685 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Genomic regulatory blocks encompass multiple neighboring genes and maintain conserved synteny in vertebrates. We report evidence for a mechanism for the maintenance of long-range conserved synteny across vertebrate genomes. We found the largest mammal-teleost conserved chromosomal segments to be spanned by highly conserved noncoding elements (HCNEs), their developmental regulatory target genes, and phylogenetically and functionally unrelated \"bystander\" genes. Bystander genes are not specifically under the control of the regulatory elements that drive the target genes and are expressed in patterns that are different from those of the target genes. Reporter insertions distal to zebrafish developmental regulatory genes pax6.1/2, rx3, id1, and fgf8 and miRNA genes mirn9-1 and mirn9-5 recapitulate the expression patterns of these genes even if located inside or beyond bystander genes, suggesting that the regulatory domain of a developmental regulatory gene can extend into and beyond adjacent transcriptional units. We termed these chromosomal segments genomic regulatory blocks (GRBs). After whole genome duplication in teleosts, GRBs, including HCNEs and target genes, were often maintained in both copies, while bystander genes were typically lost from one GRB, strongly suggesting that evolutionary pressure acts to keep the single-copy GRBs of higher vertebrates intact. We show that loss of bystander genes and other mutational events suffered by duplicated GRBs in teleost genomes permits target gene identification and HCNE/target gene assignment. These findings explain the absence of evolutionary breakpoints from large vertebrate chromosomal segments and will aid in the recognition of position effect mutations within human GRBs.", 
+          "qas": [
+            {
+              "question": "Which are the constitutive parts of a Genomic Regulatory Block (GRB)?", 
+              "id": "5a6a2dcab750ff4455000023_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Inhibition of coactivator-associated arginine methyltransferase 1 modulates dendritic arborization and spine maturation of cultured hippocampal neurons. An improved understanding of the molecular mechanisms in synapse formation provides insight into both learning and memory and the etiology of neurodegenerative disorders. Coactivator-associated arginine methyltransferase 1 (CARM1) is a protein methyltransferase that negatively regulates synaptic gene expression and inhibits neuronal differentiation. Despite its regulatory function in neurons, little is known about the CARM1 cellular location and its role in dendritic maturation and synapse formation. Here, we examined the effects of CARM1 inhibition on dendritic spine and synapse morphology in the rat hippocampus. CARM1 was localized in hippocampal post-synapses, with immunocytochemistry and electron microscopy revealing co-localization of CARM1 with post-synaptic density (PSD)-95 protein, a post-synaptic marker. Specific siRNA-mediated suppression of CARM1 expression resulted in precocious dendritic maturation, with increased spine width and density at sites along dendrites and induction of mushroom-type spines. These changes were accompanied by a striking increase in the cluster size and number of key synaptic proteins, including N-methyl-d-aspartate receptor subunit 2B (NR2B) and PSD-95. Similarly, pharmacological inhibition of CARM1 activity with the CARM1-specific inhibitor AMI-1 significantly increased spine width and mushroom-type spines and also increased the cluster size and number of NR2B and cluster size of PSD-95. These results suggest that CARM1 is a post-synaptic protein that plays roles in dendritic maturation and synaptic formation and that spatiotemporal regulation of CARM1 activity modulates neuronal connectivity and improves synaptic dysfunction.", 
+          "qas": [
+            {
+              "question": "List the two most important synaptic markers.", 
+              "id": "5a8861eb8cb19eca6b000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Long-term hippocampal glutamate synapse and astrocyte dysfunctions underlying the altered phenotype induced by adolescent THC treatment in male rats. Cannabis use has been frequently associated with sex-dependent effects on brain and behavior. We previously demonstrated that adult female rats exposed to delta-9-tetrahydrocannabinol (THC) during adolescence develop long-term alterations in cognitive performances and emotional reactivity, whereas preliminary evidence suggests the presence of a different phenotype in male rats. To thoroughly depict the behavioral phenotype induced by adolescent THC exposure in male rats, we treated adolescent animals with increasing doses of THC twice a day (PND 35-45) and, at adulthood, we performed a battery of behavioral tests to measure affective- and psychotic-like symptoms as well as cognition. Poorer memory performance and psychotic-like behaviors were present after adolescent THC treatment in male rats, without alterations in the emotional component. At cellular level, the expression of the NMDA receptor subunit, GluN2B, as well as the levels of the AMPA subunits, GluA1 and GluA2, were significantly increased in hippocampal post-synaptic fractions from THC-exposed rats compared to controls. Furthermore, increases in the levels of the pre-synaptic marker, synaptophysin, and the post-synaptic marker, PSD95, were also present. Interestingly, KCl-induced [(3)H]D-ASP release from hippocampal synaptosomes, but not gliosomes, was significantly enhanced in THC-treated rats compared to controls. Moreover, in the same brain region, adolescent THC treatment also resulted in a persistent neuroinflammatory state, characterized by increased expression of the astrocyte marker, GFAP, increased levels of the pro-inflammatory markers, TNF-\u03b1, iNOS and COX-2, as well as a concomitant reduction of the anti-inflammatory cytokine, IL-10. Notably, none of these alterations was observed in the prefrontal cortex (PFC). Together with our previous findings in females, these data suggest that the sex-dependent detrimental effects induced by adolescent THC exposure on adult behavior may rely on its ability to trigger different region-dependent changes in glutamate synapse and glial cells. The phenotype observed in males is mainly associated with marked dysregulations in the hippocampus, whereas the prevalence of alterations in the emotional sphere in females is associated with profound changes in the PFC.", 
+          "qas": [
+            {
+              "question": "List the two most important synaptic markers.", 
+              "id": "5a8861eb8cb19eca6b000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Stress-altered synaptic plasticity and DAMP signaling in the hippocampus-PFC axis; elucidating the significance of IGF-1/IGF-1R/CaMKII\u03b1 expression in neural changes associated with a prolonged exposure therapy. Traumatic stress patients showed significant improvement in behavior after a prolonged exposure to an unrelated stimulus. This treatment method attempts to promote extinction of the fear memory associated with the initial traumatic experience. However, the subsequent prolonged exposure to such stimulus creates an additional layer of neural stress. Although the mechanism remains unclear, prolonged exposure therapy (PET) likely involves changes in synaptic plasticity, neurotransmitter function and inflammation; especially in parts of the brain concerned with the formation and retrieval of fear memory (Hippocampus and Prefrontal Cortex: PFC). Since certain synaptic proteins are also involved in danger-associated molecular pattern signaling (DAMP), we identified the significance of IGF-1/IGF-1R/CaMKII\u03b1 expression as a potential link between the concurrent progression of synaptic and inflammatory changes in stress. Thus, a comparison between IGF-1/IGF-1R/CaMKII\u03b1, synaptic and DAMP proteins in stress and PET may highlight the significance of PET on synaptic morphology and neuronal inflammatory response. In behaviorally characterized Sprague-Dawley rats, there was a significant decline in neural IGF-1 (p<0.001), hippocampal (p<0.001) and cortical (p<0.05) IGF-1R expression. These animals showed a significant loss of presynaptic markers (synaptophysin; p<0.001), and changes in neurotransmitters (VGLUT2, Tyrosine hydroxylase, GABA, ChAT). Furthermore, na\u00efve stressed rats recorded a significant decrease in post-synaptic marker (PSD-95; p<0.01) and synaptic regulator (CaMKII\u03b1; p<0.001). As part of the synaptic response to a decrease in brain CaMKII\u03b1, small ion conductance channel (KCa2.2) was upregulated in the brain of na\u00efve stressed rats (p<0.01). After a PET, an increase in IGF-1 (p<0.05) and IGF-1R was recorded in the Stress-PET group (p<0.001). As such, hippocampal (p<0.001), but not cortical (ns) synaptophysin expression increased in Stress-PET. Although PSD-95 was relatively unchanged in the hippocampus and PFC, CaMKII\u03b1 (p<0.001) and KCa2.2 (p<0.01) were upregulated in Stress-PET, and may be involved in extinction of fear memory-related synaptic potentials. These changes were also associated with a normalized neurotransmitter function, and a significant reduction in open space avoidance; when the animals were assessed in elevated plus maze (EPM). In addition to a decrease in IGF-1/IGF-1R, an increase in activated hippocampal and cortical microglia was seen in stress (p<0.05) and after a PET (Stress-PET; p<0.001). Furthermore, this was linked with a significant increase in HMGB1 (Hippocampus: p<0.001, PFC: p<0.05) and TLR4 expression (Hippocampus: p<0.01; PFC: ns) in the neurons. Taken together, this study showed that traumatic stress and subsequent PET involves an event-dependent alteration of IGF1/IGF-1R/CaMKII\u03b1. Firstly, we showed a direct relationship between IGF-1/IGF-1R expression, presynaptic function (synaptophysin) and neurotransmitter activity in stress and PET. Secondly, we identified the possible role of CaMKII\u03b1 in post-synaptic function and regulation of small ion conductance channels. Lastly, we highlighted some of the possible links between IGF1/IGF-1R/CaMKII\u03b1, the expression of DAMP proteins, Microglia activation, and its implication on synaptic plasticity during stress and PET.", 
+          "qas": [
+            {
+              "question": "List the two most important synaptic markers.", 
+              "id": "5a8861eb8cb19eca6b000001_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Anesthesia/Surgery Induces Cognitive Impairment in Female Alzheimer's Disease Transgenic Mice. Anesthesia and/or surgery may promote Alzheimer's disease (AD) by accelerating its neuropathogenesis. Other studies showed different findings. However, the potential sex difference among these studies has not been well considered, and it is unknown whether male or female AD patients are more vulnerable to develop postoperative cognitive dysfunction. We therefore set out to perform a proof of concept study to determine whether anesthesia and surgery can have different effects in male and female AD transgenic (Tg) mice, and in female AD Tg plus Cyclophilin D knockout (CypD KO) mice. The mice received an abdominal surgery under sevoflurane anesthesia (anesthesia/surgery). Fear Conditioning System (FCS) was used to assess the cognitive function. Hippocampal levels of synaptic marker postsynaptic density 95 (PSD-95) and synaptophysin (SVP) were measured using western blot analysis. Here we showed that the anesthesia/surgery decreased the freezing time in context test of FCS at 7 days after the anesthesia/surgery in female, but not male, mice. The anesthesia/surgery reduced hippocampus levels of synaptic marker PSD-95 and SVP in female, but not male, mice. The anesthesia/surgery induced neither reduction in freezing time in FCS nor decreased hippocampus levels of PSD-95 and SVP in the AD Tg plus CypD KO mice. These data suggest that the anesthesia/surgery induced a sex-dependent cognitive impairment and reduction in hippocampus levels of synaptic markers in AD Tg mice, potentially via a mitochondria-associated mechanism. These findings could promote clinical investigations to determine whether female AD patients are more vulnerable to the development of postoperative cognitive dysfunction.", 
+          "qas": [
+            {
+              "question": "List the two most important synaptic markers.", 
+              "id": "5a8861eb8cb19eca6b000001_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Neuronally-directed effects of RXR activation in a mouse model of Alzheimer's disease. Alzheimer's disease (AD) is characterized by extensive neuron loss that accompanies profound impairments in memory and cognition. We examined the neuronally directed effects of the retinoid X receptor agonist bexarotene in an aggressive model of AD. We report that a two week treatment of 3.5 month old 5XFAD mice with bexarotene resulted in the clearance of intraneuronal amyloid deposits. Importantly, neuronal loss was attenuated by 44% in the subiculum in mice 4 months of age and 18% in layer V of the cortex in mice 8 months of age. Moreover, bexarotene treatment improved remote memory stabilization in fear conditioned mice and improved olfactory cross habituation. These improvements in neuron viability and function were correlated with significant increases in the levels of post-synaptic marker PSD95 and the pre-synaptic marker synaptophysin. Moreover, bexarotene pretreatment improved neuron survival in primary 5XFAD neurons in vitro in response to glutamate-induced excitotoxicity. The salutary effects of bexarotene were accompanied by reduced plaque burden, decreased astrogliosis, and suppression of inflammatory gene expression. Collectively, these data provide evidence that bexarotene treatment reduced neuron loss, elevated levels of markers of synaptic integrity that was linked to improved cognition and in an aggressive model of AD.", 
+          "qas": [
+            {
+              "question": "List the two most important synaptic markers.", 
+              "id": "5a8861eb8cb19eca6b000001_004"
+            }
+          ]
+        }, 
+        {
+          "context": "[Morphological findings in Zieve's syndrome (author's transl)]. The macroscopic and microscopic findings of a case of Zieve's syndrome are described (fatty liver, icterus, hyperlipemia and hemolytic anemia in chronic alcoholism). The outstanding macroscopic finding is milky turbidity of the blood in arterial and venous vascular channels as well as hepatomegaly and anaemia of internal organs. A prominent feature of the histological picture is the high-grade lipaemia of the large and small vessels (arteries and veins), capillary occlusions resembling fat embolism in all organs and severe diffuse fatty metamorphosis of the liver. Circulatory disorders and the cause of death are discussed.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Zieve's syndrome a potential surgical pitfall? Zieve's syndrome consists of transient haemolytic anaemic, jaundice, hyperlipidaemia and alcohol-induced liver disease. It is rare with less than 75 cases reported in a Medicine literature search from 1966. It can present acutely with abdominal pain.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Hemolysis in Acute Alcoholic Hepatitis: Zieve's Syndrome. A 45-year-old man presented with acute alcoholic hepatitis, jaundice, and anemia on admission. There was no history of bleeding or any evidence of gastrointestinal blood loss. Lab studies revealed hemolysis as the cause of anemia. The patient was diagnosed with Zieve's syndrome and managed with supportive measures. He recovered well and was discharged to a detoxification unit in a stable condition. Zieve's syndrome has been described in literature, mostly in non-English language case studies, but is largely under-recognized and under-reported. Diagnosis should be made quickly to avoid unnecessary invasive diagnostic interventions.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[Changes of erythrocyte membrane lipids in ethanol induced hyperlipidemia (Zieve's syndrome) (author's transl)]. In 11 patients with alcohol-induced hyperlipemia, of whom 6 showed a Zieve Syndrome increased phospholipids, triglycerides and total cholesterol were found in the red cells stromal. The gasliquid chromatographic analysis of the phospholipid fatty acids showed increased contents of saturated and monounsaturated fatty acids C 16-C 18 smaller contents of longchain highly unsaturated fatty acids. The changes in the fatty acid pattern mainly occurred in patients with Zieve Syndrome and could be important for the mechanism of the hemolytic anemia. Theses findings could be in connexion with vitamin E deficiency.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[Zieve's syndrome and acute alcoholic hepatitis (author's transl)]. Zieve's syndrome, characterized by jaundice, hyperlipaemia and haemolytic anaemia, usually develops in young, chronically alcoholic subjects with enlarged fatty liver. Hitherto, the course of the disease was considered favourable in most patients, with complete regression of clinical, biological and anatomical symptoms. However, the discovery of acute alcoholic hepatitis during repeat needle-biopsy of the liver confirms that in some cases steatosis may mask hyaline necrosis and neutrophil infiltration. Zieve's syndrome therefore is not benign but precedes acute alcoholic hepatitis episodes on a normal, fibrotic or cirrhotic liver.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_004"
+            }
+          ]
+        }, 
+        {
+          "context": "[Zieve's syndrome. Case report]. The Zieve's syndrome consists of the transient association of cholestatic jaundice, hemolytic anemia, hyperlipemia, in a chronic alcoholic. The Authors, after a short introduction regarding physiopathological problems, describe and subsequently examine on the clinical ground a recent personal observation, which had been mentioned for the rarene-s of this disease.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_005"
+            }
+          ]
+        }, 
+        {
+          "context": "[Recurrent Zieve's syndrome: a case report]. We report a case of recurrent Zieve's syndrome, consisting of jaundice, hemolytic anemia and hyperlipoproteinemia, initiated by alcohol abuse. The crucial feature of this syndrome, which allows differentiation with common acute alcoholic hepatitis, is the presence of hemolysis. There is no specific treatment, and restraining from alcohol consumption remains the basic prophylactic measure.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Alcohol-associated haemolysis in Zieve's syndrome: a clinical and laboratory study of five cases. In 1958 Zieve described a syndrome of jaundice, hyperlipidaemia, and transient haemolytic anaemia associated with alcohol abuse. The clinical and laboratory features of five cases are reviewed. All patients presented with acute abdominal pain and fever. Four had a history of a recent alcohol binge. Hyperlipidaemia was present in two patients; this subsided before the onset of haemolysis. The red cells showed features of an acquired pyruvate kinase deficiency: an increased autohaemolysis with only partial correction with glucose, low red cell ATP, and instability of pyruvate kinase when haemolysate was heated to 55 degrees C. These changes were not observed in a control group of chronic alcoholics without haemolysis.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Hyperbilirubinaemia and haemolytic anaemia in acute alcoholic hepatitis: there's oil in them thar veins. A Caucasian woman in her late 30s was evaluated after a period of binge drinking and found to have hyperbilirubinaemia for which she was referred for consideration of cholecystectomy. After exclusion of other possibilities, Zieve's syndrome was diagnosed. This is a condition of hyperbilirubinaemia, Coombs' negative haemolytic anaemia and hyperlipidaemia associated with alcoholism. Abstinence from alcohol remains the only known effective treatment, and appreciation of the entity can prevent unnecessary biliary procedures. The patient improved with supportive measures and was discharged in stable condition.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Red cell metabolism in transient haemolytic anaemia associated with Zieve's syndrome. Reversible haemolytic anaemia associated with decreased red cell half-life and reticulocytosis was studied in 10 patients with Zieve's syndrome. Since the underlying cause of the red cell destruction is as yet unknown, we determined the critical metabolic functions of the red cells in order to define the assumed intracorpuscular defect causing haemolysis. The glucose metabolizing enzymes had normal or raised values. - In view of the diminished ATP and raised 2,3-diphosphoglycerate (2.3 DPG) levels - a combination which suggests a pyruvate kinase (PK) deficiency - additional procedures were carried out in order to detect an abnormal activity of the red cell PK. Studies of biochemical properties of PK such as thermostability, Michaelis-Menten constants, and activation and inhibition tests brought results markedly deviating from the norm.-Fractions containing old cells particularly disclosed PK instability. A defective red cell matabolism resulted which was measurable through ATP-instability, altered glucose utilization and lactate production. - Experimental cell aging procedures led to a markedly decreased red cell metabolism. These assays revealed that mutations of PK-control mechanisms might be involved as factor triggering haemolytic anaemia of Zieve's syndrome.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_009"
+            }
+          ]
+        }, 
+        {
+          "context": "Zieve's syndrome and intracranial haemorrhage: coincidence or related disorders. Zieve's syndrome (hyperlipidaemia, anaemia and fatty liver degeneration) may rarely occur with intracranial haemorrhage. Four patients suffering from both diseases are reported. Although it remains unclear whether there is a causal relationship between the two, it seems that hyperlipidaemia may be a major cause of intracranial bleeding. One reason for the small number of reported cases may be that hyperlipidaemic serum levels rapidly decrease after alcohol withdrawal.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_010"
+            }
+          ]
+        }, 
+        {
+          "context": "Red cell metabolic and membrane features in haemolytic anaemia of alcoholic liver disease (Zieve's syndrome). Zieve's syndrome (ZS), which consists of transient haemolytic anaemia, jaundice, hyperlipoproteinaemia, and alcohol-induced liver disease, was studied in male patients during the acute (n = 20) and the remittent (n = 10) phase. Chronic alcoholics (n = 10) without haemolysis and healthy male persons (n = 10) served as controls. Erythrocytes were separated into old and young cells by means of density-layer centrifugation. Those fractions which contained older red cells disclosed a pyruvate-kinase instability which resulted in impaired metabolism. Changes in membrane lipid composition as indicated by increased cholesterol and polyunsaturated fatty acids (PUFA) were also detected in patients during the acute phase of ZS. Alcohol-induced red-cell vitamin-E deficiency with a decrease in PUFA levels may provoke an oxidation of reduced red-cell glutathione which in turn results in the enzyme instability. This study lends further support to the hypothesis that the putative role of the red-cell metabolic injury in the origin of haemolysis in ZS cannot be envisaged without introducing membrane-linked and extracellular cofactors.", 
+          "qas": [
+            {
+              "question": "List symptoms of the Zieve's syndrome.", 
+              "id": "5a75ee7e83b0d9ea66000005_011"
+            }
+          ]
+        }, 
+        {
+          "context": "signeR: an empirical Bayesian approach to mutational signature discovery. MOTIVATION: Mutational signatures can be used to understand cancer origins and provide a unique opportunity to group tumor types that share the same origins and result from similar processes. These signatures have been identified from high throughput sequencing data generated from cancer genomes by using non-negative matrix factorisation (NMF) techniques. Current methods based on optimization techniques are strongly sensitive to initial conditions due to high dimensionality and nonconvexity of the NMF paradigm. In this context, an important question consists in the determination of the actual number of signatures that best represent the data. The extraction of mutational signatures from high-throughput data still remains a daunting task. RESULTS: Here we present a new method for the statistical estimation of mutational signatures based on an empirical Bayesian treatment of the NMF model. While requiring minimal intervention from the user, our method addresses the determination of the number of signatures directly as a model selection problem. In addition, we introduce two new concepts of significant clinical relevance for evaluating the mutational profile. The advantages brought by our approach are shown by the analysis of real and synthetic data. The later is used to compare our approach against two alternative methods mostly used in the literature and with the same NMF parametrization as the one considered here. Our approach is robust to initial conditions and more accurate than competing alternatives. It also estimates the correct number of signatures even when other methods fail. Results on real data agree well with current knowledge. AVAILABILITY AND IMPLEMENTATION: signeR is implemented in R and C ++, and is available as a R package at http://bioconductor.org/packages/signeR CONTACT: itojal@cipe.accamargo.org.brSupplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?", 
+              "id": "5a7636d39e632bc066000004_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Detecting presence of mutational signatures in cancer with confidence. Motivation: Cancers arise as the result of somatically acquired changes in the DNA of cancer cells. However, in addition to the mutations that confer a growth advantage, cancer genomes accumulate a large number of somatic mutations resulting from normal DNA damage and repair processes as well as carcinogenic exposures or cancer related aberrations of DNA maintenance machinery. These mutagenic processes often produce characteristic mutational patterns called mutational signatures. The decomposition of a cancer genome's mutation catalog into mutations consistent with such signatures can provide valuable information about cancer etiology. However, the results from different decomposition methods are not always consistent. Hence, one needs to be able to not only decompose a patient's mutational profile into signatures but also establish the accuracy of such decomposition. Results: We proposed two complementary ways of measuring confidence and stability of decomposition results and applied them to analyze mutational signatures in breast cancer genomes. We identified both very stable and highly unstable signatures, as well as signatures that previously have not been associated with breast cancer. We also provided additional support for the novel signatures. Our results emphasize the importance of assessing the confidence and stability of inferred signature contributions. Availability: All tools developed in this paper have been implemented in an R package, called SignatureEstimation, which is available from https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#signatureestimation. Contact: wojtowda@ncbi.nlm.nih.gov (D.W.), przytyck@ncbi.nlm.nih.gov (T.M.P.). Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?", 
+              "id": "5a7636d39e632bc066000004_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A Simple Model-Based Approach to Inferring and Visualizing Cancer Mutation Signatures. Recent advances in sequencing technologies have enabled the production of massive amounts of data on somatic mutations from cancer genomes. These data have led to the detection of characteristic patterns of somatic mutations or \"mutation signatures\" at an unprecedented resolution, with the potential for new insights into the causes and mechanisms of tumorigenesis. Here we present new methods for modelling, identifying and visualizing such mutation signatures. Our methods greatly simplify mutation signature models compared with existing approaches, reducing the number of parameters by orders of magnitude even while increasing the contextual factors (e.g. the number of flanking bases) that are accounted for. This improves both sensitivity and robustness of inferred signatures. We also provide a new intuitive way to visualize the signatures, analogous to the use of sequence logos to visualize transcription factor binding sites. We illustrate our new method on somatic mutation data from urothelial carcinoma of the upper urinary tract, and a larger dataset from 30 diverse cancer types. The results illustrate several important features of our methods, including the ability of our new visualization tool to clearly highlight the key features of each signature, the improved robustness of signature inferences from small sample sizes, and more detailed inference of signature characteristics such as strand biases and sequence context effects at the base two positions 5' to the mutated site. The overall framework of our work is based on probabilistic models that are closely connected with \"mixed-membership models\" which are widely used in population genetic admixture analysis, and in machine learning for document clustering. We argue that recognizing these relationships should help improve understanding of mutation signature extraction problems, and suggests ways to further improve the statistical methods. Our methods are implemented in an R package pmsignature (https://github.com/friend1ws/pmsignature) and a web application available at https://friend1ws.shinyapps.io/pmsignature_shiny/.", 
+          "qas": [
+            {
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?", 
+              "id": "5a7636d39e632bc066000004_002"
+            }
+          ]
+        }, 
+        {
+          "context": "SomaticSignatures: inferring mutational signatures from single-nucleotide variants. UNLABELLED: Mutational signatures are patterns in the occurrence of somatic single-nucleotide variants that can reflect underlying mutational processes. The SomaticSignatures package provides flexible, interoperable and easy-to-use tools that identify such signatures in cancer sequencing data. It facilitates large-scale, cross-dataset estimation of mutational signatures, implements existing methods for pattern decomposition, supports extension through user-defined approaches and integrates with existing Bioconductor workflows. AVAILABILITY AND IMPLEMENTATION: The R package SomaticSignatures is available as part of the Bioconductor project. Its documentation provides additional details on the methods and demonstrates applications to biological datasets. CONTACT: julian.gehring@embl.de, whuber@embl.de SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which R packages have been developed for the discovery of mutational signatures in cancer?", 
+              "id": "5a7636d39e632bc066000004_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Risk factor clusters for metabolic syndrome in coronary heart disease: state of the science. Metabolic syndrome, defined as a cluster of obesity, hypertension, dyslipidemia, and insulin resistance/glucose intolerance, has been identified as a major risk factor for coronary heart disease in women. Nurses should increase their awareness of metabolic syndrome to help identify and treat the current estimated 47 million US residents who have metabolic syndrome.", 
+          "qas": [
+            {
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.", 
+              "id": "5a981e66fcd1d6a10c00002f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Metabolic Syndrome and Nephrolithiasis Risk: Should the Medical Management of Nephrolithiasis Include the Treatment of Metabolic Syndrome? This article reviews the relationship between metabolic syndrome (MetS) and nephrolithiasis, as well as the clinical implications for patients with this dual diagnosis. MetS, estimated to affect 25% of adults in the United States, is associated with a fivefold increase in the risk of developing diabetes, a doubling of the risk of acquiring cardiovascular disease, and an increase in overall mortality. Defined as a syndrome, MetS is recognized clinically by numerous constitutive traits, including abdominal obesity, hypertension, dyslipidemia (elevated triglycerides, low high-density lipoprotein cholesterol), and hyperglycemia. Urologic complications of MetS include a 30% higher risk of nephrolithiasis, with an increased percentage of uric acid nephrolithiasis in the setting of hyperuricemia, hyperuricosuria, low urine pH, and low urinary volume. Current American Urological Association and European Association of Urology guidelines suggest investigating the etiology of nephrolithiasis in affected individuals; however, there is no specific goal of treating MetS as part of the medical management. Weight loss and exercise, the main lifestyle treatments of MetS, counter abdominal obesity and insulin resistance and reduce the incidence of cardiovascular events and the development of diabetes. These recommendations may offer a beneficial adjunctive treatment option for nephrolithiasis complicated by MetS. Although definitive therapeutic recommendations must await further studies, it seems both reasonable and justifiable for the urologist, as part of a multidisciplinary team, to recommend these important lifestyle changes to patients with both conditions. These recommendations should accompany the currently accepted management of nephrolithiasis.", 
+          "qas": [
+            {
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.", 
+              "id": "5a981e66fcd1d6a10c00002f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Metabolic Syndrome: Insulin Resistance and Prediabetes. Metabolic syndrome is a cluster of conditions that synergistically increase the risk of cardiovascular disease, type 2 diabetes, and premature mortality. The components are abdominal obesity, impaired glucose metabolism, dyslipidemia, and hypertension. Prediabetes, which is a combination of excess body fat and insulin resistance, is considered an underlying etiology of metabolic syndrome. Prediabetes manifests as impaired fasting glucose and/or impaired glucose tolerance. Impaired fasting glucose is defined as a fasting blood glucose level of 100 to 125 mg/dL; impaired glucose tolerance requires a blood glucose level of 140 to 199 mg/dL 2 hours after a 75-g oral intake of glucose. In patients with prediabetes, the rate of progression to diabetes within 3 years can be decreased by approximately 58% with lifestyle modifications. These include weight loss through exercise (30 minutes or more of moderate physical activity on most, preferably all, days of the week) and dietary modifications. Recommended diets are high in fruits, vegetables, whole grains, and fish. Consumption of sweetened beverages, including diet soda, should be avoided. For patients who do not achieve goals with lifestyle modifications, metformin can be considered. Weight loss drugs and bariatric surgery are appropriate for select patients. Hypertension and dyslipidemia should be managed according to current guidelines.", 
+          "qas": [
+            {
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.", 
+              "id": "5a981e66fcd1d6a10c00002f_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Prevalence of metabolic syndrome in patients undergoing total joint arthroplasty and relevance of biomarkers. BACKGROUND: Metabolic syndrome (MetS) is a collection of clinical conditions, including central obesity, hypertension, glucose intolerance and dyslipidemia. The long-term inflammatory and metabolic dysfunction associated with MetS may contribute to osteoarthritic processes leading up to total joint arthroplasty (TJA). The purpose of this study was to investigate levels of metabolic biomarkers and the prevalence of MetS in patients undergoing TJA. METHODS: Under IRB approval, citrated plasma samples were collected from 41 patients undergoing total hip and knee arthroplasty (THA/TKA) preoperatively and day 1 postoperatively. Control group consisted of 25 healthy human plasma samples (female and male, 18-35 years old) purchased from George King Biomedical Inc. (Overland Park, KS, USA). Samples were profiled for c-peptide, ferritin, IL-6, insulin, resistin, TNF-\u03b1, IL-1a, leptin, and PAI-1 using metabolic biochips purchased from RANDOX Co. (Antrim, Northern Ireland). NCEP/ATP III guidelines were used to evaluate which patients met MetS criteria. RESULTS: Levels of IL-6, resistin, TNF-a, IL-1a, leptin, and PAI-1 were significantly elevated in patients undergoing TJA compared to normal. C-peptide and insulin were both decreased in TJA compared to normal. No significance was found when comparing TJA to normal for ferritin. TNF\u03b1 was significantly lower in TJA+MetS compared to TJA-MetS, while other biomarkers showed no difference in TJA\u00b1MetS populations. Insulin & c-peptide both showed a significant decrease in TJA-MetS compared to normal, but levels in TJA+MetS patients were not significantly different from controls. Resistin showed significant increases in TJA+MetS vs. normal, but not in TJA-MetS vs. normal. CONCLUSIONS: Overall, the differing metabolic profile seen in patients undergoing TJA suggest ongoing metabolic dysfunction. Insulin and c-peptide patterns among the different test groups hint toward a complex and dysfunctional metabolic process involved, with leptin and underlying insulin resistance playing a role. Increased resistin in TJA+MetS, but not in TJA-MetS, compared to normal, suggests that while elevated resistin levels may be associated with the osteoarthritic process, levels are further attenuated by MetS, which is highly prevalent in this population. Increased TNF\u03b1 in TJA-MetS compared to TJA+MetS may be an artifact of differing sample populations or a true complication of the complex pathophysiology and medical regimen seen in patients with both OA and MetS. The lack of difference seen in the remaining biomarkers suggest that having MetS as a comorbidity does not contribute to the elevated levels seen in patients undergoing TJA.", 
+          "qas": [
+            {
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.", 
+              "id": "5a981e66fcd1d6a10c00002f_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Guidelines updates in the treatment of obesity or metabolic syndrome and hypertension. Obesity and overweight are nowadays very prevalent worldwide. They are known to be linked with an increased risk of developing cardiovascular comorbidities and mortality. Abdominal obesity is frequently associated with a collection of metabolic disorders that include elevated blood pressure, characteristic lipid abnormalities (low high-density lipoprotein cholesterol and high triglycerides) and increased fasting glucose, with an underlying situation of insulin resistance, which has been defined as metabolic syndrome, conferring a high cardiovascular risk profile to these subjects. A multidisciplinary approach is required, including lifestyle changes and pharmacological and surgical approaches. Intensive management of all the risk factors of the metabolic syndrome is also needed to reduce body weight and waist circumference, lessen insulin resistance and avoid the development of new-onset diabetes and cardiovascular disease associated with this entity. This article will review the recently published literature and guideline updates on this topic, although it is not yet included in the highlights.", 
+          "qas": [
+            {
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.", 
+              "id": "5a981e66fcd1d6a10c00002f_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Prevalence and Correlates of Metabolic Syndrome in Chinese Children: The China Health and Nutrition Survey. Metabolic syndrome (MetS) is generally defined as a cluster of metabolically related cardiovascular risk factors which are often associated with the condition of insulin resistance, elevated blood pressure, and abdominal obesity. During the past decades, MetS has become a major public health issue worldwide in both adults and children. In this study, data from the China Health and Nutrition Surveys (CHNS) was used to assess the prevalence of MetS based on both the National Cholesterol Education Program Adult Treatment Panel III (NCEP-ATPIII) guidelines and the International Diabetes Federation (IDF) criteria, and to evaluate its possible correlates. A total of 831 children aged 7-18 years were included in this study, and 28 children were classified as having MetS as defined by the modified NCEP-ATPIII definition, which yielded an overall prevalence of 3.37%. Elevated blood pressure was the most frequent MetS component. The results of logistic regression models revealed that increased body mass index (BMI), hyperuricemia, and insulin resistance (IR) were all associated with the presence of MetS. To conclude, our study revealed the prevalence of MetS in Chinese children at the national level. Further large-scale studies are still needed to identify better MetS criteria in the general paediatric population in China.", 
+          "qas": [
+            {
+              "question": "According to guidelines, insulin resistance is one risk factor in the diagnosis of metabolic syndrome, name 3 more risk factors.", 
+              "id": "5a981e66fcd1d6a10c00002f_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Misdiagnosis of HIV infection during a South African community-based survey: implications for rapid HIV testing. INTRODUCTION: We describe the overall accuracy and performance of a serial rapid HIV testing algorithm used in community-based HIV testing in the context of a population-based household survey conducted in two sub-districts of uMgungundlovu district, KwaZulu-Natal, South Africa, against reference fourth-generation HIV-1/2 antibody and p24 antigen combination immunoassays. We discuss implications of the findings on rapid HIV testing programmes. METHODS: Cross-sectional design: Following enrolment into the survey, questionnaires were administered to eligible and consenting participants in order to obtain demographic and HIV-related data. Peripheral blood samples were collected for HIV-related testing. Participants were offered community-based HIV testing in the home by trained field workers using a serial algorithm with two rapid diagnostic tests (RDTs) in series. In the laboratory, reference HIV testing was conducted using two fourth-generation immunoassays with all positives in the confirmatory test considered true positives. Accuracy, sensitivity, specificity, positive predictive value, negative predictive value and false-positive and false-negative rates were determined. RESULTS: Of 10,236 individuals enrolled in the survey, 3740 were tested in the home (median age 24\u00a0years (interquartile range 19-31\u00a0years), 42.1% males and HIV positivity on RDT algorithm 8.0%). From those tested, 3729 (99.7%) had a definitive RDT result as well as a laboratory immunoassay result. The overall accuracy of the RDT when compared to the fourth-generation immunoassays was 98.8% (95% confidence interval (CI) 98.5-99.2). The sensitivity, specificity, positive predictive value and negative predictive value were 91.1% (95% CI 87.5-93.7), 99.9% (95% CI 99.8-100), 99.3% (95% CI 97.4-99.8) and 99.1% (95% CI 98.8-99.4) respectively. The false-positive and false-negative rates were 0.06% (95% CI 0.01-0.24) and 8.9% (95% CI 6.3-12.53). Compared to true positives, false negatives were more likely to be recently infected on limited antigen avidity assay and to report antiretroviral therapy (ART) use. CONCLUSIONS: The overall accuracy of the RDT algorithm was high. However, there were few false positives, and the sensitivity was lower than expected with high false negatives, despite implementation of quality assurance measures. False negatives were associated with recent (early) infection and ART exposure. The RDT algorithm was able to correctly identify the majority of HIV infections in community-based HIV testing. Messaging on the potential for false positives and false negatives should be included in these programmes.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Relevance of cutoff on a 4th generation ELISA performance in the false positive rate during HIV diagnostic in a low HIV prevalence setting. BACKGROUND: Despite the high specificity of fourth-generation enzyme immunoassays (4th-gen-EIA) for screening during HIV diagnosis, their positive predictive value is low in populations with low HIV prevalence. Thus, screening should be optimized to reduce false positive results. OBJECTIVES: The influence of sample cutoff (S/CO) values by a 4th-gen-EIA with the false positive rate during the routine HIV diagnosis in a low HIV prevalence population was evaluated. STUDY DESIGN: A total of 30,201 sera were tested for HIV diagnosis using Abbott Architect HIV-Ag/Ab-Combo 4th-gen-EIA at a hospital in Spain during 17 months. Architect S/CO values were recorded, comparing the HIV-1 positive results following Architect interpretation (S/CO > 1) with the final HIV-1 diagnosis by confirmatory tests (line immunoassay, LIA and/or nucleic acid test, NAT). ROC curve was also performed. RESULTS: Among the 30,201 HIV performed tests, 256 (0.85%) were positive according to Architect interpretation (S/CO > 1) but only 229 (0.76%) were definitively HIV-1 positive after LIA and/or NAT. Thus, 27 (10.5%) of 256 samples with S/CO > 1 by Architect were false positive diagnose. The false positive rate decreased when the S/CO ratio increased. All 19 samples with S/CO < 10 were false positives and all 220 with S/CO>50 true HIV-positives. The optimal S/CO cutoff value provided by ROC curves was 32.7. No false negative results were found. CONCLUSIONS: We show that very low S/CO values during HIV-1 screening using Architect can result HIV negative after confirmation by LIA and NAT. The false positive rate is reduced when S/CO increases.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification of misdiagnosed HIV clients in an Early Access to ART for All implementation study in Swaziland. INTRODUCTION: Rapid diagnostic testing has made HIV diagnosis and subsequent treatment more accessible. However, multiple factors, including improper implementation of testing strategies and clerical errors, have been reported to lead to HIV misdiagnosis. The World Health Organization has recommended HIV retesting prior to antiretroviral therapy (ART) initiation which has become pertinent with scaling up of Early Access to ART for All (EAAA). In this analysis, misdiagnosed clients are identified from a subgroup of clients enrolled in EAAA implementation study in Swaziland. METHODS: The subgroup to assess misdiagnosis was identified from enrolled EAAA study clients, who had an undetectable viral load prior to ART initiation between September 1, 2014 and May 31, 2016. One hundred and five of 2533 (4%) clients had an undetectable viral load prior to initiation to ART (pre-ART). The HIV status of clients was confirmed using the Determine HIV 1/2 and Uni-Gold HIV 1/2 rapid tests performed serially as recommended by the national testing algorithm. The status of clients on ART was additionally confirmed by fourth-generation HIV Ag/Ab combo tests, Architect and Genscreen Ultra. RESULTS: Fourteen of the 105 (13%) clients were false positive (HIV negative) on confirmation testing, of whom five (36%) were still in pre-ART care, while nine (64%) were in ART care. Overall, proportion of false positive was 0.6% (14/2533). The false-positive clients had a median CD4 of 791\u00a0cells/ml (interquartile range (IQR): 628, 967) compared to 549\u00a0cells/ml (IQR: 387, 791) for true positives (HIV positive) (p\u00a0=\u00a00.0081) and were nearly 20\u00a0years older (p\u00a0=\u00a00.0008). CONCLUSIONS: Overall 0.6% of all enrolled EAAA clients were misdiagnosed, and 64% of misdiagnosed clients were initiated on ART. With adoption of EAAA guidelines by national governments, ART initiation regardless of immunological criteria, strengthening of proficiency testing and adoption of retesting prior to ART initiation would allow identification of misdiagnosed clients and further reduce potential of initiating misdiagnosed clients on ART.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The fourth generation Alere HIV Combo rapid test improves detection of acute infection in MTN-003 (VOICE) samples. BACKGROUND: Early and accurate detection of HIV is crucial when using pre-exposure prophylaxis (PrEP) for HIV prevention to avoid PrEP initiation in acutely infected individuals and to minimize the risk of drug resistance in individuals with breakthrough infection. OBJECTIVE: To determine if fourth-generation antigen/antibody (Ag/Ab) rapid diagnostic tests (RDT) would have detected HIV infection earlier than the third-generation RDT used in MTN-003 (VOICE). STUDY DESIGN: 5029 VOICE participants were evaluated with third-generation Alere Determine\u2122 HIV-1/2, OraQuick ADVANCE Rapid HIV-1/2, Uni-Gold\u2122 Recombigen HIV-1/2 and Bio-Rad GS HIV-1/2+O EIA; and fourth-generation Alere Determine\u2122 HIV-1/2 Ag/Ab Combo, Conformit\u00e9 Europ\u00e9ene (CE)-Marked Alere\u2122 HIV Combo and Bio-Rad HIV Combo Ag/Ab EIA. Multispot, GS HIV-1 Western Blot (WB) and Geenius\u2122 (Bio-Rad) were also evaluated. RESULTS: Of 57 antibody-negative pre-seroconversion plasma samples with HIV RNA >20 copies/mL identified, 16 (28%) were reactive by CE-Marked Alere\u2122 HIV Combo (1 Ab; 9 Ag; 6 Ag/Ab reactive) and 4 (7%) by Alere Determine\u2122 HIV-1/2 Ag/Ab Combo (2 Ab; 2 Ag; 0 Ag/Ab reactive) (p=0.0005). Multispot confirmed only 1 of 16 acute infections while WB and Geenius\u2122 confirmed none. GS HIV Combo Ag/Ab EIA identified 27 of 57 (47%) pre-seroconversion RNA-positive samples. CONCLUSION: In VOICE, 28% of infections missed by current third-generation RDT would have been identified with the use of CE-Marked Alere\u2122 HIV Combo. Geenius\u2122, Multispot and WB were all insensitive (<10%) in confirming infections detected by fourth-generation assays. An improved diagnostic algorithm that includes a fourth-generation RDT with HIV RNA testing will be essential for efficiently identifying seroconverters on PrEP.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Acute HIV infection presenting as hemophagocytic lymphohistiocytosis: case report and review of the literature. BACKGROUND: Hemophagocytic lymphohistiocytosis (HLH) is an uncommon systemic inflammatory condition that can result from infections, autoimmune diseases and malignancies. It is a rarely reported life threatening complication of an acute HIV infection, with only ten documented case reports per our literature search. We present a case of HLH secondary to acute HIV infection with a negative HIV antibody-based assay and high plasma viral load. CASE PRESENTATION: A 45\u00a0year old male with a past medical history of well controlled hypertension presented with fever, dizziness and non-bloody diarrhea. Initial lab work revealed a new thrombocytopenia, marked renal failure and an elevated creatine kinase, ferritin, lactate dehydrogenase and D-dimer. A bone marrow biopsy revealed HLH. As part of the work up for thrombocytopenia, a rapid HIV antibody based assay was done and was negative. The sample was later routinely tested with a fourth generation antigen/antibody assay as per local protocol and was strongly positive. The plasma RNA viral load was >10,000,000 copies /mL confirming the diagnosis of an acute HIV infection. The patient was urgently started on antiretroviral therapy and recovered. CONCLUSION: This case illustrates a diagnostic approach to HLH which is an uncommon but life threatening multisystem disease, requiring the involvement of a multidisciplinary team of experts. Following any diagnosis of HLH, rapid identification and treatment of the underlying condition is critical. A negative rapid HIV antibody test can be misleading in the context of early HIV infection and the additional use of fourth generation antigen/antibody test or plasma RNA viral load may be required within the right clinical context for diagnosis.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Improving the Quality of Diagnostic Studies Evaluating Point of Care Tests for Acute HIV Infections: Problems and Recommendations. The diagnosis of acute human immunodeficiency virus (HIV) infection (AHI) plays a unique role in preventing the spread of HIV and ending the epidemic. Acutely infected individuals are thought to contribute substantially to forward transmissions of HIV; however, diagnosing AHI in resource-limited settings has proven to be a challenge. While fourth generation antigen-antibody combination assays have been successful in high-resource settings, rapid point of care (POC) versions of these assays have yet to demonstrate high sensitivity to detect AHI. Newer RNA/DNA based POC technologies are being validated, but the challenge to understand the additional value of these devices depends on the quality of study evaluations, in particular choice of study designs and case mix of included populations. In this commentary, we aimed to review the quality of studies evaluating a new fourth generation rapid test for detecting AHI, to identify general methodological limitations and biases in diagnostic accuracy studies, and to recommend strategies for avoiding them in future evaluations. The new studies that were evaluated continued to report the same weaknesses and biases that were seen in previous evaluations of fourth generation rapid tests. We recommend that investigators design future studies carefully, keeping in mind how diagnostic performance may be influenced by prevalence, population, patient case mixes, and reference standards. Care must be taken to avoid biases specific to diagnostic accuracy studies (spectrum, verification, incorporation and reference standard biases). To improve on quality, reporting checklists and guidelines such as Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) and Standards for Reporting Diagnostic accuracy studies (STARD) should be reviewed prior to conducting studies.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Evaluation of two 4th generation point-of-care assays for the detection of Human Immunodeficiency Virus infection. BACKGROUND: Fourth generation assays detect simultaneously antibodies for HIV and the p24 antigen, identifying HIV infection earlier than previous generation tests. Previous studies have shown that the Alere Determine HIV-1/2 Combo has lower than anticipated performance in detecting antibodies for HIV and the p24 antigen. Furthermore, there are currently very few studies evaluating the performance of Standard Diagnostics BIOLINE HIV Ag/Ab Combo. OBJECTIVE: To evaluate the performance of the Alere Determine HIV-1/2 Combo and the Standard Diagnostics BIOLINE HIV Ag/Ab Combo in a panel of frozen serum samples. STUDY DESIGN: The testing panel included 133 previously frozen serum specimens from the UCLA Clinical Microbiology & Immunoserology laboratory. Reference testing included testing for HIV antibodies by a 3rd generation enzyme immunoassay followed by HIV RNA detection. Antibody negative and RNA positive sera were also tested by a laboratory 4th generation HIV Ab/Ag enzyme immunoassay. RESULTS: Reference testing yielded 97 positives for HIV infection and 36 negative samples. Sensitivity of the Alere test was 95% (88-98%), while the SD Bioline sensitivity was 91% (83-96%). Both assays showed 100% (90-100%) specificity. No indeterminate or invalid results were recorded. Among 13 samples with acute infection (HIV RNA positive, HIV antibody negative), 12 were found positive by the first assay and 8 by the second. The antigen component of the Alere assay detected 10 acute samples, while the SD Bioline assay detected only one. CONCLUSIONS: Both rapid assays showed very good overall performance in detecting HIV infection in frozen serum samples, but further improvements are required to improve the performance in acute infection.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Diagnosing acute HIV infection at point of care: a retrospective analysis of the sensitivity and specificity of a fourth-generation point-of-care test for detection of HIV core protein p24. OBJECTIVES: Detection of acute HIV infection is vital in preventing onward transmission. HIV point-of-care testing (POCT) has improved uptake of HIV testing but has been limited to third-generation assays, which only detect chronic HIV infection. Previous evaluation of the fourth-generation Alere Determine HIV-1/2 Ag/Ab Combo POCT showed only 50% sensitivity for HIV core protein p24 (p24 antigen) detection, which is suboptimal for diagnosis of acute HIV infection with limited advantage over third-generation POCT. We aimed to assess the sensitivity of the new Alere HIV Combo POCT to detect acute HIV infection. METHODS: Stored samples in samples already identified as p24-positive using standard-of-care fourth-generation assays were randomly selected alongside groups of antibody-positive samples and HIV-negative samples. Each sample was tested using the new Alere POCT according to manufacturer's instructions. Sensitivity and specificity were then calculated. RESULTS: The Alere HIV Combo POCT test demonstrated 88% sensitivity 95% CI (78% to 98%) and 100% specificity 95% CI (99.7% to 100%) for detection of p24 antigen. CONCLUSIONS: This new POCT shows improved sensitivity for detection of p24 antigen and may be of value for clinical use in detecting acute HIV infection. Further evaluation of its use in a clinical setting is still required.", 
+          "qas": [
+            {
+              "question": "What is included in the fourth generation HIV test?", 
+              "id": "5a68fd01b750ff445500001b_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Ethical issues in Chinese aesthetic surgery. Guided by the medical ethics principles of \"four principles plus scope,\" Chinese aesthetic medical practitioners have proposed some extremely valuable ethical principles combined with the construction of aesthetic medicine and the requirements of clinical practice such as the principle of general nonmaleficence, the principle of local minimal invasiveness, the principle of informed consent, and the principle of respect and confidentiality. Chinese aesthetic surgical ethics provide valuable guidance for the practice of aesthetic medicine. Adherence to the ethics of Chinese aesthetic surgery provides an essential guide for the practice of aesthetic medicine in China. These principles protect both the medical practitioner and the patient, helping them to avoid unnecessary risks and disputes and ultimately promoting the sustainable development of aesthetic medicine.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_000"
+            }
+          ]
+        }, 
+        {
+          "context": "An Ethical Issue in Medical Education of Obstetrics and Gynecology. There are four principles of medical ethics; Beneficence, Respect for autonomy, Non-maleficence, and Justice. It is not easy to apply to principles of medical ethics in the special circumstances of obstetrics and gynecology. Student doctors must learn to be familiar with principles of medical ethics tailored to the special circumstances while the obstetrics and gynecology practice.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_001"
+            }
+          ]
+        }, 
+        {
+          "context": "When four principles are too many: a commentary. This commentary briefly argues that the four prima facie principles of beneficence, non-maleficence, respect for autonomy and justice enable a clinician (and anybody else) to make ethical sense of the author's proposed reliance on professional guidance and rules, on law, on professional integrity and on best interests, and to subject them all to ethical analysis and criticism based on widely acceptable basic prima facie moral obligations; and also to confront new situations in the light of those acceptable principles.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Defending the four principles approach as a good basis for good medical practice and therefore for good medical ethics. This paper argues that the four prima facie principles-beneficence, non-maleficence, respect for autonomy and justice-afford a good and widely acceptable basis for 'doing good medical ethics'. It confronts objections that the approach is simplistic, incompatible with a virtue-based approach to medicine, that it requires respect for autonomy always to have priority when the principles clash at the expense of clinical obligations to benefit patients and global justice. It agrees that the approach does not provide universalisable methods either for resolving such moral dilemmas arising from conflict between the principles or their derivatives, or universalisable methods for resolving disagreements about the scope of these principles-long acknowledged lacunae but arguably to be found, in practice, with all other approaches to medical ethics. The value of the approach, when properly understood, is to provide a universalisable though prima facie set of moral commitments which all doctors can accept, a basic moral language and a basic moral analytic framework. These can underpin an intercultural 'moral mission statement' for the goals and practice of medicine.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Medical ethics for children: applying the four principles to paediatrics. I will argue that there are difficulties with the application of the four principles approach to incompetent children. The most important principle - respect for autonomy - is not directly applicable to incompetent children and the most appropriate modification of the principle for them is not clear. The principle of beneficence - that one should act in the child's interests - is complicated by difficulties in assessing what a child's interests are and to which standard of interests those choosing for children should be held. A further problem with the four principles approach is that parental authority does not follow clearly from the four principles.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Ethical dilemmas in forensic psychiatry: two illustrative cases. One approach to the analysis of ethical dilemmas in medical practice uses the \"four principles plus scope\" approach. These principles are: respect for autonomy, beneficence, non-maleficence and justice, along with concern for their scope of application. However, conflicts between the different principles are commonplace in psychiatric practice, especially in forensic psychiatry, where duties to patients often conflict with duties to third parties such as the public. This article seeks to highlight some of the specific ethical dilemmas encountered in forensic psychiatry: the excessive use of segregation for the protection of others, the ethics of using mechanical restraint when clinically beneficial and the use of physical treatment without consent. We argue that justice, as a principle, should be paramount in forensic psychiatry, and that there is a need for a more specific code of ethics to cover specialised areas of medicine like forensic psychiatry. This code should specify that in cases of conflict between different principles, justice should gain precedence over the other principles.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Determining the common morality's norms in the sixth edition of Principles of Biomedical Ethics. Tom Beauchamp and James Childress have always maintained that their four principles approach (otherwise known as principlism) is a globally applicable framework for biomedical ethics. This claim is grounded in their belief that the principles of respect for autonomy, non-maleficence, beneficence and justice form part of a 'common morality', or collection of very general norms to which everyone who is committed to morality subscribes. The difficulty, however, has always been how to demonstrate, at least in the absence of a full-blooded analysis of the concept of morality, whether the four principles are foundational, and so globally applicable, in this way. In the recently published sixth edition of Principles of Biomedical Ethics, an imaginative and non-question-begging empirical method of determining the common morality's norms is suggested. In this paper, I outline this method, before arguing that it is difficult to see how it might be thought to achieve its purpose.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_006"
+            }
+          ]
+        }, 
+        {
+          "context": "The history of autonomy in medicine from antiquity to principlism. Respect for Autonomy (RFA) has been a mainstay of medical ethics since its enshrinement as one of the four principles of biomedical ethics by Beauchamp and Childress' in the late 1970s. This paper traces the development of this modern concept from Antiquity to the present day, paying attention to its Enlightenment origins in Kant and Rousseau. The rapid C20th developments of bioethics and RFA are then considered in the context of the post-war period and American socio-political thought. The validity and utility of the RFA are discussed in light of this philosophical-historical account. It is concluded that it is not necessary to embrace an ethic of autonomy in order to guard patients from coercion or paternalism, and that, on the contrary, the dominance of autonomy threatens to undermine those very things which have helped doctors come to view and respect their patients as persons.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Medical ethics: four principles, two decisions, two roles and no reasons. The 'four principle' view of medical ethics has a strong international pedigree. Despite wide acceptance, there is controversy about the meaning and use of the principles in clinical practice as a checklist for moral behaviour. Recent attempts by medical regulatory authorities to use the four principles to judge medical practitioner behaviour have not met with success in clarifying how these principles can be incorporated into a legal framework. This may reflect the philosophical debate about the relationship between law and morals. In this paper, legal decisions from two cases in which general practitioners have been charged with professional shortcomings are discussed. Difficulties with the application of the four principles (autonomy, beneficence, nonmaleficence and justice) to judge medical practitioner behaviour are highlighted. The four principles are relevant to medical practitioner behaviour, but if applied as justifications for disciplinary decisions without explanation, perverse results may ensue. Solutions are suggested to minimise ambiguities in the application of the four principles: adjudicators should acknowledge the difference between professional and common morality and the statutory requirement to give decisions with reasons.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_008"
+            }
+          ]
+        }, 
+        {
+          "context": "The four principles: can they be measured and do they predict ethical decision making? BACKGROUND: The four principles of Beauchamp and Childress--autonomy, non-maleficence, beneficence and justice--have been extremely influential in the field of medical ethics, and are fundamental for understanding the current approach to ethical assessment in health care. This study tests whether these principles can be quantitatively measured on an individual level, and then subsequently if they are used in the decision making process when individuals are faced with ethical dilemmas. METHODS: The Analytic Hierarchy Process was used as a tool for the measurement of the principles. Four scenarios, which involved conflicts between the medical ethical principles, were presented to participants who then made judgments about the ethicality of the action in the scenario, and their intentions to act in the same manner if they were in the situation. RESULTS: Individual preferences for these medical ethical principles can be measured using the Analytic Hierarchy Process. This technique provides a useful tool in which to highlight individual medical ethical values. On average, individuals have a significant preference for non-maleficence over the other principles, however, and perhaps counter-intuitively, this preference does not seem to relate to applied ethical judgements in specific ethical dilemmas. CONCLUSIONS: People state they value these medical ethical principles but they do not actually seem to use them directly in the decision making process. The reasons for this are explained through the lack of a behavioural model to account for the relevant situational factors not captured by the principles. The limitations of the principles in predicting ethical decision making are discussed.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_009"
+            }
+          ]
+        }, 
+        {
+          "context": "Islam and the four principles of medical ethics. The principles underpinning Islam's ethical framework applied to routine clinical scenarios remain insufficiently understood by many clinicians, thereby unfortunately permitting the delivery of culturally insensitive healthcare.This paper summarises the foundations of the Islamic ethical theory, elucidating the principles and methodology employed by the Muslim jurist in deriving rulings in the field of medical ethics. The four-principles approach, as espoused by Beauchamp and Childress, is also interpreted through the prism of Islamic ethical theory. Each of the four principles (beneficence, nonmaleficence,justice and autonomy) is investigated in turn, looking in particular at the extent to which each is rooted in the Islamic paradigm. This will provide an important insight into Islamic medical ethics, enabling the clinician to have a better informed discussion with the Muslim patient. It will also allow for a higher degree of concordance in consultations and consequently optimise culturally sensitive healthcare delivery.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_010"
+            }
+          ]
+        }, 
+        {
+          "context": "[Re]considering Respect for Persons in a Globalizing World. Contemporary clinical ethics was founded on principlism, and the four principles: respect for autonomy, nonmaleficence, beneficence and justice, remain dominant in medical ethics discourse and practice. These principles are held to be expansive enough to provide the basis for the ethical practice of medicine across cultures. Although principlism remains subject to critique and revision, the four-principle model continues to be taught and applied across the world. As the practice of medicine globalizes, it remains critical to examine the extent to which both the four-principle framework, and individual principles among the four, suffice patients and practitioners in different social and cultural contexts. Using the four-principle model we analyze two accounts of surrogate decision making - one from the developed and one from the developing world - in which the clinician undertakes medical decision-making with apparently little input from the patient and/or family. The purpose of this analysis is to highlight challenges in assessing ethical behaviour according to the principlist model. We next describe cultural expectations and mores that inform both patient and clinician behaviors in these scenarios in order to argue that the principle of respect for persons informed by culture-specific ideas of personhood may offer an improved ethical construct for analyzing and guiding medical practice in a globalized and plural world.", 
+          "qas": [
+            {
+              "question": "List four principles of medical ethics.", 
+              "id": "5a6f7e6ab750ff4455000052_011"
+            }
+          ]
+        }, 
+        {
+          "context": "Heerfordt syndrome with unilateral facial nerve palsy: a rare presentation of sarcoidosis. BACKGROUND: Heerfordt syndrome is rare and is characterized by fever, uveitis, parotid gland enlargement, and facial nerve palsy. We hereby present a case of Heerfordt syndrome with unilateral facial nerve palsy as a presentation of sarcoidosis. HISTORY AND SIGNS: A 29-year-old male patient from Sri Lanka presented with eye redness OU, blurred vision OD, fever, headache, night sweat, fatigue, and weight loss (5 kg over 1 month). Examination revealed mild anterior uveitis OU, mild vitritis OD, fundus whitish lesions OU, left otalgia, taste disorders, bilateral parotid gland enlargement, and left facial nerve palsy. Work-up for infection or tumour was negative. Chest computed tomography and transbronchial lymph node biopsy set the diagnosis of sarcoidosis. THERAPY AND OUTCOME: The patient recovered completely within 2 months under therapy with prednisone and azathioprine. One year after onset of treatment, no recurrence was noted. CONCLUSIONS: Heerfordt syndrome is a rare manifestation of neurosarcoidosis and has to be included in the differential diagnosis of facial nerve palsy.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Ichthyosiform sarcoidosis: report of three cases from Japan and literature review. Cutaneous lesions of sarcoidosis present with various manifestations including specific and non-specific cutaneous lesions. Ichthyosiform sarcoidosis is a rare form of cutaneous sarcoidosis, presenting with asymptomatic, adherent, polygonal scales, mainly appearing on the lower limbs.\u00a0 Ichthyosiform sarcoidosis has a predilection for dark-skinned races, and cases affecting Japanese patients have rarely been reported in English literature.\u00a0 We herein describe three Japanese cases of ichthyosiform sarcoidosis on the lower limbs. All of the patients were female, with an age range of 57-69 years old.\u00a0 Histologically, sarcoidal granulomas were located in the mid- to lower dermis.\u00a0 All cases had scar sarcoidosis on the knees.\u00a0 Furthermore, Case 1 presented with papular sarcoidosis on the back, and Case 3 presented with subcutaneous nodules on the buttock as well as erythema nodosum-like lesions on the lower legs.\u00a0 All patients had lung sarcoidosis, but ocular sarcoidosis was seen in only Case 2. Case 3 showed Heerfordt syndrome with facial nerve paralysis. Histological features showed that the granular layers were scarcely detected in the overlying epidermis; however, filaggrin expression was not decreased.\u00a0 Sarcoidal granulomas accumulated around the sweat glands in one case, whereas those features were not detected in the other two cases. In conclusion, ichthyosiform cutaneous sarcoidosis may be overlooked or misdiagnosed as xerotic dry skin which is frequently found in elderly people, and ichthyosiform cutaneous lesions may be more prevalent than previously estimated.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The Heerfordt-Waldenstr\u00f6m syndrome as an initial presentation of sarcoidosis. Sarcoidosis is a granulomatous disease of unclear etiology, which commonly presents with cough, dyspnea, chest pain, fever, weight loss, arthralgias, and erythema nodosum. Heerfordt-Waldenstr\u00f6m syndrome, a rare presentation of sarcoidosis, is characterized by the presence of parotid gland enlargement, facial palsy, anterior uveitis, and fever. Here we present a case of a 59-year-old nonsmoking African American woman who presented with 3 days of progressively worsening left facial droop, difficulty swallowing, and blurred vision. Over the prior 4 months, she had had a productive cough, fevers, night sweats, and an unintentional 30-pound weight loss. Physical examination revealed a left facial droop involving the forehead, cheek, and chin with an inability to close the left eyelid. Her serum angiotensin-converting enzyme level was twice the upper limit of normal. Prominent hilar markings were identified on chest x-ray, but no focal opacity was seen. Fine-needle aspiration of a preauricular lymph node revealed noncaseating granulomas consistent with granulomatous lymphangitis. The patient was given a diagnosis of Heerfordt-Waldenstr\u00f6m syndrome, or uveoparotid fever. Treatment with a high-dose steroid improved her parotid gland enlargement, facial palsy, and anterior uveitis.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_002"
+            }
+          ]
+        }, 
+        {
+          "context": "[A rare manifestation of sarcoidosis]. This article reports the case of a 14-year-old boy who was presented in the case conference with symptoms of decreased visual acuity, scintillating scotomas and photophobia. Physical examination revealed right facial paralysis, parotid gland swelling, high fever and poor general condition. Ophthalmoscopy revealed anterior and posterior uveitis including macular edema and chorioretinal infiltrates. Angiography revealed a dense pattern of hyperfluorescent lesions and these observations resulted in the diagnosis of Heerfordt syndrome. Under systemic prednisolone therapy, symptoms were reduced and visual acuity recovered.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_003"
+            }
+          ]
+        }, 
+        {
+          "context": "[Heerfordt's syndrome -- a rare initial manifestation of sarcoidosis]. Sarcoidosis is a chronic, multisystem disorder of unknown cause characterized by noncaseating epithelioid granulomas. Infectious agents and genetic components have been discussed. Heerfordt's syndrome with uveitis, enlargement of the parotid glands and optional paralysis of the Nn. facialis is a form of sarcoidosis. The diagnosis is confirmed by histology. Further analyses are fiberoptic bronchoscopy with bronchoalveolar lavage or the gallium-67 scan in combination with blood findings. The therapy of choice is glucocorticoids. We present a case report of Heerfordt's syndrome and a review of the literature covering different aspects of sarcoidosis.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_004"
+            }
+          ]
+        }, 
+        {
+          "context": "[Heerfordt syndrome]. The Heerfordt syndrome is characterized by fever, uveitis, swelling of parotid gland and facial nerve palsy, and 53 cases have been reported in Japan until 2000. In the present review, we mainly focused on those clinical cases reported. Most patients were between 20 and 40 years of age, and females appeared to have greater risk than males. The definite diagnosis of this syndrome is established histologically according to sarcoidosis. In addition 67 gallium scan is helpful for diagnosis, and it shows increased uptake of Ga to the ophthal lesion, parotid glands and hilar lesions. Therapeutic trial with prednisolone is sometimes required especially for facial palsy.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Heerfordt's Syndrome Presenting with Recurrent Facial Nerve Palsy: Case report and 10-year literature review. Heerfordt's syndrome is defined as a combination of facial palsy, parotid swelling, uveitis and fever in sarcoidosis cases. Heerfordt's syndrome as a cause of facial palsy is very rare. We report a case of alternating facial nerve palsy in a 52-year-old female initially treated for Bell's palsy. The patient was referred to the All India Institute of Medical Sciences, Bhubaneswar, India, in January 2013 for clinical evaluation. She was found to have a parotid swelling and anterior intermediate uveitis. A pathoradiological evaluation suggested sarcoidosis and a final diagnosis of Heerfordt's syndrome was made. Steroid treatment was initiated which led to an improvement in the facial palsy and uveitis as well as the disappearance of the parotid swelling with a corresponding decrease in angiotensin-converting enzyme levels. An English literature review was carried out to analyse the varied presentation of this syndrome. The analysis focused on presenting symptoms, biochemical markers and radiological findings of Heerfordt's syndrome cases.", 
+          "qas": [
+            {
+              "question": "List symptoms of Heerfordt syndrome.", 
+              "id": "5a70d12899e2c3af26000001_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Magnetic resonance imaging study in a normal Bengal tiger (Panthera tigris) stifle joint. BACKGROUND: The purpose of this study was to describe the normal appearance of the bony and soft tissue structures of the stifle joint of a Bengal tiger (Panthera tigris) by low-field magnetic resonance imaging (MRI), and the use of gross anatomical dissections performed as anatomical reference. A cadaver of a mature female was imaged by MRI using specific sequences as the Spin-echo (SE) T1-weighting and Gradient-echo (GE) STIR T2-weighting sequences in sagittal, dorsal and transverse planes, with a magnet of 0.2 Tesla. The bony and articular structures were identified and labelled on anatomical dissections, as well as on the magnetic resonance (MR) images. RESULTS: MR images showed the bone, articular cartilage, menisci and ligaments of the normal tiger stifle. SE T1-weighted sequence provided excellent resolution of the subchondral bones of the femur, tibia and patella compared with the GE STIR T2-weighted MR images. Articular cartilage and synovial fluid were visualised with high signal intensity in GE STIR T2-weighted sequence, compared with SE T1-weighted sequence where they appeared with intermediate intensity signal. Menisci and ligaments of the stifle joint were visible with low signal intensity in both sequences. The infrapatellar fat pad was hyperintense on SE T1-weighted images and showed low signal intensity on GE STIR T2-weighted images. CONCLUSIONS: MRI provided adequate information of the bony and soft tissues structures of Bengal tiger stifle joints. This information can be used as initial anatomic reference for interpretation of MR stifle images and to assist in the diagnosis of diseases of this region.", 
+          "qas": [
+            {
+              "question": "In quadruped mammals, what bones make up the stifle?", 
+              "id": "5a8afbf2fcd1d6a10c00001c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Use of biosimilars in inflammatory bowel disease: Statements of the Italian Group for Inflammatory Bowel Disease. The introduction of biological therapies, particularly anti-TNF\u03b1 agents, has revolutionized the management of inflammatory bowel disease in those cases which are refractory to conventional treatment; however these drugs are not risk-free and their use has substantially increased the cost of treatment. As marketing protection expires for original, first-generation biopharmaceuticals, lower-cost \"copies\" of these drugs produced by competitor companies-referred to as biosimilars-are already entering the market. In September 2013, the European Medicines Agency approved two infliximab biosimilars for treatment of adult and paediatric inflammatory bowel disease patients, a decision based largely on efficacy and safety data generated in studies of patients with ankylosing spondylitis and rheumatoid arthritis. For many clinicians, extrapolation practices and the general question of interchangeability between biosimilars and reference biologics are cause for concern. In the present paper, the Italian Group for inflammatory bowel disease presents its statements on these issues, with emphasis on the peculiar clinical characteristics of inflammatory bowel disease and the importance of providing physicians and patients with adequate information and guarantees on the safety and efficacy of these new drugs in the specific setting of inflammatory bowel disease.", 
+          "qas": [
+            {
+              "question": "List 2 approved drug treatments for Inflammatory Bowel Disease (IBD).", 
+              "id": "5a8dc6b4fcd1d6a10c000026_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Inflammatory Bowel Disease in Childhood and Adolescence. BACKGROUND: The incidence of inflammatory bowel disease (IBD) in childhood and adolescence is 5-11 cases per 100 000 persons per year, corresponding to a new diagnosis of IBD in 800-1470 patients in Germany each year. METHODS: This review is based on pertinent publications retrieved by a selective search in PubMed, including guidelines from Germany and abroad. RESULTS: Children and adolescents with IBD often have extensive involvement and an aggressive course of disease. Nonetheless, infliximab and adalimumab are the only biological agents that have been approved for this group of patients. In Crohn's disease, exclusive enteral nutrition is the treatment of first choice for inducing a remission. Patients with (peri-)anal fistulae are treated primarily with infliximab. Corticosteroids and aminosalicylates should be used with caution. In contrast, children and adolescents with ulcerative colitis are treated with either aminosalicylates or prednisolone to induce a remission. As a rule, maintenance pharmacotherapy with thiopurines in Crohn's disease and severe ulcerative colitis, or with aminosalicylates in mild to moderate ulcerative colitis, is indicated for several years, at least until the end of puberty. Patients with refractory disease courses are treated with methylprednisolone, anti-TNF-\u03b1-antibodies, and/or calcineurin inhibitors. The spectrum of surgical interventions is the same as for adults. Specific aspects of the treatment of children and adolescents with IBD include adverse drug effects, the areas of nutrition, growth, and development, and the structured transition to adult medicine. CONCLUSION: Children and adolescents with IBD or suspected IBD should be cared for by pediatric gastroenterologists in a center where such care is provided. Individualized treatment with multidisciplinary, family-oriented longterm care is particularly important. Drug trials in children and adolescents are needed so that the off-label use of drugs to patients in this age group can be reduced.", 
+          "qas": [
+            {
+              "question": "List 2 approved drug treatments for Inflammatory Bowel Disease (IBD).", 
+              "id": "5a8dc6b4fcd1d6a10c000026_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Ischiopagus and pygopagus conjoined twins: neurosurgical considerations. BACKGROUND: Neurosurgeons are familiar with the challenges presented by craniopagus twins, but other types of conjoined twins may also have neurosurgical implications. We report our experience in the management of ischiopagus and pygopagus conjoined twins. METHODS: This is a retrospective review of the management of conjoined twins at Red Cross Children's Hospital in Cape Town, South Africa. RESULTS: Twenty-three pairs of symmetrical conjoined twins were managed over a 40-year period (1964-2003), of which 16 (70%) were separated. Of these cases, 6 are the focus of this study, namely 4 pairs of ischiopagus twins and 2 pairs of pygopagus twins seen between 1993 and 2003. In 2 cases, there was direct involvement of the nervous system at the site of union, with 1 pair of ischiopagi manifesting end-to-end union of their spinal cords, while a pair of pygopagi had back-to-back fusion of the conus. Another pair of ischiopagi had a fused dural sac without joined neural elements, but one of these children developed syringomyelia 2 years after separation. Neuroimaging was invaluable in detecting these abnormalities. The one pair of ischiopagi who died before separation were HIV positive and had severe brain atrophy and cystic encephalmalacia at autopsy. Nine of the 12 children (75%) had bony abnormalities of the spine remote from the area of conjunction. The most common finding was the presence of hemivertebrae, usually in the thoracic spine. Six children manifested scoliosis, which has already progressed in the oldest two. Technical aspects such as timing and sequence of separation, the division of neural tissues and reconstruction are discussed, as are the long-term complications of their spinal abnormalities. CONCLUSIONS: Ischiopagus and pygopagus conjoined twins manifest an interesting array of spinal abnormalities, which present challenges, not only at the time of separation, but also in their long-term management.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Separation of pyopagus conjoined twins: a New Zealand neurosurgical experience. Conjoined twins represent a rare form of incomplete embryonic separation. They are classified into eight different subtypes, with 18% representing pyopagus conjoints. History is scattered with accounts of the various types of conjoints and it is only recently that strategies have been devised to enable surgical separation of such twins. It is estimated that approximately 20 cases of separation of pyopagus twins have been performed. We provide a historical look at pyopagus conjoint twins and report our neurosurgical experience of Australasia's first separation of pyopagus twin girls.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The craniopagus malformation: classification and implications for surgical separation. Craniopagus twins (CPT) are an uncommon, highly fascinating accident of nature. The clinical pathology of this complex entity is reviewed and placed in perspective. A logical classification aids understanding of the anomaly, and is essential to gauge outcome from separation attempts. 'Partial forms' lack significant shared dural venous sinuses (SDVS) and 'Total forms' with SDVS also exhibit more severe compressional brain distortion. Our classification consists of Partial Angular (PA), Partial Vertical (PV), Total Angular (TA) and Total Vertical (TV, formerly O'Connell Types I-III). Total vertical has a continuous cranium, and inter-twin axial facial rotation <40 degrees (Type I), 140-180 degrees (Type II) or intermediate (Type III). The term 'Angular' denotes an inter-twin longitudinal angle below 140 degrees , regardless of axial rotation. Our review categorized 64 well-delineated CPT, including 41 operative separation attempts in small children since initial success in 1952. Just over one-half were TV, almost one-third TA, and partial forms accounted for the remaining one-sixth. About 30% of CPT had shared or fused brain tissue, and a similar percentage of TA twins shared a posterior fossa. Partial forms had significantly higher birth weights, were separated at an earlier age (6 versus 11 months) and had lower mortality and better outcome compared with Total forms. A multi-staged surgical separation for Total CPT had a significantly better mortality than single-staged separation. Discussion emphasizes embryological, anatomical and clinical aspects of the malformation, with emphasis upon obstacles to a successful outcome.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Separation of craniopagus conjoined twins with a staged approach. The separation of craniopagus conjoined twins is a very rare and complex challenge. As with many rare challenges, it presents initially as a deceptively simple problem requiring only the most basic clinical techniques. As in many reconstructive problems, this paradigm mandates that the neurosurgical team performs the separation with the plastic surgeons providing closure at the end of the separation. Historically, these approaches have included, as with the separation of many other types of conjoined twins, the use of tissue expansion before separation followed by separation surgery. In the best hands, at the most capable medical centers, the mortality reported in the literature for the past 50 years is greater than 50%. Craniofacial surgery frequently demands a coordinated effort between plastic surgery and neurosurgery and many other specializations; separating craniopagus twins takes this coordination to a stratospheric level. It is, however, this coordination that is of paramount importance. Success clearly requires an understanding of the complex interrelationship between the \"separation\" and the \"reconstruction\" and that decisions made for 1 aspect of the surgery will have a profound impact on another aspect of the surgery. The impact can be disastrous or, if planned well, can be advantageous.We were contacted to evaluate craniopagus conjoined male infant twins for separation. Radiographic studies suggested that the brains were separate, and their medical team suggested that they were \"fit for separation.\" We reviewed the literature and reviewed our colleagues' experiences with similar cases around the world. It became clear that whether separation had been unsuccessful or successful, a variety of issues accompanied surgery as follows: (1) massive intraoperative hemorrhage, (2) cerebral edema, (3) venous infarcts, (4) swelling of flaps, and (5) dehiscence of repairs with cerebrospinal fluid (CSF) leak, meningitis, or brain exposure. Although the initial plan was to separate the twins in the same fashion as in previous cases (ie, single-stage separation surgery preceded by tissue expansion of the scalp), it was clear that this approach increases cerebral venous pressure during the separation component of surgery and therefore set up a cascade of events favoring failure rather than success. Wishing to favor success, we elected to design an open-ended multistaged separation to improve venous collateral circulation. We believe that this would improve venous drainage, prevent increased venous pressure, diminish cerebral edema, and favor the integrity of the dura and flap repair that would in turn lessen the risk of CSF leak. The stages would also allow the twins to recover from each stage before progressing to the next stage while continuing to receive nutritional support and physical therapy. Four major stages for 9 \u00bd months led to their successful separation. There has been no CSF leak or meningitis. To our knowledge, this technique has since been applied to 2 other sets of craniopagus with similar outcomes.A review of the pertinent literature, our rationale, and methodology are discussed in this article.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Surgical management of pygopagus conjoined twins with spinal bifida. PURPOSE: Conjoined twins are a rare complication of 9 monozygotic twins and are associated with high perinatal mortality. Pygopagus are one of the rare types of conjoined twins with only a handful of cases reported in the literature. We present the case of one-and-half month-old male pygopagus conjoined twins, who were joined together dorsally in lower lumbar and sacral region and had spina bifida and shared a single thecal sac with combined weight of 6.14 kg. Spinal cord was separated at the level of the conus followed by duraplasty. They had uneventful recovery with normal 15 months follow-up. CONCLUSION: Separation of conjoined twins is recommended in where this is feasible with the anticipated survival of both or one infant.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Noninvasive investigation of asymmetrically conjoined tripus twins with features of rachipagus, parapagus dicephalus, and cephalopagus. A hypothetical mechanism for conjoined twinning postulated by Spencer ([2003] Developmental Malformations and Clinical Implications, Baltimore: Johns Hopkins University Press, p 1-476) suggests that, after separation, monovular twins fuse in one of eight predictable homologous sites. The tripus fetal specimen under study embodies characteristics of three types therefore preventing it from classification into a simple variant of any one of the eight twin types described by Spencer. The aim of this study was to reveal internal structural anomalies of the fetal specimen by using magnetic resonance imaging and computerized tomography. Dorsally appended to the primary twin is a secondary head mass (brain tissue and ocular globe) and two spinal columns converging at T4/T5, suggesting rachipagus twinning. The ventral orientation of the secondary twin's (right lateral) lower limb suggests parapagus twinning. The caudal divergence of the spinal columns and the presence of a secondary hemipelvis, separate from the primary pelvis, suggest cephalopagus twinning. Measurements of the long bones indicate a gestational age of \u223c20-23 weeks. Secondary malformations of the primary fetal body include anencephaly, cleft palate, renal agenesis, decreased left ventricular outflow, and a prematurely terminating descending aorta. This study demonstrates the possibility of using current imaging techniques to study very old, formalin-preserved human material for documentation and scientific discussion without destroying the specimen, thus keeping it intact for posterity.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Thoracopagus conjoined twins: a case report. Objective. Conjoined twin is a rarely seen congenital anomaly together with severe mortality and morbidity. The more common types of conjoined twins include the thoracopagus type, where the fusion is anterior, at the chest, and involves the heart. We are reporting one case of conjoined thoracopagus twins diagnosed by ultrasonography at 11 weeks. Case Report. In a multigravid pregnant woman who has been admitted to our clinic with a diagnosis of conjoined twins, thoracopagus, by ultrasonography at an 11-week gestation, termination of the pregnancy was performed. Conclusion. Making an early diagnosis with ultrasonographic examination gives the parents a chance to elect pregnancy termination.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Ischiopagus and diprosopus in India: two pairs of conjoined twins perceived as incarnations of Hindu deities. This article briefly reviews two specific types of conjoined twins, ischiopagus and diprosopus, and discusses recent cases of such twins born in India. Some members of the Hindu community worshiped these conjoined twins as incarnations of Hindu deities. In discussing this phenomenon, the authors aim to elucidate certain features of the faith tradition of Hinduism itself. The reception of these conjoined twins as incarnations of Hindu deities can be understood by examining two salient features of Hindu polytheism: the pictorial depiction of Hindu deities with multiple appendages and the concept of an incarnation, or avatar, of a Hindu deity.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Prenatal sonographic diagnosis of cephalopagus conjoined twins at 14 weeks of pregnancy. Conjoined twins are extremely rare and are a type of monozygotic twins that occur due to an incomplete embryonic division on postconception day 13 to 15. Eight different types of conjoined twins have been described in the literature. Management of the condition depends on the site and extent of the union. We present a case of cephalopagus twins diagnosed at 14 weeks of gestation.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_008"
+            }
+          ]
+        }, 
+        {
+          "context": "Urologic Considerations in the Separation of Thoracoomphalopagus Conjoined Twins. Conjoined twins are seen in approximately 1/500,000 live births, and therefore surgical management of urologic anomalies in conjoined twins has not been extensively reported. Various degrees of sharing of the urinary tracts and genitalia can be seen in different types of conjoined twins. Detailed preoperative imaging, including magnetic resonance imaging, computed tomography, and voiding cystourethrogram, is essential to define the anatomy and planning of a successful separation. We describe the urologic presentation, evaluation, and treatment of thoracoomphalopagus conjoined twins.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_009"
+            }
+          ]
+        }, 
+        {
+          "context": "The embryology of conjoined twins. INTRODUCTION: Attention is drawn to the spontaneous incidence of twinning, both dizygotic and monozygotic in different mammalian species. Conjoined twinning, however, only arises when the twinning event occurs at about the primitive streak stage of development, at about 13-14 days after fertilisation in the human, and is exclusively associated with the monoamniotic monochorionic type of placentation. It is believed that the highest incidence of conjoined twinning is encountered in the human. While monozygotic twinning may be induced experimentally following exposure to a variety of agents, the mechanism of induction of spontaneous twinning in the human remains unknown. All agents that are capable of acting as a twinning stimulus are teratogenic, and probably act by interfering with the spindle apparatus. DISCUSSION: The incidence of the various types of conjoined twinning is discussed. Information from the largest study to date indicates that the spontaneous incidence is about 10.25 per million births. The most common varieties encountered were thoraco-omphalopagus (28%), thoracopagus (18.5%), omphalopagus (10%), parasitic twins (10%) and craniopagus (6%). Of these, about 40% were stillborn, and 60% liveborn, although only about 25% of those that survived to birth lived long enough to be candidates for surgery. Conjoined twinning occurs by the incomplete splitting of the embryonic axis and, with the exception of parasitic conjoined twins, all are symmetrical and \"the same parts are always united to the same parts\". Fusion of monozygotic twins is no longer believed to be the basis of conjoined twinning. Accounts are provided of the anatomical features of each of the commonly encountered varieties.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_010"
+            }
+          ]
+        }, 
+        {
+          "context": "Di-symmetric cephalopagus conjoined twins described by Hovorakova et al.: some additions and corrections. This article provides some additions and corrections on a recently published case report concerning a pair of di-symmetrical cephalopagus conjoined twins. Eight different types of conjoined twins can be distinguished; one is cephalopagus, which is fourth in rarity of occurrence. Between 17 and 24% of cephalopagus is of the male sex. More than 30 case reports of di-symmetrical cephalopagus can be traced in Western literature, the oldest one described and illustrated in 1569.", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_011"
+            }
+          ]
+        }, 
+        {
+          "context": "Dicephalus dipus dibrachius: conjoined twins through the ages. Conjoined twins are the most rare form of monozygotic twinning occurring when there is incomplete division of the embryonic disc after day 13 post conception. This is associated with a very high risk of perinatal morbidity and mortality. Prognosis is dependent on the site and extent of fusion and the degree of sharing of vital organs. Most conjoined twins die in utero or in the early neonatal period. However less severe cases can be successfully separated. This is a review of the types of conjoined twinning, an historical perspective and a case of a rare form known as dicephalus dipus dibrachius (two heads and a single body with two arms and two legs).", 
+          "qas": [
+            {
+              "question": "List the ten types of conjoined twins.", 
+              "id": "5a76018c83b0d9ea6600000e_012"
+            }
+          ]
+        }, 
+        {
+          "context": "Cistrome Data Browser: a data portal for ChIP-Seq and chromatin accessibility data in human and mouse. Chromatin immunoprecipitation, DNase I hypersensitivity and transposase-accessibility assays combined with high-throughput sequencing enable the genome-wide study of chromatin dynamics, transcription factor binding and gene regulation. Although rapidly accumulating publicly available ChIP-seq, DNase-seq and ATAC-seq data are a valuable resource for the systematic investigation of gene regulation processes, a lack of standardized curation, quality control and analysis procedures have hindered extensive reuse of these data. To overcome this challenge, we built the Cistrome database, a collection of ChIP-seq and chromatin accessibility data (DNase-seq and ATAC-seq) published before January 1, 2016, including 13 366 human and 9953 mouse samples. All the data have been carefully curated and processed with a streamlined analysis pipeline and evaluated with comprehensive quality control metrics. We have also created a user-friendly web server for data query, exploration and visualization. The resulting Cistrome DB (Cistrome Data Browser), available online at http://cistrome.org/db, is expected to become a valuable resource for transcriptional and epigenetic regulation studies.", 
+          "qas": [
+            {
+              "question": "Name curated data resources for ChIP-seq data", 
+              "id": "5a75dff883b0d9ea66000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "MGA repository: a curated data resource for ChIP-seq and other genome annotated data. The Mass Genome Annotation (MGA) repository is a resource designed to store published next generation sequencing data and other genome annotation data (such as gene start sites, SNPs, etc.) in a completely standardised format. Each sample has undergone local processing in order the meet the strict MGA format requirements. The original data source, the reformatting procedure and the biological characteristics of the samples are described in an accompanying documentation file manually edited by data curators. 10 model organisms are currently represented: Homo sapiens, Mus musculus, Danio rerio, Drosophila melanogaster, Apis mellifera, Caenorhabditis elegans, Arabidopsis thaliana, Zea mays, Saccharomyces cerevisiae and Schizosaccharomyces pombe. As of today, the resource contains over 24 000 samples. In conjunction with other tools developed by our group (the ChIP-Seq and SSA servers), it allows users to carry out a great variety of analysis task with MGA samples, such as making aggregation plots and heat maps for selected genomic regions, finding peak regions, generating custom tracks for visualizing genomic features in a UCSC genome browser window, or downloading chromatin data in a table format suitable for local processing with more advanced statistical analysis software such as R. Home page: http://ccg.vital-it.ch/mga/.", 
+          "qas": [
+            {
+              "question": "Name curated data resources for ChIP-seq data", 
+              "id": "5a75dff883b0d9ea66000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "CR Cistrome: a ChIP-Seq database for chromatin regulators and histone modification linkages in human and mouse. Diversified histone modifications (HMs) are essential epigenetic features. They play important roles in fundamental biological processes including transcription, DNA repair and DNA replication. Chromatin regulators (CRs), which are indispensable in epigenetics, can mediate HMs to adjust chromatin structures and functions. With the development of ChIP-Seq technology, there is an opportunity to study CR and HM profiles at the whole-genome scale. However, no specific resource for the integration of CR ChIP-Seq data or CR-HM ChIP-Seq linkage pairs is currently available. Therefore, we constructed the CR Cistrome database, available online at http://compbio.tongji.edu.cn/cr and http://cistrome.org/cr/, to further elucidate CR functions and CR-HM linkages. Within this database, we collected all publicly available ChIP-Seq data on CRs in human and mouse and categorized the data into four cohorts: the reader, writer, eraser and remodeler cohorts, together with curated introductions and ChIP-Seq data analysis results. For the HM readers, writers and erasers, we provided further ChIP-Seq analysis data for the targeted HMs and schematized the relationships between them. We believe CR Cistrome is a valuable resource for the epigenetics community.", 
+          "qas": [
+            {
+              "question": "Name curated data resources for ChIP-seq data", 
+              "id": "5a75dff883b0d9ea66000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "StereoGene: rapid estimation of genome-wide correlation of continuous or interval feature data. Motivation: Genomics features with similar genome-wide distributions are generally hypothesized to be functionally related, for example, colocalization of histones and transcription start sites indicate chromatin regulation of transcription factor activity. Therefore, statistical algorithms to perform spatial, genome-wide correlation among genomic features are required. Results: Here, we propose a method, StereoGene, that rapidly estimates genome-wide correlation among pairs of genomic features. These features may represent high-throughput data mapped to reference genome or sets of genomic annotations in that reference genome. StereoGene enables correlation of continuous data directly, avoiding the data binarization and subsequent data loss. Correlations are computed among neighboring genomic positions using kernel correlation. Representing the correlation as a function of the genome position, StereoGene outputs the local correlation track as part of the analysis. StereoGene also accounts for confounders such as input DNA by partial correlation. We apply our method to numerous comparisons of ChIP-Seq datasets from the Human Epigenome Atlas and FANTOM CAGE to demonstrate its wide applicability. We observe the changes in the correlation between epigenomic features across developmental trajectories of several tissue types consistent with known biology and find a novel spatial correlation of CAGE clusters with donor splice sites and with poly(A) sites. These analyses provide examples for the broad applicability of StereoGene for regulatory genomics. Availability and implementation: The StereoGene C ++ source code, program documentation, Galaxy integration scripts and examples are available from the project homepage http://stereogene.bioinf.fbb.msu.ru/. Contact: favorov@sensi.org. Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "Which comparisons demonstrate the applicability of StereoGene in regulatory genomics?", 
+              "id": "5a760e5583b0d9ea66000018_000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

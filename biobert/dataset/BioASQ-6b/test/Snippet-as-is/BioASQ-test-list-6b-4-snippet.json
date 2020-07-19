@@ -1,0 +1,775 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_001",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "Today,A americanumremains an important vector for tick-borne illness. In addition to others, species ofRickettsia,Ehrlichia, andBorreliaare all transmitted by the lone star tick. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_002",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "Southern tick-associated rash illness and anaphylaxis to red meat following tick bites have been attributed to the lone star tick."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_003",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "Lone Star tick (Amblyomma americanum) and the rash is called STARI (southern tick-associated rash illness)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_004",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "Amblyomma americanum (Lone star tick) is an important disease vector in the United States. It transmits several human pathogens, including the agents of human monocytic ehrlichiosis, tularemia, and southern tick-associated rash illness."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_005",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "E. chaffeensis is maintained in a complex cycle involving white-tailed deer (WTD; Odocoileus virginianus) as a primary reservoir and the lone star tick (LST; Amblyomma americanum) as a primary vector."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_006",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "Amblyomma americanum, the lone star tick, is the most common and most aggressive human biting tick in the Southeastern United States. It is known to transmit the agents of human ehrlichioses, Ehrlichia chaffeensis and Ehrlichia ewingii. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a96c74cfcd1d6a10c000029_007",
+              "question": "What illness is transmitted by the Lone Star Tick, Amblyomma americanum?"
+            }
+          ],
+          "context": "Rickettsia parkeri is a member of the spotted fever group rickettsiae and causes a febrile illness in humans commonly referred to as \"Tidewater spotted fever\" or \"R. parkeri rickettsiosis.\" Although the Gulf Coast tick, Amblyomma maculatum Koch, is the primary vector of R. parkeri, a small proportion of A. americanum have also been shown to harbor R. parkeri. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_001",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "Actoxumab and bezlotoxumab are human monoclonal antibodies against C. difficile toxins A and B, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_002",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "Notably, the authors lay emphasis on the phase III clinical trial (MODIFY II), which allowed bezlotoxumab to be approved by the Food and Drug Administration and the European Medicines Agency. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_003",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "Bezlotoxumab, a human monoclonal antibody that binds and neutralizes C. difficile toxin B, is the first therapeutic agent to receive United States Food and Drug Administration approval for the prevention of CDI recurrence."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_004",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "The Monoclonal Antitoxin Antibodies (Actoxumab-Bezlotoxumab) Treatment Facilitates Normalization of the Gut Microbiota of Mice with"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_005",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "Human monoclonal antibodies MK-3415A (actoxumab-bezlotoxumab) toC. difficiletoxin A and toxin B, as an emerging non-antibiotic approach, significantly reduced the recurrence of CDI in animal models and human clinical trials. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_006",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "Bezlotoxumab (Zinplava\u2122) is a human monoclonal antibody against Clostridium difficile toxin B developed by Merck&Co. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_007",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "Mechanisms of protection against Clostridium difficile infection by the monoclonal antitoxin antibodies actoxumab and bezlotoxumab."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_008",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": "A combination of human monoclonal antibodies, actoxumab and bezlotoxumab, directed against TcdA and TcdB, respectively, has been shown to decrease the rate of recurrence in patients treated with standard-of-care antibiotics. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7240aa2dc08e987e00000d_009",
+              "question": "List two human monoclonal antibodies against Clostridium difficile toxins."
+            }
+          ],
+          "context": " Actoxumab and bezlotoxumab are human monoclonal antibodies that neutralize the cytotoxic/cytopathic effects of TcdA and TcdB, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76344e9e632bc066000003_001",
+              "question": "Which algorithms are used for compression of SAM files?"
+            }
+          ],
+          "context": "GeneComp, a new reference-based compressor for SAM files"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76344e9e632bc066000003_002",
+              "question": "Which algorithms are used for compression of SAM files?"
+            }
+          ],
+          "context": "The most popular format for genomic data is the SAM format, which contains information such as alignment, quality values, etc. These files are large (on the order of terabytes), which necessitates compression. In this work we propose a new reference-based compressor for SAM files, which can accommodate different levels of compression, based on the specific needs of the user. In particular, the proposed compressor GeneComp allows the user to perform lossy compression of the quality scores, which have been proven to occupy more than half of the compressed file (when losslessly compressed). We show that the proposed compressor GeneComp overall achieves better compression ratios than previously proposed algorithms when working on lossless mode."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76344e9e632bc066000003_003",
+              "question": "Which algorithms are used for compression of SAM files?"
+            }
+          ],
+          "context": "The enormous size of these data motivates the development of data compression algorithms usable for the implementation of the various storage policies that are applied to the produced intermediate and final result files. In this article, we present NGC, a tool for the compression of mapped short read data stored in the wide-spread SAM format. NGC enables lossless and lossy compression and introduces the following two novel ideas: first, we present a way to reduce the number of required code words by exploiting common features of reads mapped to the same genomic positions; second, we present a highly configurable way for the quantization of per-base quality values, which takes their influence on downstream analyses into account. NGC, evaluated with several real-world data sets, saves 33-66% of disc space using lossless and up to 98% disc space using lossy compression. By applying two popular variant and genotype prediction tools to the decompressed data, we could show that the lossy compression modes preserve>99% of all called variants while outperforming comparable methods in some configurations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76344e9e632bc066000003_004",
+              "question": "Which algorithms are used for compression of SAM files?"
+            }
+          ],
+          "context": "Research in bioinformatics primarily involves collection and analysis of a large volume of genomic data. Naturally, it demands efficient storage and transfer of this huge amount of data. In recent years, some research has been done to find efficient compression algorithms to reduce the size of various sequencing data. One way to improve the transmission time of large files is to apply a maximum lossless compression on them. In this paper, we present SAMZIP, a specialized encoding scheme, for sequence alignment data in SAM (Sequence Alignment/Map) format, which improves the compression ratio of existing compression tools available."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76344e9e632bc066000003_005",
+              "question": "Which algorithms are used for compression of SAM files?"
+            }
+          ],
+          "context": "Recent advancements in sequencing technology have led to a drastic reduction in the cost of sequencing a genome. This has generated an unprecedented amount of genomic data that must be stored, processed and transmitted. To facilitate this effort, we propose a new lossy compressor for the quality values presented in genomic data files (e.g. FASTQ and SAM files), which comprise roughly half of the storage space (in the uncompressed domain). Lossy compression allows for compression of data beyond its lossless limit.RESULTS: The proposed algorithm QVZ exhibits better rate-distortion performance than the previously proposed algorithms, for several distortion metrics and for the lossless case. Moreover, it allows the user to define any quasi-convex distortion function to be minimized, a feature not supported by the previous algorithms. Finally, we show that QVZ-compressed data exhibit better performance in the genotyping than data compressed with previously proposed algorithms, in the sense that for a similar rate, a genotyping closer to that achieved with the original quality values is obtained."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa80873d6d6b54f79000013_001",
+              "question": "List ribosomal biogenesis proteins."
+            }
+          ],
+          "context": "Regulatory module involving FGF13, miR-504, and p53 regulates ribosomal biogenesis and supports cancer cell survival."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa80873d6d6b54f79000013_002",
+              "question": "List ribosomal biogenesis proteins."
+            }
+          ],
+          "context": "TGF\u03b2/Activin signalling is required for ribosome biogenesis and cell growth in Drosophila salivary glands."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa80873d6d6b54f79000013_003",
+              "question": "List ribosomal biogenesis proteins."
+            }
+          ],
+          "context": " our results show that TGF\u03b2/Activin signalling is required for ribosomal biogenesis, a key aspect of cellular growth control. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa80873d6d6b54f79000013_004",
+              "question": "List ribosomal biogenesis proteins."
+            }
+          ],
+          "context": "PTEN\u03b2 is an alternatively translated isoform of PTEN that regulates rDNA transcription."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa80873d6d6b54f79000013_005",
+              "question": "List ribosomal biogenesis proteins."
+            }
+          ],
+          "context": "Nucleostemin (NS) is a nucleolar protein that controls ribosomal biogenesis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa80873d6d6b54f79000013_006",
+              "question": "List ribosomal biogenesis proteins."
+            }
+          ],
+          "context": "These findings reveal an important role for HEATR1 in ribosome biogenesis and further support the concept that perturbation of ribosome biosynthesis results in p53-dependent cell cycle checkpoint activation, with implications for human pathologies including cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7339372dc08e987e000013_001",
+              "question": "List drugs that are included in the Vosevi polypill."
+            }
+          ],
+          "context": "On July 18, 2017, the US Food and Drug Administration (FDA) approved sofosbuvir/velpatasvir/voxilaprevir (SOF/VEL/VOX) (Vosevi) fixed-dose combination (FDC), an interferon-free, complete regimen for adult patients with chronic hepatitis C virus (HCV) infection without cirrhosis or with compensated cirrhosis (Child-Pugh A) who have: genotype 1, 2, 3, 4, 5, or 6 infection and have previously been treated with an HCV regimen containing an NS5A inhibitor; and genotype 1a or 3 infection and have previously been treated with an HCV regimen containing sofosbuvir without an NS5A inhibitor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa13fd3d6d6b54f79000003_001",
+              "question": "List 4 drugs used to treat opioid addiction or overdose"
+            }
+          ],
+          "context": "Currently, the American College of Obstetricians and Gynecologists recommends methadone, buprenorphine, or buprenorphine/naloxone in the treatment of prenatal opioid abuse."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa13fd3d6d6b54f79000003_002",
+              "question": "List 4 drugs used to treat opioid addiction or overdose"
+            }
+          ],
+          "context": "PubMed was searched and literature was reviewed on the effectiveness, safety, and side effect profiles of abstinence-based treatment, buprenorphine-naloxone treatment, and methadone treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_001",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": "A fever is likely to occur with roseola, erythema infectiosum (fifth disease), and scarlet fever."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_002",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": "The rash associated with scarlet fever usually develops on the upper trunk, then spreads throughout the body, sparing the palms and soles"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_003",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": "Scarlet fever consists in a diffuse exanthem associated with mucous changes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_004",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": "Cases of above-38 degrees C temperature were seen in about 81.4%, and from 2 to 5 days-duration of temperature were seen in 86.6% of the patients in the year 1976. Cases of above-moderate rash were observed in 68.2%, sever redness of throat in 29.9%, strawberry tongue in 86.3% and angular stomatitis in 37.7% of the patients"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_005",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": "ulture supernatants of strains without a detectable amount of the known ETs were highly mitogenic, indicating the production of other streptococcal mitogens. A correlation with clinical symptoms was determined with regard to exanthema and fever. Strains producing two or three toxins caused a more intense exanthema. Patient temperature was higher (greater than or equal to 38 degrees C) when the infecting strain produced ETB."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_006",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": ") SI with a pronounced generalization including a pharyngeal one (31 cases), 4 of them with a rash (scarlet fever); extrapharyngeal (7 cases), 6 of them with a rash (scarlet fever); 2) SI without pronounced generalization (localized) including 33 cases with the involvement of the lungs and tonsilla and having an ordinary course and 11 cases of a sudden death. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b65d6d6b54f7900000e_007",
+              "question": "Please list 6 symptoms of Scarlet fever."
+            }
+          ],
+          "context": "A total of 171 out of 252 scarlet fever diagnoses were microbiologically verified in 158 patients. The median age was 3.8 years (interquartile range: 2.91-4.78), with the majority (57%) under the age of 4 years. There was fever in 89% of the processes (95% CI: 84-94%), with a temperature of>38\u00b0C in 73% (95% CI: 65-80%), enlarged lymph nodes in 70% (95% CI: 58-82%), absence of cough in 73% (95% CI: 65-80%), and tonsillar exudate in only 24% (95% CI: 17-31%)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a736f0c3b9d13c708000007_001",
+              "question": "What is included in the Mentzer index?"
+            }
+          ],
+          "context": "In this study, macrocytic anemia due to FAD was defined as having an MCV \u2265100 fL and folic acid \u22646 ng/mL; pernicious anemia as having MCV \u2265100 fL, vitamin B12<200 pg/mL, and serum gastric parietal cell antibody positivity; iron deficiency anemia as having MCV<80 fL and iron<60 \u03bcg/dL; and thalassemia trait as having MCV<74 fL, red blood cell (RBC) count>5.0 \u00d7 10(12)/L, and Mentzer index (MCV/RBC)<13."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a736f0c3b9d13c708000007_002",
+              "question": "What is included in the Mentzer index?"
+            }
+          ],
+          "context": "Complete blood count (CBC) parameters of 2196 certainly diagnosed (1272 beta-thalassaemia minor and 924 iron deficiency) samples were used to evaluate the following indices and formulas: Bessman index (RDW), Mentzer formula (MCV/RBC), England and Fraser formula (MCV - RBC - 5 x Hb- 3.4), Shine and Lal formula (MCV2 x MCH/100), Ehsani formula (MCV-10 x RBC), Srivastava formula (MCH/RBC), Green and King formula (MCV2 x RDW/Hb x 100), red distribution width index RDWI (RDW x MCV/RBC), RDW/RBC, as well as our formula (MCV-RBC -3 x Hb). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a736f0c3b9d13c708000007_003",
+              "question": "What is included in the Mentzer index?"
+            }
+          ],
+          "context": "The ratio of the mean corpuscular volume (MCV) and red blood cell count (RBC) can be automatically calculated with any of the newer hematology analyzers.METHODS: The results of 398 patient screens were collected. Data from the set were divided into training and validation subsets. The Mentzer ratio was determined through a receiver operating characteristic (ROC) curve on the first subset, and screened for thalassemia using the second subset. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a736f0c3b9d13c708000007_004",
+              "question": "What is included in the Mentzer index?"
+            }
+          ],
+          "context": "Mentzer ratio MCV/RBC detected all cases of beta thalassemia but was a poor index for iron deficiency detection. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981bcffcd1d6a10c00002d_001",
+              "question": "List 3 symptoms of Wernicke encephalopathy."
+            }
+          ],
+          "context": "Wernicke's encephalopathy (WE) is a neurological syndrome caused by thiamine deficiency, and clinically characterized by ophthalmoplegia, ataxia and acute confusion. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981bcffcd1d6a10c00002d_002",
+              "question": "List 3 symptoms of Wernicke encephalopathy."
+            }
+          ],
+          "context": "entire triad of classic features of Wernicke-Korsakoff syndrome: confusion, ataxia, and ophthalmoplegia or nystagmus. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a981bcffcd1d6a10c00002d_003",
+              "question": "List 3 symptoms of Wernicke encephalopathy."
+            }
+          ],
+          "context": "Wernicke encephalopathy (WE) is a medical emergency caused by thiamine deficiency, characterized by cerebellar ataxia, ophthalmoplegia, and cognitive disturbances"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d96564e03427e73000001_001",
+              "question": "List major risk factors for Alzheimer's disease. "
+            }
+          ],
+          "context": "Apolipoprotein E4 (E4) and type 2 diabetes are major risk factors for cognitive decline and late onset Alzheimer's disease (AD)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d96564e03427e73000001_002",
+              "question": "List major risk factors for Alzheimer's disease. "
+            }
+          ],
+          "context": "Cardiovascular risk factors, especially hypertension, are also major risk factors for Alzheimer's disease (AD)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d96564e03427e73000001_003",
+              "question": "List major risk factors for Alzheimer's disease. "
+            }
+          ],
+          "context": "Clusterin (Apo J) is one of the major risk factors for sporadic form of AD. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d96564e03427e73000001_004",
+              "question": "List major risk factors for Alzheimer's disease. "
+            }
+          ],
+          "context": "Hypertension is one of the major risk factors for central nervous system (CNS) disorders like stroke and Alzheimer's disease (AD)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d96564e03427e73000001_005",
+              "question": "List major risk factors for Alzheimer's disease. "
+            }
+          ],
+          "context": "Major risk factors for AD are advancing age and diabetes. Lately, obesity has been associated with an increased risk of dementia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_001",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Dovitinib, a potent FGFR inhibitor, has demonstrated antitumor activity in heavily pretreated patients with FGFR pathway-amplified breast cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_002",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Dovitinib inhibits multiple tyrosine receptor kinases, predominantly the vascular endothelial growth factor receptors (VEGFR), but also FGFRs, and could be active in MPM."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_003",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Dovitinib (TKI-258/CHIR-258) is a pan receptor tyrosine kinase (RTK) inhibitor that targets VEGFR, FGFR, PDGFR, and KIT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_004",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Dovitinib, a suppressor of FGFR activity, may be active in ACC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_005",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "We tested dovitinib, an inhibitor of both FGF and VEGF receptors, in patients progressing on anti-VEGF treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_006",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Five HNSCC cell lines were characterized based on VEGFR1-3 and FGFR1-4 expression by sqRT-PCR and treated with three different tyrosine kinase inhibitors (TKIs) (nintedanib, dovitinib and pazopanib), all of which are effective against VEGFR and FGFR family members."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_007",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "PURPOSE: Dovitinib is an orally available multi tyrosine kinase inhibitor which inhibits VEGFR 1-3, FGFR 1-3, and PDGFR. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_008",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": ".RESULTS: Four trials involving the selective VEGFR inhibitors axitinib, tivozanib and dovitinib were analysed, all using sorafenib as the comparator. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_009",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "PURPOSE: Dovitinib (TKI258) is an oral multi-tyrosine kinase inhibitor of FGFR, VEGFR, PDGFR \u03b2, and c-Kit. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_010",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Using this PDX model, we confirmed the ability of the FGFR inhibitors, ponatinib, dovitinib and BGJ398, to modulate FGFR signaling, inhibit cell proliferation and induce cell apoptosis in cholangiocarcinoma tumors harboring FGFR2 fusions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_011",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "In addition to VEGFR and PDGFR, dovitinib inhibits FGFR. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_012",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "AZD4547, BGJ398 (infigratinib), Debio-1347 and dovitinib are FGFR1/2/3 inhibitors; BLU9931 is a selective FGFR4 inhibitor; FIIN-2, JNJ-42756493, LY2874455 and ponatinib are pan-FGFR inhibitors. AZD4547, dovitinib and ponatinib are multi-kinase inhibitors targeting FGFRs, colony stimulating factor\u00a01 receptor\u00a0(CSF1R), vascular endothelial growth factor\u00a0(VEGF)R2, and others. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_013",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "In vitro, N87-TR cell lines demonstrated a higher sensitivity than did trastuzumab-sensitive parental cells to the FGFR3 inhibitor dovitinib, which reduced expression of pAKT, ZEB1, and cell migration."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_014",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "The current phase 2 study evaluated the efficacy and tolerability of dovitinib, an FGFR inhibitor, in patients with advanced SCC of the lung."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_015",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "Dovitinib (TKI258) is a small molecule multi-kinase inhibitor currently in clinical phase I/II/III development for the treatment of various types of cancers. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7486a90384be9551000003_016",
+              "question": "Which molecules are inhibited by anticancer drug Dovitinib?"
+            }
+          ],
+          "context": "We tested various T-ALL cell lines against a small-molecule inhibitor screen of 66 compounds targeting two-thirds of the tyrosine kinome and found that combined treatment of T-ALL cells with dovitinib, an orally active multi-targeted small-molecule receptor tyrosine kinase inhibitor, and OP449 synergistically reduced the viability of all tested T-ALL cell lines. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_001",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "New adrenal tumors have also been associated with nonhereditary Carney's triad."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_002",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "Carney designated the combination of 3 rare soft tissue tumors (gastric leiomyosarcoma, pulmonary chondroma, and extraadrenal paraganglioma) as a syndrome. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_003",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "In sporadic Carney's triad additional pulmonary chondromas are observed and there are no SDH mutations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_004",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "A case of bilateral multiple pulmonary chondroma: necessity of follow-up for Carney's triad."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_005",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "We report a case of pulmonary bilateral multiple chondromas that were possibly an initial clinical presentation of Carney's triad. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_006",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "These chondromas were possibly components of Carney's triad, because each nodule had a thin fibrous pseudocapsule and did not have an entrapped epithelium and fat."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_007",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "A curious association of three rare tumours was described by Carney in 1977. 'Carney's triad' characteristically includes multifocal pulmonary chondroma, gastric stromal sarcoma and extra-adrenal paraganglioma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_008",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "We report a female teenager who presented with a gastrointestinal stromal tumor of the stomach and a paraganglioneuroma. She later developed a pulmonary chondroma, fulfilling the requirements of Carney's triad."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_009",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "A 34-year-old man, who had undergone the gastrectomy for gastrointestinal stromal tumor (GIST) and para-aortic paraganglioma 3 years before, was found to have a left lung tumor on a computed tomography. The tumor was revealed to be a pulmonary hamartoma, and diagnosed as Carney's triad."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_010",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "INTRODUCTION: Carney's triad is a rare pathogenic entity which consists of the association in young women of multiple condromatosis in the lung, gastric leiomyosarcoma, and extradrenal paraganglioma; although the presence of three at the same time is not required for its diagnosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_011",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "Interstitial cell of Cajal (ICC) hyperplasia has been documented in conditions associated with multiple gastrointestinal stromal tumours (GISTs) (familial GIST syndromes, Carney's triad and von Recklinghausen's disease) and rarely in the vicinity of sporadic GISTs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_012",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "Multiple gastric tumors and pararenal non functioning paraganglioma were found. No chondromas were detected. An incomplete Carney's Triad was diagnosed. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_013",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "Gastrointestinal stromal tumours (GIST) occur mostly as sporadic solitary lesions involving the tubular GI tract and are only rarely associated with other benign or malignant neoplasms or occur as part of a multi-neoplastic disease as in the setting of Carney's triad and von Recklinghausen's disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75df9883b0d9ea66000002_014",
+              "question": "Which cancers compose Carney's triad?"
+            }
+          ],
+          "context": "Carney's triad is a very unusual syndrome, associating three different tumours on the same patient, a young woman generally: a gastric leiomyoblastoma, a pulmonary chondroma and an extra-adrenal paraganglioma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d2dd21d1251d03b00001a_001",
+              "question": "What do the trispecific HIV antibodies target?"
+            }
+          ],
+          "context": "We engineered trispecific antibodies (Abs) that allow a single molecule to interact with three independent HIV-1 envelope determinants: the CD4 binding site, the membrane-proximal external region (MPER), and the V1V2 glycan site."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacdcf1fcf4565872000009_001",
+              "question": "List BET proteins."
+            }
+          ],
+          "context": "Bromodomain-containing protein 2 (Brd2), which belongs to the bromodomain and extraterminal domain family of proteins, suppresses adipocyte differentiation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacdcf1fcf4565872000009_002",
+              "question": "List BET proteins."
+            }
+          ],
+          "context": "BRD4 is a member of the BET (bromodomain and extraterminal domain) family proteins "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacdcf1fcf4565872000009_003",
+              "question": "List BET proteins."
+            }
+          ],
+          "context": "the role of the BET protein Bdf1 has been explored in Saccharomyces cerevisiae"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacdcf1fcf4565872000009_004",
+              "question": "List BET proteins."
+            }
+          ],
+          "context": "BET proteins BRD2, BRD3 and BRD4"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aacdcf1fcf4565872000009_005",
+              "question": "List BET proteins."
+            }
+          ],
+          "context": " inhibition of Brd4, a BET family member"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

@@ -1,0 +1,703 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_001",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "However, this treatment failed to show benefit in the Enlimomab Acute Stroke Trial."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_002",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "There was no increase in the frequency of adverse events with increasing doses of enlimomab.CONCLUSIONS: Doses of enlimomab between 140 and 480 mg administered over 5 days did not increase the risk of adverse events in patients with ischaemic or haemorrhagic stroke during an observation period of 30 +/- 10 days."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_003",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "Examination of several potential mechanisms for the negative outcome in a clinical stroke trial of enlimomab, a murine anti-human intercellular adhesion molecule-1 antibody: a bedside-to-bench study."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_004",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "BACKGROUND AND PURPOSE: Enlimomab, a murine monoclonal anti-human intercellular adhesion molecule (ICAM)-1 antibody, had a negative outcome in a multicenter acute-stroke trial. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_005",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "These observations provide several possible mechanisms for central nervous system-related clinical deterioration that occurred when Enlimomab was given in acute ischemic stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_006",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "Fewer patients had symptom-free recovery on enlimomab than placebo (p = 0.004), and more died (22.2 versus 16.2%). The negative effect of enlimomab was apparent on days 5, 30, and 90 of treatment (p = 0.005). There were significantly more adverse events with enlimomab treatment than placebo, primarily infections and fever. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec6eb5eda5a5767200000c_007",
+              "question": "Is Enlimomab effective for stroke treatment?"
+            }
+          ],
+          "context": "CONCLUSIONS: The authors conclude that anti-ICAM therapy with enlimomab is not an effective treatment for ischemic stroke in the model studied and, indeed, may significantly worsen stroke outcome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74acd80384be9551000006_001",
+              "question": "Are AAV vectors considered for the treatment of retinal dystrophies?"
+            }
+          ],
+          "context": " These novel gene vectors aim to more safely and efficiently transduce retinal cells, expand the gene packaging capacity of AAV, and utilize new strategies to correct the varying mechanisms of dysfunction found with inherited retinal dystrophies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_001",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "The meta-analysis showed that no significant differences were found in the long-term mortality (OR=0.91, 95% CI 0.07 to 1.09, P=0.30), the rate of dependency (OR=1.02, 95% CI 0.87 to 1.24, P=0.85), and the effective rate (OR=0.98, 95% CI 0.84 to 1.14, P=0.82) between citicoline group and control group. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_002",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": " In conclusion, citicolne cannot reduce long-term mortality and dependence rate in the treatment of acute stroke, and the effective rate of citivoline may be not better than that of controls but with reliable safety."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_003",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "In humans, although a recent trial International Citicoline Trial on Acute Stroke (ICTUS) has shown that global recovery is similar in CDP-choline and placebo groups, CDP-choline was shown to be more beneficial in some patients, such as those with moderate stroke severity and not treated with t-PA. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_004",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "INTERPRETATION: Under the circumstances of the ICTUS trial, citicoline is not efficacious in the treatment of moderate-to-severe acute ischaemic stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_005",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "The trial was stopped for futility at the third interim analysis on the basis of complete data from 2078 patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ec709aeda5a5767200000e_006",
+              "question": "Does International Citicoline Trial on acUte Stroke trial supports efficacy of citicoline for stroke treatment?"
+            }
+          ],
+          "context": "Global recovery was similar in both groups (odds ratio 1\u00b703, 95% CI 0\u00b786-1\u00b725; p=0\u00b7364)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad240f70340b9f058000015_001",
+              "question": "Is human lysyl oxidase-like 2 a glycoprotein?"
+            }
+          ],
+          "context": "This method was successfully applied to a novel recombinant protein, human lysyl oxidase-like 2. Furthermore, the glycosylation PTMs were readily detected at two glycosylation sites in the protein. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad240f70340b9f058000015_002",
+              "question": "Is human lysyl oxidase-like 2 a glycoprotein?"
+            }
+          ],
+          "context": "application to the characterization of human lysyl oxidase-like 2 glycosylation"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad240f70340b9f058000015_003",
+              "question": "Is human lysyl oxidase-like 2 a glycoprotein?"
+            }
+          ],
+          "context": "These results suggest that the N-glycan at Asn-644 of hLOXL2 enhances the solubility and stability of the LOX catalytic domain."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad3013d0340b9f058000019_001",
+              "question": "Can GDF15 be a biomarker for metformin treatment?"
+            }
+          ],
+          "context": "Growth Differentiation Factor 15 as a Novel Biomarker for Metformin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad3013d0340b9f058000019_002",
+              "question": "Can GDF15 be a biomarker for metformin treatment?"
+            }
+          ],
+          "context": "GDF15 levels are a biomarker for the use of metformin in people with dysglycemia, and its concentration reflects the dose of metformin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa395fcd6d6b54f79000007_001",
+              "question": "Has rituximab been considered as a treatment for chronic fatigues syndrome? (November 2017)"
+            }
+          ],
+          "context": " The use of rintatolimod and rituximab as well as counselling, behavioural and rehabilitation therapy programs may be of benefit for CFS/ME, but the evidence of their effectiveness is still limited. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab9032afcf4565872000018_001",
+              "question": "Does oncogene-induced DNA replication stress inhibit genomic instability?"
+            }
+          ],
+          "context": "Oncogene-induced DNA replication stress is thought to drive genomic instability in cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab9032afcf4565872000018_002",
+              "question": "Does oncogene-induced DNA replication stress inhibit genomic instability?"
+            }
+          ],
+          "context": "We propose that single-stranded DNA generated in response to oncogene-induced replication stress compromises the repair of deaminated cytosines and other damaged bases, leading to the observed SNS mutator phenotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_001",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": ". Brucellosis is a major cause of pyrexia of unknown origin (PUO)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_002",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Brucellosis is the most common bacterial zoonosis, and causes a considerable burden of disease in endemic countries. Cardiovascular involvement is the main cause of mortality due to infection with Brucella spp,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_003",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "quite abruptly, he developed asthenia and hypersomnia without any apparent cause or symptoms like fever, chills, or night sweats. On November 14, 2009, he suffered from pain and edema in the right testicle that coincided with pain in the abdomen. Clinical, serological, and bacteriological investigations confirmed the first case of unilateral orchitis in man in Ecuador caused by Brucella abortus biovar 1"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_004",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Brucellosis is not frequent in Chile but it may present with life threatening complications like endocarditis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_005",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Human brucellosis exhibits diverse pathological manifestations that can affect almost any organ. In particular, osteoarticular complications are the most common focal manifestation of brucellosis and occur in 40-80% of patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_006",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Brucella. Human brucellosis often makes the diagnosis difficult. The symptoms and clinical signs most commonly reported are fever, fatigue, malaise, chills, sweats headaches, myalgia, arthralgia, and weight loss. Some cases have been presented with only joint pain, lower backache, and involuntary limb movement, burning feet, or ischemic heart attacks. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6800ad6d6b54f79000011_007",
+              "question": "Is Brucella abortus the organism that causes brucillosis known to cause spontaneous abortions in humans?"
+            }
+          ],
+          "context": "Forty-five cases were collected (31 acute and 14 sub-acute). Contamination was digestive in 62%. Symptoms of patients were fever (93%), sweating (82%), arthralgia (78%) and splenomegaly (51%). Elevated erythrocyte sedimentation rate was determined in 80%, leukopenia in 49% and anaemia in 37% of cases. Blood cultures were positives in 39% of cases. The four sequenced strains were identified as Brucella melitensis biovar abortus. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd3707fcf456587200002d_001",
+              "question": "Is the petrous bone used in ancient DNA sampling?"
+            }
+          ],
+          "context": "Large-scale genomic analyses of ancient human populations have become feasible partly due to refined sampling methods. The inner part of petrous bones and the cementum layer in teeth roots are currently recognized as the best substrates for such research."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd3707fcf456587200002d_002",
+              "question": "Is the petrous bone used in ancient DNA sampling?"
+            }
+          ],
+          "context": "Ancient DNA (aDNA) research involves invasive and destructive sampling procedures that are often incompatible with anthropological, anatomical, and bioarcheological analyses requiring intact skeletal remains. The osseous labyrinth inside the petrous bone has been shown to yield higher amounts of endogenous DNA than any other skeletal element; however, accessing this labyrinth in cases of a complete or reconstructed skull involves causing major structural damage to the cranial vault or base."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd3707fcf456587200002d_003",
+              "question": "Is the petrous bone used in ancient DNA sampling?"
+            }
+          ],
+          "context": "first genome-wide ancient DNA from Anatolian Neolithic farmers, whose genetic material we obtained by extracting from petrous bones,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_001",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recent work in human and fruitfly tissues revealed that long introns are extensively processed cotranscriptionally and in a stepwise manner, before their two flanking exons are spliced together"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_002",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Cutting a Long Intron Short: Recursive Splicing and Its Implications."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_003",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": " Furthermore, we uncover the potential to investigate the multi-step nature of splicing, assessing various types of recursive splicing events"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_004",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recursive splicing is a process in which large introns are removed in multiple steps by re-splicing at ratchet points--5' splice sites recreated after splicing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_005",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Together, these results indicate that recursive splicing is commonly used in Drosophila, occurs in humans, and provides insight into the mechanisms by which some large introns are removed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_006",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recursive splicing in long vertebrate genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_007",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Moreover, the RS-sites are found in some of the longest introns across vertebrates. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_008",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "The peculiarities of large intron splicing in animals."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_009",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "These \"large introns\" must be spliced out of the pre-mRNA in a timely fashion, which involves bringing together distant 5' and 3' acceptor and donor splice sites."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_010",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Using a computational analysis of the genomic sequences, we show that vertebrates lack the proper enrichment of RP-sites in their large introns, and, therefore, require some other method to aid splicing"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_011",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Subdivision of large introns in Drosophila by recursive splicing at nonexonic elements."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abc974bfcf456587200001f_012",
+              "question": "Is recursive splicing more common in short introns?"
+            }
+          ],
+          "context": "Recursive splice sites predicted with highly stringent criteria are found at much higher frequency than expected in the sense strands of introns>20 kb, but they are found only at the expected frequency on the antisense strands, and they are underrepresented within introns<10 kb."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_001",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "Lysyl oxidase (LOX) and LOX-like (LOXL) proteins play crucial roles in ECM remodeling due to their collagen crosslinking and intracellular functions. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_002",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "Lysyl oxidase-like 1, a crosslinking enzyme implicated in collagen and elastin biogenesis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_003",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "LOXL2 mediates collagen crosslinking"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_004",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": "The same was true for assaying lysyl oxidase, an enzyme involved in crosslinking of matrix molecules."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac07b67dd95b2cd42000001_005",
+              "question": "Is Lysyl oxidase crosslinking collagen?"
+            }
+          ],
+          "context": " In addition, collagen fibers in metastatic lung tumors exhibit greater linearity and organization as a result of collagen crosslinking by the lysyl oxidase (LOX) family of enzymes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0817cd0c506ce46000001_001",
+              "question": "Is p53 a transcription factor?"
+            }
+          ],
+          "context": "As a transcription factor, p53 mainly exerts its tumor suppressive function through transcriptional regulation of many target genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0817cd0c506ce46000001_002",
+              "question": "Is p53 a transcription factor?"
+            }
+          ],
+          "context": "p53 functions primarily as a sequence-specific transcription factor that controls the expression of hundreds of protein-coding genes and noncoding RNAs, including microRNAs (miRNAs) and long noncoding RNAs (lncRNAs)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0817cd0c506ce46000001_003",
+              "question": "Is p53 a transcription factor?"
+            }
+          ],
+          "context": " p53 is a transcription factor "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_001",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "o determine the difference in sternal infection and other infectious events between conventional wire and cable-tie-based closure techniques post-sternotomy in a collective of patients after cardiac surgery."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_002",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "Our study underlines a neutral effect of the sternal ZipFix\u2122 system in patients regarding sternal infection. Postoperative complications are similar in both sternal closure methods. The cable-tie-based system is fast, easy to use, reliable and safe."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_003",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": " Wire closure still remains the preferred technique despite reasonable disadvantages. Associated complications, such as infection and sternal instability, cause time- and cost-consuming therapies. We present a new tool for sternal closure with its first clinical experience and results.METHODS: The sternal ZipFix(TM) System is based on the cable-tie principle. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab2cdc5fcf4565872000016_004",
+              "question": "Is sternotomy closure done using either a sternal ZipFix\u2122 implant  or conventional steel wire following cardiac surgery?"
+            }
+          ],
+          "context": "In our initial evaluation, the short-term results have shown that the sternal ZipFix(TM) can be used safely and effectively. It is fast, easy to use and serves as a potential alternative for traditional wire closure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_001",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "In addition to widespread transcription of long non-coding RNAs (lncRNAs) in mammalian cells, bidirectional ncRNAs are transcribed on enhancers, and are thus referred to as enhancer RNAs (eRNAs)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_002",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "Kallikrein-related peptidase 3 (KLK3), which codes for prostate-specific antigen (PSA), is a well-known AR-regulated gene and its upstream enhancers produce bidirectional enhancer RNAs (eRNAs), termed KLK3e."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_003",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "The distal enhancer of the gonadotropin hormone \u03b1-subunit gene, chorionic gonadotropin alpha (Cga), is responsible for Cga cell-specific expression in gonadotropes and thyrotropes, and we show here that it encodes two bidirectional nonpolyadenylated RNAs whose levels are increased somewhat by exposure to gonadotropin-releasing hormone but are not necessarily linked to Cga transcriptional activity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_004",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "A richer picture has taken shape, integrating transcription of coding genes, enhancer RNAs (eRNAs), and various other noncoding transcriptional events. In this review we give an overview of recent studies detailing the mechanisms of RNA polymerase II (RNA Pol II)-based transcriptional initiation and discuss the ways in which transcriptional direction is established as well as its functional implications."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac24f7595d0062724000003_005",
+              "question": "Is transcription of eRNA bidirectional?"
+            }
+          ],
+          "context": "XR-seq maps capture transcription-coupled repair at sites of divergent gene promoters and bidirectional enhancer RNA (eRNA) production at enhancers"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad35933133db5eb78000001_001",
+              "question": "Is the protein pelota a ribosomal rescue factor?"
+            }
+          ],
+          "context": "a novel binding partner of the ribosome recycling protein Pelota"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad35933133db5eb78000001_002",
+              "question": "Is the protein pelota a ribosomal rescue factor?"
+            }
+          ],
+          "context": "n eukaryotes, Pelota (Dom34 in yeast) and Hbs1 are responsible for solving general problems of ribosomal stall in translation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad35933133db5eb78000001_003",
+              "question": "Is the protein pelota a ribosomal rescue factor?"
+            }
+          ],
+          "context": "In eukaryotes, the protein complex of Pelota (yeast Dom34) and Hbs1 translational GTPase recognizes the stalled ribosome containing the defective mRNA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d9ab94e03427e73000003_001",
+              "question": "Is Cystatin D a biomarker?"
+            }
+          ],
+          "context": "Cystatin D (CST5): An ultra-early inflammatory biomarker of traumatic brain injury."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9db99ffd02ddc336000001_001",
+              "question": "Is CXCL7 a chemokine?"
+            }
+          ],
+          "context": "CXCL7, a chemokine highly expressed in platelets, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9db99ffd02ddc336000001_002",
+              "question": "Is CXCL7 a chemokine?"
+            }
+          ],
+          "context": "Chemokine CXCL7 Heterodimers"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab144fefcf4565872000012_001",
+              "question": "The TRPM2 gene is associated with development of spontaneous thromboembolism?"
+            }
+          ],
+          "context": "TheTransientReceptorPotentialMelastatin 2 (TRPM2) is a member of G protein coupled receptor superfamily and a novel dual-function protein that possesses both ion channel andAdenosine 5'-DiphosPhataseRibose (ADPR) hydrolase function. TRPM2 is involved in Ca2+signaling in various cells as an endogenous redox sensor for oxidative stress and reactive oxygen species, and contributes to cytokine production, insulin release, motility, Ca2+entry and Ca2+-dependent cellular reactions such as endothelial hyper-permeability and apoptosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ab144fefcf4565872000012_002",
+              "question": "The TRPM2 gene is associated with development of spontaneous thromboembolism?"
+            }
+          ],
+          "context": "We show here that the redox-sensitive transient receptor potential (TRP) cation channel TRPM2 is expressed in the phagosomal membrane and regulates macrophage bactericidal activity through the activation of phagosomal acidification"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0aee419833b0d7b000004_001",
+              "question": "Is a mutation of the  ZIKV's membrane protein prM responsible for the microcephaly in new-born infants?"
+            }
+          ],
+          "context": "Here we show that a single serine-to-asparagine substitution [Ser139\u2192Asn139(S139N)] in the viral polyprotein substantially increased ZIKV infectivity in both human and mouse neural progenitor cells (NPCs) and led to more severe microcephaly in the mouse fetus, as well as higher mortality rates in neonatal mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0aee419833b0d7b000004_002",
+              "question": "Is a mutation of the  ZIKV's membrane protein prM responsible for the microcephaly in new-born infants?"
+            }
+          ],
+          "context": "A single mutation in the prM protein of Zika virus contributes to fetal microcephaly."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_001",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "fibroblasts stimulated with the fibrocyte-secreted inflammatory signal tumor necrosis factor-\u03b1 secrete the small leucine-rich proteoglycan lumican"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_002",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "TNF-\u03b1-stimulated fibroblasts secrete lumican to promote fibrocyte differentiation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_003",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "Secreted 70kDa lumican stimulates growth and inhibits invasion of human pancreatic cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_004",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "the elevated level of lumican secretion to extracellular space leads to actin cytoskeletal remodeling followed by an increase in migration capacity of human colon LS180 cells"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_005",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "Lumican is a secreted proteoglycan that regulates collagen fibril assembly."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ad255210340b9f058000018_006",
+              "question": "Is lumican a secreted protein?"
+            }
+          ],
+          "context": "This is the first time that the synthesis and secretion of lumican in human melanoma cell lines is reported. "
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

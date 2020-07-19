@@ -1,0 +1,1342 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5aae6a86fcf456587200000e_001",
+              "question": "What are the 3 types of ultraviolet (UV) solar radiation?"
+            }
+          ],
+          "context": "short-wave UVC (200-280 nm), medium-wave UVB (280-320 nm), and long-wave UVA (320-400 nm)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aae6a86fcf456587200000e_002",
+              "question": "What are the 3 types of ultraviolet (UV) solar radiation?"
+            }
+          ],
+          "context": " short-wave UVC (200-280 nm), mid-wave UVB (280-320 nm), and long-wave UVA (320- 400 nm)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aae6a86fcf456587200000e_003",
+              "question": "What are the 3 types of ultraviolet (UV) solar radiation?"
+            }
+          ],
+          "context": "solar UV, largely confined to the UVB (290-320 nm) and short-wavelength UVA (320-340 nm) region, there is currently no agreed-upon method to measure broad-spectrum protection against long-wavelength UVA (340-400 nm)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5580faa1ab7d2e00001a_001",
+              "question": "What in vivo tau tracers are being used?"
+            }
+          ],
+          "context": "The recent development of selective in-vivo tau PET imaging ligands including [(18)F]THK523, [(18)F]THK5117, [(18)F]THK5105 and [(18)F]THK5351, [(18)F]AV1451(T807) and [(11)C]PBB3 has provided information about the role of tau in the early phases of neurodegenerative diseases, and provided support for diagnosis, prognosis, and imaging biomarkers to track disease progression."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5580faa1ab7d2e00001a_002",
+              "question": "What in vivo tau tracers are being used?"
+            }
+          ],
+          "context": "Using PET radiotracers for tau and A\u03b2 lesions, we developed an image analysis tool to measure the distance of tracer-positive voxels from the gray matter-white matter boundary. We studied 5 AD and 5 healthy subjects with both (18)F-THK5117 (tau) and (11)C-Pittsburgh compound B (A\u03b2) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5580faa1ab7d2e00001a_003",
+              "question": "What in vivo tau tracers are being used?"
+            }
+          ],
+          "context": "Early clinical results of two tau tracers, [(18)F]T808 and [(18)F]T807, have recently been reported. In the present study, the biodistribution, radiometabolite quantification, and competition-binding studies were performed in order to acquire comparative preclinical data as well as to establish the value of T808 and T807 as benchmark compounds for assessment of binding affinities of eight new/other tau tracers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5580faa1ab7d2e00001a_004",
+              "question": "What in vivo tau tracers are being used?"
+            }
+          ],
+          "context": "No specific binding of [(18)F]T808 was found in transgenic mice expressing mutant human P301L tau. In semiquantitative autoradiography studies on human Alzheimer disease slices, we observed more than 50% tau selective blocking of [(18)F]T808 in the presence of 1 \u00b5mol/L of the novel ligands. This study provides a straightforward comparison of the binding affinity and selectivity for tau of the reported radiolabeled tracers BF-158, BF-170, THK5105, lansoprazole, astemizole, and novel tau positron emission tomography ligands against T807 and T808. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5580faa1ab7d2e00001a_005",
+              "question": "What in vivo tau tracers are being used?"
+            }
+          ],
+          "context": "Comparison of New Tau PET-Tracer Candidates With [18F]T808 and [18F]"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5580faa1ab7d2e00001a_006",
+              "question": "What in vivo tau tracers are being used?"
+            }
+          ],
+          "context": "Tau positron emission tomography radiolabelled probes such as T807, THK-5117, and PBB3 can image the pathology of the disease in vivo. The 18F-labeled tau imaging agents 18F-THK-5351, 18F-T807 (18F-AV-1451), and 18F-RO6958948 are presently under evaluation in clinical studies and clinical trials worldwide. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_001",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Association of monoamine oxidase-A genetic variants and amygdala morphology in violent offenders with antisocial personality disorder and high psychopathic traits."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_002",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "The interaction of the low activity variant of the monoamine oxidase-A (MAOA-L) gene and early childhood adversity has been shown to predict aggression in clinical and non-clinical populations"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_003",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Monoamine Oxidase-A Genetic Variants and Childhood Abuse Predict Impulsiveness in Borderline Personality Disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_004",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": " These preliminary results suggest that MAOA-L may modulate the impact of childhood abuse on impulsivity in BPD. Results additionally indicate that impulsiveness may be expressed differently in BPD and ASPD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_005",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Elevated Monoamine Oxidase-A Distribution Volume in Borderline Personality Disorder Is Associated With Severity Across Mood Symptoms, Suicidality, and Cognition."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_006",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "These results suggest that elevated MAO-A VT is associated with multiple indicators of BPD severity, including BPD symptomatology, mood symptoms, suicidality, and neurocognitive impairment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_007",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "No association between a polymorphism in the promoter region of the MAOA gene with antisocial personality traits in alcoholics."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_008",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Taken together, these findings suggest that the three-repeat allele of the MAOAuVNTR 30-bp polymorphism is not associated with impulsive and aggressive personality traits."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_009",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Different allele distribution of a regulatory MAOA gene promoter polymorphism in antisocial and anxious-depressive alcoholics"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_010",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "The present study tested whether a novel functional polymorphism in the promotor region of the X-chromosomal monoamine oxidase A gene (MAOA) was related to antisocial and anxious-depressive traits in alcoholics."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_011",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "aken together, these findings suggest that the 3-repeat allele of the MAOA polymorphism contributes modestly to the dimension of overand underreactive behaviors as possible antecedents of alcoholism."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_012",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Association studies suggest that the low activity variant of the monoamine oxidase A (MAOA)-uVNTR polymorphism confers risk for emotional disturbances associated with antisocial traits, particularly in males. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_013",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "A polymorphism of the MAOA gene is associated with emotional brain markers and personality traits on an antisocial index"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_014",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "The monoamine oxidase A (MAOA) gene has been shown to moderate the impact of maltreatment on antisocial behaviour."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_015",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Non-linear interactions between the MAOA gene and violence were detected, suggesting that the genetic moderation may come about once a certain level of violence is experienced"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_016",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "The history of research on the association between platelet monoamine oxidase (MAO) activity and personality traits, such as sensation seeking and impulsiveness, is reviewed. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_017",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Monoamine oxidase a gene is associated with borderline personality disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_018",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "As for its role in aggression, impulsivity, suicide and mood liability, monoamine oxidase A can be considered a functional candidate in borderline personality disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_019",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "These results show that the monoamine oxidase A gene may play an important role in the etiological development of the borderline personality disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_020",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Gene environment interactions with a novel variable Monoamine Oxidase A transcriptional enhancer are associated with antisocial personality disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_021",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "However, clinical associations between this VNTR genotype and behavioral states have been inconsistent. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_022",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "Monoamine oxidase A gene promoter methylation and transcriptional downregulation in an offender population with antisocial personality disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a99566e1d1251d03b00000f_023",
+              "question": "With which personality traits has the human monoamine oxidase A (MAOA) gene been associated?"
+            }
+          ],
+          "context": "hese results are consistent with prior literature suggesting MAOA and serotonergic dysregulation in antisocial populations. Our results offer the first evidence suggesting epigenetic mechanisms may contribute to MAOA dysregulation in antisocial offenders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_001",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "mTOR N-terminal heat repeat domain"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_002",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "TOG5-specific N-terminal HEAT repeat "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_003",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "DNA-dependent protein kinase catalytic subunit (DNA-PKcs) is central to the regulation of the DNA damage response and repair through nonhomologous end joining. The structure has proved challenging due to its large size and multiple HEAT repeats."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_004",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "HEAT repeat-containing protein 1 (HEATR1) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_005",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "The first 1,300 residues of Tor form a HEAT repeat-containing \u03b1-solenoid with four distinct segments: a highly curved 800-residue N-terminal 'spiral', followed by a 400-residue low-curvature 'bridge' and an extended 'railing' running along the bridge leading to the 'cap' that links to FAT region."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_006",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "Rif1 proteins are large and characterized by N-terminal HEAT repeats, predicted to form an elongated alpha-helical structure"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_007",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "B56\u03b3 contains 18 \u03b1-helices that are organized into eight HEAT (Huntington-elongation-A subunit-TOR) repeat motifs. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_008",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "Here, we reveal a remarkable complexity in the unfolding of giant HEAT-repeat protein PR65/A, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_009",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "A HEAT-repeat superhelix within SF3b155 plays a key role in branch site recognition."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abd44b1fcf4565872000030_010",
+              "question": "List proteins with HEAT repeats"
+            }
+          ],
+          "context": "The HEAT-repeat protein Pds5B"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac5469fcf4565872000005_001",
+              "question": "What are 7 symptoms of yellow fever?"
+            }
+          ],
+          "context": "Infection with yellow fever virus (YFV), an explosively replicating flavivirus, results in viral hemorrhagic disease characterized by cardiovascular shock and multi-organ failure"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac5469fcf4565872000005_002",
+              "question": "What are 7 symptoms of yellow fever?"
+            }
+          ],
+          "context": ". YF usually causes fever, muscle pain with prominent backache, headache, shivers, loss of appetite, and nausea or vomiting."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aac5469fcf4565872000005_003",
+              "question": "What are 7 symptoms of yellow fever?"
+            }
+          ],
+          "context": "The illness was characterized by fever, headache, myalgia, gastrointestinal symptoms, hepatic and renal dysfunction, and (in the fatal case), shock and coagulopathy,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_001",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "In addition, overexpression of H19 was found to downregulate DIRAS3 expression, promote mTOR phosphorylation and inhibit autophagy activation in cardiomyocytes exposed to high glucose. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_002",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "In conclusion, our study suggested that H19 could inhibit autophagy in cardiomyocytes by epigenetically silencing of DIRAS3, which might provide novel insights into understanding the molecular mechanisms of diabetic cardiomyopathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_003",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "LncRNA H19 inhibits autophagy by epigenetically silencing of DIRAS3 in diabetic cardiomyopathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_004",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "The long non-coding RNA H19 promotes cardiomyocyte apoptosis in dilated cardiomyopathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_005",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "H19 knockdown in the myocardium of DCM rats attenuated cardiomyocyte apoptosis and improved left ventricular structure and function. Adriamycin treatment was associated with elevated H19 and miR-675 expression and increased apoptosis in neonatal cardiomyocytes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_006",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "Moreover, H19 knockdown was found to increase PA2G4 expression and suppress apoptosis in cardiomyocytes exposed to adriamycin. In conclusion, our study suggests that H19/miR-675 axis is involved in the promotion of cardiomyocyte apoptosis by targeting PA2G4, which may provide a new therapeutic strategy for the treatment of adriamycin-induced DCM."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_007",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "Downregulation of long non-coding RNA H19 promotes P19CL6 cells proliferation and inhibits apoptosis during late-stage cardiac differentiation via miR-19b-modulated Sox6."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_008",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "Biological function analysis showed that knockdown of H19 promoted cell proliferation and inhibits cell apoptosis. H19 suppressed miR-19b expression and miR-19b targeted Sox6, which inhibited cell proliferation and promoted apoptosis in P19CL6 cells during late-stage cardiac differentiation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_009",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "Downregulation of H19 promoted cell proliferation and inhibited cell apoptosis during late-stage cardiac differentiation by regulating the negative role of miR-19b in Sox6 expression, which suggested that the manipulation of H19 expression could serve as a potential strategy for heart disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_010",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "Knockdown and overexpression experiments showed that H19 induces a strong osteogenic phenotype by altering the NOTCH1 pathway."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_011",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "A knockdown of H19 in valve interstitial cells (VICs) increased the expression of NOTCH1 and decreased the level of RUNX2 and BMP2, 2 downstream targets repressed by NOTCH1. In rescue experiments, the transfection of a vector encoding for the active Notch intracellular domain prevented H19-induced mineralization of valve interstitial cells"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_012",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "Long noncoding RNA H19 controls DUSP5/ERK1/2 axis in cardiac fibroblast proliferation and fibrosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac7185f0340b9f058000004_013",
+              "question": "Which cellular functions are affected by lncRNA H19 in the heart?"
+            }
+          ],
+          "context": "H19 ectopic overexpression reduces DUSP5 abundance and increases the proliferation of cardiac fibroblast, whereas H19 silencing causes the opposite effects. In a broader perspective, these results demonstrated that LncRNA H19 contributes to cardiac fibroblast proliferation and fibrosis, which act in part through repression of DUSP5/ERK1/2."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_001",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": " In particular, we found that the expression of hsa_circ_0058246 was elevated in tumor specimens of patients with poor clinical outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_002",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Circular RNA circ-ABCB10 promotes breast cancer proliferation and progression through sponging miR-1271."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_003",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Results found circ-ABCB10, was significantly up-regulated in breast cancer tissue."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_004",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "In vitro, loss-of-function experiments showed circ-ABCB10 knockdown suppressed the proliferation and increased apoptosis of breast cancer cells. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_005",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Overall, results identified a new functional circ-ABCB10 in breast cancer tumorigenesis, and reveal the important regulatory role of circ-ABCB10 through sponging miR-1271, providing a novel insight for breast cancer pathogenesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_006",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Novel Role of FBXW7 Circular RNA in Repressing Glioma Tumorigenesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_007",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Upregulation of FBXW7-185aa in cancer cells inhibited proliferation and cell cycle acceleration, while knockdown of FBXW7-185aa promoted malignant phenotypes invitro and invivo. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_008",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Moreover, circ-FBXW7 and FBXW7-185aa levels were reduced in glioblastoma clinical samples compared with their paired tumor-adjacent tissues (P<.001). Circ-FBXW7 expression positively associated with glioblastoma patient overall survival (P = .03).Conclusions: Endogenous circRNA encodes a functional protein in human cells, and circ-FBXW7 and FBXW7-185aa have potential prognostic implications in brain cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_009",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Detection and characterization of ciRS-7: a potential promoter of the development of cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_010",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "Most recently, a study reported ciRS-7 acted as an oncogene in hepatocellular carcinoma through targeting miR-7 expression. This suggest ciRS-7/ miR-7 axis affects oncogenesis, and it provides a new perspective on the mechanisms of decreased miR-7 expression in cancer tissues. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac721230340b9f058000005_011",
+              "question": "Name 4 circular RNA molecules associated with carcinogenesis."
+            }
+          ],
+          "context": "This review summarizes the structure and function of circRNAs and provides evidence for the impact of ciRS-7 in promoting the development of cancer by acting as sponge of miR-7."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac2776195d0062724000006_001",
+              "question": "List diseases caused by protein glutamine expanded repeats"
+            }
+          ],
+          "context": "Huntington's Disease (HD) is a fatally inherited neurodegenerative disorder caused by an expanded glutamine repeat in the N-terminal region of the huntingtin (HTT) protein. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac2776195d0062724000006_002",
+              "question": "List diseases caused by protein glutamine expanded repeats"
+            }
+          ],
+          "context": "An increasing number of neurodegenerative disorders have been found to be caused by expanding CAG triplet repeats that code for polyglutamine. Huntington's disease (HD) is the most common of these disorders and dentatorubral-pallidoluysian atrophy (DRPLA) is very similar to HD, but is caused by mutation in a different gene, making them good models to study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac2776195d0062724000006_003",
+              "question": "List diseases caused by protein glutamine expanded repeats"
+            }
+          ],
+          "context": "Dentatorubral-pallidoluysian atrophy (DRPLA) is caused by expansion of a glutamine repeat in DRPLA protein."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac2776195d0062724000006_004",
+              "question": "List diseases caused by protein glutamine expanded repeats"
+            }
+          ],
+          "context": "The genetic defect in dentatorubral-pallidoluysian atrophy (DRPLA) is expansion of the CAG repeat. The mutant gene is translated into the protein which carries the expanded glutamine repeat."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_001",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "Valaciclovir (Valtrex, Zelitrex), the L-valine ester of aciclovir, increases aciclovir bioavailability by 3- to 5-fold over that achievable with oral aciclovir. It addresses many unmet needs of currently available anti-herpesvirus therapie"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_002",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "In controlled clinical trials in herpes zoster, valaciclovir (1000 mg three times daily) is superior to aciclovir in speeding the resolution of zoster-associated pain and post-herpetic neuralgia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_003",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "In a series of controlled, randomised trials of valaciclovir, aciclovir and placebo for the acute treatment of genital HSV infections in approximately 3000 patients, twice daily valaciclovir was proven as effective as the standard 5 times daily aciclovir regimen in resolving the clinical signs and symptoms of lesional disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_004",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "alacyclovir is the only antiviral drug approved for a once-daily dose of suppressive therapy for genital herpes, as well as the only antiviral drug US FDA approved for a 3-day regimen of episodic treatment of recurrent genital herpes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_005",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "valacyclovir is also indicated in the reduction of the sexual transmission of herpes simplex virus infection and for the treatment of herpes labialis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_006",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "n herpes zoster, valacyclovir is more effective than acyclovir or placebo (and as equally effective as famciclovir) in shortening the length and severity of herpes zoster-associated pain and postherpetic neuralgia. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_007",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "valacyclovir and famciclovir are efficacious and safe for the treatment of the first episode and recurrent genital herpes and are useful as suppressive therapy for individuals with frequent genital herpes recurrences."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abcf755fcf4565872000028_008",
+              "question": "Please list 3 diseases treated with Valtrex(valacyclovir)"
+            }
+          ],
+          "context": "valacyclovir and famciclovir have been shown to speed the healing of herpes zoster, and data suggests that these agents also decrease associated acute and chronic pain in people of 50 years of age or older."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0f7b919833b0d7b000006_001",
+              "question": "What are the 3 antidotes for anticoagulant (anti-blood clotting) drugs, including factor Xa inhibitors, as of November 2017."
+            }
+          ],
+          "context": " two potential reversal agents for oral direct factor Xa inhibitors (andexanet alfa and ciraparantag) are at various stages of clinical development. Idarucizumab, a reversal agent for the oral direct thrombin inhibitor dabigatran, was approved by FDA in October 2015."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0f7b919833b0d7b000006_002",
+              "question": "What are the 3 antidotes for anticoagulant (anti-blood clotting) drugs, including factor Xa inhibitors, as of November 2017."
+            }
+          ],
+          "context": "Idarucizumab and andexanet alfa have been reported to produce anticoagulation reversal effects within minutes of administration. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0f7b919833b0d7b000006_003",
+              "question": "What are the 3 antidotes for anticoagulant (anti-blood clotting) drugs, including factor Xa inhibitors, as of November 2017."
+            }
+          ],
+          "context": "Idarucizumab has recently been approved in United States for dabigatran reversal, whereas andexanet alfa is expected to get approved in the near future for reversal of oral factor Xa inhibitors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0f7b919833b0d7b000006_004",
+              "question": "What are the 3 antidotes for anticoagulant (anti-blood clotting) drugs, including factor Xa inhibitors, as of November 2017."
+            }
+          ],
+          "context": ". Aripazine has shown promising results to reverse the effects of LMWH, fondaparinux, and direct oral anticoagulants but is still in the developmental phase."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ac0f7b919833b0d7b000006_005",
+              "question": "What are the 3 antidotes for anticoagulant (anti-blood clotting) drugs, including factor Xa inhibitors, as of November 2017."
+            }
+          ],
+          "context": "Protamine sulfate reverses the effect of unfractionated heparin completely and of low-molecular-weight heparin (LMWH) partially."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_001",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "We discovered the most differentiated variants between TBN and HAN at chromosome 1q42.2 and 2p21. EGLN1 (or HIFPH2, MIM 606425) and EPAS1 (or HIF2A, MIM 603349), both related to hypoxia-inducible factor, were found most differentiated in the two regions, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_002",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "All of our population genomic and statistical analyses indicate that EPAS1 and EGLN1 are most likely responsible for HAA of Tibetans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_003",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Recent studies have identified genes involved in high-altitude adaptation in Tibetans. Genetic variants/haplotypes within regions containing three of these genes (EPAS1, EGLN1, and PPARA) are associated with relatively decreased hemoglobin levels observed in Tibetans at high altitude, providing corroborative evidence for genetic adaptation to this extreme environment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_004",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": " In combination with the reported data, we identified strong signals of selective sweep in two hypoxia-related genes, EPAS1 and EGLN1. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_005",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Three of these genes, EPAS1, EGLN1 and PPARA, regulate or are regulated by hypoxia inducible factor, a principal controller of erythropoiesis and other organismal functions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_006",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Identification of a Tibetan-specific mutation in the hypoxic gene EGLN1 and its contribution to high-altitude adaptation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_007",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Here we conducted resequencing of the entire genomic region (59.4 kb) of the hypoxic gene EGLN1 (one of the top candidates from the genome-wide scans) in Tibetans and identified 185 sequence variations, including 13 novel variations (12 substitutions and 1 insertion or deletion)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_008",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "The estimated selective intensity (0.029 for the C allele of rs186996510) puts EGLN1 among the known genes that have undergone the strongest selection in human populations, and the onset of selection was estimated to have started at the early Neolithic (\u223c8,400 years ago). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_009",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Two functional loci in the promoter of EPAS1 gene involved in high-altitude adaptation of Tibetans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_010",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "EPAS1 involves in the hypoxic response and is suggested to be responsible for the genetic adaptation of high-altitude hypoxia in Tibetans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_011",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Three of these genes (EPAS1, EGLN1 and PPARA) are associated with decreased haemoglobin levels compared with non-Tibetans living at altitude. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_012",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "HMOX2 Functions as a Modifier Gene for High-Altitude Adaptation in Tibetans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_013",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "In this study, we report a downstream gene (HMOX2) involved in heme catabolism, which harbors potentially adaptive variants in Tibetans. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_014",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Collectively, we propose that HMOX2 contributes to high-altitude adaptation in Tibetans by functioning as a modifier in the regulation of hemoglobin metabolism."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_015",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Positively selected haplotypes of EGLN1 and PPARA were significantly associated with the decreased hemoglobin phenotype that is unique to this highland population. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_016",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Studies of Tibetans revealed candidates for high-altitude adaptations in the EGLN1 and EPAS1 genes, associated with lower haemoglobin concentration."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace20fa0340b9f05800000c_017",
+              "question": "Which genes are responsible for the high-altitude adaptation of Tibetans?"
+            }
+          ],
+          "context": "Here we analyse genotype data for the Nepalese Sherpa, and find that Tibetans are a mixture of ancestral populations related to the Sherpa and Han Chinese. EGLN1 and EPAS1 genes show a striking enrichment of high-altitude ancestry in the Tibetan genome, indicating that migrants from low altitude acquired adaptive alleles from the highlanders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_001",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "In one family studied, inheritance of EBS is linked to the gene encoding keratin 14"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_002",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "In the first family, linkage was found to chromosome 17 markers flanking the keratin 14 gene (D17S74: Zmax = +2.45, theta = 0.10; COL1A1: Zmax = +0.97, theta = 0.00) and markers near the keratin 5 gene on chromosome 12 were excluded (D12S17: Z less than -2.0, theta = 0.08; COL2A1: Z less than -2.0, theta = 0.13). In contrast, the second family showed linkage to the region containing the keratin 5 gene (D12S17: Zmax = +1.37, theta = 0.08; COL2A1: Zmax = +0.33, theta = 0.15) and was not linked to the keratin 14 gene (D17S74: Z less than -2.0, theta = 0.14). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_003",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Keratin 14 gene mutations in patients with epidermolysis bullosa simplex."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_004",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "We have systematically scanned genomic sequences of one of these keratins, keratin 14, for mutations in patients from 49 apparently independent kindreds using single-strand conformation polymorphism analysis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_005",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Keratin 14 gene point mutation in the K\u00f6bner and Dowling-Meara types of epidermolysis bullosa simplex as detected by the PASA method."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_006",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Recent advances in molecular biology have enabled the association of epidermolysis bullosa simplex (EBS) with point mutations of keratin 14 and/or keratin 5 genes to be established. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_007",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Homozygous deletion mutations in the plectin gene (PLEC1) in patients with epidermolysis bullosa simplex associated with late-onset muscular dystrophy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_008",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": " In this study, we report two patients with EB-MD, each with a homozygous deletion mutation in the plectin gene, PLEC1."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_009",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "A homozygous nonsense mutation in the PLEC1 gene in patients with epidermolysis bullosa simplex with muscular dystrophy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_010",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "A compound heterozygous one amino-acid insertion/nonsense mutation in the plectin gene causes epidermolysis bullosa simplex with plectin deficiency."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_011",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "The KRT5 and KRT14 genes encode the proteins keratin 5 and 14, respectively, which are the primary structural components of the 10-nm intermediate filaments of the mitotic epidermal basal cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_012",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Keratin 5 and keratin 14 are known to be essential for the basal keratinocyte cytoskeleton and are defective in several forms of epidermolysis bullosa simplex."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_013",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Severe palmo-plantar hyperkeratosis in Dowling-Meara epidermolysis bullosa simplex caused by a mutation in the keratin 14 gene (KRT14)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_014",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Mutant keratins 5 or 14 are implicated in the etiology of epidermolysis bullosa simplex (EBS). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_015",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Epidermolysis bullosa simplex (EBS) is mainly caused by mutations in the KRT5 and KRT14 genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_016",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Verrucous carcinoma in epidermolysis bullosa simplex is possibly associated with a novel mutation in the keratin 5 gene."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_017",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Epidermolysis bullosa simplex (EBS) is a rare genodermatosis resulting from multiple gene mutations, including KRT5 and KRT14."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_018",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "Study of a family with epidermolysis bullosa simplex resulting from a novel mutation of KRT14 gene"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ace34eb0340b9f058000010_019",
+              "question": "Which genes are associated with Epidermolysis Bullosa Simplex?"
+            }
+          ],
+          "context": "This is the first report of EBS-generalized intermediate in a newborn with de novo KRT5 gene mutation and KRT14 gene polymorphism, and no familial history of epidermolysis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_001",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "The combined use of warfarin and NSAIDs is generally discouraged because of the increased risk of bleeding in these patients. In patients receiving warfarin who also require NSAIDs"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_002",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "The number of drugs reported to interact with warfarin continues to expand. While most reports are of poor quality and present potentially misleading conclusions, the consistency of reports of interactions with azole antibiotics, macrolides, quinolones, nonsteroidal anti-inflammatory drugs, including selective cyclooxygenase-2 inhibitors, selective serotonin reuptake inhibitors, omeprazole, lipid-lowering agents, amiodarone, and fluorouracil, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_003",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": " potential drug interaction exists between oral corticosteroids and warfarin, but there is limited documentation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_004",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "Use of oral corticosteroids in patients on long-term warfarin therapy may result in a clinically significant interaction, which requires close INR monitoring and possible warfarin dose reduction."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_005",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "We review the possible mechanisms of this interaction and the reported interactions between warfarin and other protease inhibitors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_006",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "It is necessary to intensify warfarin monitoring upon initiation or alteration of hormonal contraceptives."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_007",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "To report a single patient case that presented with a probable drug interaction between warfarin and 3 methods of hormonal contraceptives, as assessed by the Horn Interaction Probability Scale."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_008",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "Warfarin-antibiotic interactions in older adults of an outpatient anticoagulation clinic"
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_009",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "Several classes of drugs, such as antibiotics, may interact with warfarin to cause an increase in warfarins anticoagulant activity and the clinical relevance of warfarin-antibiotic interactions in older adults is not clear."
+        },
+        {
+          "qas": [
+            {
+              "id": "5abce6acfcf4565872000022_010",
+              "question": "Please list 7 classes of drugs that interact with Warfarin."
+            }
+          ],
+          "context": "As the number of psychotropics on the market expands, the likelihood increases that a patient requiring anticoagulation with warfarin will receive concurrent treatment with a psychotropic drug."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_001",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Atrial fibrillation (AF) is the most common sustained arrhythmia and is associated with significant morbidity and mortality. Multiple conditions like hypertension, heart failure, diabetes, sleep apnoea, and obesity play a role for the initiation and perpetuation of AF."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_002",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": " Atrial fibrillation (AF) is associated with cognitive impairment in heart failure (HF).A"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_003",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Atrial fibrillation is the most common arrhythmia worldwide with increasing frequency noted with age. Hyperthyroidism is a well-known cause of atrial fibrillation with a 16%-60% prevalence of atrial fibrillation in patients with known hyperthyroidism "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_004",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Atrial fibrillation continues to be a challenging arrhythmia. There are some conventional, time-tested explanations of atrial fibrillation genesis, however some uncertainty of its complete understanding still exists. We focused on atrial ischemia which, hypothetically, could be responsible for manifestation of the arrhythmia, irrespective of the underlying heart disease"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_005",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "The prevalence of atrial fibrillation (AF) increases with age. As the population ages, the burden of AF increases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_006",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "t is estimated that this arrhythmia's suffers a significant increase throughout the entire life span, and that its highest raise occurs between the ages of 65 and 80. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_007",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Drug-induced tachyarrhythmias (ventricular tachycardia or atrial tachyarrhythmias with rapid ventricular response) are life-threatening and often cause syncope"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_008",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Atrial fibrillation is a growing health problem and the most common cardiac arrhythmia, affecting 5% of persons above the age of 65 years."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_009",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "It occurs very often in patients with congestive heart failure and the prevalence increases with the severity of the disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_010",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "The prevalence and incidence of atrial fibrillation increase with age."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_011",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Cardiac arrhythmias are a major problem in elderly persons, because of the high prevalence of underlying heart disease and hypertension,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_012",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Heavy alcohol use has been suspected to cause acute atrial fibrillation,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_013",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Heavy alcohol use is an important potential etiology for acute atrial fibrillation; alcohol withdrawal may represent a particular risk for such alcohol-related atrial fibrillation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_014",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "Atrial fibrillation associated with rheumatic mitral valve disease has the highest stroke risk (about 17 times greater than unaffected controls), but even with nonvalvular heart disease, the risk is increased fivefold"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_015",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "hronic atrial fibrillation is a very common arrhythmia affecting 2 to 4% of the population older than 60 years of age"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aaef38dfcf456587200000f_016",
+              "question": "Please list 10 conditions which play a role in causing atrial fibrillation."
+            }
+          ],
+          "context": "In western countries ischemic and hypertensive heart disease (including sick sinus syndrome) and alcohol (holiday heart syndrome) are numerically more important than the classical causes of atrial fibrillation--rheumatic heart disease and thyrotoxicosis-"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

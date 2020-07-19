@@ -1,0 +1,1504 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_001",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "Chicoric acid (dicaffeoyl-tartaric acid), is a natural phenolic compound found in a number of plants, such as chicory (Cichorium intybus) and Echinacea (Echinacea purpurea), which possesses antioxidant, anti-inflammatory, antiviral, and analgesic activities. Although these biological effects of chicoric acid have been investigated, there are no reports of its antiallergic-related anti-inflammatory effects in human mast cells (HMC)-1 or anaphylactic activity in a mouse model."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_002",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "BACKGROUND: Fifty percent of Australians use complementary and alternative medicines (other than vitamins) in any 12-month period, of which echinacea-containing products are increasingly popular. Recent reports have highlighted the risk of allergic reactions to complementary medicines in atopic patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_003",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "Two patients suffered anaphylaxis and a third had an acute asthma attack 10 minutes after their first ever dose of echinacea."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_004",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "Fifty-one Australian adverse drug reports implicating echinacea were also reviewed. There were 26 cases suggestive of possible immunoglobulin E-mediated hypersensitivity (4 anaphylaxis, 12 acute asthma, 10 urticaria/angioedema). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_005",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "Echinacea-associated anaphylaxis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_006",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "A woman with atopy experienced anaphylaxis after taking, among other dietary supplements, a commercial extract of echinacea."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_007",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "Risk of anaphylaxis in complementary and alternative medicine."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a049b750ff4455000007_008",
+              "question": "Does echinacea increase anaphylaxis risk?"
+            }
+          ],
+          "context": "Several culprits identified including Andrographis paniculata, Echinacea species, bee products, Ginkgo biloba and Ginseng are discussed here.SUMMARY: Knowing the factors that increase the risk of anaphylaxis allows reactions to be recognized, reported and further investigated."
+        },
+        {
+          "qas": [
+            {
+              "id": "58e8a2fc3e8b6dc87c00000c_001",
+              "question": "Do cephalopods use RNA editing less frequently than other species?"
+            }
+          ],
+          "context": "Extensive messenger RNA editing generates transcript and protein diversity in genes involved in neural excitability, as previously described, as well as in genes participating in a broad range of other cellular functions"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7357e63b9d13c708000001_001",
+              "question": "Is there an RNAi drug being developed to treat amyloidosis?"
+            }
+          ],
+          "context": "Patisiran is an investigational RNA interference (RNAi) therapeutic in development for the treatment of hereditary ATTR (hATTR) amyloidosis, a progressive disease associated with significant disability, morbidity, and mortality."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a550b750ff4455000009_001",
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?"
+            }
+          ],
+          "context": "Other concomitant operations included mitral valve procedure (11%), aortic valve procedure (9%), patent foramen ovale or atrial septal defect closure (23%), cardiac metastasectomies or biopsy (4%), and simultaneous coronary artery bypass (11%). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a550b750ff4455000009_002",
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?"
+            }
+          ],
+          "context": "High circulating serotonin (carcinoid syndrome) and serotoninergic drugs are known to cause valvulopathy that shares pathologic features with DMVD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a550b750ff4455000009_003",
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?"
+            }
+          ],
+          "context": "Surgery included tricuspid valve replacement in all patients, pulmonary valve replacement in 3 and valvectomy in 7, mitral valve replacement in 6 and repair in 1, aortic valve replacement in 4 and repair in 2, CABG in 2, and patent foramen ovale closure in 5. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a550b750ff4455000009_004",
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?"
+            }
+          ],
+          "context": "We report two observations of significant left heart involvement in patients with the carcinoid syndrome assessed by transthoracic and transoesophageal echocardiography. Echocardiographic lesions of this kind have only been reported twice. In the present cases, there was mitral involvement with mitral regurgitation in one case and a mitro-aortic involvement with mitral and aortic regurgitation in the other."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a550b750ff4455000009_005",
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?"
+            }
+          ],
+          "context": "An observation of carcinoid syndrome in a woman of 47 suffering from malignant carcinoid of the ileum with metastases into the liver and right ovary is described. The clinical picture included diarrhea, heat waves, bronchospasms, hypertension, hyperserotoninemia, affection of the mitral valve and left atrium. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a550b750ff4455000009_006",
+              "question": "Is there an association between carcinoid syndrome and mitral valve disease?"
+            }
+          ],
+          "context": "A case of carcinoid syndrome, stemming from a tumor of the large intestine with hepatic metastases, is reported. Clinical features included cardiac disease with triple valvular lesion: tricuspid insufficiency with stenosis, pulmonary artery stenosis and mitral insufficiency. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d0727b750ff445500002b_001",
+              "question": "Is there any role of 5hmC in T-cell development and differentiation?"
+            }
+          ],
+          "context": "We have mapped 5-hydroxymethylcytosine (5hmC) at different stages of T-cell development in the thymus and T-cell differentiation in the periphery. We show that 5hmC is enriched in the gene body of highly expressed genes at all developmental stages and that its presence correlates positively with gene expression. Further emphasizing the connection with gene expression, we find that 5hmC is enriched in active thymus-specific enhancers and that genes encoding key transcriptional regulators display high intragenic 5hmC levels in precursor cells at those developmental stages where they exert a positive effect. Our data constitute a valuable resource that will facilitate detailed analysis of the role of 5hmC in T-cell development and differentiation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74a4be0384be9551000004_001",
+              "question": "Are there RNAi approaches considered for the treatment of kidney injury?"
+            }
+          ],
+          "context": "Herein, we describe ammonium-functionalized carbon nanotube (fCNT)-mediated transport of siRNA selectively and with high efficiency to renal proximal tubule cells in animal models of acute kidney injury (AKI)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74a4be0384be9551000004_002",
+              "question": "Are there RNAi approaches considered for the treatment of kidney injury?"
+            }
+          ],
+          "context": "fCNT enhanced siRNA delivery to tubule cells compared to siRNA alone and effectively knocked down the expression of several target genes, includingTrp53,Mep1b,Ctr1, andEGFP A clinically relevant cisplatin-induced murine model of AKI was used to evaluate the therapeutic potential of fCNT-targeted siRNA to effectively halt the pathogenesis of renal injury. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a74a4be0384be9551000004_003",
+              "question": "Are there RNAi approaches considered for the treatment of kidney injury?"
+            }
+          ],
+          "context": "The nanocarbon-mediated delivery of siRNA provides a therapeutic means for the prevention of AKI to safely overcome the persistent barrier of nephrotoxicity during medical intervention."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_001",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "Low-dose propranolol for infantile hemangioma of the head and neck: Analysis of 23 consecutive patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_002",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "BACKGROUND: More and more infantile hemangiomas (IH) are being treated with propranolol, but the effectiveness, dosage, and treatment course are still in dispute."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_003",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "CONCLUSIONS: Low-dose propranolol appears to be effective and safe for IH, especially for those patients previously treated with corticosteroid and who had no response or severe side-effects."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_004",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "Cardiovascular Profile of Propranolol after Multiple Dosing in Infantile Hemangioma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_005",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "Propranolol is becoming the treatment of choice for complicated infantile hemangioma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_006",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "In conclusion, propranolol 2 mg/kg of body weight daily causes a statistically though not clinically relevant decrease in blood pressure and heart rate in cardially healthy infants affected by infantile hemangioma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_007",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "Importance: Propranolol hydrochloride has become the primary medical treatment for problematic infantile hemangioma; however, the expression of propranolol's target receptors during growth, involution, and treatment of hemangioma remains unclear."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_008",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "BACKGROUND: Infantile hemangiomas (IHs) are the most common benign vascular tumors of childhood. Propranolol is an effective drug in treating IH. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_009",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "Ultrasonography as an objective tool for assessment of infantile hemangioma treatment with propranolol."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67a72fb750ff445500000a_010",
+              "question": "Is propranolol used for treatment of infantile hemangioma?"
+            }
+          ],
+          "context": "CONCLUSION: Ultrasonographic measurements contribute to demonstrate tumor regression and IH response to propranolol."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a75fec383b0d9ea6600000b_001",
+              "question": "Can the CEP290 gene mutations be targeted by AAV-mediated gene therapy?"
+            }
+          ],
+          "context": "The large size of the CEP290 gene prevents its use in adeno-associated virus (AAV)-mediated gene augmentation therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87efa961bb38fb2400000e_001",
+              "question": "Are mutations in the nf1 gene associated with memory?"
+            }
+          ],
+          "context": "We hypothesized that NF1 mutations disturb the expression of genes important for memory formation"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87efa961bb38fb2400000e_002",
+              "question": "Are mutations in the nf1 gene associated with memory?"
+            }
+          ],
+          "context": "Our previous work has shown that defective cAMP signaling leads to the learning phenotype in Drosophila Nf1 mutants. In the present report, our experiments showed that in addition to learning, long-term memory was also abolished in Nf1 mutants. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87efa961bb38fb2400000e_003",
+              "question": "Are mutations in the nf1 gene associated with memory?"
+            }
+          ],
+          "context": "Distinct functional domains of neurofibromatosis type 1 regulate immediate versus long-term memory formation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_001",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "Background. Tretinoin has been shown to improve photoaged skin. This study was designed to evaluate the efficacy and tolerability of a 5% retinoic acid peel combined with microdermabrasion for facial photoaging."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_002",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": ".Conclusion. This study demonstrated that 5% retinoic acid peel cream combined with microdermabrasion was safe and effective in the treatment of photoaging in the Iranian population. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_003",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "CONCLUSIONS: Treatment with a double-conjugate retinoid cream demonstrated early reductions in photodamage and improvements in Hydration. AHA-Ret induced less Erythema vs retinol and was more tolerable vs retinol and tretinoin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_004",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "These comparative products include prescription tretinoin, physician strength idebenone, kinetin, polyhydroxy, lactic and glycolic acids in reversing signs of photoaging."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_005",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "CONCLUSION: Either topical tretinoin (0.25%) or retinol (0.25%) can be used safely and effectively when applied in office immediately after SA peeling to ameliorate signs of photoaging."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_006",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "CONCLUSION: The treatment outcome of Retinol 0.2%/LR2412 2% cream does not differ from the one of tretinoin 0.025% cream. Clinical results were not statistically different. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_007",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "INTRODUCTION: Topical tretinoin is considered the gold standard to treat photoaged skin, but it is associated with side effects and only available upon prescription."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a68f2bab750ff4455000017_008",
+              "question": "Is tretinoin effective for photoaging?"
+            }
+          ],
+          "context": "Tretinoin is commonly used topically for acne treatment and in the treatment of photoaging."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d217eb750ff4455000034_001",
+              "question": "Are there ultraconserved genomic regions in the budding yeast?"
+            }
+          ],
+          "context": "Here, we present a systematic study of ultraconserved genomic regions in the budding yeast based on the publicly available genome sequences, in order to reveal their relationship with the adaptability or fitness advantages of the budding yeast.Results: Our results indicate that, in addition to some fundamental biological functions, the UCSs play an important role in the adaptation of S. cerevisiae to the acidic environment, which is backed up by the previous observation. Besides that, we also find the highly unchanged genes (HUGs) are enriched in some other pathways, such as the nutrient-sensitive signaling pathway. To facilitate the investigation of unique UCSs, the UCSC Genome Browser was utilized to visualize the chromosomal position and related annotations of UCSs in S. cerevisiae genome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87fd0561bb38fb24000010_001",
+              "question": "Is autophagy modulated in a circadian fashion?"
+            }
+          ],
+          "context": "TOR signaling pathway and autophagy are involved in the regulation of circadian rhythms in behavior and plasticity of L2 interneurons in the brain of Drosophila melanogaster."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87fd0561bb38fb24000010_002",
+              "question": "Is autophagy modulated in a circadian fashion?"
+            }
+          ],
+          "context": " Our results indicate that the TOR signaling pathway and autophagy are involved in the regulation of circadian rhythms in the behavior and plasticity of neurons in the brain of adult flies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87fd0561bb38fb24000010_003",
+              "question": "Is autophagy modulated in a circadian fashion?"
+            }
+          ],
+          "context": "the pathways of autophagy, mTOR, SIRT1, and Wnt that control mammalian circadian rhythm"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87fd0561bb38fb24000010_004",
+              "question": "Is autophagy modulated in a circadian fashion?"
+            }
+          ],
+          "context": "Metabolic pathways, bile acid synthesis, and autophagic and immune/inflammatory processes are driven by the biological clock. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87fd0561bb38fb24000010_005",
+              "question": "Is autophagy modulated in a circadian fashion?"
+            }
+          ],
+          "context": "our findings suggest that the clock geneBmal1is a positive regulator of autophagy through the mTOR signaling pathway and protects cardiomyocytes against high-glucose toxicity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87fd0561bb38fb24000010_006",
+              "question": "Is autophagy modulated in a circadian fashion?"
+            }
+          ],
+          "context": "Autophagy is a highly conserved intracellular degradation system, and recently was shown to display circadian rhythms in mice. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_001",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "Furthermore, we find that these TAD boundaries are present irrespective of the expression and looping of genes located between them."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_002",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "In particular, Hi-C revealed that chromosomes of animals are organized into topologically associating domains (TADs), evolutionary conserved compact chromatin domains that influence gene expression."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_003",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "Drosophila inter-TADs harbor active chromatin and constitutively transcribed (housekeeping) genes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_004",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "The insulator-like, TAD-boundary-like, and TAD-interior-like regions are each enriched for distinct epigenetic marks and are each correlated with different gene expression levels"
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_005",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "We conclude that epigenetic modifications, gene density, and transcriptional activity combine to shape the local packing of the A. thaliana nuclear genome."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_006",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "Disruptions of topological chromatin domains cause pathogenic rewiring of gene-enhancer interactions."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_007",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "Our results demonstrate the functional importance of TADs for orchestrating gene expression via genome architecture and indicate criteria for predicting the pathogenicity of human structural variants, particularly in non-coding regions of the human genome."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_008",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "The three-dimensional organization of a genome plays a critical role in regulating gene expression, yet little is known about the machinery and mechanisms that determine higher-order chromosome structure."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee1cafeda5a57672000014_009",
+              "question": "Are TAD boundaries in Drosophila depleted in highly-expressed genes?"
+            }
+          ],
+          "context": "Ectopically expressed roX1 and roX2 RNAs target HAS on the X chromosome in trans and, via spatial proximity, induce spreading of the MSL complex in cis, leading to increased expression of neighboring autosomal genes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d23ccb750ff4455000035_001",
+              "question": "Does TUC.338 inhibit colorectal cancer?"
+            }
+          ],
+          "context": "TUC.338 promotes invasion and metastasis in colorectal cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d23ccb750ff4455000035_002",
+              "question": "Does TUC.338 inhibit colorectal cancer?"
+            }
+          ],
+          "context": "Until now, the role of TUC.338 in colorectal cancers remains undefined. This study revealed that TUC.338 is significantly up-regulated in colorectal cancers (CRC) tissue and CRC cell lines, and the up-regulated TUC.338 is associated with lymph node metastasis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6d23ccb750ff4455000035_003",
+              "question": "Does TUC.338 inhibit colorectal cancer?"
+            }
+          ],
+          "context": " Thus, these findings suggested that TUC.338 acts as a novel oncogene by targeting the TIMP-1 gene thus promoting colorectal cancer cell migration and invasion."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7626989e632bc066000001_001",
+              "question": "Has ruxolitinib received FDA approval?"
+            }
+          ],
+          "context": "Testing for JAK2 mutations is now included in the World Health Organization (WHO) criteria for the diagnosis of MPN, and in 2011 the oral JAK2 kinase inhibitor ruxolitinib became the first Food and Drug Administration (FDA)-approved drug for the treatment of myelofibrosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_001",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "Scuba diving is contraindicated."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_002",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "Overall, the women did not conduct enough dives per pregnancy, therefore no significant correlation between diving and fetal abnormalities could be established. These data indicate women are increasingly observing the diving industry recommendation and refraining from diving while pregnant. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_003",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "Scuba diving also should be avoided throughout pregnancy because the fetus is at an increased risk for decompression sickness during this activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_004",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "Scuba diving also should be avoided throughout pregnancy because the fetus is at an increased risk for decompression sickness during this activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_005",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "Scuba diving also should be avoided throughout pregnancy because the fetus is at an increased risk for decompression sickness during this activity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_006",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "The different international federations and the Undersea and Hyperbaric Medical Society advise against scuba diving for pregnant women or those planning a pregnancy, but no randomized trials or trials provide a solid scientific basis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a70de5199e2c3af26000005_007",
+              "question": "Is scuba diving safe during pregnancy?"
+            }
+          ],
+          "context": "Pregnant women are recommended not to dive, because the risk of birth defects seems to be greater among those who do, and there is a serious risk of fetal decompression disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7726989e632bc06600000c_001",
+              "question": "Does deflazacort have more side effects than prednisone?"
+            }
+          ],
+          "context": "Though Deflazacort and prednisone improve clinical endpoints in Duchenne muscular dystrophy (DMD) patients, Deflazacort produces fewer side effects."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8866958cb19eca6b000003_001",
+              "question": "Are neurexins localized at pre-synapses?"
+            }
+          ],
+          "context": "Neurexins and neuroligins are two distinct families of single-pass transmembrane proteins localized at pre- and postsynapses, respectively. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8866958cb19eca6b000003_002",
+              "question": "Are neurexins localized at pre-synapses?"
+            }
+          ],
+          "context": "presynaptic neurexins"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8866958cb19eca6b000003_003",
+              "question": "Are neurexins localized at pre-synapses?"
+            }
+          ],
+          "context": "best-characterized transsynaptic interactions are formed by presynaptic neurexins, which bind to diverse postsynaptic ligands."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8866958cb19eca6b000003_004",
+              "question": "Are neurexins localized at pre-synapses?"
+            }
+          ],
+          "context": "presynaptic neurexin"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76056983b0d9ea66000012_001",
+              "question": "Does DDX54 play a role in DNA damage response?"
+            }
+          ],
+          "context": "DDX54 regulates transcriptome dynamics during DNA damage response."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76056983b0d9ea66000012_002",
+              "question": "Does DDX54 play a role in DNA damage response?"
+            }
+          ],
+          "context": "The contribution of post-transcriptional gene regulatory networks to the DNA damage response (DDR) has not been extensively studied. Here, we systematically identified RNA-binding proteins differentially interacting with polyadenylated transcripts upon exposure of human breast carcinoma cells to ionizing radiation (IR). Interestingly, more than 260 proteins, including many nucleolar proteins, showed increased binding to poly(A)+RNA in IR-exposed cells. The functional analysis of DDX54, a candidate genotoxic stress responsive RNA helicase, revealed that this protein is an immediate-to-early DDR regulator required for the splicing efficacy of its target IR-induced pre-mRNAs. Upon IR exposure, DDX54 acts by increased interaction with a well-defined class of pre-mRNAs that harbor introns with weak acceptor splice sites, as well as by protein-protein contacts within components of U2 snRNP and spliceosomal B complex, resulting in lower intron retention and higher processing rates of its target transcripts. Because DDX54 promotes survival after exposure to IR, its expression and/or mutation rate may impact DDR-related pathologies. Our work indicates the relevance of many uncharacterized RBPs potentially involved in the DDR."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5033faa1ab7d2e000015_001",
+              "question": "Is davunetide being considered for the treatment of progressive supranuclear palsy?"
+            }
+          ],
+          "context": "Critical appraisal of the role of davunetide in the treatment of progressive supranuclear palsy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5033faa1ab7d2e000015_002",
+              "question": "Is davunetide being considered for the treatment of progressive supranuclear palsy?"
+            }
+          ],
+          "context": "Davunetide's efficacy and tolerability are being tested in a placebo-controlled study in PSP patients, making it the most advanced drug candidate in this indication. This review examines the disease characteristics of PSP, the rationale for treating PSP with davunetide and assesses some of the challenges of clinical trials in this patient population."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7607f683b0d9ea66000014_001",
+              "question": "Is Drk essential for anesthesia-resistant memory (ARM) in Drosophila?"
+            }
+          ],
+          "context": "Anesthesia-resistant memory (ARM) was described decades ago, but the mechanisms that underlie this protein synthesis-independent form of consolidated memory inDrosophilaremain poorly understood. Whether the several signaling molecules, receptors, and synaptic proteins currently implicated in ARM operate in one or more pathways and how they function in the process remain unclear. We present evidence that Drk, theDrosophilaortholog of the adaptor protein Grb2, is essential for ARM within adult mushroom body neurons."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d50d0faa1ab7d2e000016_001",
+              "question": "Is ACI-35 a passive vaccine?"
+            }
+          ],
+          "context": "Two active vaccines targeting either nonphosphorylated (AAD-vac1) and phosphorylated tau (ACI-35) have entered Phase I testing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a760ed883b0d9ea66000019_001",
+              "question": "Is dasatinib effective for treatment of glioblastoma?"
+            }
+          ],
+          "context": "RESULTS: fourteen randomized clinical trials were identified (7 with bevacizumab, 2 cilengitide, 1 enzastaurin, 1 dasatinib, 1 vandetanib, 1 temsirolimus, 1 cediranib) including 4330 patients. Antiangiogenic drugs showed no improvement in overall survival with a pooled HR of 1.00, a trend for an inferior outcome, in terms of overall survival, was observed in the group of patients receiving antiangiogenic drug alone compared to cytotoxic drug alone (HR=1.24, p=0.056)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a760ed883b0d9ea66000019_002",
+              "question": "Is dasatinib effective for treatment of glioblastoma?"
+            }
+          ],
+          "context": "CONCLUSIONS: Intraparticipant dose escalation was feasible, but dasatinib was ineffective in recurrent GBM. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a760ed883b0d9ea66000019_003",
+              "question": "Is dasatinib effective for treatment of glioblastoma?"
+            }
+          ],
+          "context": "Median progression-free survival (PFS) was 1.35 months (95% confidence interval: 1.2-1.4) and 6-month PFS was 7.7%. In this phase I study of recurrent glioblastoma patients, the combination of CCNU and dasatinib showed significant hematological toxicities and led to suboptimal exposure to both agents."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a760ed883b0d9ea66000019_004",
+              "question": "Is dasatinib effective for treatment of glioblastoma?"
+            }
+          ],
+          "context": "Dasatinib in conjunction with bevacizumab does not appear to have activity in patients with recurrent, heavily pretreated GBM."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774ce1faa1ab7d2e000006_001",
+              "question": "Is there increased recombination rate in human regulatory domains?"
+            }
+          ],
+          "context": "Evidence of reduced recombination rate in human regulatory domains."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774ce1faa1ab7d2e000006_002",
+              "question": "Is there increased recombination rate in human regulatory domains?"
+            }
+          ],
+          "context": "We study the relationship between recombination rate and gene regulatory domains, defined by a gene and its linked control elements. We define these links using expression quantitative trait loci (eQTLs), methylation quantitative trait loci (meQTLs), chromatin conformation from publicly available datasets\u00a0(Hi-C and ChIA-PET), and correlated activity links that we infer across cell types. Each link type shows a \"recombination rate\u00a0valley\" of significantly reduced recombination rate compared to matched control regions. This recombination rate\u00a0valley is most pronounced for gene regulatory domains of early embryonic development genes, housekeeping genes, and constitutive regulatory elements, which are known to show increased evolutionary constraint across species. Recombination rate\u00a0valleys show increased DNA methylation, reduced doublestranded break initiation, and increased repair efficiency, specifically in the lineage leading to the germ line. Moreover, by using only the overlap of functional links and DNA methylation in germ cells, we are able to predict the recombination rate with high accuracy.CONCLUSIONS: Our results suggest the existence of a recombination rate valley at regulatory domains and provide a potential molecular mechanism to interpret the interplay between genetic and epigenetic variations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d54adfaa1ab7d2e000019_001",
+              "question": "Has IVIG been tested in clinical trials for the treatment of Alzheimer's disease?"
+            }
+          ],
+          "context": "Clinical trials of intravenous immunoglobulin for Alzheimer's disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d54adfaa1ab7d2e000019_002",
+              "question": "Has IVIG been tested in clinical trials for the treatment of Alzheimer's disease?"
+            }
+          ],
+          "context": "Preclinical and clinical studies have shown that IVIG has anti-amyloid and immune modulatory properties relevant to treating neurodegenerative disorders. In early stage AD clinical trials, IVIG was found to reduce cognitive decline and increase brain glucose metabolism. Unfortunately, IVIG failed to meet primary outcome objectives in the North American Phase 3 clinical trial in mild to moderate AD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d54adfaa1ab7d2e000019_003",
+              "question": "Has IVIG been tested in clinical trials for the treatment of Alzheimer's disease?"
+            }
+          ],
+          "context": "While the results of clinical trials to date do not provide support for the use of IVIG to treat AD at the doses tested, additional studies of IVIG's mechanisms are warranted and may guide the development of more effective therapies for AD in the future."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_001",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": "To better understand the thermodynamics and dynamics of the zinc finger of NEMO (NF-\u03baB essential modulator)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_002",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": "an alteration in the zinc finger domain of NEMO (K392R) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_003",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": "CYLD and the NEMO Zinc Finger Regulate Tumor Necrosis Factor Signaling and Early Embryogenesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_004",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": "our simulations of the zinc finger NEMO"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_005",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": "An important regulatory domain of NF-[Formula: see text]B Essential Modulator (NEMO) is a ubiquitin-binding zinc finger, with a tetrahedral CYS3HIS1 zinc-coordinating binding site."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_006",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": "NEMO function is mediated by two distal ubiquitin binding domains located in the regulatory C-terminal domain of the protein: the coiled-coil 2-leucine zipper (CC2-LZ) domain and the zinc finger (ZF) domain. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8a9f18fcd1d6a10c00001a_007",
+              "question": "Is NEMO a zinc finger protein?"
+            }
+          ],
+          "context": " We show here that the NEMO C terminus, comprising the ubiquitin binding region and a zinc finger,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_001",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "RESULTS: fourteen randomized clinical trials were identified (7 with bevacizumab, 2 cilengitide, 1 enzastaurin, 1 dasatinib, 1 vandetanib, 1 temsirolimus, 1 cediranib) including 4330 patients. Antiangiogenic drugs showed no improvement in overall survival with a pooled HR of 1.00, a trend for an inferior outcome, in terms of overall survival, was observed in the group of patients receiving antiangiogenic drug alone compared to cytotoxic drug alone (HR=1.24, p=0.056). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_002",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "Enzastaurin (LY317615) in combination with bevacizumab for recurrent malignant gliomas is well-tolerated, with response and progression-free survival similar to bevacizumab monotherapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_003",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "So far, inhibition of angiogenesis by compounds such as bevacizumab, cediranib, enzastaurin or cilengitide as well as alternative dosing schedules of temozolomide did not prolong survival, neither at primary diagnosis nor at recurrent disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_004",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "Despite promising phase II clinical trial results and patient benefit in terms of clinical improvement and longer progression-free survival, an overall survival benefit has not been demonstrated in four randomized phase III trials of bevacizumab or cilengitide in newly diagnosed glioblastoma or cediranib or enzastaurin in recurrent glioblastoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_005",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "CONCLUSIONS: PFS-6 missed the primary planned outcome of 55%. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_006",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "OS (median, 74 weeks) and PFS (median, 36 weeks) results from the current trial were comparable to those from a prior phase II study using erlotinib and were significantly better than those from 2 other previous studies that used thalidomide or cis-retinoic acid, all in combination with temozolomide plus RT. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_007",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "More recently, antiangiogenic agents including enzastaurin, cediranib, bevacizumab, and others that target mainly the VEGF pathway, have been evaluated in this highly angiogenic disease. Among them, only bevacizumab has been associated with clear anti-tumor activity, although the lack of control studies limits the impact of the results to date."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_008",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "Enzastaurin has anti-glioma activity in patients with recurrent high-grade glioma, but does not appear to have enough single-agent activity to be useful as monotherapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_009",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "Several signal transduction inhibitors have been examined in preclinical and clinical malignant glioma trials, including antiangiogenic agents (bevacizumab, enzastaurin), and inhibitors of epidermal growth factor receptor tyrosine kinase (gefitinib and erlotinib), mammalian target of rapamycin (temsirolimus, everolimus) and integrin (cilengitide). Although preliminary clinical results of the use of targeted agents have not translated into significantly better survival, more recent phase II trials are exploring the combination of multitargeted drugs with cytotoxic chemotherapy and radiotherapy in order to overcome the resistance of tumors to single-agent targeted therapies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7612b483b0d9ea6600001d_010",
+              "question": "Is enzastaurin effective treatment of glioblastoma?"
+            }
+          ],
+          "context": "Several drugs have been tested, including epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (gefitinib and erlotinib), mammalian target of rapamycin (mTOR) inhibitors (temsirolimus and everolimus), and vascular endothelial growth factor receptor (VEGFR), protein kinase C-beta, and other angiogenesis pathways inhibitors (vatalanib, bevacizumab, and enzastaurin). Although preliminary efficacy results of most trials in recurrent disease have fallen short on expectations, substantial advances have been achieved by associated translational research. "
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_001",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": " Group B had a better awareness of tooth damage (78% vs 30% of patients, P \u2264 .001), voice change (61 vs 19%, P = .005), and burns to lips and mouth (44% vs 8%, P = .005). Finally, 35% more patients from group B rated their understanding of tonsillectomy as good or very good (P = .017)."
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_002",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": " Some patients complaint for dry throat, foreign body sensation or voice change after tonsillectomy."
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_003",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": "The percentage of patients who had temporary voice change was 62.7%, and 15.4% had a follow-up clinic visit."
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_004",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": "There is no dose-escalation response to dexamethasone (0.0625-1.0 mg/kg) in pediatric tonsillectomy or adenotonsillectomy patients for preventing vomiting, reducing pain, shortening time to first liquid intake, or the incidence of voice change."
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_005",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": "There were no differences in secondary outcomes (analgesic requirements, time to first liquid, and change in voice) across treatment groups."
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_006",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": "Voice change, reported by approximately 70% of all patients, was the most common complaint, but it resolved in all instances."
+        },
+        {
+          "qas": [
+            {
+              "id": "59bf823b542ba3824b000001_007",
+              "question": "Does a tonsillectomy affect the patient's voice?"
+            }
+          ],
+          "context": "The incidence rates of voice change, velopharyngeal insufficiency, bleeding, constipation, dehydration, and pain were measured. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_001",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "Transcript cleavage factor TFIIS reactivates the backtracked complexes and promotes pol II transcription through the nucleosome. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_002",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "The same nucleosomes transcribed in the opposite orientation form a weaker, more diffuse barrier that is largely relieved by higher salt, TFIIS, or FACT"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_003",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "The system contains natural or recombinant histones, chromatin assembly factors, the histone-acetyltransferase p300, all components of the general transcription machinery, general coactivators and the elongation factor SII (TFIIS)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_004",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "Efficient and rapid nucleosome traversal by RNA polymerase II depends on a combination of transcript elongation factors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_005",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "We now show that although TFIIF or TFIIS alone is modestly stimulatory for nucleosome traversal, both factors together increase transcription through nucleosomes in a synergistic manner."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_006",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "Significantly, we found that nucleosomes with a Sin mutant histone are traversed to the same extent and at nearly the same rate as equivalent pure DNA templates if both TFIIS and TFIIF are present."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3566bb966455904c000003_007",
+              "question": "Does TFIIS affect nucleosome positioning?"
+            }
+          ],
+          "context": "After partial uncoiling of nucleosomal DNA from histone octamer by Pol II and backtracking of the enzyme, nucleosomal DNA recoils on the octamer, locking Pol II in the arrested state. Histone chaperones and transcription factors TFIIS, TFIIF and FACT facilitate transcription through chromatin using different molecular mechanisms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_001",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Here I show that CpG islands were associated not only with methylation-free promoters but also with nucleosome-free promoters."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_002",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Nucleosome-free regions were observed only in promoters containing a CpG island"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_003",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "In contrast to the methylation-and nucleosome-free states of CpG-island promoters, exons were densely methylated at CpGs and packaged into nucleosomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_004",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "I also found that nucleosomes, DNA methylation, and H3K36me3 marked the exons of transcripts with low, medium, and high gene expression levels, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_005",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Human promoters containing a CpG island tend to remain nucleosome-free as well as methylation-free."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_006",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "In contrast, exons demonstrate a high degree of methylation and nucleosome occupancy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_007",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Exonic DNA methylation seems to function together with exonic nucleosomes and H3K36me3 for the proper splicing of transcripts with different expression levels."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_008",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Supporting such an association, recent reports have identified distinct histone methylation patterns, elevated nucleosome occupancy and enriched DNA methylation at exons relative to introns."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_009",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "DNA methylation directly silences genes with non-CpG island promoters and establishes a nucleosome occupied promoter."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_010",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Using a novel bioinformatics pipeline, we show a striking anti-correlation between nucleosome occupancy and DNA methylation at CTCF regions that is not present at promoters. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_011",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Three positions at the splice sites show high CpG abundance and accompany elevated nucleosome occupancy in a leveled GC architecture."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_012",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "The first group has higher nucleosome occupancy on exons than introns, whereas the second group exhibits weak nucleosome marking of exons, suggesting another type of epigenetic marker distinguishes exons from introns when GC content is similar."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_013",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": " DNA methylation can determine nucleosome positioning. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_014",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "DNA methylation determines nucleosome occupancy in the 5'-CpG islands of tumor suppressor genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_015",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "he induction of DNA hypomethylation events by genetic (DNMT1/DNMT3B deficient cells) or drug (a DNA demethylating agent) approaches is associated with the eviction of nucleosomes from previously hypermethylated CpG islands of tumor suppressor genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_016",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Using this global approach, we observe the dependency of nucleosome occupancy upon the DNA methylation status. Thus, our results suggest that there is a close association between hypermethylated CpG islands and the presence of nucleosomes, such that each of these epigenetic mechanisms can determine the recruitment of the other."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_017",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Although global DNA demethylation has been observed after treatment, it is unclear to what extent demethylation induces changes in nucleosome occupancy, a key determinant of gene expression."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_018",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Our results indicate that only a minority of demethylated promoters are associated with nucleosome remodeling, and these could potentially be the epigenetic drivers causing the loss of tumorigenicity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_019",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "with repressed genes often being associated with local DNA hypermethylation and gain of nucleosomes at their promoters."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_020",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Transcription, histone modifications, and DNA methylation alter this \"ground state\" by having distinct effects on both nucleosome positioning and occupancy. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_021",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "In order to systematically evaluate potential diversities among CGIs and ultimately to illuminate the link between diversity of CGIs and their epigenetic variation, we analyzed the nucleotide-resolution DNA methylation maps (methylomes) of multiple cellular origins."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_022",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "The mostly unmethylated CpG islands have reduced nucleosome occupancy and are enriched in cell type-independent binding sites for CTCF."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_023",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "In contrast, outside of CpG islands most CpGs are methylated, and the average methylation density oscillates so that it is highest in the linker region between nucleosomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a214966455904c000009_024",
+              "question": "Is DNA methylation correlated with nucleosome occupancy?"
+            }
+          ],
+          "context": "Aberrant acquisition of nucleosomes at enhancer-associated NDRs is associated with hypermethylation and epigenetic silencing marks, and conversely, loss of nucleosomes with demethylation and epigenetic activation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_001",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "In addition to RNA synthesis, multisubunit RNA polymerases (msRNAPs) support enzymatic reactions such as intrinsic transcript cleavage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_002",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "msRNAP active sites from different species appear to exhibit differential intrinsic transcript cleavage efficiency and have likely evolved to allow fine-tuning of the transcription process."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_003",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "Here we show that a single amino-acid substitution in the trigger loop (TL) of Saccharomyces RNAP II, Rpb1 H1085Y, engenders a gain of intrinsic cleavage activity where the substituted tyrosine appears to participate in acid-base chemistry at alkaline pH for both intrinsic cleavage and nucleotidyl transfer. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_004",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "The eukaryotic transcription factor TFIIS enhances elongation and nascent transcript cleavage activities of RNA polymerase II in a stalled elongation complex."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_005",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "The transcription factor TFIIS zinc ribbon dipeptide Asp-Glu is critical for stimulation of elongation and RNA cleavage by RNA polymerase II"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_006",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "By site-directed mutagenesis, we have demonstrated that invariant residues Asp-261 and Glu-262 of the nucleic acid-binding TFIIS Zn ribbon are critical for stimulation of both elongation and RNA cleavage activities of RNA polymerase II."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_007",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "Complexes of yeast RNA polymerase II and RNA are substrates for TFIIS-induced RNA cleavage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_008",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "RNA in such RNA-RNA polymerase complexes undergoes reactions previously thought to be unique to nascent RNA in ternary complexes with DNA, including TFIIS-dependent cleavage and elongation by 3'-terminal addition of NMP from NTP."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_009",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "Nascent RNA cleavage by arrested RNA polymerase II does not require upstream translocation of the elongation complex on DNA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_010",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "Here we show that in the presence of SII and nucleotides, transcript cleavage is detected during SII-dependent elongation but not during SII-independent transcription. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_011",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "under typical transcription conditions, SII is necessary but insufficient to activate RNA cleavage. RNA cleavage could serve to move RNA polymerase II away from the transcriptional impediment and/or permit RNA polymerase II multiple attempts at RNA elongation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_012",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "SII is an RNA polymerase II-binding protein that stimulates transcription elongation and also activates nascent transcript cleavage by RNA polymerase II in elongation complexes in vitro"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_013",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "The RNA polymerase II elongation complex. Factor-dependent transcription elongation involves nascent RNA cleavage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a468785966455904c00000d_014",
+              "question": "Does RNA polymerase II have RNA cleavage activity?"
+            }
+          ],
+          "context": "Cleavage was not restricted to an elongation complex arrested at this particular site, showing that nascent RNA hydrolysis is a general property of RNA polymerase II elongation complexes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_001",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "In addition, unlike MNase, MPE-Fe(II) cleaves nuclear DNA with little sequence bias."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_002",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "These findings collectively indicate that MPE-seq provides a unique and straightforward means for the genome-wide analysis of chromatin structure with minimal DNA sequence bias."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_003",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "Micrococcal nuclease does not substantially bias nucleosome mapping."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_004",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "MNase has hitherto been very widely used to map nucleosomes, although concerns have been raised over its potential to introduce bias."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_005",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "These results indicate that biases in nucleosome positioning data collected using MNase are, under our conditions, not significant."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_006",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "Signal variation in these simulations reveals an important DNA sampling bias that results from a neighborhood effect of MNase digestion techniques."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_007",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "Standardized collection of MNase-seq experiments enables unbiased dataset comparisons."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e1882966455904c00000f_008",
+              "question": "Is there a sequence bias in MNase digestion patterns?"
+            }
+          ],
+          "context": "Here, we show that the cutting preference of MNase in combination with size selection generates a sequence-dependent bias in the resulting fragments."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

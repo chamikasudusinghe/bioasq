@@ -1,0 +1,1027 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a76160a83b0d9ea66000020_001",
+              "question": "Which sequence-based algorithm for branch point prediction has been proposed?"
+            }
+          ],
+          "context": "BPP: a sequence-based algorithm for branch point prediction. Motivation: Although high-throughput sequencing methods have been proposed to identify splicing branch points in the human genome, these methods can only detect a small fraction of the branch points subject to the sequencing depth, experimental cost and the expression level of the mRNA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d8a651d1251d03b00001f_001",
+              "question": "What is the BioArchive system?"
+            }
+          ],
+          "context": "Umbilical cord blood (CB) banks usually freeze and store CB for clinical transplantation using conventional controlled-rate freezer or the automated BioArchive system."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d8a651d1251d03b00001f_002",
+              "question": "What is the BioArchive system?"
+            }
+          ],
+          "context": "The performance of a small-scale automated cryopreservation and storage system (Mini-BioArchive system) used in the banking of umbilical cord blood (UCB) units was evaluated."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d8a651d1251d03b00001f_003",
+              "question": "What is the BioArchive system?"
+            }
+          ],
+          "context": "The limited number of progenitor stem cells in umbilical cord blood (UCB) enforces the optimization and strict control of all the procedures involved in its therapeutic use--ie, collection, processing, cryopreservation, thawing, and transportation--to ensure graft potency at transplantation. For this reason, international UCB standards recommend storage of a cell sample attached to the UCB unit as a quantitative and functional control of the unit selected for transplantation. To validate the use of the sample attached to the UCB unit as a quality-control tool for the final product, UCB units (n = 20) stored in liquid nitrogen with the Bioarchive system were analyzed. The UCB units and their attached segments were thawed, and the number and viability of total nucleated cells, mononucleated cells, CD45 + cells, and CD34+ cells were determined, as were colony-forming cell counts. There was no significant difference between UCB units and segments for any of the parameters assessed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76179d83b0d9ea66000021_001",
+              "question": "Which algorithm has been proposed for efficient storage of WGS variant calls?"
+            }
+          ],
+          "context": "SeqArray-a storage-efficient high-performance data format for WGS variant calls. Motivation: Whole-genome sequencing (WGS) data are being generated at an unprecedented rate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a76179d83b0d9ea66000021_002",
+              "question": "Which algorithm has been proposed for efficient storage of WGS variant calls?"
+            }
+          ],
+          "context": "Whole-genome sequencing (WGS) data are being generated at an unprecedented rate. Analysis of WGS data requires a flexible data format to store the different types of DNA variation. Variant call format (VCF) is a general text-based format developed to store variant genotypes and their annotations. However, VCF files are large and data retrieval is relatively slow. Here we introduce a new WGS variant data format implemented in the R/Bioconductor package 'SeqArray' for storing variant calls in an array-oriented manner which provides the same capabilities as VCF, but with multiple high compression options and data access using high-performance parallel computing.Results: Benchmarks using 1000 Genomes Phase 3 data show file sizes are 14.0 Gb (VCF), 12.3 Gb (BCF, binary VCF), 3.5 Gb (BGT) and 2.6 Gb (SeqArray) respectively. Reading genotypes in the SeqArray package are two to three times faster compared with the htslib C library using BCF files. For the allele frequency calculation, the implementation in the SeqArray package is over 5 times faster than PLINK v1.9 with VCF and BCF files, and over 16 times faster than vcftools. When used in conjunction with R/Bioconductor packages, the SeqArray package provides users a flexible, feature-rich, high-performance programming environment for analysis of WGS variant data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a95765bfcd1d6a10c000028_001",
+              "question": "What part of what body organ controls the circadian clock?"
+            }
+          ],
+          "context": "Fine-Tuning Circadian Rhythms: The Importance of Bmal1 Expression in the Ventral Forebrain. Although, the suprachiasmatic nucleus (SCN) of the hypothalamus acts as the central clock in mammals, the circadian expression of clock genes has been demonstrated not only in the SCN, but also in peripheral tissues and brain regions outside the SCN. However, the physiological roles of extra-SCN circadian clocks in the brain remain largely elusive. In response, we generated Nkx2.1-Bmal1 mice in which Bmal1, an essential clock component, was genetically deleted specifically in the ventral forebrain, including the preoptic area, nucleus of the diagonal band, and most of the hypothalamus except the SCN."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a95765bfcd1d6a10c000028_002",
+              "question": "What part of what body organ controls the circadian clock?"
+            }
+          ],
+          "context": "In mammals, the suprachiasmatic nucleus (SCN) of the hypothalamus is the site of the main circadian clock"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a95765bfcd1d6a10c000028_003",
+              "question": "What part of what body organ controls the circadian clock?"
+            }
+          ],
+          "context": "The suprachiasmatic nucleus (SCN) of the hypothalamus orchestrates daily rhythms of physiology and behavior in mammals."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_001",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "Ubiquilin (UBQLN) proteins are adaptors thought to link ubiquitinated proteins to the proteasome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_002",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "Ubiquilins are proteins that function as ubiquitin receptors in eukaryotes. Mutations in two ubiquilin-encoding genes have been linked to the genesis of neurodegenerative diseases. However, ubiquilin functions are still poorly understood."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_003",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "Ubiquitination and subsequently ubiquitin (Ub) receptor proteins (e.g., p62 and ubiquilins) are important common factors for targeting misfolded proteins to multiple quality control destinies, including the proteasome, lysosomes, and perhaps aggresomes, as well as for triggering mitophagy to remove defective mitochondria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_004",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "We show that Ubiquilin family proteins bind transmembrane domains in the cytosol to prevent aggregation and temporarily allow opportunities for membrane targeting. Over time, Ubiquilins recruit an E3 ligase to ubiquitinate bound clients. The attached ubiquitin engages Ubiquilin's UBA domain, normally bound to an intramolecular UBL domain, and stabilizes the Ubiquilin-client complex."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_005",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "Ubiquilins (Ubqlns) are a family of ubiquitin receptors that promote the delivery of hydrophobic and aggregated ubiquitinated proteins to the proteasome for degradation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_006",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "Protein degradation occurs through several distinct proteolytic pathways for membrane and cytosolic proteins. There is evidence that these processes are linked and that crosstalk among these major protein degradation pathways occurs. Ubiquilins, a family of ubiquitin-binding proteins, are involved in all protein degradation pathways. This minireview provides an overview of ubiquilin function in protein degradation and contrasts it with sequestosome-1 (p62), a protein that also has been implicated in multiple proteolytic pathways."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa50086d6d6b54f7900000c_007",
+              "question": "Which is the function of ubiquilins?"
+            }
+          ],
+          "context": "Ubiquilins (UBQLN), a family of adaptor proteins with partial homology with ubiquitin, are proposed to facilitate proteasomal degradation of ubiquitinated substrates"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a992b371d1251d03b00000a_001",
+              "question": "What does MetaHIT stand for?"
+            }
+          ],
+          "context": "The study of the human microbiome or community of microorganisms and collection of genomes found in the human body is one of the fastest growing research areas because many diseases are reported to be associated with microbiome imbalance or dysbiosis. With the improvement in novel sequencing techniques, researchers are now generating millions of sequences of different sites from the human body and evaluating specific differences in microbial communities. The importance of microbiome constituency is so relevant that several consortia like the Human Microbiome project (HMP) and Metagenomics of the Human Intestinal Tract (MetaHIT) project are focusing mainly on the human microbiome. The aim of this review is to highlight points of research in this field, mainly focusing on particular factors that modulate the microbiome and important insights into its potential impact on our health and well-being."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7639419e632bc066000005_001",
+              "question": "Which algorithm has been developed for prediction of protein subcellular localization using deep learning?"
+            }
+          ],
+          "context": "DeepLoc: prediction of protein subcellular localization using deep learning. Motivation: The prediction of eukaryotic protein subcellular localization is a well-studied topic in bioinformatics due to its relevance in proteomics research."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa824a8fcf4565872000002_001",
+              "question": "What is the drug Tecfidera used against?"
+            }
+          ],
+          "context": "The effect of dimethyl fumarate (Tecfidera\u2122) on lymphocyte counts: A potential contributor to progressive multifocal leukoencephalopathy risk. Dimethyl fumarate (Tecfidera\u2122) is an effective therapy for relapsing forms of multiple sclerosis (MS). Our study suggests that this drug may have immunosuppressive properties evidenced by significant sustained reduction in CD8 lymphocyte counts and, to a lesser extent, CD4 lymphocyte counts. This observation is relevant in light of the recent case of progressive multifocal leukoencephalopathy in a patient receiving this drug."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa824a8fcf4565872000002_002",
+              "question": "What is the drug Tecfidera used against?"
+            }
+          ],
+          "context": "Economic impact of new active substance status on EU payers' budgets: example of dimethyl fumarate (Tecfidera(\u00ae)) for multiple sclerosis. BACKGROUND: Recently, collaboration between regulators and payers was set up and was mainly focused on evidence generation along product clinical development."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa824a8fcf4565872000002_003",
+              "question": "What is the drug Tecfidera used against?"
+            }
+          ],
+          "context": "Tecfidera(\u00ae): an approach for repurposing. As a case study of patent coverage for a repurposed drug, Biogen Idec's approach for Tecfidera(\u00ae), an oral formulation of dimethyl fumarate, was analyzed. While mixtures of fumarates have been used for over 50 years to treat psoriasis, Tecifidera is approved for the treatment of relapsing-remitting multiple sclerosis. Biogen pursued claims to pharmaceutical formulations and useful doses for treating multiple sclerosis, an approach that is relevant to pharmaceutical lifecycle management in general. A survey of recent US, EP, and PCT patent applications indicate other companies are developing competing fumarate formulations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa824a8fcf4565872000002_004",
+              "question": "What is the drug Tecfidera used against?"
+            }
+          ],
+          "context": "Dimethyl fumarate (Tecfidera): a new oral agent for multiple sclerosis. OBJECTIVE: To describe the clinical evidence supporting the safety, efficacy, and clinical utility of oral dimethyl fumarate for the treatment of multiple sclerosis (MS)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774fdcfaa1ab7d2e000008_001",
+              "question": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?"
+            }
+          ],
+          "context": "The p53-binding protein 1-Tudor-interacting repair regulator complex participates in the DNA damage response. The 53BP1-dependent end-joining pathway plays a critical role in double strand break repair and is uniquely responsible for cellular sensitivity to poly(ADP-ribose) polymerase inhibitors (PARPi) in BRCA1-deficient cancers. We and others have investigated the downstream effectors of 53BP1, including replication timing regulatory factor 1 (RIF1) and Pax transactivation domain-interacting protein (PTIP), in the past few years to elucidate how loss of the 53BP1-dependent repair pathway results in PARPi resistance in BRCA1 patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774fdcfaa1ab7d2e000008_002",
+              "question": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?"
+            }
+          ],
+          "context": "In this study, we identified the Tudor-interacting repair regulator (TIRR) that specifically associates with the ionizing radiation-induced foci formation region of 53BP1. 53BP1 and TIRR form a stable complex, which is required for their expression. Moreover, the 53BP1-TIRR complex dissociates after DNA damage, and this dissociation may be ataxia telangiectasia mutated-dependent. Similar to 53BP1, loss of TIRR restores PARPi resistance in BRCA1-deficient cells. Collectively, our data identified a novel 53BP1-TIRR complex in DNA damage response. TIRR may play both positive and negative roles in 53BP1 regulation. On the one hand, it stabilizes 53BP1 and thus positively regulates 53BP1. On the other hand, its association with 53BP1 prevents 53BP1 localization to sites of DNA damage, and thus TIRR is also an inhibitor of 53BP1."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774fdcfaa1ab7d2e000008_003",
+              "question": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?"
+            }
+          ],
+          "context": "TIRR regulates 53BP1 by masking its histone methyl-lysine binding function. P53-binding protein 1 (53BP1) is a multi-functional double-strand break repair protein that is essential for class switch recombination in B lymphocytes and for sensitizing BRCA1-deficient tumours to poly-ADP-ribose polymerase-1 (PARP) inhibitors. Central to all 53BP1 activities is its recruitment to double-strand breaks via the interaction of the tandem Tudor domain with dimethylated lysine 20 of histone H4 (H4K20me2)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a774fdcfaa1ab7d2e000008_004",
+              "question": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?"
+            }
+          ],
+          "context": "P53-binding protein 1 (53BP1) is a multi-functional double-strand break repair protein that is essential for class switch recombination in B lymphocytes and for sensitizing BRCA1-deficient tumours to poly-ADP-ribose polymerase-1 (PARP) inhibitors. Central to all 53BP1 activities is its recruitment to double-strand breaks via the interaction of the tandem Tudor domain with dimethylated lysine 20 of histone H4 (H4K20me2). Here we identify an uncharacterized protein, Tudor interacting repair regulator (TIRR), that directly binds the tandem Tudor domain and masks its H4K20me2 binding motif. Upon DNA damage, the protein kinase ataxia-telangiectasia mutated (ATM) phosphorylates 53BP1 and recruits RAP1-interacting factor 1 (RIF1) to dissociate the 53BP1-TIRR complex. However, overexpression of TIRR impedes 53BP1 function by blocking its localization to double-strand breaks. Depletion of TIRR destabilizes 53BP1 in the nuclear-soluble fraction and alters the double-strand break-induced protein complex centring 53BP1. These findings identify TIRR as a new factor that influences double-strand break repair using a unique mechanism of masking the histone methyl-lysine binding function of 53BP1."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_001",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "Carriage prevalence of Salmonella enterica serotype Typhi in gallbladders of adult autopsy cases from Mozambique. INTRODUCTION: Typhoid fever is an important public health problem in many low-income countries where asymptomatic carriers play an important role in its dissemination."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_002",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "CONCLUSIONS: We report a high prevalence of S. Typhi in gallbladders among adult autopsy cases from Mozambique."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_003",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "Salmonella Extracellular Matrix Components Influence Biofilm Formation and Gallbladder Colonization."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_004",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "Salmonella enterica serovar Typhi, the causative agent of typhoid fever in humans, forms biofilms encapsulated by an extracellular matrix (ECM). Biofilms facilitate colonization and persistent infection in gallbladders of humans and mouse models of chronic carriage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_005",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "In vitro modeling of gallbladder-associated Salmonella spp. colonization. The host-pathogen interactions occurring in the gallbladder during Salmonella Typhi colonization contribute to typhoid fever pathogenesis during the acute and chronic stages of disease. The gallbladder is the primary reservoir during chronic typhoid carriage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_006",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "The host-pathogen interactions occurring in the gallbladder during Salmonella Typhi colonization contribute to typhoid fever pathogenesis during the acute and chronic stages of disease. The gallbladder is the primary reservoir during chronic typhoid carriage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_007",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "Salmonella chronic carriage: epidemiology, diagnosis, and gallbladder persistence. Typhoid (enteric fever) remains a major cause of morbidity and mortality worldwide, causing over 21 million new infections annually, with the majority of deaths occurring in young children. Because typhoid fever-causing Salmonella have no known environmental reservoir, the chronic, asymptomatic carrier state is thought to be a key feature of continued maintenance of the bacterium within human populations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_008",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "Salmonella Typhi asymptomatic chronic carriage represents a challenge for the diagnosis and prevention of typhoid fever in endemic areas. Such carriers are thought to be reservoirs for further spread of the disease. Gallbladder carriage has been demonstrated to be mediated by biofilm formation on gallstones and by intracellular persistence in the gallbladder epithelium of mice. In addition, both gallstones and chronic carriage have been associated with chronic inflammation and the development of gallbladder carcinoma. However, the pathogenic relationship between typhoid carriage and the development of pre-malignant and/or malignant lesions in the hepatopancreatobiliary system as well as the host-pathogen interactions occurring during chronic carriage remains unclear."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_009",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "Gallbladder epithelium as a niche for chronic Salmonella carriage. Although typhoid fever has been intensively studied, chronic typhoid carriage still represents a problem for the transmission and persistence of the disease in areas of endemicity. This chronic state is highly associated with the presence of gallstones in the gallbladder of infected carriers upon which Salmonella can form robust biofilms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7347a02dc08e987e00001b_010",
+              "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?"
+            }
+          ],
+          "context": "This chronic state is highly associated with the presence of gallstones in the gallbladder of infected carriers upon which Salmonella can form robust biofilms. However, we hypothesize that in addition to gallstones, the gallbladder epithelium aids in the establishment/maintenance of chronic carriage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a804f71faa1ab7d2e00001d_001",
+              "question": "Which algorithm is used for detection of long repeat expansions?"
+            }
+          ],
+          "context": "Identifying large expansions of short tandem repeats (STRs), such as those that cause amyotrophic lateral sclerosis (ALS) and fragile X syndrome, is challenging for short-read whole-genome sequencing (WGS) data. A solution to this problem is an important step toward integrating WGS into precision medicine. We developed a software tool called ExpansionHunter that, using PCR-free WGS short-read data, can genotype repeats at the locus of interest, even if the expanded repeat is larger than the read length. We applied our algorithm to WGS data from 3001 ALS patients who have been tested for the presence of theC9orf72repeat expansion with repeat-primed PCR (RP-PCR). Compared against this truth data, ExpansionHunter correctly classified all (212/212, 95% CI [0.98, 1.00]) of the expanded samples as either expansions (208) or potential expansions (4). Additionally, 99.9% (2786/2789, 95% CI [0.997, 1.00]) of the wild-type samples were correctly classified as wild type by this method with the remaining three samples identified as possible expansions. We further applied our algorithm to a set of 152 samples in which every sample had one of eight different pathogenic repeat expansions, including those associated with fragile X syndrome, Friedreich's ataxia, and Huntington's disease, and correctly flagged all but one of the known repeat expansions. Thus, ExpansionHunter can be used to accurately detect known pathogenic repeat expansions and provides researchers with a tool that can be used to identify new pathogenic repeat expansions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac4e81d1251d03b000011_001",
+              "question": "Which brain tumors does neuroligin-3 promote?"
+            }
+          ],
+          "context": "An important mechanism that mediates this neural regulation of brain cancer is activity-dependent cleavage and secretion of the synaptic adhesion molecule neuroligin-3 (NLGN3), which promotes glioma proliferation through the PI3K-mTOR pathway. However, the necessity of NLGN3 for glioma growth, the proteolytic mechanism of NLGN3 secretion, and the further molecular consequences of NLGN3 secretion in glioma cells remain unknown. Here we show that HGG growth depends on microenvironmental NLGN3, identify signalling cascades downstream of NLGN3 binding in glioma, and determine a therapeutically targetable mechanism of secretion. Patient-derived orthotopic xenografts of paediatric GBM, DIPG and adult GBM fail to grow in Nlgn3 knockout mice. NLGN3 stimulates several oncogenic pathways, such as early focal adhesion kinase activation upstream of PI3K-mTOR, and induces transcriptional changes that include upregulation of several synapse-related genes in glioma cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac4e81d1251d03b000011_002",
+              "question": "Which brain tumors does neuroligin-3 promote?"
+            }
+          ],
+          "context": "ADAM10 inhibitors prevent the release of NLGN3 into the tumour microenvironment and robustly block HGG xenograft growth. This work defines a promising strategy for targeting NLGN3 secretion, which could prove transformative for HGG therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac4e81d1251d03b000011_003",
+              "question": "Which brain tumors does neuroligin-3 promote?"
+            }
+          ],
+          "context": "Targeting neuronal activity-regulated neuroligin-3 dependency in high-grade glioma. High-grade gliomas (HGG) are a devastating group of cancers, and represent the leading cause of brain tumour-related death in both children and adults. Therapies aimed at mechanisms intrinsic to glioma cells have translated to only limited success; effective therapeutic strategies will need also to target elements of the tumour microenvironment that promote glioma progression."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_001",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "Human African trypanosomiasis (HAT) is a neglected tropical disease, with a population of 70 million at risk. Current treatment options are limited. In the search for new therapeutics, the repurposing of the broad-spectrum antiprotozoal drug fexinidazole has completed Phase III trials with the anticipation that it will be the first oral treatment for HAT. This study used the recently validated bioluminescence imaging model to assess the dose and rate of kill effect of fexinidazole in infected mice, and the dose-dependent effect of fexinidazole on trypanosome infection. Pharmacokinetics of fexinidazole in plasma and central nervous system (CNS) compartments were similar in both infected and uninfected mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_002",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "Oral fexinidazole for late-stage African Trypanosoma brucei gambiense trypanosomiasis: a pivotal multicentre, randomised, non-inferiority trial. BACKGROUND: Few therapeutic options are available to treat the late-stage of human African trypanosomiasis, a neglected tropical disease, caused by Trypanosoma brucei gambiense (g-HAT)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_003",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "Few therapeutic options are available to treat the late-stage of human African trypanosomiasis, a neglected tropical disease, caused by Trypanosoma brucei gambiense (g-HAT). The firstline treatment is a combination therapy of oral nifurtimox and intravenous eflornithine that needs to be administered in a hospital setting by trained personnel, which is not optimal given that patients often live in remote areas with few health resources. Therefore, we aimed to assess the safety and efficacy of an oral regimen of fexinidazole (a 2-substituted 5-nitroimidazole with proven trypanocidal activity) versus nifurtimox eflornithine combination therapy in patients with late-stage g-HAT. METHODS: In this randomised, phase 2/3, open-label, non-inferiority trial, we recruited patients aged 15 years and older with late-stage g-HAT from g-HAT treatment centres in the Democratic Republic of the Congo (n=9) and the Central African Republic (n=1)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_004",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "INTERPRETATION: Our findings show that oral fexinidazole is effective and safe for the treatment of T b gambiense infection compared with nifurtimox eflornithine combination therapy in late-stage HAT patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_005",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "AIM: Fexinidazole (FEX) is a nitroimidazole being developed as a new trypanocide treatment for human African trypanosomiasis/sleeping sickness."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_006",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "Unexpectedly, we find both drugs are more effective at curing chronic infections, judged by treatment duration and therapeutic dose. This was not associated with factors that differentially influence plasma drug concentrations in the two disease stages. We also observed that fexinidazole and fexinidazole sulfone are more effective than benznidazole and nifurtimox as curative treatments, particularly for acute stage infections, most likely as a result of the higher and more prolonged exposure of the sulfone derivative. If these findings are translatable to human patients, they will have important implications for treatment strategies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_007",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "Areas covered: The authors have based their review on a literature search performed using PubMed. The article specifically looks at investigational drugs, which have demonstrated, at the very least, in vitro and in vivo activities against the leishmania species that cause visceral leishmaniasis. Specifically, the authors review the nitroimidazole compound fexinidazole, which is one of the few drugs which have reached Phase II trials. The article also discusses the R enantiomer of (S)-PA-824, which has shown good antileishmanial activity. Finally, the article also highlights the many novel delivery systems and oral formulations of amphotericin B, which are both cheap and less toxic and are currently under investigation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7373f63b9d13c708000008_008",
+              "question": "Which disease is treated with Fexinidazole?"
+            }
+          ],
+          "context": "Core components of all scenarios include detecting and treating cases with established or emerging techniques. Relatively more intensive scenarios incorporate vector control. New tools considered include tiny targets for tsetse fly control, use of rapid diagnostic tests and oral treatment with fexinidazole or oxaboroles. Scenarios consider the time when critical new tools are expected to become ready for deployment by national control programmes. Based on a review of the latest epidemiological data, we estimate the various interventions to cover 1,380,600 km(2) and 56,986,000 people."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8056a2faa1ab7d2e00001f_001",
+              "question": "Which web resource for LIR motif-containing proteins in eukaryotes has been developed?"
+            }
+          ],
+          "context": "iLIR database: A web resource for LIR motif-containing proteins in eukaryotes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8056a2faa1ab7d2e00001f_002",
+              "question": "Which web resource for LIR motif-containing proteins in eukaryotes has been developed?"
+            }
+          ],
+          "context": "In the past few years it has been revealed that Atg8-interacting proteins include not only receptors but also components of the core autophagic machinery, proteins associated with vesicles and their transport, and specific proteins that are selectively degraded by autophagy. Atg8-interacting proteins contain a short linear LC3-interacting region/LC3 recognition sequence/Atg8-interacting motif (LIR/LRS/AIM) motif which is responsible for their interaction with Atg8-family proteins. These proteins are referred to as LIR-containing proteins (LIRCPs). So far, many experimental efforts have been carried out to identify new LIRCPs, leading to the characterization of some of them in the past 10 years. Given the need for the identification of LIRCPs in various organisms, we developed the iLIR database ( https://ilir.warwick.ac.uk ) as a freely available web resource, listing all the putative canonical LIRCPs identified in silico in the proteomes of 8 model organisms using the iLIR server, combined with a Gene Ontology (GO) term analysis. Additionally, a curated text-mining analysis of the literature permitted us to identify novel putative LICRPs in mammals that have not previously been associated with autophagy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac6821d1251d03b000012_001",
+              "question": "How does neuronal activity affect neuroligin-3?"
+            }
+          ],
+          "context": "Shedding light on glioma growth. Cancer is known for opportunistically utilizing resources from its surroundings for its own growth and survival. In this issue of Cell, Venkatesh et al. demonstrate that this also occurs in the brain, identifying neuronal activity-induced secretion of neuroligin-3 as a novel mechanism promoting glioma proliferation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9700adfcd1d6a10c00002c_001",
+              "question": "Sclerostin regulates what process?"
+            }
+          ],
+          "context": "Sclerostin is a soluble antagonist of Wnt/\u03b2-catenin signaling secreted primarily by osteocytes. Current evidence indicates that sclerostin likely functions as a local/paracrine regulator of bone metabolism rather than as an endocrine hormone."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9700adfcd1d6a10c00002c_002",
+              "question": "Sclerostin regulates what process?"
+            }
+          ],
+          "context": "After discovering that lack of Sost/sclerostin expression is the cause of the high bone mass human syndromes Van Buchem disease and sclerosteosis, extensive animal experimentation and clinical studies demonstrated that sclerostin plays a critical role in bone homeostasis and that its deficiency or pharmacological neutralization increases bone formation"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac7ba1d1251d03b000013_001",
+              "question": "What does intepirdine target?"
+            }
+          ],
+          "context": "Characterized by neuronal cell death accompanied by the accumulation of neurofibrillary tangles and neuritic plaques, AD results in devastating clinical symptomatology with a lasting psychosocial and financial impact. Studies have shown that the current treatments for AD, cholinesterase inhibitors (ChEI's) and NMDA receptor antagonists, have limited efficacy. The 5-HT-6 receptor antagonists Idalopirdine and Intepirdine have shown the most progress in current clinical trials and warrant consideration as emerging treatments for AD. Areas covered: This review discusses 5-HT6 antagonists currently in clinical trials as potential treatments for AD symptomatology and how 5-HT6 physiology may play a positive role in alleviating AD symptom pathophysiology. A literature search using PubMed was conducted using the terms Idalopirdine, Intepirdine, 5-HT-6 antagonist, and AD as keywords."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac7ba1d1251d03b000013_002",
+              "question": "What does intepirdine target?"
+            }
+          ],
+          "context": "This review discusses 5-HT6 antagonists currently in clinical trials as potential treatments for AD symptomatology and how 5-HT6 physiology may play a positive role in alleviating AD symptom pathophysiology. A literature search using PubMed was conducted using the terms Idalopirdine, Intepirdine, 5-HT-6 antagonist, and AD as keywords."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9ac7ba1d1251d03b000013_003",
+              "question": "What does intepirdine target?"
+            }
+          ],
+          "context": "A literature search using PubMed was conducted using the terms Idalopirdine, Intepirdine, 5-HT-6 antagonist, and AD as keywords. Clinicaltrials.gov and Alzforum were also used to obtain information on clinical trials. Expert opinion: If current Phase-3 trials are positive, 5-HT6 antagonists such as Idalopirdine and Intepirdine may be considered as supplementary treatments to ChEI's and NMDA receptor antagonists for the symptomatic treatment of AD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d8d691d1251d03b000020_001",
+              "question": "What is the association of the protein RAB10 and Alzheimers disease?"
+            }
+          ],
+          "context": "1 (FLT1) regulated by miRNA-30e-3p and miRNA-369-3p were involved in the biological processes of protein transport and regulation of cell motion. CONCLUSION: The target genes SEC22B, RAB10, and FLT1 may be potential biomarkers of AD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8b27e6fcd1d6a10c00001e_001",
+              "question": "Which R package has been developed for analyzing Non-invasive prenatal testing (NIPT) data?"
+            }
+          ],
+          "context": "RAPIDR: an analysis package for non-invasive prenatal testing of aneuploidy. UNLABELLED: Non-invasive prenatal testing (NIPT) of fetal aneuploidy using cell-free fetal DNA is becoming part of routine clinical practice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8b27e6fcd1d6a10c00001e_002",
+              "question": "Which R package has been developed for analyzing Non-invasive prenatal testing (NIPT) data?"
+            }
+          ],
+          "context": "Non-invasive prenatal testing (NIPT) of fetal aneuploidy using cell-free fetal DNA is becoming part of routine clinical practice. RAPIDR (Reliable Accurate Prenatal non-Invasive Diagnosis R package) is an easy-to-use open-source R package that implements several published NIPT analysis methods. The input to RAPIDR is a set of sequence alignment files in the BAM format, and the outputs are calls for aneuploidy, including trisomies 13, 18, 21 and monosomy X as well as fetal sex. RAPIDR has been extensively tested with a large sample set as part of the RAPID project in the UK. The package contains quality control steps to make it robust for use in the clinical setting."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_001",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "Materials and Methods This HIPAA-compliant, institutional review board-approved study was performed at a tertiary care, academic medical center ED with approximately 60 000 annual visits and included all patients who were suspected of having pulmonary embolism (PE) and who underwent CT pulmonary angiography between January 1, 2011, and August 31, 2013. The requirement to obtain informed consent was waived. Each CT order for pulmonary angiography was exposed to CDS on the basis of the Wells criteria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_002",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "Incremental diagnostic quality gain of CTA over V/Q scan in the assessment of pulmonary embolism by means of a Wells score Bayesian model: results from the ACDC collaboration. OBJECTIVE: Our objective was to evaluate the diagnostic value of computed tomography angiography (CTA) and ventilation perfusion (V/Q)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_003",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "OBJECTIVE: Our objective was to evaluate the diagnostic value of computed tomography angiography (CTA) and ventilation perfusion (V/Q) scan in the assessment of pulmonary embolism (PE) by means of a Bayesian statistical model.METHODS: Wells criteria defined pretest probability."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_004",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "Intermingled with the guidelines are the development of modern anticoagulants like direct factor Xa inhibitors which are being studied for their role in the prevention of venous thromboembolism (VTE) in medically ill patients and have been concluded so far with the positive note. We are going to discuss a case of a patient who was admitted in the medical ICU with hospital acquired pneumonia. As her immediate risk of VTE was low (Wells criteria), she was advised mechanical measures to prevent VTE along with continuation of rivaroxaban therapy which had already been prescribed for her avalvular atrial fibrillation. While mechanically ventilated, she developed pulmonary venous thromboembolism. It is the first case report of VTE in adequately anticoagulated patient with rivaroxaban."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_005",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "For ED patients aged 18+years with suspected PE, CTPE use and yield were compared 19months pre- and 32months post-implementation of CDS intervention based on the Wells criteria, provided at the time of CTPE order, deployed in April 2012."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_006",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "Correlation between the Wells score and the Quanadli index in patients with pulmonary embolism. BACKGROUND AND AIMS: Determining clinical probability of pulmonary embolism (PE) with Wells scoring system is the first step towards diagnosis of PE."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_007",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "BACKGROUND AND AIMS: Determining clinical probability of pulmonary embolism (PE) with Wells scoring system is the first step towards diagnosis of PE."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_008",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "METHODS: This was a prospective study on 80 patients referred to the Institute for Pulmonary Diseases of Vojvodina with suspected PE between April 2010 and August 2012. Clinical probability of PE was determined according to the Wells and modified Wells scoring system. CTPA was performed in 60 patients. The degree of pulmonary vascular obstruction was quantified by the Qanadli index."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_009",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "CONCLUSION: Modified Wells criteria have high sensitivity but low specificity in PE diagnostics."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7428090384be9551000001_010",
+              "question": "What can be predicted with the Wells criteria?"
+            }
+          ],
+          "context": "METHODS: This was a prospective investigation of the sensitivity of multidetector CTPA among patients with a priori clinical assessment of a high probability of PE according to the Wells criteria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa3fb7ad6d6b54f79000009_001",
+              "question": "What drug cures hepatitis C?"
+            }
+          ],
+          "context": "Sofosbuvir-based therapy cures hepatitis C virus infection after prior treatment failures in a patient with concurrent lymphoma. We report on the first well-tolerated and successful use of sofosbuvir-based therapy in a patient in whom chronic infection with hepatitis C had preceded the development of B-cell non-Hodgkin's lymphoma. The patient had previously failed numerous attempts to clear the hepatitis C virus with traditional antiviral schedules."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67c497b750ff4455000012_001",
+              "question": "Which method is available for whole genome identification of pathogenic regulatory variants in mendelian disease?"
+            }
+          ],
+          "context": "Here we present Genomiser, an analysis framework that is able not only to score the relevance of variation in the non-coding genome, but also to associate regulatory variants to specific Mendelian diseases. Genomiser scores variants through either existing methods such as CADD or a bespoke machine learning method and combines these with allele frequency, regulatory sequences, chromosomal topological domains, and phenotypic relevance to discover variants associated to specific Mendelian disorders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9acd921d1251d03b000016_001",
+              "question": "In what phase of clinical trials is crenezumab? (November 2017)"
+            }
+          ],
+          "context": "This article focuses on the current research in clinical trials targeting the neuropathological findings of AD including acetylcholine response, glutamate transmission, A\u03b2 clearance, tau protein deposits, and neuroinflammation. These investigations include acetylcholinesterase inhibitors, agonists and antagonists of neurotransmitter receptors, \u03b2-secretase (BACE) or \u03b3-secretase inhibitors, vaccines or antibodies targeting A\u03b2 clearance or tau protein, as well as anti-inflammation compounds. Ongoing Phase III clinical trials via passive immunotherapy against A\u03b2 peptides (crenezumab, gantenerumab, and aducanumab) seem to be promising. Using small molecules blocking 5-HT serotonin receptor (intepirdine), inhibiting BACE activity (E2609, AZD3293, and verubecestat), or reducing tau aggregation (TRx0237) are also currently in Phase III clinical trials. We here systemically review the findings from recent clinical trials to provide a comprehensive review of novel therapeutic compounds in the treatment and prevention of AD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b45d6d6b54f7900000d_001",
+              "question": "What organism causes scarlet fever also known as scarletina?"
+            }
+          ],
+          "context": "The incidence rate for scarlet fever in South Korea is rising. During 2008-2015, we collected group A Streptococcus isolates and performed emm and exotoxin genotyping"
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b45d6d6b54f7900000d_002",
+              "question": "What organism causes scarlet fever also known as scarletina?"
+            }
+          ],
+          "context": "Scarlet fever notifications surged across the United Kingdom in spring 2014. Molecular epidemiologic investigation of Streptococcus pyogenes infections in North-West London highlighted increased emm4 and emm3 infections coincident with the upsurge."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa55b45d6d6b54f7900000d_003",
+              "question": "What organism causes scarlet fever also known as scarletina?"
+            }
+          ],
+          "context": "Characteristics of group A Streptococcus strains circulating during scarlet fever epidemic, Beijing, China, 2011. Scarlet fever is one of a variety of diseases caused by group A Streptococcus (GAS). During 2011, a scarlet fever epidemic characterized by peak monthly incidence rates 2.9-6.7 times higher than those in 2006-2010 occurred in Beijing, China. During the epidemic, hospital-based enhanced surveillance for scarlet fever and pharyngitis was conducted to determine characteristics of circulating GAS strains."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da8df4e03427e73000006_001",
+              "question": "What is emicizumab?"
+            }
+          ],
+          "context": "Emicizumab Prophylaxis in Hemophilia A with Inhibitors. BACKGROUND: Emicizumab (ACE910) bridges activated factor IX and factor X to restore the function of activated factor VIII, which is deficient in persons with hemophilia A. This phase 3, multicenter trial assessed once-weekly subcutaneous emicizumab prophylaxis in persons with hemophilia A with factor VIII inhibitors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da8df4e03427e73000006_002",
+              "question": "What is emicizumab?"
+            }
+          ],
+          "context": "Emicizumab Prophylaxis in Hemophilia A with Inhibitors. BACKGROUND: Emicizumab (ACE910) bridges activated factor IX and factor X to restore the function of activated factor VIII, which is deficient in persons with hemophilia A."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da8df4e03427e73000006_003",
+              "question": "What is emicizumab?"
+            }
+          ],
+          "context": "No antidrug antibodies were detected. CONCLUSIONS: Emicizumab prophylaxis was associated with a significantly lower rate of bleeding events than no prophylaxis among participants with hemophilia A with inhibitors. (Funded by F. Hoffmann-La Roche and Chugai Pharmaceutical; HAVEN 1 ClinicalTrials.gov number, NCT02622321 .)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da8df4e03427e73000006_004",
+              "question": "What is emicizumab?"
+            }
+          ],
+          "context": "Treatment and prevention of bleeding episodes in patients with severe haemophilia A require frequent intravenous injection of factor VIII."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da8df4e03427e73000006_005",
+              "question": "What is emicizumab?"
+            }
+          ],
+          "context": "ACE910 (emicizumab) is a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9da8df4e03427e73000006_006",
+              "question": "What is emicizumab?"
+            }
+          ],
+          "context": "Emicizumab is a bispecific antibody recognizing both the enzyme factor IXa (FIXa) and the substrate factor X (FX)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9dad764e03427e73000007_001",
+              "question": "What is the preDIVA clinical trial?"
+            }
+          ],
+          "context": "To explore and compare sociodemographic, clinical, and neuropsychiatric determinants of dropout and nonadherence in older people participating in an open-label cluster-randomized controlled trial-the Prevention of Dementia by Intensive Vascular care (preDIVA) trial-over 6 years."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9dad764e03427e73000007_002",
+              "question": "What is the preDIVA clinical trial?"
+            }
+          ],
+          "context": "This study aimed to evaluate the effect of a nurse-led multidomain cardiovascular intervention on white matter hyperintensity (WMH) progression and incident lacunar infarcts in community-dwelling elderly with hypertension. METHODS: The preDIVA trial (Prevention of Dementia by Intensive Vascular Care) was an open-label, cluster-randomized controlled trial in community-dwelling individuals aged 70 to 78 years. General practices were assigned by computer-generated randomization to 6-year nurse-led, multidomain intensive vascular care or standard care. Of 3526 preDIVA participants, 195 nondemented participants with a systolic blood pressure >"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9dad764e03427e73000007_003",
+              "question": "What is the preDIVA clinical trial?"
+            }
+          ],
+          "context": "Effectiveness of a 6-year multidomain vascular care intervention to prevent dementia (preDIVA): a cluster-randomised controlled trial. BACKGROUND: Cardiovascular risk factors are associated with an increased risk of dementia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9dad764e03427e73000007_004",
+              "question": "What is the preDIVA clinical trial?"
+            }
+          ],
+          "context": "Prevention of dementia by intensive vascular care (PreDIVA): a cluster-randomized trial in progress. BACKGROUND AND PURPOSE: Cardiovascular risk factors are associated with an increased risk of dementia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d29571d1251d03b000018_001",
+              "question": "What effect does azeliragon have on RAGE?"
+            }
+          ],
+          "context": "Putative disease-modifying drugs are in development and target \u03b2-amyloid (A\u03b2) peptide and tau protein, the principal neurophatological hallmarks of the disease. Areas covered: Phase III clinical studies of emerging anti-A\u03b2 drugs for the treatment of AD were searched in US and EU clinical trial registries and in the medical literature until May 2016. Expert opinion: Drugs in Phase III clinical development for AD include one inhibitor of the \u03b2-secretase cleaving enzyme (BACE) (verubecestat), three anti-A\u03b2 monoclonal antibodies (solanezumab, gantenerumab, and aducanumab), an inhibitor of receptor for advanced glycation end products (RAGE) (azeliragon) and the combination of cromolyn sodium and ibuprofen (ALZT-OP1). These drugs are mainly being tested in subjects during early phases of AD or in subjects at preclinical stage of familial AD or even in asymptomatic subjects at high risk of developing AD. The hope is to intervene in the disease process when it is not too late."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e2386de7cb99d40000004_001",
+              "question": "What is the drug forxiga used for?"
+            }
+          ],
+          "context": "[Dapagliflozin (forxiga\u00ae) : SGLT 2 cotransporter inhibitor as glucose-lowering agent in type 2 diabetes]. Dapagliflozin, a specific inhibitor of sodium-glu\u00accose cotransporters type 2 (SGLT2, inhibits glucose reabsorp\u00action in renal tubules and thus promotes glucosuria. This effect results in a reduction in fasting and postprandial glycaemia and a decrease of glycated haemoglobin (HbA1c), with a minor risk of hypoglycaemia, a weight reduction and a reduction in arterial blood pressure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e2386de7cb99d40000004_002",
+              "question": "What is the drug forxiga used for?"
+            }
+          ],
+          "context": "Pharmacokinetics, pharmacodynamics and clinical efficacy of dapagliflozin for the treatment of type 2 diabetes. INTRODUCTION: Dapagliflozin (DAPA) (Farxiga or Forxiga) is a sodium glucose cotransporter 2 (SGLT2) inhibitor approved for type 2 diabetes mellitus(T2DM) treatment. AREAS COVERED: The review focuses on the pharmacokinetics (PK), pharmacodynamics(PD) and clinical studies published on DAPA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e2386de7cb99d40000004_003",
+              "question": "What is the drug forxiga used for?"
+            }
+          ],
+          "context": "Aims of treatment include minimising long-term complications (e.g. cardiovascular disease, blindness, chronic kidney disease, premature mortality) and avoiding unwanted effects of treatment (e.g. severe hypoglycaemia, weight gain). Management of diabetes includes patient support and education; addressing symptoms; lifestyle modification; targeting associated risk factors for cardiovascular disease; and surveillance for, and management of, complications including treatment-related hypoglycaemia. Dapagliflozin (Forxiga) belongs to a new class of oral glucose-lowering drugs that inhibit renal glucose reabsorption and promote glycosuria. It is licensed in the UK in adults with type 2 diabetes as monotherapy when diet and exercise alone do not provide adequate glycaemic control and who are unable to tolerate metformin; or, as add-on therapy, with other glucose-lowering agents including insulin, when these, with diet and exercise, do not provide adequate glycaemic control. The company's advertising materials claim that dapagliflozin provides a \"novel method of controlling excess glucose\" with \"secondary benefit of weight loss\"."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e2386de7cb99d40000004_004",
+              "question": "What is the drug forxiga used for?"
+            }
+          ],
+          "context": "Dapagliflozin (Forxiga\u00ae) is the first in a novel class of glucose-lowering agents known as sodium-glucose co-transporter-2 (SGLT2) inhibitors and is used in the treatment of patients with type 2 diabetes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9e2386de7cb99d40000004_005",
+              "question": "What is the drug forxiga used for?"
+            }
+          ],
+          "context": "The possibility that T2D patients might be at increased risk in developing AD has serious societal implications. Sodium glucose co-transporter 2 (SGLT2) is one of the best targets in the treatment of diabetes, whereas acetylcholinesterase (AChE) has long been regarded as a therapeutic target for AD. This study explores the molecular interactions between AChE and SGLT2 with a new US Food and Drug Administration approved antidiabetic drug Forxiga (dapagliflozin) to explore a possible link between the treatments of AD and diabetes. Docking study was performed using \"Autodock4.2. \""
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_001",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "We describe a patient with Doege-Potter syndrome (solitary fibrous tumor of the pleura presenting with hypoglycemia) and illustrate several important lessons learned from the case."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_002",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "Solitary fibrous tumour of the pleura (SFTP) is a rare primary tumour of the pleura associated with 4% of cases with a paraneoplastic hypoglycaemia, termed Doege-Potter syndrome (DPS)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_003",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "Metastatic extrapleural malignant solitary fibrous tumor presenting with hypoglycemia (Doege-Potter syndrome). We report a rare case of metastatic malignant solitary fibrous tumor (SFT) that presented with hypoglycemia because of insulin growth factor-2 production. Initial workup included computed tomography imaging that revealed a large, partially necrotic liver mass, a hypervascular pancreatic head lesion, and 2 renal lesions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_004",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "Doege-Potter syndrome is a paraneoplastic syndrome characterized by non-islet cell tumor hypoglycemia secondary to a solitary fibrous tumor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_005",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "AIM: Doege-Potter syndrome is a rare condition consisting of a mesenchymal tumor, either benign or malignant, accompanied by severe hypoglycemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_006",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "Large pleural tumor revealed by severe hypoglycemia: Doege-Potter syndrome. AIM: Doege-Potter syndrome is a rare condition consisting of a mesenchymal tumor, either benign or malignant, accompanied by severe hypoglycemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a761ac3aacfb9cd4c000002_007",
+              "question": "What is the most common feature of the Doege\u2013Potter syndrome?"
+            }
+          ],
+          "context": "Solitary fibrous tumors of the pleura (SFTPs) are relatively rare tumors that originate from mesenchymal cells of submesothelial tissue of the pleura. Most patients with SFTPs are asymptomatic; however, pleuritic chest pain, cough, and dyspnea can develop. If hypoglycemia is associated with a solitary fibrous tumor, it is referred to as the Doege-Potter syndrome. CASE PRESENTATION: A 70-year-old man had visited our hospital with a chief complaint of dyspnea, and he was diagnosed as having a solitary fibrous tumor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_001",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "Caring for a patient with rabies: implications of the Milwaukee protocol for infection control and public health measures. This article discusses the infection control and public health measures taken whilst managing a case of laboratory-confirmed rabies, and the challenges faced in implementing these measures. Case management requires intensive multi-disciplinary co-ordination."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_002",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "This article discusses the infection control and public health measures taken whilst managing a case of laboratory-confirmed rabies, and the challenges faced in implementing these measures. Case management requires intensive multi-disciplinary co-ordination. The Milwaukee protocol, which to date has five reported human rabies survivors associated with its use, has been suggested as a potential management pathway for human rabies. Consensus among hospital and public health clinicians would aid future deployment of this approach in selected cases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_003",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "Critical Appraisal of the Milwaukee Protocol for Rabies: This Failed Approach Should Be Abandoned."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_004",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "Therapies suggested in the Milwaukee protocol include therapeutic coma, ketamine infusion, amantadine, and the screening/prophylaxis/management of cerebral vasospasm. None of these therapies can be substantiated in rabies or other forms of acute viral encephalitis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_005",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "Critical Appraisal of the Milwaukee Protocol for Rabies: This Failed Approach Should Be Abandoned. The Milwaukee protocol has been attributed to survival in rabies encephalitis despite a lack of scientific evidence supporting its therapeutic measures. We have reviewed the literature with reference to specific treatment recommendations made within the protocol. Current literature fails to support an important role for excitotoxicity and cerebral vasospasm in rabies encephalitis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_006",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "Rabies is virtually always fatal after clinical disease develops, and there have only been rare survivors. The Milwaukee protocol, which includes therapeutic coma, has been shown to be ineffective and should no longer be used."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a679e8cb750ff4455000006_007",
+              "question": "Milwaukee protocol was tested for treatment of which disease?"
+            }
+          ],
+          "context": "Human rabies is virtually always fatal despite numerous attempts at aggressive therapy. Most survivors received one or more doses of rabies vaccine prior to the onset of the disease. The Milwaukee Protocol has proved to be ineffective for rabies and should no longer be used. New approaches are needed and an improved understanding of basic mechanisms responsible for the clinical disease in rabies may prove to be useful for the development of novel therapeutic approaches. Antiviral therapy is thought to be an important component of combination therapy for the management of human rabies, and immunotherapy and neuroprotective therapy should also be strongly considered."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6c800d6d6b54f79000012_001",
+              "question": "What is liquid liquid phase transition?"
+            }
+          ],
+          "context": "(ataxin 2), MAPT (microtubule associated protein tau), and TIA1 (TIA1 cytotoxic granule associated RNA binding protein). Although these proteins are structurally and functionally different and have rather different pathological functions, they all possess some levels of intrinsic disorder and are either directly engaged in or are at least related to the physiological liquid-liquid phase transitions (LLPTs) leading to the formation of various proteinaceous membrane-less organelles (PMLOs), both normal and pathological. This review describes the normal and pathological functions of these ALS- and FTLD-related proteins, describes their major structural properties, glances at their intrinsic disorder status, and analyzes the involvement of these proteins in the formation of normal and pathological PMLOs, with the ultimate goal of better understanding the roles of LLPTs and intrinsic disorder in the \"Dr. Jekyll-Mr. Hyde\" behavior of those proteins."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6c800d6d6b54f79000012_002",
+              "question": "What is liquid liquid phase transition?"
+            }
+          ],
+          "context": "Microenvironments created by liquid-liquid phase transition control the dynamic distribution of bacterial division FtsZ protein. The influence of membrane-free microcompartments resulting from crowding-induced liquid/liquid phase separation (LLPS) on the dynamic spatial organization of FtsZ, the main component of the bacterial division machinery, has been studied using several LLPS systems. The GTP-dependent assembly cycle of FtsZ is thought to be crucial for the formation of the septal ring, which is highly regulated in time and space. We found that FtsZ accumulates in one of the phases and/or at the interface, depending on the system composition and on the oligomerization state of the protein."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aa6c800d6d6b54f79000012_003",
+              "question": "What is liquid liquid phase transition?"
+            }
+          ],
+          "context": "we hypothesize that intrinsically disordered proteins (IDPs) serve as important drivers of the intracellular liquid-liquid phase separations that generate various membrane-less organelles"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a9d31711d1251d03b00001c_001",
+              "question": "What is the approximate size of gas vesicles?"
+            }
+          ],
+          "context": "Within 5 min of suspending cells containing collapsed vesicles in growth medium, small transparent vesicles were detected. By 15 min the average number of vesicles per cell was 15. This number remained relatively constant while the size of the vesicles increased until they attained their maximum diamtere of 100 nm. At this time the vesicles, interpreted as biconical structures, began to elongate presumably due to the synthesis of the cylindrical midsection. Closely correlated with the time at which vesicles began to elongate was the initiation of smaller vesicles which resulted in a doubling of the number of vesicles per cell by 90 min."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aad4b37fcf456587200000a_001",
+              "question": "What is the proteoform?"
+            }
+          ],
+          "context": "Numerous studies in the framework of the global program \"Human Proteome\" were aimed at the identification of all possible proteins in various cell cultures and tissues, including cancer. One of the objectives was to identify biomarkers - proteins with high specificity to certain pathologies. However, in many cases, it is shown that the development of the disease is not associated with the appearance of new proteins, but depends on the level of gene expression or forming of proteoforms - splice variants, single amino acid substitutions (SAP variants), and post-translational modifications (PTM) of proteins. PTM may play a key role in the development of pathology because they activate a variety of regulatory or structural proteins in the majority of cell physiological processes. Phosphorylation is among the most significant of these protein modifications."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aad4b37fcf456587200000a_002",
+              "question": "What is the proteoform?"
+            }
+          ],
+          "context": "A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra. Motivation: Although proteomics has rapidly developed in the past decade, researchers are still in the early stage of exploring the world of complex proteoforms, which are protein products with various primary structure alterations resulting from gene mutations, alternative splicing, post-translational modifications, and other biological processes. Proteoform identification is essential to mapping proteoforms to their biological functions as well as discovering novel proteoforms and new protein functions. Top-down mass spectrometry is the method of choice for identifying complex proteoforms because it provides a 'bird's eye view' of intact proteoforms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aad4b37fcf456587200000a_003",
+              "question": "What is the proteoform?"
+            }
+          ],
+          "context": "Here we report our further benchmarking of the new version of ProteinGoggle with publically available photon-based dissociation (UVPD) data (http://hdl.handle.net/2022/17316) of intact E. coli ribosomal proteins. BIOLOGICAL SIGNIFICANCE: Protein species (aka proteoforms) function at their molecular level, and diverse structures and biological roles of every proteoform come from often co-occurring proteolysis, amino acid variation and post-translational modifications. Complete and high-throughput capture of this combinatorial information of proteoforms has become possible in evolving top-down proteomics; yet, various methods and technologies, especially database search and bioinformatics identification tools, in the top-down pipeline are still in their infancy stages and demand intensive research and development."
+        },
+        {
+          "qas": [
+            {
+              "id": "5aad4b37fcf456587200000a_004",
+              "question": "What is the proteoform?"
+            }
+          ],
+          "context": "Currently, the main goals of the field are to aid genome annotation or to unravel the proteome complexity. Mass spectrometry based identifications of matching or homologues peptides can further refine gene models. Also, the identification of novel proteoforms is also made possible based on detection of novel translation initiation sites (cognate or near-cognate), novel transcript isoforms, sequence variation or novel (small) open reading frames in intergenic or un-translated genic regions by analyzing high-throughput sequencing data from RNAseq or ribosome profiling experiments. Other proteogenomics studies using a combination of proteomics and genomics techniques focus on antibody sequencing, the identification of immunogenic peptides or venom peptides. Over the years, a growing amount of bioinformatics tools and databases became available to help streamlining these cross-omics studies."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

@@ -1,0 +1,1486 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5a6a3335b750ff4455000025_001",
+              "question": "Which algorithm is available for computing minimal absent words using external memory?"
+            }
+          ],
+          "context": "emMAW: computing minimal absent words in external memory."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6a3335b750ff4455000025_002",
+              "question": "Which algorithm is available for computing minimal absent words using external memory?"
+            }
+          ],
+          "context": "We present emMAW, the first external-memory algorithm for computing minimal absent words. A free open-source implementation of our algorithm is made available. This allows for computation of minimal absent words on far bigger data sets than was previously possible. Our implementation requires less than 3\u2009h on a standard workstation to process the full human genome when as little as 1\u2009GB of RAM is made available. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_001",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": " From May 2013 to May 2014, an outbreak of C.\u00a0difficile ribotype 027 occurred in a Dutch tertiary care hospital, involving 72 patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_002",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": " During this period, 70 endemic cases of CDI occurred as well as 78 cases of CDI related to an outbreak of C. difficile ribotype 027"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_003",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": "The outbreak of the hypervirulent strain belonging to ribotype 027 has increased the incidence and severity of CDI in some countries."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_004",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": "An outbreak of Clostridium difficile PCR ribotype 027 in Spain: risk factors for recurrence and a novel treatment strategy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_005",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": " The aim of this study was to determine whether early recurrence risk was higher after infection with ribotype 027 (outbreak strain) compared with infection with endemic strain types of C.\u00a0difficile."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_006",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": "The rapid spread of Clostridium difficile NAP1/BI/027 (C. difficile 027) has become one of the leading threats of healthcare-associated infections worldwide. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_007",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": "An outbreak of Clostridium difficile ribotype 027 infection (CDI) occurred at an university hospital, involving 19 departments. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_008",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": "The majority of strains from Bosnia and Herzegovina and Serbia belonged to PCR ribotype 027 (65.8%). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87d73861bb38fb2400000b_009",
+              "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?"
+            }
+          ],
+          "context": "Ribotype 027 is highly prevalent in Germany, but its infections are restricted to older patients, while absent in children."
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_001",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "Epigenetically-inherited centromere and neocentromere DNA replicates earliest in S-phase"
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_002",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "we discovered that each centromere is associated with a replication origin that is the first to fire on its respective chromosome."
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_003",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "a neocentromere became the first to replicate and became associated with origin recognition complex (ORC) components. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_004",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "Finally, analysis of centromere-associated DNA revealed a replication-dependent sequence pattern characteristic of constitutively active replication origins. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_005",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "We propose that by promoting replication fork integrity under these conditions Rad53 ensures centromere duplication."
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_006",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": " Two-dimensional gel analysis confirmed that mat1 is preferentially replicated by a centromere-distal origin(s)."
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_007",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "Mutations in two of these LCS (linear chromosome stability) genes had little or no effect on the loss rate of a circular YAC that had the same centromere and origin of replication as present on the linear YA"
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_008",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "Lack of positional requirements for autonomously replicating sequence elements on artificial yeast chromosomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "58eb99f3eda5a57672000009_009",
+              "question": "Do origins of replication close to yeast centromeres fire early or late?"
+            }
+          ],
+          "context": "We find that terminal blocks of telomeric repeats are sufficient to be recognized as telomeres. Moreover, artificial chromosomes containing telomere-associated Y' sequences and telomeric ARSs were no more stable during both mitosis and meiosis than artificial chromosomes lacking terminal ARSs, indicating that yeast-specific blocks of telomeric sequences are the only cis-acting requirement for a functional telomere during both mitotic growth and meiosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87ea1861bb38fb2400000d_001",
+              "question": "What is a coligo?"
+            }
+          ],
+          "context": "Circularized oligonucleotides, or coligos,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a87ea1861bb38fb2400000d_002",
+              "question": "What is a coligo?"
+            }
+          ],
+          "context": "circularized oligodeoxynucleotides (coligos)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_001",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "STUDY DESIGN: 141 women who agreed to undergo midurethral sling operations due to stress urinary incontinence with hypermobile urethra were enrolled in this non-randomized prospective observational study. Preoperatively, urethral mobility was measured by Q tip test."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_002",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "Valsalva leak point pressure-associated Q-tip angle and simple female stress urinary incontinence symptoms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_003",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "PURPOSE: To clarify the association between clinically defined simple stress urinary incontinence (SUI) symptoms and urodynamic SUI, we examined the relationship between Valsalva leak point pressure (VLPP) as measured by the Q-tip test and Stamey grade in simple female SUI.METHODS: Two hundred grade I or II female SUI patients with SUI symptom were examined by reviewing medical history; physical examination; urethral mobility as assessed by Q-tip test; stress test; and cystometry, including VLPP measurement. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_004",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "CONCLUSIONS: In simple female SUI, VLPP is associated with the Q-tip angle and Stamey grade, which may help to reduce some of urodynamic items."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_005",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "Each woman at 12 and 24 months underwent postoperative evaluation by means of urodynamics, Q-tip test, CST, transperineal ultrasonography, and administration of \"King's Health Questionnaire\" (KHQ)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_006",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "METHODS: A total of 25 women affected by clinical stress urinary incontinence (SUI) were enrolled. After undergoing urodynamic assessment, pelvic organ prolapse quantification, urine culture, Q-tip test, and stress test, each subject underwent color Doppler ultrasonography to record clitoral blood flow and EMG of the urethral sphincter with a needle electrode inserted through the mucosa into the muscle tissue before surgery. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_007",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "Preoperatively, patients underwent POP-Q staging, Q-tip test, challenge stress test and urodynamics, and completed the I-QoL, PISQ-12, and PGI-S questionnaires."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a67b2f7b750ff445500000f_008",
+              "question": "Which type of urinary incontinence is diagnosed with the Q tip test?"
+            }
+          ],
+          "context": "MATERIALS AND METHODS: One hundred patients suffering from clinical and/or urodynamic stress urinary incontinence (SUI) were randomized into biological material TOT (PELVILACE\u00ae TO) or synthetic material TOT (ALIGN\u00aeTO Urethral Support System) groups. Preoperative and at 1 year postoperative urogynecological symptom assessment, 1-h pad test, 4-day bladder diary, stress test, Q-tip test, and urodynamics were performed. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58edf567eda5a57672000011_001",
+              "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?"
+            }
+          ],
+          "context": "During this phase, at least 48 genes, collectively named Dormancy survival regulator (DosR) regulon, are important for the long-term survival of bacilli under a non-respiring state, a condition that bacilli encounter inside granulomatous lesions."
+        },
+        {
+          "qas": [
+            {
+              "id": "58edf567eda5a57672000011_002",
+              "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?"
+            }
+          ],
+          "context": "The dormancy survival regulator (DosR) regulon, composed of 48 co-regulated genes, is held as essential for Mtb persistence."
+        },
+        {
+          "qas": [
+            {
+              "id": "58edf567eda5a57672000011_003",
+              "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?"
+            }
+          ],
+          "context": " DosR/DevR of M. tuberculosis is a two component dormancy survival response regulator which induces the expression of 48 genes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58edf567eda5a57672000011_004",
+              "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?"
+            }
+          ],
+          "context": "The functional importance of tandem arrangement was established by analyzing promoter variants harboring Dev boxes with altered spacing. Conserved sequence logos were generated from 47 binding sequences which included 24 newly discovered Dev boxes."
+        },
+        {
+          "qas": [
+            {
+              "id": "58edf567eda5a57672000011_005",
+              "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?"
+            }
+          ],
+          "context": " The two component sensor/regulator dosRS is a major mediator in the transcriptional response of M. tuberculosis to hypoxia and controls a regulon of approximately 50 genes that are induced under this condition."
+        },
+        {
+          "qas": [
+            {
+              "id": "58edf567eda5a57672000011_006",
+              "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?"
+            }
+          ],
+          "context": "In silico analysis of the DosR regulon in BCG and M. tuberculosis showed at least 97% amino acid sequence homology, with 41 out of 48 genes being identical."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7610af83b0d9ea6600001a_001",
+              "question": "Which Janus kinase does decernotinib target?"
+            }
+          ],
+          "context": "The aim of this study was to evaluate the potency and selectivity of the investigational JAK3 inhibitor VX-509 (decernotinib) [(R)-2-((2-(1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-4-yl)amino)-2-methyl-N-(2,2,2-trifluoroethyl)butanamide]against JAK3 kinase activity and inhibition of JAK3-mediated signaling in vitro and JAK3-dependent physiologic processes in vivo."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7610af83b0d9ea6600001a_002",
+              "question": "Which Janus kinase does decernotinib target?"
+            }
+          ],
+          "context": "These results demonstrate that VX-509 potently inhibits JAK3 in enzyme assays (Ki = 2.5 nM + 0.7 nM) and cellular assays dependent on JAK3 activity (IC50 range, 50-170 nM), with limited or no measurable potency against other JAK isotypes or non-JAK kinases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7610af83b0d9ea6600001a_003",
+              "question": "Which Janus kinase does decernotinib target?"
+            }
+          ],
+          "context": "These findings demonstrate that VX-509 is a selective and potent inhibitor of JAK3 in vitro and modulates proinflammatory response in models of immune-mediated diseases, such as collagen-induced arthritis and delayed-type hypersensitivity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7610af83b0d9ea6600001a_004",
+              "question": "Which Janus kinase does decernotinib target?"
+            }
+          ],
+          "context": "VX-509 (decernotinib) is a potent and selective janus kinase 3 inhibitor that attenuates inflammation in animal models of autoimmune disease"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e2b1bb750ff445500003e_001",
+              "question": "Which R/Bioconductor package has been developed for the analysis of psychiatric disease genes?"
+            }
+          ],
+          "context": "psygenet2r: a R/Bioconductor package for the analysis of psychiatric disease genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e2b1bb750ff445500003e_002",
+              "question": "Which R/Bioconductor package has been developed for the analysis of psychiatric disease genes?"
+            }
+          ],
+          "context": "Psychiatric disorders have a great impact on morbidity and mortality. Genotype-phenotype resources for psychiatric diseases are key to enable the translation of research findings to a better care of patients. PsyGeNET is a knowledge resource on psychiatric diseases and their genes, developed by text mining and curated by domain experts.Results: We present psygenet2r, an R package that contains a variety of functions for leveraging PsyGeNET database and facilitating its analysis and interpretation. The package offers different types of queries to the database along with variety of analysis and visualization tools, including the study of the anatomical structures in which the genes are expressed and gaining insight of gene's molecular function. Psygenet2r is especially suited for network medicine analysis of psychiatric disorders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a88370c61bb38fb24000014_001",
+              "question": "What is the function of the gene MDA5?"
+            }
+          ],
+          "context": "Sensing of viral RNA by the cytosolic receptors RIG-I and melanoma differentiation-associated gene 5 (MDA5) leads to innate antiviral response. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a88370c61bb38fb24000014_002",
+              "question": "What is the function of the gene MDA5?"
+            }
+          ],
+          "context": "The host innate immune response to RNA virus infection primarily involves pathogen-sensing toll-like receptors (TLRs) TLR3 and TLR7 and retinoic acid-inducible gene I-like receptor RIG-I and melanoma differentiation associated gene 5 (MDA5)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a88370c61bb38fb24000014_003",
+              "question": "What is the function of the gene MDA5?"
+            }
+          ],
+          "context": "RNA PRRs are comprised of TLR3, TLR7, TLR8, RIG-I, MDA5, NLRP3, NOD2, and some other minorities."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a88370c61bb38fb24000014_004",
+              "question": "What is the function of the gene MDA5?"
+            }
+          ],
+          "context": "Melanoma differentiation-associated gene 5 (MDA5) is a pattern recognition receptor that recognizes cytoplasmic viral double-stranded RNA (dsRNA) and initiates rapid innate antiviral responses. MDA5 forms a filament-like multimer along the dsRNA leading to oligomerization, which in turn activates the adaptor protein mitochondrial antiviral signaling protein (MAVS) to provide a signal platform for the induction of type I interferon (IFN) and proinflammatory cytokines. The conformational switch of MDA5 causes antiviral defense, but excessive activation of the MDA5-MAVS pathway may result in autoimmune diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a88370c61bb38fb24000014_005",
+              "question": "What is the function of the gene MDA5?"
+            }
+          ],
+          "context": "Retinoic acid-inducible gene-I (RIG-I)-like receptors (RLRs), including melanoma differentiation-associated gene 5 (MDA5) and RIG-I, are crucial for host recognition of non-self RNAs, especially viral RNA. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_001",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "a new member of the Prevotellaceae family that was isolated from stool samples from a 45-year-old patient."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_002",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "Using univariate non-parametric statistics, there were no differences regarding alpha or beta diversity between AH8.1 carriers (categories I and II) and non-carriers (categories III and IV), however four different taxa (Prevotellaceae, Clostridium XVIII, Coprococcus, Enterorhabdus) had nominally significant lower abundances in AH8.1 carriers than non-carriers."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_003",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "The increase in Bacteroidetes was found to be due to an increase in members of the families Bacteroidaceae or Prevotellaceae. "
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_004",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "Fecal communities clustered into previously described enterotypes distinguished primarily by levels of Bacteroides and Prevotella."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_005",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "Although the distinction of enterotypes as either discrete clusters or a continuum will require additional investigation, numerous studies have demonstrated the co-exclusion of the closely related Prevotellaceae and Bacteroides genera in the gut microbiota of healthy human subjects where Prevotella appears to be a discriminatory taxon for residence in more agrarian societies"
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_006",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "Lachnospiraceae, Ruminococcaceae, Bacteroidaceae, Prevotellaceae, and Rickenellaceae were the predominant families detected in the active microbiota"
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_007",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "Specifically, Firmicutes were dominant in normal-weight and obese individuals but significantly decreased in post-gastric-bypass individuals, who had a proportional increase of Gammaproteobacteria. Numbers of the H(2)-producing Prevotellaceae were highly enriched in the obese individuals."
+        },
+        {
+          "qas": [
+            {
+              "id": "58ee2515eda5a57672000016_008",
+              "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?"
+            }
+          ],
+          "context": "A comparative sequence analysis revealed that these two species are members of the family 'Prevotellaceae' but are phylogenetically distant (<88% sequence similarity) from the known genera belonging to this family, including Prevotella, Hallela and Xylanibacter."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a885daa61bb38fb24000018_001",
+              "question": "Which is the conserved motif of DEAD box proteins?"
+            }
+          ],
+          "context": "DEAD box proteins are putative RNA helicases that have been implicated in cellular processes involving alteration of RNA secondary structure, such as translation initiation and splicing. These proteins share eight conserved amino acid motifs, including Asp(D)-Glu-(E)-Ala(A)-Asp(D) which is part of a more extended motif. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_001",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "So far only one reversal agent has been approved by the Food and Drug Administration (FDA), idarucizumab for one of the DOACs i.e., dabigatran. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_002",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": " New oral anticoagulants such as apixaban, rivaroxaban, or dabigatran may be preferred to vitamin K antagonists in patients without cancer or renal failure, more so after the development of reversal agents such as idarucizumab and andexanet alfa."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_003",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "BACKGROUND AND OBJECTIVES: Idarucizumab is an antibody fragment that specifically reverses dabigatran-mediated anticoagulation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_004",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "Idarucizumab resulted in immediate, complete and sustained reversal of dabigatran anticoagulant activity, and was safe and well tolerated in middle-aged, elderly and renally impaired volunteers. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_005",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "Effect of Age and Renal Function on Idarucizumab Pharmacokinetics and Idarucizumab-Mediated Reversal of Dabigatran Anticoagulant Activity in a Randomized, Double-Blind, Crossover Phase Ib Study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_006",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "We also discuss reversal strategies, both specific and nonspecific, for each drug, including the preferential use of idarucizumab for the reversal of dabigatran and two agents, andexanet and ciraparantag, currently under development for the reversal of rivaroxaban, apixaban, and edoxaban."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_007",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "Idarucizumab is a targeted reversal agent that is approved for the urgent reversal of the anticoagulant effects of dabigatran. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7237672dc08e987e000008_008",
+              "question": "Which drug can be reversed with idarucizumab?"
+            }
+          ],
+          "context": "CONCLUSIONS: The initial data suggest a definite role for idarucizumab in treatment of bleeding associated with dabigatran."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_001",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": "Mutations in MED12 cause X-linked Ohdo syndrome"
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_002",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": "In the two families, MED12 missense mutations (c.3443G>A [p.Arg1148His] or c.3493T>C [p.Ser1165Pro]) segregating with the phenotype were identified. Upon subsequent analysis of an additional cohort of nine simplex male individuals with Ohdo syndrome, one additional de novo missense change (c.5185C>A [p.His1729Asn]) in MED12 was detected."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_003",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": "The occurrence of three different hemizygous missense mutations in three unrelated families affected by Ohdo syndrome MKB type shows that mutations in MED12 are the underlying cause of this X-linked form of Ohdo syndrome."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_004",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": "FG syndrome, Lujan syndrome, and Ohdo syndrome, the Maat-Kievit-Brunner type, have been described as distinct syndromes with overlapping non-specific features and different missense mutations of the MED12 gene have been reported in all of them."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_005",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": "Parallel sequencing of all X-chromosome exons identified a frameshift mutation (c.5898dupC) of MED12."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_006",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": "The severe degree of ID in male patients, as well as variable cognitive impairment in heterozygous females suggests that the duplication observed in the present family may have a more severe effect on MED12 function than missense mutations. In a cognitively impaired male from this family, who also presented with tall stature and dysmorphism and did not have the MED12 mutation, a 600-kb duplication at 17p13.3 including the YWHAE gene, was found in a mosaic state."
+        },
+        {
+          "qas": [
+            {
+              "id": "58f89eb270f9fc6f0f00001a_007",
+              "question": "What is the genetic basis of Ohdo syndrome?"
+            }
+          ],
+          "context": " To date, these conditions include Opitz-Kaveggia (FG) syndrome, Lujan syndrome, Ohdo syndrome (Maat-Kievit-Brunner type, or OSMKB), and one large family with profound X-linked intellectual disability due to a novel c.5898insC frameshift mutation that unlike the other three syndromes, resulted in affected female carriers and truncation of the MED12 protein. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e472ab750ff4455000048_001",
+              "question": "What is the function of the TMEM132 genes?"
+            }
+          ],
+          "context": "TMEM132: an ancient architecture of cohesin and immunoglobulin domains define a new family of neural adhesion molecules."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a6e472ab750ff4455000048_002",
+              "question": "What is the function of the TMEM132 genes?"
+            }
+          ],
+          "context": "Here we show the full domain architecture of human TMEM132 family proteins solved using in-depth sequence and structural analysis. We reveal them to be five previously unappreciated cell adhesion molecules whose domain architecture has an early holozoan origin prior to the emergence of choanoflagellates and metazoa. The extra-cellular portions of TMEM132 proteins contain five conserved domains including three tandem immunoglobulin domains, and a cohesin domain homologue, the first such domain found in animals. These findings strongly predict a cellular adhesion function for TMEM132 family, connecting the extracellular medium with the intracellular actin cytoskeleton."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d4721faa1ab7d2e000012_001",
+              "question": "What does davunetide do to microtubules?"
+            }
+          ],
+          "context": "Microtubule-stabilizing peptides and small molecules protecting axonal transport and brain function: focus on davunetide (NAP)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d4721faa1ab7d2e000012_002",
+              "question": "What does davunetide do to microtubules?"
+            }
+          ],
+          "context": "We have recently described the effects of NAP in neurodegenerative disorders, and we now review the beneficial effects of NAP and other microtubule-stabilizing agents on impairments in axonal transport"
+        },
+        {
+          "qas": [
+            {
+              "id": "590af75d70f9fc6f0f00001c_001",
+              "question": "Which algorithm is used by the UCSC Genome Browser?"
+            }
+          ],
+          "context": "The UCSC Genome Browser organizes data and annotations (called tracks) around the reference sequences or draft assemblies of many eukaryotic genomes and presents them using a powerful web-based graphical interface."
+        },
+        {
+          "qas": [
+            {
+              "id": "590af75d70f9fc6f0f00001c_002",
+              "question": "Which algorithm is used by the UCSC Genome Browser?"
+            }
+          ],
+          "context": "The database is optimized to support fast interactive performance with the web-based UCSC Genome Browser, a tool built on top of the database for rapid visualization and querying of the data at many levels. The annotations for a given genome are displayed in the browser as a series of tracks aligned with the genomic sequence. Sequence data and annotations may also be viewed in a text-based tabular format or downloaded as tab-delimited flat files."
+        },
+        {
+          "qas": [
+            {
+              "id": "590af75d70f9fc6f0f00001c_003",
+              "question": "Which algorithm is used by the UCSC Genome Browser?"
+            }
+          ],
+          "context": "The University of California Santa Cruz (UCSC) Genome Browser (genome.ucsc.edu) is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation \"tracks\". "
+        },
+        {
+          "qas": [
+            {
+              "id": "590af75d70f9fc6f0f00001c_004",
+              "question": "Which algorithm is used by the UCSC Genome Browser?"
+            }
+          ],
+          "context": " The database tables underlying the Genome Browser tracks can be viewed, downloaded, and manipulated using another Web-based application, the UCSC Table Browser."
+        },
+        {
+          "qas": [
+            {
+              "id": "590af75d70f9fc6f0f00001c_005",
+              "question": "Which algorithm is used by the UCSC Genome Browser?"
+            }
+          ],
+          "context": "The University of California Santa Cruz (UCSC) Genome Browser is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation \"tracks."
+        },
+        {
+          "qas": [
+            {
+              "id": "590af75d70f9fc6f0f00001c_006",
+              "question": "Which algorithm is used by the UCSC Genome Browser?"
+            }
+          ],
+          "context": "The Saved Session feature allows users to store and share customized views, enhancing the utility of the system for organizing multiple trains of thought. Binary Alignment/Map (BAM), Variant Call Format and the Personal Genome Single Nucleotide Polymorphisms (SNPs) data formats are useful for visualizing a large sequencing experiment (whole-genome or whole-exome), where the differences between the data set and the reference assembly may be displayed graphically. Support for high-throughput sequencing extends to compact, indexed data formats, such as BAM, bigBed and bigWig, allowing rapid visualization of large datasets from RNA-seq and ChIP-seq experiments via local hosting."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8941c5bc7bade53a000002_001",
+              "question": "Which aminoacid position in the human CREB protein is phosphorylated?"
+            }
+          ],
+          "context": " pCREB(Ser133) as a model system"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a8941c5bc7bade53a000002_002",
+              "question": "Which aminoacid position in the human CREB protein is phosphorylated?"
+            }
+          ],
+          "context": "CREB and its activated form pCREB-Ser(133) (pCREB) "
+        },
+        {
+          "qas": [
+            {
+              "id": "590c74d170f9fc6f0f00001e_001",
+              "question": "Which gene is the paralog of yeast UPC2?"
+            }
+          ],
+          "context": "Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation."
+        },
+        {
+          "qas": [
+            {
+              "id": "590c74d170f9fc6f0f00001e_002",
+              "question": "Which gene is the paralog of yeast UPC2?"
+            }
+          ],
+          "context": "The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d51dafaa1ab7d2e000017_001",
+              "question": "What is the administration route of IVIG in Alzheimer's disease patients?"
+            }
+          ],
+          "context": "ntravenous immunoglobulin (IVIG) treatment exerts antioxidant and neuropreservatory effects in preclinical models of Alzheimer's disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d51dafaa1ab7d2e000017_002",
+              "question": "What is the administration route of IVIG in Alzheimer's disease patients?"
+            }
+          ],
+          "context": "Intravenous immunoglobulin (IVIG) has shown limited promise so far in human clinical studies on Alzheimer's disease (AD), yet overwhelmingly positive preclinical work in animals and human brain cultures support the notion that the therapy remains potentially efficacious."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a89800efcd1d6a10c00000c_001",
+              "question": "Where is the enzyme PM20D1 localized?"
+            }
+          ],
+          "context": "we identify a secreted enzyme, peptidase M20 domain containing 1 (PM20D1), that is enriched in UCP1(+) versus UCP1(-) adipocytes"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a89800efcd1d6a10c00000c_002",
+              "question": "Where is the enzyme PM20D1 localized?"
+            }
+          ],
+          "context": " A secreted enzyme, PM20D1, enriched in UCP1+ adipocytes, exhibits catalytic and hydrolytic activity to reversibly form N-acyl amino acids."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5ce0faa1ab7d2e00001b_001",
+              "question": "How does increased GDF15 affect body weight?"
+            }
+          ],
+          "context": "In humans, elevated GDF15 correlates with weight loss, and the administration of GDF15 to mice with obesity reduces body weight, at least in part, by decreasing food intake. The mechanisms through which GDF15 reduces body weight remain poorly understood, because the cognate receptor for GDF15 is unknown. Here we show that recombinant GDF15 induces weight loss in mice fed a high-fat diet and in nonhuman primates with spontaneous obesity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d5ce0faa1ab7d2e00001b_002",
+              "question": "How does increased GDF15 affect body weight?"
+            }
+          ],
+          "context": "Gfral is expressed in neurons of the area postrema and nucleus of the solitary tract in mice and humans, and genetic deletion of the receptor abrogates the ability of GDF15 to decrease food intake and body weight in mice. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7617b183b0d9ea66000022_001",
+              "question": "What is inhibited by a drug rilotumumab?"
+            }
+          ],
+          "context": "The hepatocyte growth factor receptor (MET) was targeted in untreated patients in a phase III trial with MoAb rilotumumab, with or without CT, but the study was stopped because of mortality excess in the rilotumumab arm. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7617b183b0d9ea66000022_002",
+              "question": "What is inhibited by a drug rilotumumab?"
+            }
+          ],
+          "context": "AIMS: Rilotumumab is a fully human monoclonal antibody investigated for the treatment of MET-positive gastric cancer. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7617b183b0d9ea66000022_003",
+              "question": "What is inhibited by a drug rilotumumab?"
+            }
+          ],
+          "context": "The hepatocyte growth factor (HGF) binding antibody rilotumumab (AMG102) was modified for use as a89Zr-based immuno-PET imaging agent to noninvasively determine the local levels of HGF protein in tumors. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7617b183b0d9ea66000022_004",
+              "question": "What is inhibited by a drug rilotumumab?"
+            }
+          ],
+          "context": "Furthermore, negative study data have been published for rilotumumab and ficlatuzumab, both of which block hepatocyte growth factor binding to the mesenchymal-epithelial transition (MET) receptor. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7617b183b0d9ea66000022_005",
+              "question": "What is inhibited by a drug rilotumumab?"
+            }
+          ],
+          "context": "In this phase 1/2 trial, rilotumumab (an anti-HGF antibody) combined with erlotinib was evaluated in patients with metastatic, previously treated non-small cell lung cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7617b183b0d9ea66000022_006",
+              "question": "What is inhibited by a drug rilotumumab?"
+            }
+          ],
+          "context": "BACKGROUND: Rilotumumab is a fully human monoclonal antibody that selectively targets the ligand of the MET receptor, hepatocyte growth factor (HGF). "
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_001",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "The PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1."
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_002",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "Using a panel of different PML isoforms, we demonstrate specific co-localization between the E6 proteins and PML isoforms I-IV, but not with PML isoforms V and VI. "
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_003",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "PML isoforms I and II participate in PML-dependent restriction of HSV-1 replication."
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_004",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": " We report that individual expression of PML isoforms I and II partially reverses the increase in ICP0-null mutant HSV-1 plaque formation that occurs in PML-depleted cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_005",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "PML, the organizer of nuclear bodies (NBs), is expressed in several isoforms designated PMLI to VII which differ in their C-terminal region due to alternative splicing of a single gene."
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_006",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "Using a bioluminescence resonance energy transfer (BRET) assay in living cells, we found that As\u2082O\u2083 enhanced the SUMOylation and interaction with RNF4 of nuclear PML isoforms (I to VI)"
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_007",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "PML is the structural component of PML nuclear bodies and has several nuclear splice isoforms that share a common N-terminal region but differ in their C termini."
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_008",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "Several PML isoforms are generated from a single PML gene by alternative splicing. "
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_009",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": "Six major PML isoforms are expressed as a result of alternative splicing, each of which encodes a unique C-terminal region."
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe5c270f9fc6f0f000021_010",
+              "question": "How many PML isoforms exist in the human genome?"
+            }
+          ],
+          "context": " However, the biochemical consequences and oncogenic alterations of PML-associated E1B-55K by SUMO-dependent PML-IV and PML-V interaction have so far remained elusive"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d6287faa1ab7d2e00001c_001",
+              "question": "Which receptor does GDF15 bind?"
+            }
+          ],
+          "context": "GFRAL is the receptor for GDF15 and is required for the anti-obesity effects of the ligand."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a7d6287faa1ab7d2e00001c_002",
+              "question": "Which receptor does GDF15 bind?"
+            }
+          ],
+          "context": "Here we show that GDF15 binds specifically to GDNF family receptor \u03b1-like (GFRAL) with high affinity, and that GFRAL requires association with the coreceptor RET to elicit intracellular signaling in response to GDF15 stimulation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe7f970f9fc6f0f000022_001",
+              "question": "How many of the human PML isoforms are cytosolic?"
+            }
+          ],
+          "context": "Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not"
+        },
+        {
+          "qas": [
+            {
+              "id": "593fe7f970f9fc6f0f000022_002",
+              "question": "How many of the human PML isoforms are cytosolic?"
+            }
+          ],
+          "context": "The PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1. "
+        },
+        {
+          "qas": [
+            {
+              "id": "593ff22b70f9fc6f0f000023_001",
+              "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?"
+            }
+          ],
+          "context": " We describe here the genomic organization of the mouse Grg gene. It spans approximately 7 kb on chromosome 10 and consists of seven exons."
+        },
+        {
+          "qas": [
+            {
+              "id": "593ff22b70f9fc6f0f000023_002",
+              "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?"
+            }
+          ],
+          "context": "The Grg gene encodes a 197 amino acid protein homologous to the amino-terminal domain of the product of the groucho gene of the Drosophila Enhancer of split complex"
+        },
+        {
+          "qas": [
+            {
+              "id": "593ff22b70f9fc6f0f000023_003",
+              "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?"
+            }
+          ],
+          "context": "The mouse Grg gene encodes a 197 amino acid nuclear protein homologous to the amino-terminal domain of the product of the groucho (gro) gene of the Drosophila Enhancer of split complex. "
+        },
+        {
+          "qas": [
+            {
+              "id": "593ff22b70f9fc6f0f000023_004",
+              "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?"
+            }
+          ],
+          "context": "The groucho-related genes (Grg) of the mouse comprise at least four family members."
+        },
+        {
+          "qas": [
+            {
+              "id": "593ff22b70f9fc6f0f000023_005",
+              "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?"
+            }
+          ],
+          "context": "The murine grg (Groucho-related gene) products are believed to interact with transcription factors and repress transcription, thereby regulating cell proliferation and differentiation."
+        },
+        {
+          "qas": [
+            {
+              "id": "593ff22b70f9fc6f0f000023_006",
+              "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?"
+            }
+          ],
+          "context": "We have isolated cDNAs representing multiple members of murine groucho homologues, designated Grg for groucho-related genes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_001",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "Our methods are broadly applicable for polymorphism discovery in moderate to large genomes even at highly diverged loci, and we established by subsampling the Illumina SBS coverage depth required to inform a broad range of functional and evolutionary studies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_002",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "Interestingly, after subsampling to the same coverage for GSNAP and TopHat, we find that both mappers have similar performance, implying that the advantage of TopHat is mainly an artifact of the lower coverage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_003",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": " By subsampling sequence reads, we found that when using four-fold biological replication, 6 million reads per condition achieved 96% power to detect a two-fold change (or more) at a 5% false discovery rate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_004",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "We introduce the subSeq R package, which uses a novel efficient approach to perform this subsampling and to calculate informative metrics at each depth"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_005",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "subSeq: determining appropriate sequencing depth through efficient read subsampling."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_006",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "We introduce an R package called samExploreR that allows the subsampling (m out of n bootstraping) of short-reads based on SAM files facilitating the investigation of sequencing depth related questions for the experimental design."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_007",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "We applied subsampling to ascertain the effect of training sample size and the number of RNA sequencing reads on classification accuracy of molecular subtype and routine biomarker prediction models (unsupervised and supervised)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_008",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "samExploreR: exploring reproducibility and robustness of RNA-seq results based on SAM files."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_009",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "By randomly sampling lower depths from a sequencing experiment and determining where the saturation of power and accuracy occurs, one can determine what the most useful depth should be for future experiments, and furthermore, confirm whether an existing experiment had sufficient depth to justify its conclusions"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a39453d966455904c000006_010",
+              "question": "Which method for subsampling of NGS reads requires only gene counts?"
+            }
+          ],
+          "context": "One complication is that the power and accuracy of such experiments depend substantially on the number of reads sequenced, so it is important and challenging to determine the optimal read depth for an experiment or to verify whether one has adequate depth in an existing experiment"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3e8683966455904c000007_001",
+              "question": "Which test is used to diagnose colour synesthesia?"
+            }
+          ],
+          "context": "To remedy this deficit we have devised the Synesthesia Battery. This unified collection of tests is freely accessible online (http://www.synesthete.org). It consists of a questionnaire and several online software programs, and test results are immediately available for use by synesthetes and invited researchers. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3e8683966455904c000007_002",
+              "question": "Which test is used to diagnose colour synesthesia?"
+            }
+          ],
+          "context": "A standardized test battery for the study of synesthesia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3e8683966455904c000007_003",
+              "question": "Which test is used to diagnose colour synesthesia?"
+            }
+          ],
+          "context": "The application and results of consistency, psychophysical, and Stroop tests are presented later."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3e8683966455904c000007_004",
+              "question": "Which test is used to diagnose colour synesthesia?"
+            }
+          ],
+          "context": "This study aims to find the most reliable way of diagnosing grapheme-colour synaesthesia based on maximising sensitivity (i.e., ability of a test to identify true synaesthetes) and specificity (i.e., ability of a test to identify true non-synaesthetes)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3e8683966455904c000007_005",
+              "question": "Which test is used to diagnose colour synesthesia?"
+            }
+          ],
+          "context": "Assessment of the hemispheric lateralization of grapheme-color synesthesia with Stroop-type tests"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a3e8683966455904c000007_006",
+              "question": "Which test is used to diagnose colour synesthesia?"
+            }
+          ],
+          "context": "We used synesthetic versions of the Stroop test with colored letters and numbers presented either in the right or the left visual field of thirty-four synesthetes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_001",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Using Nucleosome Occupancy Methylome- Sequencing, NOMe-Seq, a single-molecule, high-resolution nucleosome positioning assay, we demonstrate that active, but not inactive, non-CpG island promoters display a nucleosome-depleted region (NDR) immediately upstream of the transcription start site (TSS)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_002",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": " Using Nucleosome Occupancy Methylome- Sequencing, NOMe-Seq, a single-molecule, high-resolution nucleosome positioning assay, we demonstrate that active, but not inactive, non-CpG island promoters display a nucleosome-depleted region (NDR) immediately upstream of the transcription start site (TSS)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_003",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "According to our genome-wide expression and DNA methylation profiles, we find that the complete re-activation of silenced genes requires the insertion of the histone variant H2A.Z, which facilitates the acquisition of regions fully depleted of nucleosome as demonstrated by NOMe-seq (Nucleosome Occupancy Methylome-sequencing) assay."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_004",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "We have developed a method (NOMe-seq) that uses a GpC methyltransferase (M.CviPI) and next generation sequencing to generate a high resolution footprint of nucleosome positioning genome-wide using less than 1 million cells while retaining endogenous DNA methylation information from the same DNA strand."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_005",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Genome-wide mapping of nucleosome positioning and DNA methylation within individual DNA molecules."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_006",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Importantly, NOMe-seq obtains DNA methylation and nucleosome positioning information from the same DNA molecule, giving the first genome-wide DNA methylation and nucleosome positioning correlation at the single molecule, and thus, single cell level, that can be used to monitor disease progression and response to therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_007",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Here, we evaluate the scope of global epigenetic alterations at enhancers and insulator elements in prostate and breast cancer cells using simultaneous genome-wide mapping of DNA methylation and nucleosome occupancy (NOMe-seq). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_008",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Nucleosome Occupancy and Methylome sequencing (NOMe-seq) was used to determine the allele-specific positioning of nucleosomes around heterozygous splice site mutations in lymphoblastoid cells lines (LCLs) derived from six Lynch syndrome patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_009",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "To address this we used Nucleosome Occupancy and Methylation sequencing (NOMe-seq) to compare the genome-wide DNA methylation and nucleosome occupancy profiles between normal and cancer cell line models of the breast and prostate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_010",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Here we describe the bioinformatic pipeline and methods that we developed for the processing and analysis of the NOMe-seq data published by (Taberlay et al., 2014 [1]) and deposited in the Gene Expression Omnibus with accession GSE57498."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_011",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "The NOMe-seq accessibility assay unexpectedly revealed symmetrical and transcription-independent nucleosomal phasing across active, poised, and inactive genomic elements."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_012",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "TEPIC can be applied to various open-chromatin data, e.g. DNaseI-seq and NOMe-seq."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a43a139966455904c000008_013",
+              "question": "What is measured through the NOMe-Seq methodology?"
+            }
+          ],
+          "context": "Finally, these scores correctly predict known transcriptional regulators as illustrated by the application to novel DNaseI-seq and NOMe-seq data for primary human hepatocytes and CD4+ T-cells, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_001",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": "In contrast, Pol II is fully protected through association with the cleavage stimulatory factor TFIIS, which enables rapid recovery from any depth by RNA cleavage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_002",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": "This mechanism is also used by transcription factor IIS, a factor that can bind Pol II and induce strong RNA cleavage. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_003",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": " This mutant enzyme can respond to SII for transcriptional read-through and carry out SII-activated nascent RNA cleavage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_004",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": " In vitro, in the absence of TFIIS, the purified wt polymerase and the two mutant polymerases showed similar specific activity in polymerization, readthrough at intrinsic transcriptional arrest sites and nascent RNA cleavage. In contrast to the wt polymerase, both mutant polymerases were not stimulated by the addition of a 3-fold molar excess of TFIIS in assays of promoter-independent transcription, readthrough or cleavage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_005",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": "In vitro characterization of mutant yeast RNA polymerase II with reduced binding for elongation factor TFIIS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_006",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": "The transcription factor TFIIS zinc ribbon dipeptide Asp-Glu is critical for stimulation of elongation and RNA cleavage by RNA polymerase II."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_007",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": "The eukaryotic transcription factor TFIIS enhances elongation and nascent transcript cleavage activities of RNA polymerase II in a stalled elongation complex."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4df811966455904c00000e_008",
+              "question": "Which RNA polymerase II subunit carries RNA cleavage activity?"
+            }
+          ],
+          "context": "By site-directed mutagenesis, we have demonstrated that invariant residues Asp-261 and Glu-262 of the nucleic acid-binding TFIIS Zn ribbon are critical for stimulation of both elongation and RNA cleavage activities of RNA polymerase II. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_001",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Yeast DNA topoisomerase II is encoded by a single-copy, essential gene."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_002",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Disruption of one copy of the gene in a diploid yeast creates a recessive lethal mutation, indicating that the single DNA topoisomerase II gene of yeast has an essential function."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_003",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "The type II topoisomerase may have an essential role in the compaction and/or segregation of chromosomes during the nuclear division but also complement the defect of the type I enzyme whose major function is the maintenance of chromatin organization throughout the cell cycle."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_004",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Since DNA topoisomerase II (EC 5.99.1.3) is an essential enzyme in yeast, heterologous topoisomerase II gene expression in yeast cells can provide a system for analyzing the structure and function of topoisomerase II genes from other species."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_005",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Eukaryotic DNA topoisomerase II is an abundant nuclear enzyme that is essential for cell proliferation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_006",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Topoisomerase II is a ubiquitous enzyme that removes knots and tangles from the genetic material by generating transient double-strand DNA breaks. While the enzyme cannot perform its essential cellular functions without cleaving DNA, this scission activity is inherently dangerous to chromosomal integrity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_007",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Topoisomerase II (Topo II) performs topological modifications on double-stranded DNA molecules that are essential for chromosome condensation, resolution, and segregation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_008",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Type II topoisomerases are essential for resolving topologically entwined double-stranded DNA. A"
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_009",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "DNA topoisomerases are specialized nuclear enzymes that perform topological modifications on double-stranded DNA (dsDNA) and hence are essential for DNA metabolism such as replication, transcription, recombination, condensation and segregation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5a4e50b242878bf97d000001_010",
+              "question": "Which topoisomerase is essential in yeast?"
+            }
+          ],
+          "context": "Eukaryotic topoisomerase II (topo II) is the essential decatenase of newly replicated chromosomes and the main relaxase of nucleosomal DNA. "
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}
